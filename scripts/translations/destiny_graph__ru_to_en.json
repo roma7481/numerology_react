@@ -1,0 +1,36 @@
+{
+  "table": "destiny_graph",
+  "source_locale": "ru",
+  "target_locale": "en",
+  "source_language": "Russian",
+  "target_language": "English",
+  "key_columns": [
+    "state"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "state": "Линия Судьбы выше линии Воли.",
+      "description": "This indicates a period when external circumstances are most powerful, and the lessons of fate become stricter. During such times, everything in your life will be as prescribed by destiny, so it is not advisable to show great initiative or make forceful actions. Do not try to \"break down a closed door,\" but rather \"go with the flow.\""
+    },
+    {
+      "locale": "en",
+      "state": "Линия Судьбы ниже линии Воли.",
+      "description": "During this period, active actions are necessary; you should not postpone your own projects until tomorrow, but strive forward, making great efforts to achieve your goals. Freedom of choice comes to the forefront, and the influence of external circumstances becomes insignificant. One should not rely on fate during this period; you must build your own life. You can confidently take the initiative into your own hands; now everything will depend solely on you."
+    },
+    {
+      "locale": "en",
+      "state": "Точки пересечения линий Судьбы и Воли.",
+      "description": "These are very responsible and quite unfavorable periods for any innovations. During such intervals, it is not advisable to make any responsible or drastic steps—such as moving to a new apartment, changing jobs, organizing a wedding, etc."
+    },
+    {
+      "locale": "en",
+      "state": "Линии Судьбы и Воли идут вместе – «Путь Монаха».",
+      "description": "In this case, a person fully submits to the Higher Powers. However, this does not mean that the person cannot do anything — they intuitively understand that they should not go against fate. One should not think that such a person is primitive; on the contrary, it is precisely they who can realize truly grand plans. A characteristic example of this is the life of M.V. Lomonosov (date of birth — November 19, 1711)."
+    }
+  ],
+  "translated": true
+}

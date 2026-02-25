@@ -1,0 +1,66 @@
+{
+  "table": "life_graph",
+  "source_locale": "en",
+  "target_locale": "fr",
+  "source_language": "English",
+  "target_language": "French",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "fr",
+      "number": 0,
+      "description": "Un petit approvisionnement en énergie vitale, une personne a besoin de l'aide des autres, elle cherche donc une nouvelle énergie. La crise dans la vie humaine, des ennuis ou des maladies graves. Parfois, une personne est au bord de la mort. Le milieu du graphique - peut signifier une mort subite, la fin du graphique - une longue maladie."
+    },
+    {
+      "locale": "fr",
+      "number": 1,
+      "description": "Une personne contrôle indépendamment son destin et n'attend pas l'aide des autres. L'énergie vitale est très faible, donc les gens se fatiguent rapidement. Si le calendrier est précoce - cela signifie la naissance dans des conditions défavorables et des familles dysfonctionnelles. Selon le graphique, la courbe est située au milieu et à la fin - pauvreté, perte d'intérêt pour la vie, maladie et dépression."
+    },
+    {
+      "locale": "fr",
+      "number": 2,
+      "description": "Incertitude et vue pessimiste de l'avenir. Perte d'énergie à travers une mauvaise période de la vie. La barre grise dans la vie."
+    },
+    {
+      "locale": "fr",
+      "number": 3,
+      "description": "Relations mutuelles et échange d'énergie avec d'autres personnes, mais cela s'acquiert par un travail acharné. La position financière n'augmente pas et il n'y a pas de carrière."
+    },
+    {
+      "locale": "fr",
+      "number": 4,
+      "description": "Bonne santé et humeur positive. Manifestation de talent, grande capacité de travail mais il n'y a pas d'opportunité de devenir un leader. La vie est intéressante sans tracas."
+    },
+    {
+      "locale": "fr",
+      "number": 5,
+      "description": "Changement fréquent de lieu, voyages et rencontres de nouvelles personnes. Il y a un désir de partager l'amour et d'être sous les projecteurs, mais dans la famille, des malentendus peuvent survenir avec votre être cher."
+    },
+    {
+      "locale": "fr",
+      "number": 6,
+      "description": "Bon travail, nouvelles rencontres avec des personnes et démonstration de talent. Énergie vitale élevée et de nombreux projets pour l'avenir."
+    },
+    {
+      "locale": "fr",
+      "number": 7,
+      "description": "Bonnes et stables relations dans la famille et respect des collègues. Grands projets pour l'avenir et capacité à réaliser ses idées. L'homme est capable de compromis et de défendre ses opinions. Manifestation des capacités ésotériques."
+    },
+    {
+      "locale": "fr",
+      "number": 8,
+      "description": "La personne est capable de diriger un collectif robotique, d'influencer les autres et de résoudre des problèmes complexes. Une personne avec un grand potentiel d'énergie, il y a un échange énergétique avec les autres et la capacité de fournir plusieurs étapes en avant. Grande capacité ésotérique. L'homme atteint de hauts résultats dans sa carrière, réussit en affaires et a une bonne position financière."
+    },
+    {
+      "locale": "fr",
+      "number": 9,
+      "description": "Solitude avec une grande énergie spirituelle. Plus d'attention est accordée aux biens spirituels qu'aux choses matérielles. Une personne n'est pas intéressée par les nouvelles technologies mais par un bon enseignant et un psychologue. Capable de diriger les gens vers la bonne direction vitale. Un niveau élevé de connaissance spirituelle et de respect pour les gens."
+    }
+  ],
+  "translated": true
+}

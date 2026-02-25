@@ -1,0 +1,71 @@
+{
+  "table": "character_number",
+  "source_locale": "ru",
+  "target_locale": "it",
+  "source_language": "Russian",
+  "target_language": "Italian",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "it",
+      "number": 1,
+      "description": "Le persone-uno sono individui determinati e forti, che si sforzano attivamente di raggiungere i propri obiettivi; guardano al futuro con ottimismo, sono abbastanza testardi e presuntuosi, molto ambiziosi e spesso aggressivi, e la loro aggressività è sempre legata al fatto che credono che qualcuno stia cercando di \"insegnare loro a vivere\" o si metta sulla loro strada. Con tutte le loro forze difenderanno la loro indipendenza e la loro ragione. Hanno una memoria eccellente, sono eccezionalmente organizzati, possono svolgere più compiti contemporaneamente - poiché possiedono un'eccezionale concentrazione. Nella vita si sforzano verso tutto ciò che è nuovo e inesplorato, spesso guidano gli altri - grazie alle loro spiccate qualità di leader - ma non ascoltano mai l'opinione altrui. È difficile lavorare con loro in gruppo: sono individualisti e, se raggiungono il potere, preferiscono uno stile di leadership autoritario."
+    },
+    {
+      "locale": "it",
+      "number": 2,
+      "description": "Le persone-due sono abituate a destreggiarsi tra gli interessi altrui, sono molto gentili e tattili, temono di offendere gli altri, sono sempre orientate al compromesso e preferiscono creare attorno a sé un'atmosfera di pace e armonia. Non usano mai i loro vantaggi se possono offendere un amico o un partner, preferiscono collaborare piuttosto che combattere, non cercano mai di diventare leader e trovano molto più facile obbedire piuttosto che prendere decisioni. Sono impiegati diligenti, ordinati e modesti. Le persone-due possono essere timide, riservate, indecise, e tendono a fuggire dalle responsabilità. Spesso non hanno un'opinione propria e pensieri personali, riflettono e pianificano tutto con attenzione. E - sfortunatamente - spesso soffrono di depressione. Da qui la loro riservatezza e malinconia, l'incapacità di ridere."
+    },
+    {
+      "locale": "it",
+      "number": 3,
+      "description": "Le persone-tre hanno un carattere allegro, guardano tutto con umorismo, sono fortunate nella vita, talentuose e hanno una notevole energia versatile, perciò amano condurre uno stile di vita attivo, si separano facilmente dai soldi, sono generose e benevole. Le persone-tre sono nature creative, possiedono una ricca immaginazione, sono molto dotate di natura. Le maggiori possibilità di queste persone si trovano nel campo dell'arte, poiché hanno un dono letterario o artistico, e ciò che è fondamentale per loro è esprimere le proprie emozioni con parole, colori o suoni. Sono eloquenti, sanno comunicare, nel cerchio degli amici possono essere leader, ma come difetto hanno tratti come l'orgoglio eccessivo, l'autocompiacimento, l'egoismo e l'indipendenza, l'ambizione, la volontà di potere, \"a volte la presunzione e la rudezza non velata. Inoltre, spesso sprecano inutilmente le loro energie in molte attività superflue, ma non prendono mai nulla sul serio. Questa spensieratezza spesso impedisce loro di diventare ciò per cui sono nati: geni."
+    },
+    {
+      "locale": "it",
+      "number": 4,
+      "description": "Le persone-quattro sono i cavalli da tiro della storia; poiché il numero 4 mostra volontà, resistenza e perseveranza nel raggiungere gli obiettivi, queste persone ottengono successo attraverso il duro lavoro, ma, nonostante le difficoltà, continuano a perseguire i loro scopi. Sono razionali, non dotati di una ricca immaginazione, ma pratici e laboriosi. E sebbene non abbiano slanci creativi, sanno guidare persone creative, raggruppandole a loro piacimento e utilizzando il loro talento; come amministratori, sono persone nel loro elemento. Sono dotati di un alto senso del dovere, amano la giustizia, apprezzano il lato materiale della vita - mangiare bene, riposarsi, e aspirano sempre alla stabilità e all'abbondanza. Allo stesso tempo, mancano di ampiezza di pensiero, spesso provano stress, possono essere ansiosi, nervosi, cadere nella noia e nella malinconia. Nella vita non sono troppo fortunati, anche se lavorano molto, spesso sfortunati eventi e insuccessi si abbattono su di loro. Ma affrontano coraggiosamente gli ostacoli; in questo senso, la loro pazienza non ha mai limiti."
+    },
+    {
+      "locale": "it",
+      "number": 5,
+      "description": "Le persone-cinque sono attive, inquieti, irrequieti, intelligenti e impazienti. Amano viaggiare, vedere molto, sentire molto, interagire con molte persone; per sentirsi completamente a proprio agio, hanno bisogno di cambiare il loro mondo abituale, altrimenti si sentono tristi e stanchi, provando noia e malessere fisico. Sono abbastanza ambiziosi, impulsivi, molto sensuali. Pertanto, le cinque di entrambi i sessi faticano a mantenere la fedeltà in famiglia e si trovano spesso in situazioni di incomprensione e scandali. A causa della loro irrequietezza e incapacità di concentrarsi, spesso iniziano progetti e li abbandonano subito; di solito ricevono un'istruzione in modo approssimativo: non amano lavorare, vogliono imparare tutto subito, ma così non funziona.\n\nGli uomini giocano molto spesso d'azzardo, fanno scommesse, speculano, adorano il rischio e le avventure; le donne sono più caute, ma se il loro interesse è stimolato, dimenticano ogni cautela. Questa caratteristica spesso li porta nei guai. Non possono nemmeno lavorare costantemente nello stesso posto, quindi cambiano spesso lavoro. Non sono in grado di occuparsi di compiti routinari. Spesso queste persone truffano, mentono, conducono una vita dissoluta, e allo stesso tempo sono allegre, piacevoli nella comunicazione, spensierate, a meno che non inizino a compiangersi, il che accade anche a loro."
+    },
+    {
+      "locale": "it",
+      "number": 6,
+      "description": "Le persone-sei sono meravigliosamente equilibrate, benevole, affidabili, sanno sempre creare un'atmosfera accogliente intorno a sé, amano la casa e i propri cari, hanno molti amici. Sono persone straordinarie sotto tutti gli aspetti - fedeli, oneste, coscienziose, romantiche, dolci. Amano l'armonia e la tranquillità e cercano di spegnere immediatamente tutte le liti e i conflitti; condividono generosamente il loro calore e, se necessario, anche il denaro. Ma in un certo senso sono molto conservatori e non accettano la libertà di persone più aperte, soffrono per la mancanza di tatto altrui, preferiscono allontanarsi dai problemi piuttosto che affrontarli, finché non diventa impossibile ignorarli. Sono persone laboriose, ma non cercano di raggiungere le stelle; non hanno nemmeno un'inclinazione per gli affari, ma sono capaci di trovare errori in coloro che creano il mondo per ispirazione, e non secondo le regole. Se raggiungono una posizione elevata, il loro carattere può deteriorarsi: possono diventare non solo adorabili e discreti, ma anche vanitosi, arroganti, compiaciuti, invadenti e meschini."
+    },
+    {
+      "locale": "it",
+      "number": 7,
+      "description": "Le persone sette sono spesso introverse, amano la solitudine, sono occupate con i propri pensieri, contemplative, faticano a entrare in contatto, ma grazie alla loro concentrazione interiore sono capaci di un'analisi profonda, molto perspicaci, sanno decifrare i misteri, prestano attenzione ai minimi dettagli che sfuggono agli altri. Spesso sotto il segno del sette nascono poeti, filosofi, scienziati, mistici, e anche se non possiedono tali talenti, comunque tutte queste persone hanno intuizione e immaginazione sviluppata. Nella comunicazione sono freddi, cercano di mantenere la loro armonia interiore e non amano far entrare qualcuno nei misteri della propria anima, ma sono sempre impegnati nella ricerca di una verità nota. Spesso queste persone tendono alla sognante, creando fantasie strane e intricate.\n\nNon possiedono eloquenza, quindi trovano difficile esprimere adeguatamente le proprie sensazioni e pensieri, preferiscono mettere per iscritto le loro idee, non partecipano a dispute, evitano le controversie. Tra i difetti si può notare una maggiore propensione a pensieri cupi e depressione, delusione nella vita, tendenze al suicidio o all'isolamento, sarcasmo cupo, misantropia. Tuttavia, al minimo successo, quando ricevono riconoscimenti, le persone sette fioriscono: hanno bisogno di lodi affinché la vita sembri meravigliosa."
+    },
+    {
+      "locale": "it",
+      "number": 8,
+      "description": "Le persone otto sono energiche, capaci, dotate del dono di concentrare le forze in un unico punto per raggiungere un obiettivo, aspirano al successo, possedendo al contempo una mente pratica, calcolatrice e acuta. Tutti i loro pensieri sono occupati dal mondo materiale, e bastano piccoli sforzi affinché trovino il giusto modo di investire il capitale. Nella vita sono persone molto \"impegnate\", i cui pensieri ruotano attorno ai flussi di denaro o al destino delle loro aziende, spesso diventano imprenditori, e questo è un dato di fatto. Nella vita considerano le principali qualità la capacità di combattere, di districarsi da situazioni difficili, di trovare scappatoie e nel contempo avere successo. Il principale indicatore della solidità di una persona per loro è la posizione nella società. Loro stessi sono cauti e prudenti, non compiono azioni rischiose, non agiscono mai senza riflettere.\n\nSe permettono che si sviluppino qualità negative, diventano le persone più sgradevoli - spietate, aggressive, testarde, crudeli, amano solo se stesse, non sono selettive nei mezzi, despoti, disprezzano chi non ha denaro. Esternamente possono apparire cupi e introversi, ma nessuno sa quali passioni ribollono in queste anime, quale avidità li divora dall'interno. Raramente danno sfogo all'irritazione accumulata in atti strani e selvaggi. Non si lasciano addestrare o lo fanno, ma con enorme difficoltà."
+    },
+    {
+      "locale": "it",
+      "number": 9,
+      "description": "Le persone nove sono idealiste, sognatrici, tendono a generalizzare, spesso si distaccano dalla realtà, sono molto romantiche, impulsive, persino appassionate, dotate di fascino e tenerezza, amano profondamente. Rispettano e si prendono cura delle persone a loro vicine, ma desiderano servire il bene dell'intera umanità. In questo senso sono completamente altruisti e molto generosi. Le persone spesso non li comprendono e iniziano ad apprezzarli quando non ci sono più.\n\nSono buoni scienziati, insegnanti e artisti, dotati di forza di volontà, coraggio, capaci di slanci ispiratori, spesso ispirano tutti coloro che hanno perso lo spirito. Nella vita sono poco pratici, non pensano a se stessi, molto onesti e perciò dicono cose scomode direttamente in faccia, ma allo stesso tempo sono dipendenti da varie convenzioni. Spesso si lasciano influenzare facilmente da una persona che sembra loro piacevole, si affezionano rapidamente e si raffreddano altrettanto rapidamente verso l'oggetto della loro passione, cercano di rimanere ai margini. Temono molto la povertà, la vecchiaia e la miseria. Spesso contraddicono se stessi, possono essere sterili, bruschi, altezzosi e mistici."
+    },
+    {
+      "locale": "it",
+      "number": 11,
+      "description": "Le persone undici sono considerate strane perché non assomigliano ad altre persone; vengono nel mondo per portare qualcosa di nuovo, per compiere una certa rivoluzione. Hanno un'alta intuizione, possiedono un'energia invidiabile e sembrano ricevere indicazioni da forze superiori.\n\nTra di loro ci sono sia geni che persone completamente pazze. Spesso diventano predicatori, veggenti. Hanno il dono della persuasione, sono audaci, determinati e sicuri della loro correttezza. La vita con loro è molto difficile, perché per adempiere alla loro missione sono pronti a sacrificare tutto ciò che amano. Pertanto, spesso vivono in solitudine."
+    },
+    {
+      "locale": "it",
+      "number": 22,
+      "description": "Le persone ventidue sono dotate di tutte le migliori qualità che si possano immaginare.\n\nSono energiche e inclini alla leadership, equilibrate e sensibili, dotate di un dono creativo, molto flessibili, armoniose, capaci di alta concentrazione mentale, possiedono qualità imprenditoriali, un alto potenziale spirituale e, come si suol dire, carisma.\n\nPerciò, queste persone spesso diventano leader di movimenti popolari o grandi scienziati, medici, filosofi, imprenditori, maghi."
+    }
+  ],
+  "translated": true
+}

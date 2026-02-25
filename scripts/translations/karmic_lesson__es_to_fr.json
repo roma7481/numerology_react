@@ -1,0 +1,61 @@
+{
+  "table": "karmic_lesson",
+  "source_locale": "es",
+  "target_locale": "fr",
+  "source_language": "Spanish",
+  "target_language": "French",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "fr",
+      "number": 1,
+      "description": "Peu de uns ou aucun, révèle un manque de confiance en soi. Un karmique un doit apprendre à prendre des décisions et à initier de nouvelles choses."
+    },
+    {
+      "locale": "fr",
+      "number": 2,
+      "description": "Peu de deux ou aucun, révèle de la timidité et un gaspillage inutile d'argent. Un karmique deux doit apprendre à travailler en groupe, à prêter attention aux détails, à économiser de l'énergie sous forme d'argent et à être patient."
+    },
+    {
+      "locale": "fr",
+      "number": 3,
+      "description": "Peu de trois ou aucun, révèle un manque de confiance en soi et une tentative de se cacher en public. Un karmique trois doit apprendre à se contrôler et à ne pas être explosif, il doit apprendre à être plus créatif et à ne pas disperser son talent ; à avoir confiance en soi et à améliorer sa qualité d'expression devant le public."
+    },
+    {
+      "locale": "fr",
+      "number": 4,
+      "description": "Peu de quatres ou aucun, révèle un manque d'attention aux détails et à l'ordre. Un quatre karmique doit poser de bonnes fondations sans fermer les yeux sur le travail, sans l'éviter, en se concentrant patiemment sur ce qu'il fait, sans accepter de limitations."
+    },
+    {
+      "locale": "fr",
+      "number": 5,
+      "description": "Peu de cinq ou aucun, révèle une peur du changement et de l'inconnu. Un cinq karmique est rarement absent. On lui demande simplement d'affronter le changement et l'inconnu."
+    },
+    {
+      "locale": "fr",
+      "number": 6,
+      "description": "Peu de six ou aucun, révèle un manque de responsabilité. Un six karmique doit apprendre beaucoup sur le sexe opposé. Il doit apprendre à être un bon père ou une bonne mère, en donnant de son propre exemple. La responsabilité lui sera exigée en tout temps."
+    },
+    {
+      "locale": "fr",
+      "number": 7,
+      "description": "Peu de sept ou aucun révèle un manque de foi et de compréhension entre la dualité esprit-matière. Un sept karmique est assez difficile à valider comme leçon, il doit apprendre les secrets cachés de la vie terrestre et en même temps écouter la voix du spirituel, il doit découvrir la relation qui existe entre l'un et l'autre et vivre selon ses découvertes. Il devra développer la foi et ce qu'elle implique pour une meilleure compréhension de sa vie. De nombreux maîtres spirituels, comme paradoxe, sont nés avec un sept karmique, ce qui les a contraints à se tourner vers leur intérieur et à vivre dans le monde sans en faire partie, d'une manière équilibrée, scientifique et sainte."
+    },
+    {
+      "locale": "fr",
+      "number": 8,
+      "description": "Peu de huit ou aucun révèle une inefficacité dans les affaires économiques ou les questions matérielles. Un huit karmique doit apprendre la valeur de l'argent, à organiser et à diriger. Ce karma forcera son détenteur à gérer sa propre entreprise et à administrer ses propres biens tout au long de sa vie, afin de connaître pour la vie prochaine l'économie d'énergie spirituelle manifestée sur le plan inférieur sous forme d'argent."
+    },
+    {
+      "locale": "fr",
+      "number": 9,
+      "description": "Peu de neuf ou aucun révèle des sursauts et des contrariétés émotionnelles jusqu'à apprendre à être généreux, compatissant, aimant et dévoué aux autres. Un neuf karmique, tout comme le sept karmique, porte en lui un bien immense pour l'âme, car si le détenteur de l'un de ces nombres vit conformément à la leçon qui lui est demandée, la maîtrise spirituelle frappe à sa porte."
+    }
+  ],
+  "translated": true
+}

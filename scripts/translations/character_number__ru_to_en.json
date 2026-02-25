@@ -1,0 +1,71 @@
+{
+  "table": "character_number",
+  "source_locale": "ru",
+  "target_locale": "en",
+  "source_language": "Russian",
+  "target_language": "English",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "number": 1,
+      "description": "People with the number one are determined and strong personalities, actively striving towards their goals; they look to the future with optimism, are quite stubborn and self-assured, very ambitious, and often aggressive, with their aggression always linked to the belief that someone is trying to \"teach them how to live\" or stands in their way. They will defend their independence and righteousness with all their might. They have excellent memories, are exceptionally organized, and can handle several tasks at once due to their remarkable concentration. In life, they seek everything new and unexplored, often leading others due to their bright leadership qualities, but they never listen to others' opinions. It is difficult to work with them in a team: they are individualists, and if they attain power, they prefer an authoritarian style of leadership."
+    },
+    {
+      "locale": "en",
+      "number": 2,
+      "description": "People with the number two are accustomed to navigating between the interests of others; they are very gentle and tactful, afraid of offending others, always inclined towards compromise, and prefer to create an atmosphere of peace and harmony around them. They never use their advantages if it could hurt a friend or partner, prefer to cooperate rather than fight, and find it much easier to submit than to make decisions. They are diligent, neat, and modest employees. People with the number two may possess shyness, be secretive, indecisive, and avoid responsibility. They often lack their own opinions and thoughts, carefully considering and planning everything. Unfortunately, they frequently suffer from depression, which contributes to their introversion and gloominess, and their inability to laugh."
+    },
+    {
+      "locale": "en",
+      "number": 3,
+      "description": "People with the number three have a cheerful disposition, view everything with humor, are fortunate in life, talented, and versatile, possessing enviable energy, which is why they love to lead an active lifestyle. They easily part with money, are generous and kind-hearted. People with the number three are creative souls, endowed with rich imagination and natural gifts. Their greatest opportunities lie in the realm of art, as they possess literary or artistic talent, and what matters most to them is to express their experiences through words, colors, or sounds. They are eloquent, know how to communicate, often become leaders among friends, but they also exhibit traits such as heightened pride, self-importance, selfishness, independence, ambition, authority, and sometimes arrogance and blatant rudeness. Moreover, they often squander their energies on numerous unnecessary tasks, yet they take nothing seriously. This carefreeness often hinders them from becoming what they were born to be—geniuses."
+    },
+    {
+      "locale": "en",
+      "number": 4,
+      "description": "People with the number 4 are the workhorses of history; since the number 4 represents willpower, endurance, and persistence in achieving goals, such individuals attain success through hard work. Despite the difficulties, they continue to strive towards their objectives. They are rationalists, not gifted with a rich imagination, but practical and diligent. Although they themselves lack creative impulses, they are capable of leading creative individuals, grouping them as they see fit and utilizing their talents. As administrators, they are truly in their element. They possess a strong sense of duty, love justice, and value the material aspects of life—enjoying good food, rest, and always striving for stability and abundance. At the same time, they often lack breadth of thought, frequently experience stress, can be fidgety, anxious, and prone to boredom and melancholy. In life, they are not particularly lucky, even though they work hard; misfortunes and failures often befall them. However, they bravely overcome obstacles, and in this regard, their patience knows no bounds."
+    },
+    {
+      "locale": "en",
+      "number": 5,
+      "description": "People with the number 5 are active, restless, fidgety, intelligent, and impatient. They enjoy traveling, seeing and hearing a lot, and interacting with many people. For them to feel completely comfortable, they need to change their familiar world; otherwise, they become melancholic and fatigued, experiencing boredom and physical malaise. They are quite ambitious, quick-tempered, and very sensual. Therefore, both male and female fives struggle to maintain fidelity in relationships and often encounter misunderstandings and scandals. Due to their restlessness and inability to concentrate, they frequently start projects only to abandon them immediately. They usually receive education haphazardly; they dislike hard work and want to learn everything at once, which is not feasible.\n\nMen often engage in gambling, make bets, speculate, and adore risk and adventure, while women are more cautious. However, if their interest is piqued, they forget all caution. This trait often leads them into trouble. They also cannot work consistently in one place, so they frequently change jobs. They are incapable of handling routine tasks. Such individuals often resort to deceit, lie, lead a dissolute lifestyle, and at the same time, they are cheerful, pleasant to communicate with, and carefree—unless, of course, they start to feel sorry for themselves, which does happen."
+    },
+    {
+      "locale": "en",
+      "number": 6,
+      "description": "People with the number 6 are remarkably balanced, good-natured, reliable, and always know how to create a cozy atmosphere around them. They love home and family, and they have many friends. They are wonderful people in every respect—loyal, honest, conscientious, romantic, and gentle. They cherish harmony and tranquility and strive to extinguish any quarrels and conflicts immediately. They generously share their warmth, and if money is needed, they share that too. However, in some sense, they are very conservative and do not accept the freedom of more open individuals; they are deeply affected by others' tactlessness and prefer to avoid problems rather than solve them until they can no longer ignore them. They are hardworking people, but they do not reach for the stars; they lack a business acumen, yet they are capable of finding faults in those who create the world through inspiration rather than by the book. If they attain a high position, their character may deteriorate: they can become not only charming and unobtrusive but also vain, arrogant, self-satisfied, intrusive, and petty."
+    },
+    {
+      "locale": "en",
+      "number": 7,
+      "description": "People with the number seven are often introverts; they cherish solitude, occupied with their thoughts, contemplative, and struggle to connect with others. However, due to their inner focus, they possess the ability for deep analysis, are very perceptive, capable of unraveling mysteries, and pay attention to the tiniest details that elude others. Often, poets, philosophers, scientists, and mystics are born under the sign of seven; even if such talents are absent, these individuals still possess intuition and a developed imagination. In communication, they are somewhat cold, striving to maintain their inner harmony and reluctant to allow anyone into the secrets of their soul, yet they are constantly engaged in the search for a singular known truth. Such individuals often tend toward daydreaming, creating strange and intricate fantasies.\n\nThey lack eloquence, making it difficult for them to adequately express their feelings and thoughts; they prefer to put their thoughts on paper, do not participate in disputes, and shy away from arguments. Among their shortcomings is a heightened tendency toward gloomy thoughts and depression, disappointment in life, a propensity for suicidal thoughts, or a tendency toward isolation, dark sarcasm, and misanthropy. However, with the slightest success, when they receive recognition, people with the number seven blossom: they need praise for life to seem beautiful."
+    },
+    {
+      "locale": "en",
+      "number": 8,
+      "description": "People with the number eight are energetic, capable, possessing the gift of concentrating their forces in one point to achieve their goals. They strive for success, equipped with a practical, calculating, and tenacious mind. Their thoughts are consumed by the material world, and it takes only a small effort for them to find the right path for capital investment. These are very \"busy\" individuals, whose thoughts revolve around financial flows or the fate of their companies; they often become businessmen, and this is a diagnosis. In life, they consider their main qualities to be the ability to fight, to extricate themselves from difficult situations, to find loopholes, and to succeed in the process. The primary indicator of a person's wealth for them is their social standing. They themselves are cautious and prudent, do not engage in risky actions, and never act without consideration.\n\nIf they allow negative qualities to develop, they become the most unpleasant people—ruthless, aggressive, stubborn, cruel, loving only themselves, indiscriminate in their means, despotic, and contemptuous of those without money. Externally, they may appear gloomy and withdrawn, but no one knows what passions boil within these souls, what greed consumes them from the inside. Occasionally, they release their accumulated irritation in the strangest and wildest actions. They are either untrainable or trainable, but with great difficulty."
+    },
+    {
+      "locale": "en",
+      "number": 9,
+      "description": "People with the number nine are idealistic, dreamy, striving for generalizations, often detached from the earth, very romantic, impulsive, even passionate, endowed with charm, and tender and loving. They respect and care for their loved ones but wish to serve the good of all humanity. In this regard, they are completely selfless and very generous. People often do not understand them and begin to appreciate them only when they are no longer around.\n\nThey are good scholars, teachers, and artists, possessing willpower, courage, capable of inspiring impulses, often uplifting everyone who has lost hope. In life, they are impractical, not thinking of themselves, very honest, and therefore speak unpleasant truths directly to people's faces, yet at the same time are dependent on various conventions. They often easily fall under the influence of someone they find pleasant, quickly become infatuated, and just as quickly cool toward the object of their passion, striving to remain on the sidelines. They themselves fear poverty, old age, and destitution. They often contradict themselves, can be childless, sharp, arrogant, and mystical."
+    },
+    {
+      "locale": "en",
+      "number": 11,
+      "description": "People with the number eleven are considered strange because they are unlike others. They come into the world to bring something new, to initiate a certain revolution. They possess high intuition, have enviable energy, and seem to receive guidance from higher powers.\n\nAmong them are both geniuses and completely mad individuals. They often become preachers, seers. They have the gift of persuasion, are bold, decisive, and confident in their righteousness. Life with them can be very challenging because they are willing to sacrifice everything they love for the fulfillment of their mission. Therefore, they most often live in solitude."
+    },
+    {
+      "locale": "en",
+      "number": 22,
+      "description": "People with the number twenty-two are endowed with all the best traits one can imagine.\n\nThey are energetic and inclined to leadership, balanced and sensitive, gifted with creativity, very flexible, harmonious, capable of high concentration of thought, possessing business qualities, high spiritual potential, and, as it is commonly said, charisma.\n\nThus, such individuals often become leaders of popular movements or great scientists, doctors, philosophers, businessmen, and magicians."
+    }
+  ],
+  "translated": true
+}

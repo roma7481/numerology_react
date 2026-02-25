@@ -1,0 +1,61 @@
+{
+  "table": "intelligence_number",
+  "source_locale": "ru",
+  "target_locale": "de",
+  "source_language": "Russian",
+  "target_language": "German",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "number": 1,
+      "description": "Sie denken unabhängig, unkonventionell, Ihre Gedanken zeichnen sich durch Originalität aus. Sie sind praktisch nicht anfällig für den Einfluss anderer. Ihre Ideen setzen Sie hartnäckig in die Tat um. In Diskussionen bemühen Sie sich immer, das letzte Wort zu behalten."
+    },
+    {
+      "locale": "de",
+      "number": 2,
+      "description": "Sie denken raffiniert und scharfsinnig. Sie neigen dazu, auf Ihre Intuition zu hören, wenn es darum geht, schwierige Aufgaben zu lösen und Entscheidungen zu treffen. Sie lehnen niemals die Ideen anderer Menschen ab, sind offen dafür, aber manchmal lassen Sie sich dadurch zu sehr von anderen beeinflussen."
+    },
+    {
+      "locale": "de",
+      "number": 3,
+      "description": "Sie denken kreativ, aber etwas chaotisch. Ihre Gedanken springen von einem Thema zum anderen und können nicht zur Ruhe kommen, weshalb Sie oft nicht in der Lage sind, sich auf ein Problem zu konzentrieren. Infolgedessen ist Ihr Ansatz und Handeln äußerst unlogisch, führt aber dennoch zum gewünschten Ergebnis."
+    },
+    {
+      "locale": "de",
+      "number": 4,
+      "description": "Sie denken methodisch und praktisch. Sie durchdenken alle Ihre Handlungen Schritt für Schritt, und deshalb haben Sie immer eine Antwort auf alles. Aber die andere Seite der Medaille ist, dass Ihr Ansatz oft unflexibel ist und neue, ungeprüfte Ideen Sie unwohl fühlen lassen."
+    },
+    {
+      "locale": "de",
+      "number": 5,
+      "description": "Sie denken leicht und schnell, gehen flexibel und anpassungsfähig an alles heran. Die Lösung jedes Problems finden Sie fast sofort, indem Sie die möglichen Ereignisse und Konsequenzen blitzschnell durchrechnen. Und genau Ihre hervorragende Auffassungsgabe rettet Sie in verschiedenen schwierigen Situationen."
+    },
+    {
+      "locale": "de",
+      "number": 6,
+      "description": "Sie denken normalerweise gleichmäßig, stabil und gerecht. Sie sind ein guter Zuhörer. Es gefällt Ihnen, zu beobachten, wie Menschen von Worten, Gedanken und Ideen beeinflusst werden. Sie bemerken die kleinsten Details und wenden sie sehr erfolgreich zu Ihren Zwecken an. Allerdings bleibt die Sicht auf das Gesamtbild oft für Sie unerreichbar."
+    },
+    {
+      "locale": "de",
+      "number": 7,
+      "description": "Sie waren nie mit einfachen Antworten zufrieden. Sie graben immer tief, untersuchen das Problem umfassend und von innen, bis das Vertrauen kommt, dass Sie es vollständig verstanden haben. Und jetzt, ohne zu zögern, beginnen Sie, es zu lösen. Sehr wenige Menschen können mit Ihnen im Umgang mit ernsthaften Problemen und der Suche nach Antworten auf komplexe Fragen konkurrieren."
+    },
+    {
+      "locale": "de",
+      "number": 8,
+      "description": "Sie betrachten alles, was geschieht, von einem gewissen Abstand, weshalb Sie immer das gesamte Problem im Blick haben. Sie mögen es nicht, in Details zu gehen oder auf Einzelheiten zu achten, und ziehen es vor, diese den Menschen mit engerem und bodenständigerem Denken zu überlassen. Sie werden niemals Rationales und Irrationales verwechseln und nutzen beide Aspekte mit Leichtigkeit in Ihrem Leben."
+    },
+    {
+      "locale": "de",
+      "number": 9,
+      "description": "Sie sehen und verstehen immer sehr klar, was andere Menschen zu einem bestimmten Thema denken, äußern jedoch Ihre Meinung erst, nachdem sich alle anderen geäußert haben. Erst dann weisen Sie auf das hin, was übersehen oder einfach nicht durchdacht wurde. Die richtige Lösung und die richtige Antwort finden Sie, indem Sie einfach nacheinander die falschen Lösungen aus der Liste möglicher Optionen streichen. Das Aufstellen logischer Ketten ist nicht Ihre Methode."
+    }
+  ],
+  "translated": true
+}

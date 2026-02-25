@@ -1,0 +1,353 @@
+{
+  "table": "psychomatrix_lines",
+  "source_locale": "en",
+  "target_locale": "fr",
+  "source_language": "English",
+  "target_language": "French",
+  "key_columns": [
+    "category",
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "fr",
+      "category": "purpose",
+      "number": 0,
+      "description": "Cette personne ne fixe aucun objectif pour elle-même, espérant une chance favorable ou comptant sur les autres dans la vie. Vous pouvez facilement changer d'avis une telle personne et l'obliger à abandonner ses projets."
+    },
+    {
+      "locale": "fr",
+      "category": "family",
+      "number": 0,
+      "description": "Cette personne n'est pas un homme de famille. Cela signifie que sa famille n'est pas du tout une priorité dans sa vie. Ces personnes, en règle générale, ne sont pas pressées de fonder une famille, car elles s'intéressent davantage au travail, à la carrière, à la vie sociale, etc."
+    },
+    {
+      "locale": "fr",
+      "category": "stability",
+      "number": 0,
+      "description": "Cette personne est révolutionnaire dans l'âme. Elle cherche à changer tout ce qui l'entoure : elle change son environnement, son lieu de travail. Elle remet pratiquement tout en question, essayant de changer tout le monde et tout."
+    },
+    {
+      "locale": "fr",
+      "category": "esteem",
+      "number": 0,
+      "description": "Nous pouvons dire que cette personne a une faible estime de soi et sous-estime ses capacités. Avec trois chiffres, elle peut parfois avoir des « moments de clarté », mais elle est encore très incertaine d'elle-même."
+    },
+    {
+      "locale": "fr",
+      "category": "finance",
+      "number": 0,
+      "description": "Cette personne ne souhaite pas se soutenir financièrement et peut facilement dépendre de ses parents, de sa femme ou de son mari. Cette ligne ne présente aucun danger particulier pour les femmes, car il est courant qu'un mari devienne le principal soutien de famille."
+    },
+    {
+      "locale": "fr",
+      "category": "talents",
+      "number": 0,
+      "description": "Plus il y a de chiffres, plus le talent est fort. Cela ne signifie pas que si cette ligne est très forte (pas plus de 5 chiffres pour éviter la surcharge), alors une personne sera certainement très talentueuse. Rappelez-vous, de nombreuses autres lignes de chiffres de la psychomatrice affectent le développement potentiel des talents d'une personne : caractère, estime de soi, sens du but, niveau d'énergie, santé, chance, et d'autres. C'est la combinaison de nombreuses caractéristiques différentes et de la volonté d'une personne qui lui permet d'atteindre ses objectifs.\n\nIl est très important d'identifier le meilleur domaine d'application de l'énergie et des ressources d'une personne. Ne cherchez jamais à vous laisser porter par le flot de la vie. Il existe toute une liste de professions « chaudes » : avocat, banquier, cadre supérieur, économiste, etc. Toutes sont déterminées non par le talent des gens, mais par la capacité à subvenir financièrement à leurs besoins et à ceux de leurs proches. Avant de conseiller à votre enfant de choisir la profession « lucrative », réfléchissez à son avenir.\n\nIl y a tant de personnes dans ce monde qui n'ont jamais développé leurs talents. Nous ne nous tromperons probablement pas en disant que cela est vrai pour environ 90-95 % de la population mondiale. Avant de freiner le développement des intérêts de votre enfant, regardez vos chiffres et demandez-vous : avez-vous pu découvrir et développer votre potentiel et vos talents ? Si ce n'est pas le cas, alors ayez pitié de vous-même et de votre enfant, et donnez-lui l'opportunité de devenir une partie de l'Histoire de la Terre, et à vous-même – l'opportunité de l'aider à le faire.\n\nPensez simplement à pourquoi nous choisissons encore pour nos enfants de meilleures écoles, jardins d'enfants, médecins et enseignants ? Le fait est que de plus en plus souvent, les personnes douées trouvent des emplois bien rémunérés ; en même temps, les gens qui n'investissent pas dans leur travail, qui ne s'engagent pas – ne sont pas bien payés. Donc, nous devons commencer par l'engagement, et seulement alors nous aurons de forts banquiers, managers, institutions d'État : de nombreux emplois seront occupés par des personnes engagées, responsables et qui savent ce qu'elles font. Ensuite, nous n'aurons plus de problème pour choisir quelles écoles pour nos enfants.\n\nL'essentiel est de comprendre que chaque personne est unique et répond à la mère Nature elle-même (nous l'avons déjà affirmé à plusieurs reprises, mais nous voulons que cette pensée simple soit fermement ancrée). Nous sommes tous responsables de nous-mêmes et de nos enfants envers les générations futures. Chaque talent non découvert créera toute une chaîne de personnes avec un potentiel non réalisé – cela, à son tour, ramènera les gens à la barbarie, aux guerres, au terrorisme, à la haine envers les autres et au désir de tout bouleverser. Apprenez à répondre de vous-même !"
+    },
+    {
+      "locale": "fr",
+      "category": "temperament",
+      "number": 0,
+      "description": "Cela parle d'une indifférence. Très souvent, ces personnes sont prises en train de tricher parce qu'elles se moquent de « avec qui et comment », et leur désir de prouver leur valeur par des contacts intimes les pousse à une recherche continue du partenaire idéal – en particulier les hommes qui recherchent la même femme « froide » qui sera complètement satisfaite de lui, et vice versa."
+    },
+    {
+      "locale": "fr",
+      "category": "spirituality",
+      "number": 0,
+      "description": "Le nombre de chiffres dans cette ligne peut être un indicateur de la spiritualité d'une personne. On peut dire que lorsqu'il y a jusqu'à cinq chiffres, la spiritualité d'une personne augmente progressivement de l'athéisme (aucun chiffre) à un niveau maximal de spiritualité (cinq chiffres). Si cette ligne contient plus de cinq chiffres (6 ou plus), alors on peut parler d'une surcharge de la qualité, ce qui conduit le plus souvent au fanatisme et à l'idolâtrie, lorsque toutes les normes humaines sont déformées au-delà de toute reconnaissance, allant à l'extrême. Cela ressemble davantage à un manque total de spiritualité plutôt qu'au principe divin (lutter contre les sorcières et les hérétiques avec des épées et du feu, tuer les \"infidèles\", exterminer les dissidents). Le fanatisme dans sa forme extrême est toujours athée car il n'autorise pas d'autres points de vue.\n\nEn analysant la psychomatrice, il est nécessaire de prêter attention à la relation entre les deux diagonales (carnelle et spirituelle). C'est leur relation qui jouera un rôle clé dans la force de chacune des lignes.\n\nEn évaluant la force de chaque ligne, on peut dire CE QUI est important pour la personne dans son futur union matrimoniale : son intérêt pour les principes spirituels du partenaire ou le côté matériel (aspects charnels incluant les relations sexuelles).\n\nIl est préférable que les deux lignes soient présentées de manière également forte. Idéalement, le rapport des caractéristiques quantitatives d'un partenaire devrait correspondre à la caractéristique quantitative de l'autre. Par exemple, si une épouse a une diagonale charnelle de 5 chiffres et une spirituelle de 4 chiffres, alors son rapport peut être noté comme 5/4. Supposons que son mari ait le rapport suivant de diagonales : charnelle – 5 chiffres et spirituelle – 2 chiffres, avec le rapport de diagonales de 5/2. La comparaison montre que pour le mari, sa femme en tant que femme représente un plus grand intérêt que sa femme en tant que personnalité. Ainsi, il ne prêtera probablement pas assez d'attention à préparer sa femme à l'intimité, car il est plus intéressé par le corps que par l'âme. Dans cette situation, il est possible que l'épouse soit souvent contrariée par le fait que son mari ne prête pas assez attention à ses besoins.\n\nLors de l'analyse d'une psychomatrice, il est important de prendre en compte que, idéalement, les rapports des diagonales devraient correspondre, ou leur différence devrait être minimale et du même signe : si le mari a une diagonale charnelle plus forte, alors l'épouse devrait avoir sa diagonale charnelle plus forte que sa diagonale spirituelle. Ne tentez pas d'expérimenter en créant des unions matrimoniales où l'intérêt charnel excessif d'un partenaire sera tempéré par la forte spiritualité de l'autre – c'est un indicateur fort que les deux personnes sont incompatibles en tant qu'époux. L'un doit parler des choses, tandis que l'autre doit les ressentir. Dans un tel scénario, les deux personnes souffriront. Il est préférable de choisir un partenaire avec un tempérament similaire. Alors, il sera beaucoup plus facile d'avoir une compréhension mutuelle."
+    },
+    {
+      "locale": "fr",
+      "category": "purpose",
+      "number": 1,
+      "description": "Cela signifie un faible sens de l'objectif. Cette personne peut s'engager dans une dispute, mais cela ne signifie pas qu'elle souhaite atteindre un résultat spécifique. En général, c'est seulement un désir de vaincre une autre personne dans une dispute. Cette personne compte sur la chance et les amis."
+    },
+    {
+      "locale": "fr",
+      "category": "family",
+      "number": 1,
+      "description": "Cette personne réalise qu'elle doit fonder une famille, mais ne montre aucun effort particulier dans ce sens. Elle attend que quelqu'un d'autre prenne l'initiative à cet égard et fasse le travail à sa place."
+    },
+    {
+      "locale": "fr",
+      "category": "stability",
+      "number": 1,
+      "description": "Cette personne est révolutionnaire dans l'âme. Elle cherche à changer tout ce qui l'entoure : elle modifie son environnement, son lieu de travail. Elle remet en question pratiquement tout, essayant de changer tout le monde et tout."
+    },
+    {
+      "locale": "fr",
+      "category": "esteem",
+      "number": 1,
+      "description": "On peut dire que cette personne a une faible estime de soi et sous-estime ses capacités. Avec trois chiffres, elle peut parfois avoir des « moments de clarté », mais reste très incertaine d'elle-même."
+    },
+    {
+      "locale": "fr",
+      "category": "finance",
+      "number": 1,
+      "description": "Cette personne ne souhaite pas se soutenir financièrement et peut facilement profiter de ses parents, de sa femme ou de son mari. Cette ligne ne présente aucun danger particulier pour les femmes, car il est courant qu'un mari devienne le principal soutien de famille."
+    },
+    {
+      "locale": "fr",
+      "category": "talents",
+      "number": 1,
+      "description": "Plus il y a de chiffres, plus le talent est fort. Cela ne signifie pas que si cette ligne est très forte (pas plus de 5 chiffres pour éviter une surcharge), alors une personne sera certainement très talentueuse. N'oubliez pas que de nombreuses autres lignes de chiffres de la psychomatrice affectent le développement potentiel des talents d'une personne : caractère, estime de soi, sens du but, niveau d'énergie, santé, chance, et d'autres. C'est la combinaison de nombreuses caractéristiques différentes et la volonté d'une personne qui lui permettent d'atteindre ses objectifs.\n\nIl est très important d'identifier le meilleur domaine d'application de l'énergie et des ressources d'une personne. Ne cherchez jamais à aller avec le flot de la vie. Il existe toute une liste de professions \"chaudes\" : avocat, banquier, cadre supérieur, économiste, etc. Toutes sont déterminées non par le talent des gens, mais par leur capacité à subvenir financièrement à leurs besoins et à ceux de leurs proches. Avant de conseiller à votre enfant de choisir une profession \"gagnant de l'argent\", réfléchissez à son avenir.\n\nIl y a tant de personnes dans ce monde qui n'ont jamais développé leurs talents. Nous ne nous tromperons probablement pas en disant que cela est vrai pour environ 90-95 % de la population mondiale. Avant de freiner le développement des intérêts de votre enfant, regardez vos chiffres et demandez-vous : avez-vous été capable de découvrir et de développer votre potentiel et vos talents ? Si ce n'est pas le cas, alors ayez pitié de vous-même et de votre enfant, et donnez-lui l'opportunité de devenir une partie de l'Histoire de la Terre, et à vous-même – l'opportunité de l'aider à le faire.\n\nPensez simplement à pourquoi nous choisissons encore pour nos enfants de meilleures écoles, crèches, médecins et enseignants ? Le fait est que de plus en plus souvent, les personnes douées trouvent des emplois bien rémunérés ; en même temps, les personnes qui n'investissent pas dans leur travail, qui ne s'engagent pas – ne sont pas bien payées. Donc, nous devons commencer par l'engagement, et seulement alors nous aurons de forts banquiers, gestionnaires, institutions d'État : de nombreux emplois seront occupés par des personnes engagées, responsables et qui savent ce qu'elles font. Alors nous n'aurons plus de problème sur quelles écoles choisir pour nos enfants.\n\nL'essentiel est de comprendre que chaque personne est unique et répond à la mère Nature elle-même (nous l'avons déjà dit à plusieurs reprises, mais nous voulons que cette simple pensée soit fermement mémorisée). Nous sommes tous responsables de nous-mêmes et de nos enfants envers les générations futures. Chaque talent non découvert créera une chaîne entière de personnes avec un potentiel non réalisé – cela, à son tour, ramènera les gens à la barbarie, aux guerres, au terrorisme, à la haine les uns envers les autres et au désir de tout renverser. Apprenez à répondre de vous-même !"
+    },
+    {
+      "locale": "fr",
+      "category": "temperament",
+      "number": 1,
+      "description": "Cela parle d'indifférence. Très souvent, ces personnes sont prises en train de tromper parce qu'elles se moquent \"avec qui et comment\", et leur désir de prouver leur valeur par des contacts intimes les pousse à une recherche continue du partenaire idéal – en particulier les hommes qui recherchent la même femme \"froide\" qui sera complètement satisfaite de lui, et vice versa."
+    },
+    {
+      "locale": "fr",
+      "category": "spirituality",
+      "number": 1,
+      "description": "Le nombre de chiffres dans cette ligne peut être un indicateur de la spiritualité d'une personne. On peut dire que lorsqu'une personne a jusqu'à cinq chiffres, sa spiritualité augmente progressivement de l'absence de spiritualité (aucun chiffre) à un niveau maximal de spiritualité (cinq chiffres). Si cette ligne contient plus de cinq chiffres (6 ou plus), alors on peut parler d'une surcharge de la qualité, ce qui conduit le plus souvent au fanatisme et à l'idolâtrie, lorsque toutes les normes humaines sont déformées au-delà de toute reconnaissance, allant à l'extrême. Cela ressemble davantage à un manque complet de spiritualité plutôt qu'au principe divin (lutte contre les sorcières et les hérétiques avec des épées et du feu, tuant les \"infidèles\", exterminant les dissidents). Le fanatisme dans sa forme extrême est toujours sans Dieu car il n'autorise pas d'autres points de vue.\n\nEn analysant la psychomatrice, il est nécessaire de prêter attention à la relation entre les deux diagonales (carnelle et spirituelle). C'est leur relation qui jouera un rôle clé dans la force de chacune des lignes.\n\nEn évaluant la force de chaque ligne, nous pouvons dire CE QUI est important pour la personne dans son futur union matrimoniale : son intérêt pour les principes spirituels du partenaire ou le côté matériel (aspects charnels y compris les relations sexuelles).\n\nIl est préférable que les deux lignes soient présentées également fortement. Idéalement, le rapport des caractéristiques quantitatives d'un partenaire devrait correspondre à la caractéristique quantitative de l'autre. Par exemple, si une femme a une diagonale charnelle de 5 chiffres et une spirituelle de 4 chiffres, alors son rapport peut être noté comme 5/4. Supposons que son mari ait le rapport suivant de diagonales : charnelle – 5 chiffres et spirituelle – 2 chiffres, avec le rapport de diagonales de 5/2. La comparaison montre que pour le mari, sa femme en tant que femme représente un intérêt plus grand que sa femme en tant que personnalité. Ainsi, il ne prêtera probablement pas assez d'attention à préparer sa femme à l'intimité, car il s'intéresse davantage au corps qu'à l'âme. Dans cette situation, il est possible que la femme soit souvent contrariée par le fait que son mari ne prête pas suffisamment attention à ses besoins.\n\nLors de l'analyse d'une psychomatrice, il est important de prendre en compte qu'idéalement, les rapports des diagonales devraient correspondre, ou leur différence devrait être minimale et du même signe : si le mari a une diagonale charnelle plus forte, alors la femme devrait avoir sa diagonale charnelle plus forte que sa diagonale spirituelle. Ne tentez pas d'expérimenter en créant des unions matrimoniales où l'intérêt charnel excessif d'un partenaire sera tempéré par la forte spiritualité de l'autre – c'est un indicateur fort que les deux personnes sont incompatibles en tant qu'époux. L'un doit discuter des choses, tandis que l'autre doit les ressentir. Dans un tel scénario, les deux personnes souffriront. Il est préférable de choisir un partenaire avec un tempérament similaire. Alors, il sera beaucoup plus facile d'avoir une compréhension mutuelle."
+    },
+    {
+      "locale": "fr",
+      "category": "purpose",
+      "number": 2,
+      "description": "Cette personne a un sens normal de l'objectif. On peut dire que cette personne a besoin de temps pour se mettre à niveau dans la vie. Il doit d'abord découvrir ses capacités, et seulement alors il se fixera des objectifs dignes pour lui-même."
+    },
+    {
+      "locale": "fr",
+      "category": "family",
+      "number": 2,
+      "description": "Cette personne réalise qu'elle doit fonder une famille, mais ne montre pas d'efforts particuliers dans ce sens. Elle attend que quelqu'un d'autre prenne l'initiative à cet égard et fasse le travail à sa place."
+    },
+    {
+      "locale": "fr",
+      "category": "stability",
+      "number": 2,
+      "description": "Cette personne est très enthousiaste et rapide sur ses pieds, mais elle peut déjà contrôler ses impulsions révolutionnaires (si elle le souhaite)."
+    },
+    {
+      "locale": "fr",
+      "category": "esteem",
+      "number": 2,
+      "description": "On peut dire que cette personne a une faible estime de soi et sous-estime ses capacités. Avec trois chiffres, elle peut parfois avoir des « moments de clarté », mais elle est toujours très incertaine d'elle-même."
+    },
+    {
+      "locale": "fr",
+      "category": "finance",
+      "number": 2,
+      "description": "Cette personne réalise qu'elle doit soutenir sa famille, donc pour des raisons de stabilité financière, elle commence à chercher un emploi qui offre un salaire réaliste ou moyen. En conséquence, une personne peut abandonner son rêve juste pour le bien de revenus stables. En même temps, si elle a du mal à trouver un emploi, cette personne ne sera pas trop déçue car elle n'est pas très désireuse d'être le principal soutien de famille en premier lieu."
+    },
+    {
+      "locale": "fr",
+      "category": "talents",
+      "number": 2,
+      "description": "Plus il y a de chiffres – plus le talent est fort. Cela ne signifie pas que si cette ligne est très forte (pas plus de 5 chiffres pour éviter une surcharge), alors une personne sera certainement très talentueuse. Rappelez-vous, de nombreuses autres lignes de chiffres de la psychomatrice affectent le développement potentiel des talents d'une personne : caractère, estime de soi, sens du but, niveau d'énergie, santé, chance, et d'autres. C'est la combinaison de nombreuses caractéristiques différentes et de la volonté d'une personne qui lui permet d'atteindre ses objectifs.\n\nIl est très important d'identifier le meilleur domaine d'application de l'énergie et des ressources d'une personne. Ne cherchez jamais à vous laisser porter par le flot de la vie. Il existe toute une liste de professions « chaudes » : avocat, banquier, cadre supérieur, économiste, etc. Toutes sont déterminées non par le talent des gens, mais par la capacité à subvenir financièrement à leurs besoins et à ceux de leurs proches. Avant de conseiller à votre enfant de choisir une profession « lucrative », réfléchissez à son avenir.\n\nIl y a tant de personnes dans ce monde qui n'ont jamais développé leurs talents. Nous ne nous tromperons probablement pas en disant que cela est vrai pour environ 90-95 % de la population mondiale. Avant de freiner le développement des intérêts de votre enfant, regardez vos chiffres et demandez-vous : avez-vous pu découvrir et développer votre potentiel et vos talents ? Si ce n'est pas le cas, alors ayez pitié de vous-même et de votre enfant, et donnez-lui l'opportunité de devenir une partie de l'Histoire de la Terre, et à vous-même – l'opportunité de l'aider à le faire.\n\nPensez simplement à pourquoi nous choisissons encore pour nos enfants de meilleures écoles, jardins d'enfants, médecins et enseignants ? Le fait est que de plus en plus souvent, les personnes douées trouvent des emplois bien rémunérés ; en même temps, les personnes qui n'investissent pas dans leur travail, qui ne s'engagent pas – ne sont pas bien payées. Donc, nous devons commencer par l'engagement, et seulement alors nous aurons de forts banquiers, managers, institutions d'État : de nombreux emplois seront occupés par des personnes engagées, responsables et qui savent ce qu'elles font. Alors nous n'aurons plus de problème sur quelles écoles choisir pour nos enfants.\n\nL'essentiel est de comprendre que chaque personne est unique et répond à la mère Nature elle-même (nous l'avons déjà affirmé à plusieurs reprises, mais nous voulons que cette pensée simple soit fermement retenue). Nous sommes tous responsables de nous-mêmes et de nos enfants envers les générations futures. Chaque talent non découvert créera une chaîne entière de personnes avec un potentiel non réalisé – cela, à son tour, ramènera les gens à la barbarie, aux guerres, au terrorisme, à la haine les uns envers les autres et au désir de tout renverser. Apprenez à répondre de vous-même !"
+    },
+    {
+      "locale": "fr",
+      "category": "temperament",
+      "number": 2,
+      "description": "C'est un tempérament normal. Cette personne peut avoir des relations intimes chaque jour, mais si cela est impossible – il/elle peut attendre sans aucun inconfort."
+    },
+    {
+      "locale": "fr",
+      "category": "spirituality",
+      "number": 2,
+      "description": "Le nombre de chiffres dans cette ligne peut être un indicateur de la spiritualité d'une personne. Nous pouvons dire qu'en ayant jusqu'à cinq chiffres, la spiritualité d'une personne augmente progressivement de l'athéisme (pas de chiffres) à un niveau maximal de spiritualité (cinq chiffres). Si cette ligne contient plus de cinq chiffres (6 ou plus), alors nous pouvons parler d'une surcharge de la qualité, ce qui conduit le plus souvent au fanatisme et à l'idolâtrie, lorsque toutes les normes humaines sont déformées au-delà de toute reconnaissance, allant à l'extrême. Cela ressemble davantage à un manque total de spiritualité plutôt qu'au principe divin (lutte contre les sorcières et les hérétiques avec des épées et du feu, tuant des \"infidèles\", exterminant des dissidents). Le fanatisme dans sa forme extrême est toujours athée car il n'autorise pas d'autres points de vue.\n\nEn analysant la psychomatrice, vous devez prêter attention à la relation entre les deux diagonales (carnelle et spirituelle). C'est leur relation qui jouera un rôle clé dans la force de chacune des lignes.\n\nEn évaluant la force de chaque ligne, nous pouvons dire CE qui est important pour la personne dans son futur union matrimoniale : son intérêt pour les principes spirituels du partenaire ou le côté matériel (aspects charnels y compris les relations sexuelles).\n\nIl est préférable que les deux lignes soient présentées également fortement. Idéalement, le rapport des caractéristiques quantitatives d'un partenaire devrait correspondre à la caractéristique quantitative de l'autre. Par exemple, si une épouse a une diagonale charnelle de 5 chiffres et une spirituelle de 4 chiffres, alors son rapport peut être noté comme 5/4. Supposons que son mari ait le rapport suivant de diagonales : charnelle – 5 chiffres et spirituelle – 2 chiffres, avec le rapport de diagonales de 5/2. La comparaison montre que pour le mari, sa femme en tant que femme représente un intérêt plus grand que sa femme en tant que personnalité. Donc, il ne prêtera probablement pas assez d'attention à préparer sa femme pour l'intimité, car il est plus intéressé par le corps que par l'âme. Dans cette situation, il est possible que l'épouse soit souvent contrariée que son mari ne prête pas assez d'attention à ses besoins.\n\nLors de l'analyse d'une psychomatrice, il est important de prendre en compte que, idéalement, les rapports des diagonales devraient correspondre, ou leur différence devrait être minimale et du même signe : si le mari a une diagonale charnelle plus forte, alors l'épouse devrait avoir sa diagonale charnelle plus forte que sa diagonale spirituelle. Ne tentez pas d'expérimenter en créant des unions matrimoniales où l'intérêt charnel excessif d'un partenaire sera freiné par la forte spiritualité de l'autre – c'est un indicateur fort que les deux personnes sont incompatibles en tant qu'époux. L'un doit parler des choses, tandis que l'autre doit les ressentir. Dans un tel scénario, les deux personnes souffriront. Il est préférable de choisir un partenaire avec un tempérament similaire. Alors il sera beaucoup plus facile d'avoir une compréhension mutuelle."
+    },
+    {
+      "locale": "fr",
+      "category": "purpose",
+      "number": 3,
+      "description": "Cette personne peut changer complètement ses objectifs de manière inattendue (de façon imprévisible, soudaine et inattendue). Très souvent, son choix est injustifié et inexplicable. Nous recommandons de définir vos objectifs en fonction des nombres forts dans votre psychomatrice."
+    },
+    {
+      "locale": "fr",
+      "category": "family",
+      "number": 3,
+      "description": "Cette personne est déchirée entre un fort désir de fonder une famille à tout prix et une totale réticence à le faire. Si une telle personne décide un jour de se marier, son partenaire doit agir immédiatement, sinon tout sera reporté pendant longtemps."
+    },
+    {
+      "locale": "fr",
+      "category": "stability",
+      "number": 3,
+      "description": "Cette personne est instable dans ses habitudes. Elle peut commencer de nombreuses habitudes et attachements différents, créant ainsi de la stabilité, mais elle peut tout aussi facilement y renoncer sans raison apparente. Après un certain temps, elle peut essayer de réanimer d'anciennes connexions. Tout cela se produit toujours de manière inattendue."
+    },
+    {
+      "locale": "fr",
+      "category": "esteem",
+      "number": 3,
+      "description": "Nous pouvons dire que cette personne a une faible estime de soi et sous-estime ses capacités. Avec trois chiffres, il peut parfois avoir des « moments de clarté », mais il reste très incertain de lui-même."
+    },
+    {
+      "locale": "fr",
+      "category": "finance",
+      "number": 3,
+      "description": "Ces personnes peuvent travailler de manière impulsive. Leur principe directeur est de terminer leur travail rapidement pour faire durer l'argent un certain temps, puis de retourner au travail quand cela est nécessaire."
+    },
+    {
+      "locale": "fr",
+      "category": "talents",
+      "number": 3,
+      "description": "Plus il y a de chiffres, plus le talent est fort. Cela ne signifie pas que si cette ligne est très forte (pas plus de 5 chiffres pour éviter la surcharge), alors une personne sera certainement très talentueuse. N'oubliez pas que de nombreuses autres lignes de chiffres de la psychomatrice affectent le développement potentiel des talents d'une personne : caractère, estime de soi, sens du but, niveau d'énergie, santé, chance, et d'autres. C'est la combinaison de nombreuses caractéristiques différentes et la volonté d'une personne qui lui permettent d'atteindre ses objectifs.\n\nIl est très important d'identifier le meilleur domaine d'application pour l'énergie et les ressources d'une personne. Ne cherchez jamais à vous laisser porter par le flot de la vie. Il existe toute une liste de professions « chaudes » : avocat, banquier, cadre supérieur, économiste, etc. Toutes sont déterminées non par le talent des gens, mais par leur capacité à subvenir financièrement à leurs besoins et à ceux de leurs proches. Avant de conseiller à votre enfant de choisir la profession « lucrative », réfléchissez à son avenir.\n\nIl y a tant de personnes dans ce monde qui n'ont jamais développé leurs talents. Nous ne nous tromperons probablement pas en disant que cela est vrai pour environ 90-95 % de la population mondiale. Avant de freiner le développement des intérêts de votre enfant, regardez vos chiffres et demandez-vous : avez-vous pu découvrir et développer votre potentiel et vos talents ? Si ce n'est pas le cas, alors ayez pitié de vous-même et de votre enfant, et donnez-lui l'opportunité de devenir une partie de l'Histoire de la Terre, et à vous-même – l'opportunité de l'aider à le faire.\n\nPensez simplement à pourquoi nous choisissons encore pour nos enfants de meilleures écoles, jardins d'enfants, médecins et enseignants ? Le fait est que de plus en plus souvent, les personnes douées trouvent des emplois bien rémunérés ; en même temps, les personnes qui n'investissent pas dans leur travail, qui ne s'engagent pas – ne sont pas bien payées. Donc, nous devons commencer par l'engagement, et seulement alors nous aurons de solides banquiers, gestionnaires, institutions d'État : de nombreux emplois seront occupés par des personnes engagées, responsables et qui savent ce qu'elles font. Alors, nous n'aurons plus de problème quant aux écoles à choisir pour nos enfants.\n\nL'essentiel est de comprendre que chaque personne est unique et répond à la mère Nature elle-même (nous l'avons déjà affirmé à plusieurs reprises, mais nous voulons que cette pensée simple soit fermement mémorisée). Nous sommes tous responsables de nous-mêmes et de nos enfants envers les générations futures. Chaque talent non découvert créera toute une chaîne de personnes avec un potentiel non réalisé – cela, à son tour, ramènera les gens à la barbarie, aux guerres, au terrorisme, à la haine les uns envers les autres et au désir de tout renverser. Apprenez à répondre de vous-même !"
+    },
+    {
+      "locale": "fr",
+      "category": "temperament",
+      "number": 3,
+      "description": "C'est un tempérament normal. Cette personne peut avoir des relations intimes tous les jours, mais si cela est impossible, elle peut attendre sans aucun inconfort."
+    },
+    {
+      "locale": "fr",
+      "category": "spirituality",
+      "number": 3,
+      "description": "Le nombre de chiffres dans cette ligne peut être un indicateur de la spiritualité d'une personne. Nous pouvons dire que lorsqu'il y a jusqu'à cinq chiffres, la spiritualité d'une personne augmente progressivement de l'athéisme (aucun chiffre) à un niveau maximal de spiritualité (cinq chiffres). Si cette ligne contient plus de cinq chiffres (6 ou plus), alors nous pouvons parler d'une surcharge de la qualité, ce qui conduit le plus souvent au fanatisme et à l'idolâtrie, lorsque toutes les normes humaines sont déformées au-delà de la reconnaissance, allant à l'extrême. Cela ressemble davantage à un manque total de spiritualité plutôt qu'au principe divin (lutte contre les sorcières et les hérétiques avec des épées et du feu, tuant les \"infidèles\", exterminant les dissidents). Le fanatisme dans sa forme extrême est toujours athée car il n'autorise pas d'autres points de vue.\n\nEn analysant la psychomatrice, il est nécessaire de prêter attention à la relation entre les deux diagonales (carnelle et spirituelle). C'est leur relation qui jouera un rôle clé dans la force de chacune des lignes.\n\nEn évaluant la force de chaque ligne, nous pouvons dire CE QUI est important pour la personne dans son futur union matrimoniale : son intérêt pour les principes spirituels du partenaire ou le côté matériel (aspects charnels y compris les relations sexuelles).\n\nIl est préférable que les deux lignes soient présentées de manière également forte. Idéalement, le rapport des caractéristiques quantitatives d'un partenaire devrait correspondre à la caractéristique quantitative de l'autre. Par exemple, si une femme a une diagonale charnelle de 5 chiffres et une diagonale spirituelle de 4 chiffres, alors son ratio peut être noté comme 5/4. Supposons que son mari ait le ratio suivant de diagonales : charnelle – 5 chiffres et spirituelle – 2 chiffres, avec le ratio de diagonales de 5/2. La comparaison montre que pour le mari, sa femme en tant que femme représente un intérêt plus grand que sa femme en tant que personnalité. Ainsi, il ne prêtera probablement pas assez d'attention à préparer sa femme à l'intimité, car il s'intéresse davantage au corps qu'à l'âme. Dans cette situation, il est possible que la femme soit souvent contrariée par le fait que son mari ne prête pas suffisamment attention à ses besoins.\n\nLors de l'analyse d'une psychomatrice, il est important de prendre en compte que, idéalement, les rapports des diagonales devraient correspondre, ou leur différence devrait être minimale et de même signe : si le mari a une diagonale charnelle plus forte, alors la femme devrait avoir sa diagonale charnelle plus forte que sa diagonale spirituelle. Ne tentez pas d'expérimenter en créant des unions matrimoniales où l'intérêt charnel excessif d'un partenaire sera retenu par la forte spiritualité de l'autre – c'est un indicateur fort que les deux personnes sont incompatibles en tant qu'époux. L'un doit parler des choses, tandis que l'autre doit les ressentir. Dans un tel scénario, les deux personnes souffriront. Il est préférable de choisir un partenaire avec un tempérament similaire. Alors, il sera beaucoup plus facile d'avoir une compréhension mutuelle."
+    },
+    {
+      "locale": "fr",
+      "category": "purpose",
+      "number": 4,
+      "description": "Cette personne a un fort sens du but. Il fixe d'abord un objectif pour lui-même, et seulement ensuite il commence à mesurer ses capacités et le niveau d'intérêt pour l'objectif lui-même. Très souvent, cette personne atteint des objectifs qui ne correspondent pas à ses intérêts ou à ses opportunités. Nous recommandons d'étudier attentivement la psychomatrice. Ayant choisi la bonne direction, ne fixez pas la barre trop bas pour vous-même."
+    },
+    {
+      "locale": "fr",
+      "category": "family",
+      "number": 4,
+      "description": "Cette personne souhaite fonder une famille et agit sans délai. En règle générale, cette personne devient rarement celle à blâmer pour une rupture, car elle essaie toujours de réparer la relation."
+    },
+    {
+      "locale": "fr",
+      "category": "stability",
+      "number": 4,
+      "description": "Ce sont des personnes très stables. Elles s'entourent de divers attachements et habitudes, créant un environnement stable. Elles peuvent être un peu ennuyeuses dans leurs attachements. Elles n'aiment pas le changement."
+    },
+    {
+      "locale": "fr",
+      "category": "esteem",
+      "number": 4,
+      "description": "Estime de soi saine. Cette personne souhaite se démarquer de la foule et met beaucoup d'efforts à cela. La question est de savoir si ces efforts sont justifiés."
+    },
+    {
+      "locale": "fr",
+      "category": "finance",
+      "number": 4,
+      "description": "Ces personnes passent beaucoup de temps et d'efforts à subvenir aux besoins de leur famille. Souvent, c'est leur seul but dans la vie."
+    },
+    {
+      "locale": "fr",
+      "category": "talents",
+      "number": 4,
+      "description": "Plus il y a de chiffres – plus le talent est fort. Cela ne signifie pas que si cette ligne est très forte (pas plus de 5 chiffres pour éviter la surcharge), alors une personne sera certainement très talentueuse. Rappelez-vous, de nombreuses autres lignes de chiffres de la psychomatrice influencent le développement potentiel des talents d'une personne : caractère, estime de soi, sens du but, niveau d'énergie, santé, chance, et d'autres. C'est la combinaison de nombreuses caractéristiques différentes et la volonté d'une personne qui lui permettent d'atteindre ses objectifs.\n\nIl est très important d'identifier le meilleur domaine d'application pour l'énergie et les ressources d'une personne. Ne cherchez jamais à vous laisser porter par le flot de la vie. Il existe toute une liste de professions « chaudes » : avocat, banquier, cadre supérieur, économiste, etc. Toutes sont déterminées non par le talent des gens, mais par la capacité à subvenir financièrement à leurs besoins et à ceux de leurs proches. Avant de conseiller à votre enfant de choisir une profession « lucrative », réfléchissez à son avenir.\n\nIl y a tant de personnes dans ce monde qui n'ont jamais développé leurs talents. Nous ne nous tromperons probablement pas en disant que c'est vrai pour environ 90-95 % de la population mondiale. Avant de freiner le développement des intérêts de votre enfant, regardez vos chiffres et demandez-vous : avez-vous pu découvrir et développer votre potentiel et vos talents ? Si ce n'est pas le cas, alors ayez pitié de vous-même et de votre enfant, et donnez-lui l'opportunité de devenir une partie de l'Histoire de la Terre, et à vous-même – l'opportunité de l'aider à le faire.\n\nPensez simplement à pourquoi nous choisissons encore pour nos enfants de meilleures écoles, jardins d'enfants, médecins et enseignants ? Le fait est que de plus en plus souvent, les personnes douées trouvent des emplois bien rémunérés ; en même temps, les personnes qui n'investissent pas dans leur travail, qui ne s'engagent pas – ne sont pas bien payées. Donc, nous devons commencer par l'engagement, et seulement alors nous aurons de forts banquiers, managers, institutions d'État : de nombreux emplois seront occupés par des personnes engagées, responsables et qui savent ce qu'elles font. Ensuite, nous n'aurons plus de problème pour choisir quelles écoles pour nos enfants.\n\nL'essentiel est de comprendre que chaque personne est unique et répond à la mère Nature elle-même (nous l'avons déjà affirmé à plusieurs reprises, mais nous voulons que cette pensée simple soit fermement retenue). Nous sommes tous responsables de nous-mêmes et de nos enfants envers les générations futures. Chaque talent non découvert créera une chaîne entière de personnes avec un potentiel non réalisé – cela, à son tour, ramènera les gens à la barbarie, aux guerres, au terrorisme, à la haine les uns envers les autres et au désir de tout renverser. Apprenez à répondre de vous-même !"
+    },
+    {
+      "locale": "fr",
+      "category": "temperament",
+      "number": 4,
+      "description": "C'est un tempérament fort, et cette personne a besoin de relations sexuelles fréquentes."
+    },
+    {
+      "locale": "fr",
+      "category": "spirituality",
+      "number": 4,
+      "description": "Le nombre de chiffres dans cette ligne peut être un indicateur de la spiritualité d'une personne. On peut dire que lorsqu'une personne a jusqu'à cinq chiffres, sa spiritualité augmente progressivement de l'absence de spiritualité (aucun chiffre) à un niveau maximal de spiritualité (cinq chiffres). Si cette ligne contient plus de cinq chiffres (6 ou plus), alors nous pouvons parler d'une surcharge de la qualité, ce qui conduit le plus souvent au fanatisme et à l'idolâtrie, lorsque toutes les normes humaines sont déformées au-delà de la reconnaissance, allant à l'extrême. Cela ressemble davantage à un manque complet de spiritualité plutôt qu'au principe divin (lutte contre les sorcières et les hérétiques avec des épées et du feu, tuant les \"infidèles\", exterminant les dissidents). Le fanatisme sous sa forme extrême est toujours sans Dieu car il n'autorise pas d'autres points de vue.\n\nEn analysant la psychomatrice, il est nécessaire de prêter attention à la relation entre les deux diagonales (carnelle et spirituelle). C'est leur relation qui jouera un rôle clé dans la force de chacune des lignes.\n\nEn évaluant la force de chaque ligne, nous pouvons dire CE QUI est important pour la personne dans son futur union matrimoniale : son intérêt pour les principes spirituels du partenaire ou le côté matériel (aspects charnels y compris les relations sexuelles).\n\nIl est préférable que les deux lignes soient présentées également fortement. Idéalement, le rapport des caractéristiques quantitatives d'un partenaire devrait correspondre à la caractéristique quantitative de l'autre. Par exemple, si une épouse a une diagonale charnelle de 5 chiffres et une spirituelle de 4 chiffres, alors son rapport peut être noté comme 5/4. Supposons que son mari ait le rapport suivant de diagonales : charnelle – 5 chiffres et spirituelle – 2 chiffres, avec le rapport de diagonales de 5/2. La comparaison montre que pour le mari, sa femme en tant que femme représente un plus grand intérêt que sa femme en tant que personnalité. Ainsi, il ne prêtera probablement pas suffisamment attention à préparer sa femme à l'intimité, car il s'intéresse davantage au corps qu'à l'âme. Dans cette situation, il est possible que l'épouse soit souvent contrariée par le fait que son mari ne prête pas suffisamment attention à ses besoins.\n\nLors de l'analyse d'une psychomatrice, il est important de prendre en compte que, idéalement, les rapports des diagonales devraient correspondre, ou leur différence devrait être minimale et du même signe : si le mari a une diagonale charnelle plus forte, alors l'épouse devrait avoir sa diagonale charnelle plus forte que sa diagonale spirituelle. Ne tentez pas d'expérimenter la création d'unions matrimoniales où l'intérêt charnel excessif d'un partenaire sera contenu par la forte spiritualité de l'autre – c'est un indicateur fort que les deux personnes sont incompatibles en tant qu'époux. L'un doit parler des choses, tandis que l'autre doit les ressentir. Dans un tel scénario,"
+    },
+    {
+      "locale": "fr",
+      "category": "purpose",
+      "number": 5,
+      "description": "Cette personne a une ténacité de but très forte. Cela signifie qu'en fixant un objectif, cette personne peut oublier les autres personnes dans sa vie – famille, amis, proches. Il est prêt à faire de grands sacrifices pour atteindre ses objectifs à tout prix. Nous recommandons d'avoir du bon sens dans l'atteinte de vos objectifs."
+    },
+    {
+      "locale": "fr",
+      "category": "family",
+      "number": 5,
+      "description": "Ces personnes sont de très bons pères de famille. D'un autre côté, elles ont une perception idéaliste de la famille, ce qui peut finalement conduire à avoir des attentes extrêmement élevées et déraisonnables envers leur famille. La seule chose qui peut servir d'excuse est le fait qu'elles ont des attentes tout aussi élevées pour elles-mêmes. Ces personnes ne peuvent tout simplement pas exister sans une famille."
+    },
+    {
+      "locale": "fr",
+      "category": "stability",
+      "number": 5,
+      "description": "Ce sont des personnes très stables. Elles s'entourent de divers attachements et habitudes, créant un environnement stable. Elles peuvent être un peu ennuyeuses dans leurs attachements. Elles n'aiment pas le changement."
+    },
+    {
+      "locale": "fr",
+      "category": "esteem",
+      "number": 5,
+      "description": "Cette personne a une très haute estime de soi, qui peut parfois être gonflée si une personne ne travaille pas sur son développement personnel mais continue de se valoriser uniquement par ses capacités potentielles tout en les exagérant.\n"
+    },
+    {
+      "locale": "fr",
+      "category": "finance",
+      "number": 5,
+      "description": "Ces personnes consacrent beaucoup de temps et d'efforts à subvenir aux besoins de leur famille. Très souvent, c'est leur seul objectif dans la vie.\n"
+    },
+    {
+      "locale": "fr",
+      "category": "talents",
+      "number": 5,
+      "description": "Plus il y a de chiffres – plus le talent est fort. Cela ne signifie pas que si cette ligne est très forte (pas plus de 5 chiffres pour éviter une surcharge), alors une personne sera certainement très talentueuse. Rappelez-vous, de nombreuses autres lignes de chiffres de la psychomatrice affectent le développement potentiel des talents d'une personne : caractère, estime de soi, sens du but, niveau d'énergie, santé, chance, et d'autres. C'est la combinaison de nombreuses caractéristiques différentes et la volonté d'une personne qui lui permettent d'atteindre ses objectifs.\n\nIl est très important d'identifier le meilleur domaine d'application pour l'énergie et les ressources d'une personne. Ne cherchez jamais à aller avec le flux de la vie. Il existe toute une liste de professions « chaudes » : avocat, banquier, cadre supérieur, économiste, etc. Toutes sont déterminées non par le talent des gens, mais par la capacité à subvenir financièrement à leurs besoins et à ceux de leurs proches. Avant de conseiller à votre enfant de choisir la profession « lucrative », réfléchissez à son avenir.\n\nIl y a tant de personnes dans ce monde qui n'ont jamais développé leurs talents. Nous ne nous tromperons probablement pas en disant que cela est vrai pour environ 90-95 % de la population mondiale. Avant de freiner le développement des intérêts de votre enfant, regardez vos chiffres et demandez-vous : avez-vous été capable de découvrir et de développer votre potentiel et vos talents ? Si ce n'est pas le cas, alors ayez pitié de vous-même et de votre enfant, et donnez-lui l'opportunité de devenir une partie de l'Histoire de la Terre, et à vous – l'opportunité de l'aider à le faire.\n\nPensez simplement à pourquoi nous choisissons encore pour nos enfants de meilleures écoles, des jardins d'enfants, des médecins et des enseignants ? Le fait est que de plus en plus souvent, les personnes douées trouvent des emplois bien rémunérés ; en même temps, les personnes qui n'investissent pas dans leur travail, qui ne s'engagent pas – ne sont pas bien payées. Donc, nous devons commencer par l'engagement, et seulement alors nous aurons de forts banquiers, managers, institutions d'État : de nombreux emplois seront occupés par des personnes engagées, responsables et qui savent ce qu'elles font. Alors, nous n'aurons plus de problème de choix d'écoles pour nos enfants.\n\nL'essentiel est de comprendre que chaque personne est unique et répond à la mère Nature elle-même (nous l'avons déjà affirmé à plusieurs reprises, mais nous voulons que cette pensée simple soit fermement mémorisée). Nous sommes tous responsables de nous-mêmes et de nos enfants envers les générations futures. Chaque talent non découvert créera une chaîne entière de personnes avec un potentiel non réalisé – cela, à son tour, ramènera les gens à la barbarie, aux guerres, au terrorisme, à la haine les uns envers les autres et au désir de tout renverser. Apprenez à répondre de vous-même !"
+    },
+    {
+      "locale": "fr",
+      "category": "temperament",
+      "number": 5,
+      "description": "C'est le sommet du tempérament – cette personne ne peut pas vivre sans intimité. Elle se soucie de qui elle a des relations intimes. Elle ne peut pas éteindre ses émotions et a besoin de la passion de son partenaire. Cette personne perçoit les relations sexuelles comme un art."
+    },
+    {
+      "locale": "fr",
+      "category": "spirituality",
+      "number": 5,
+      "description": "Le nombre de chiffres dans cette ligne peut être un indicateur de la spiritualité d'une personne. Nous pouvons dire qu'avec jusqu'à cinq chiffres, la spiritualité d'une personne augmente progressivement de l'athéisme (pas de chiffres) à un niveau maximal de spiritualité (cinq chiffres). Si cette ligne contient plus de cinq chiffres (6 ou plus), alors nous pouvons parler d'une surcharge de qualité, ce qui conduit le plus souvent au fanatisme et à l'idolâtrie, lorsque toutes les normes humaines sont déformées au-delà de toute reconnaissance, allant à l'extrême. Cela ressemble davantage à un manque total de spiritualité plutôt qu'au principe divin (lutter contre les sorcières et les hérétiques avec des épées et du feu, tuer les \"infidèles\", exterminer les dissidents). Le fanatisme dans sa forme extrême est toujours athée car il ne permet pas d'autres points de vue.\n\nEn analysant la psychomatrice, vous devez prêter attention à la relation entre les deux diagonales (carnelle et spirituelle). C'est leur relation qui jouera un rôle clé dans la force de chacune des lignes.\n\nEn évaluant la force de chaque ligne, nous pouvons dire CE qui est important pour la personne dans son futur union matrimoniale : son intérêt pour les principes spirituels du partenaire ou le côté matériel (aspects charnels y compris les relations sexuelles).\n\nIl est préférable que les deux lignes soient présentées de manière également forte. Idéalement, le rapport des caractéristiques quantitatives d'un partenaire devrait correspondre à la caractéristique quantitative de l'autre. Par exemple, si une épouse a une diagonale charnelle de 5 chiffres et une spirituelle de 4 chiffres, alors son ratio peut être noté comme 5/4. Supposons que son mari ait le rapport suivant de diagonales : charnelle – 5 chiffres et spirituelle – 2 chiffres, avec le rapport de diagonales de 5/2. La comparaison montre que pour le mari, sa femme en tant que femme représente un plus grand intérêt que sa femme en tant que personnalité. Donc, il ne prêtera probablement pas assez d'attention à préparer sa femme pour l'intimité, car il est plus intéressé par le corps que par l'âme. Dans cette situation, il est possible que l'épouse soit souvent contrariée par le fait que son mari ne prête pas assez attention à ses besoins.\n\nLors de l'analyse d'une psychomatrice, il est important de prendre en compte que, idéalement, les rapports des diagonales devraient correspondre, ou leur différence devrait être minimale et du même signe : si le mari a une diagonale charnelle plus forte, alors l'épouse devrait avoir sa diagonale charnelle plus forte que sa diagonale spirituelle. Ne tentez pas d'expérimenter en créant des unions matrimoniales où l'intérêt charnel excessif d'un partenaire sera réprimé par la forte spiritualité de l'autre – c'est un indicateur fort que les deux personnes sont incompatibles en tant qu'époux. L'un doit parler des choses, tandis que l'autre doit les ressentir. Dans un tel scénario, les deux personnes souffriront. Il est préférable de choisir un partenaire avec un tempérament similaire. Alors, il sera beaucoup plus facile d'avoir une compréhension mutuelle."
+    },
+    {
+      "locale": "fr",
+      "category": "purpose",
+      "number": 6,
+      "description": "C'est une surcharge d'un trait de caractère. Une personne se fixe des objectifs ambitieux pour elle-même ou plusieurs objectifs en même temps, ce qui entrave son progrès."
+    },
+    {
+      "locale": "fr",
+      "category": "family",
+      "number": 6,
+      "description": "La qualité d'un « homme de famille » est surchargée, ce qui signifie l'affaiblissement de cette qualité. L'explication ici est simple : ces personnes cherchent leur idéal pendant très longtemps, ce qui entraîne des obstacles à la création d'une famille."
+    },
+    {
+      "locale": "fr",
+      "category": "stability",
+      "number": 6,
+      "description": "C'est une surcharge de qualité. Cette fois, une surcharge de stabilité. Une personne cherche à s'entourer d'une telle abondance d'habitudes qu'elle commence à les abandonner dès qu'elles interfèrent avec sa vie. On peut dire que cette personne lutte contre sa propre stabilité."
+    },
+    {
+      "locale": "fr",
+      "category": "esteem",
+      "number": 6,
+      "description": "Surestimer ses talents et capacités conduit au fait qu'une personne, tout en étant occupée à se vanter, oublie ses véritables capacités et se concentre davantage sur des choses superficielles plutôt que sur ses ressources internes. De telles personnes, en général, n'atteignent jamais leurs objectifs, ayant dépensé tout leur ardeur à charmer la foule qui admire leurs qualités superficielles et leur apparence."
+    },
+    {
+      "locale": "fr",
+      "category": "finance",
+      "number": 6,
+      "description": "C'est un excès d'un trait de caractère. Cette personne commence à travailler très dur et intensivement jusqu'à ce qu'elle s'épuise rapidement et ne puisse tout simplement pas continuer. Cette personne prend en charge beaucoup de choses différentes, s'étalant trop, créant une illusion de travail."
+    },
+    {
+      "locale": "fr",
+      "category": "talents",
+      "number": 6,
+      "description": "Plus il y a de chiffres – plus le talent est fort. Cela ne signifie pas que si cette ligne est très forte (pas plus de 5 chiffres pour éviter la surcharge), alors une personne sera certainement très talentueuse. Rappelez-vous, de nombreuses autres lignes de chiffres de la psychomatrice affectent le développement potentiel des talents d'une personne : caractère, estime de soi, sens du but, niveau d'énergie, santé, chance, et d'autres. C'est la combinaison de nombreuses caractéristiques différentes et de la volonté d'une personne qui lui permet d'atteindre ses objectifs.\n\nIl est très important d'identifier le meilleur domaine d'application de l'énergie et des ressources d'une personne. Ne cherchez jamais à vous déplacer avec le courant de la vie. Il existe toute une liste de professions « chaudes » : avocat, banquier, cadre supérieur, économiste, etc. Toutes sont déterminées non par le talent des gens, mais par leur capacité à subvenir financièrement à leurs besoins et à ceux de leurs proches. Avant de conseiller à votre enfant de choisir la profession « lucrative », pensez à son avenir.\n\nIl y a tant de personnes dans ce monde qui n'ont jamais développé leurs talents. Nous ne nous tromperons probablement pas en disant que c'est vrai pour environ 90-95 % de la population mondiale. Avant de freiner le développement des intérêts de votre enfant, regardez vos chiffres et demandez-vous : avez-vous été capable de découvrir et de développer votre potentiel et vos talents ? Si ce n'est pas le cas, alors ayez pitié de vous-même et de votre enfant, et donnez-lui l'opportunité de devenir une partie de l'Histoire de la Terre, et à vous-même – l'opportunité de l'aider à le faire.\n\nPensez simplement à pourquoi nous choisissons encore pour nos enfants de meilleures écoles, jardins d'enfants, médecins et enseignants ? Le fait est que de plus en plus souvent, les personnes douées trouvent des emplois bien rémunérés ; en même temps, les personnes qui n'investissent pas dans leur travail, qui ne s'engagent pas – ne sont pas bien payées. Donc, nous devons commencer par l'engagement, et seulement alors nous aurons de forts banquiers, managers, institutions d'État : de nombreux emplois seront occupés par des personnes engagées, responsables et qui savent ce qu'elles font. Alors, nous n'aurons plus de problème sur quelles écoles choisir pour nos enfants.\n\nL'essentiel est de comprendre que chaque personne est unique et répond à la mère Nature elle-même (nous l'avons déjà affirmé à plusieurs reprises, mais nous voulons que cette simple pensée soit fermement retenue). Nous sommes tous responsables de nous-mêmes et de nos enfants envers les générations futures. Chaque talent non découvert créera une chaîne entière de personnes avec un potentiel non réalisé – cela, à son tour, ramènera les gens à la barbarie, aux guerres, au terrorisme, à la haine les uns envers les autres et au désir de tout renverser. Apprenez à répondre de vous-même !"
+    },
+    {
+      "locale": "fr",
+      "category": "temperament",
+      "number": 6,
+      "description": "Cela signifie une surcharge. Une personne commence à rechercher la variété et la nouveauté si activement qu'elle perd la raison et la mesure dans le processus, ce qui conduit finalement à la froideur et à l'insatisfaction dans l'intimité."
+    },
+    {
+      "locale": "fr",
+      "category": "spirituality",
+      "number": 6,
+      "description": "Le nombre de chiffres dans cette ligne peut être un indicateur de la spiritualité d'une personne. Nous pouvons dire que lorsqu'une personne a jusqu'à cinq chiffres, sa spiritualité augmente progressivement de l'athéisme (aucun chiffre) à un niveau maximal de spiritualité (cinq chiffres). Si cette ligne contient plus de cinq chiffres (6 ou plus), alors nous pouvons parler d'une surcharge de la qualité, qui conduit le plus souvent au fanatisme et à l'idolâtrie, lorsque toutes les normes humaines sont déformées au-delà de la reconnaissance, allant à l'extrême. Cela ressemble davantage à un manque complet de spiritualité plutôt qu'au principe divin (lutter contre les sorcières et les hérétiques avec des épées et du feu, tuer les \"infidèles\", exterminer les dissidents). Le fanatisme dans sa forme extrême est toujours athée car il n'autorise pas d'autres points de vue.\n\nEn analysant la psychomatrice, il est nécessaire de prêter attention à la relation entre les deux diagonales (carnelle et spirituelle). C'est leur relation qui jouera un rôle clé dans la force de chacune des lignes.\n\nEn évaluant la force de chaque ligne, nous pouvons dire CE QUI est important pour la personne dans son futur union matrimoniale : son intérêt pour les principes spirituels du partenaire ou le côté matériel (aspects charnels y compris les relations sexuelles).\n\nIl est préférable que les deux lignes soient présentées de manière également forte. Idéalement, le rapport des caractéristiques quantitatives d'un partenaire devrait correspondre à la caractéristique quantitative de l'autre. Par exemple, si une épouse a une diagonale charnelle de 5 chiffres et une spirituelle de 4 chiffres, alors son rapport peut être noté comme 5/4. Supposons que son mari ait le rapport suivant de diagonales : charnelle – 5 chiffres et spirituelle – 2 chiffres, avec le rapport de diagonales de 5/2. La comparaison montre que pour le mari, sa femme en tant que femme représente un plus grand intérêt que sa femme en tant que personnalité. Ainsi, il ne prêtera probablement pas assez d'attention à préparer sa femme à l'intimité, car il s'intéresse davantage au corps qu'à l'âme. Dans cette situation, il est possible que l'épouse soit souvent contrariée par le fait que son mari ne prête pas assez attention à ses besoins.\n\nLors de l'analyse d'une psychomatrice, il est important de prendre en compte qu'idéalement, les rapports des diagonales devraient correspondre, ou leur différence devrait être minimale et du même signe : si le mari a une diagonale charnelle plus forte, alors l'épouse devrait avoir sa diagonale charnelle plus forte que sa diagonale spirituelle. Ne tentez pas d'expérimenter la création d'unions matrimoniales où l'intérêt charnel excessif d'un partenaire sera réprimé par la forte spiritualité de l'autre – c'est un indicateur fort que les deux personnes sont incompatibles en tant qu'époux. L'un doit parler des choses, tandis que l'autre doit les ressentir. Dans un tel scénario, les deux personnes souffriront. Il est préférable de choisir un partenaire avec un tempérament similaire. Alors, il sera beaucoup plus facile d'avoir une compréhension mutuelle."
+    }
+  ],
+  "translated": true
+}

@@ -1,0 +1,66 @@
+{
+  "table": "life_graph",
+  "source_locale": "en",
+  "target_locale": "de",
+  "source_language": "English",
+  "target_language": "German",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "number": 0,
+      "description": "Eine kleine Versorgung mit vitaler Energie, eine Person benötigt die Hilfe anderer Menschen, daher sucht sie nach neuer Energie. Die Krise im menschlichen Leben, Schwierigkeiten oder schwere Krankheiten. Manchmal steht eine Person am Rande des Todes. Die Mitte des Diagramms - kann plötzlichen Tod bedeuten, das Ende des Diagramms - eine lange Krankheit."
+    },
+    {
+      "locale": "de",
+      "number": 1,
+      "description": "Eine Person kontrolliert unabhängig ihr Schicksal und wartet nicht auf Hilfe von anderen Menschen. Die vitale Energie ist sehr gering, daher werden die Menschen schnell müde. Wenn der frühe Zeitplan - bedeutet dies die Geburt unter ungünstigen Bedingungen und in dysfunktionalen Familien. Laut dem Diagramm befindet sich die Kurve in der Mitte und am Ende - Armut, Verlust des Interesses am Leben, Krankheit und Depression."
+    },
+    {
+      "locale": "de",
+      "number": 2,
+      "description": "Ungewissheit und eine pessimistische Sicht auf die Zukunft. Verlust von Energie durch eine schlechte Lebensphase. Der graue Balken im Leben."
+    },
+    {
+      "locale": "de",
+      "number": 3,
+      "description": "Wechselseitige Beziehungen und Energieaustausch mit anderen Menschen, aber erfordert harte Arbeit. Die finanzielle Situation verbessert sich nicht und es gibt keine Karriere."
+    },
+    {
+      "locale": "de",
+      "number": 4,
+      "description": "Gute Gesundheit und positive Stimmung. Manifestation von Talent, hohe Arbeitskapazität, aber es gibt keine Möglichkeit, eine Führungsposition zu übernehmen. Das Leben ist interessant und ohne Probleme."
+    },
+    {
+      "locale": "de",
+      "number": 5,
+      "description": "Häufiger Ortswechsel, Reisen und das Treffen neuer Menschen. Es besteht der Wunsch, Liebe zu teilen und im Rampenlicht zu stehen, aber in der Familie können Missverständnisse mit dem geliebten Menschen auftreten."
+    },
+    {
+      "locale": "de",
+      "number": 6,
+      "description": "Gute Arbeit, neue Bekanntschaften mit Menschen und Ausdruck von Talent. Hohe vitale Energie und viele Pläne für die Zukunft."
+    },
+    {
+      "locale": "de",
+      "number": 7,
+      "description": "Gute und stabile Beziehungen in der Familie und Respekt vor Kollegen. Große Pläne für die Zukunft und die Fähigkeit, ihre Ideen zu verwirklichen. Der Mensch ist in der Lage, Kompromisse einzugehen und seine Meinungen zu verteidigen. Die Manifestation esoterischer Fähigkeiten."
+    },
+    {
+      "locale": "de",
+      "number": 8,
+      "description": "Die Person ist in der Lage, ein robotisches Kollektiv zu führen, kann andere Menschen beeinflussen und komplexe Probleme lösen. Eine Person mit großem Energiepotenzial, es gibt einen Energieaustausch mit anderen und die Fähigkeit, mehrere Schritte voraus zu sein. Hohe esoterische Fähigkeit. Der Mensch erzielt hohe Ergebnisse in der Karriere, Erfolg im Geschäft und eine gute finanzielle Lage."
+    },
+    {
+      "locale": "de",
+      "number": 9,
+      "description": "Einsamkeit mit großer spiritueller Energie. Mehr Aufmerksamkeit gilt spirituellen Gütern als den materiellen Dingen. Eine Person interessiert sich nicht für neue Technologien, sondern für einen guten Lehrer und Psychologen. Fähig, Menschen in die richtige vitale Richtung zu lenken. Ein hohes Maß an spirituellem Wissen und Respekt für Menschen."
+    }
+  ],
+  "translated": true
+}

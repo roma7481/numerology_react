@@ -1,0 +1,61 @@
+{
+  "table": "lucky_gem",
+  "source_locale": "en",
+  "target_locale": "es",
+  "source_language": "English",
+  "target_language": "Spanish",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "es",
+      "number": 1,
+      "description": "El rubí es tu gema de la suerte. \n\nHistóricamente, los rubíes son piedras preciosas que se asociaron con la realeza y la riqueza. Incluso hoy en día, el rubí es un poco costoso. Aun así, vale la pena tener uno entre tus piedras de sanación. \n\nLos rangos de color del cristal de rubí son rosas, rojos profundos y rojo anaranjado. El rubí se identifica comúnmente con el `chakra raíz` debido a sus matices rojizos, pero también se puede utilizar de manera bastante efectiva para estimular energéticamente el `chakra del corazón`. El rubí se puede usar para reforzar cualquier fuga que ocurra en el sistema de `chakras`. Si te sientes bajo energéticamente, podría ser un indicador de que tus energías vitales están escapando a través de rupturas en el `campo áurico`. El rubí no solo puede ayudar a reparar fugas, sino que también puede desbloquear bloqueos que están causando estancamiento. Equilibra al crear movimiento, permitiendo que las energías fluyan de manera más libre y positiva."
+    },
+    {
+      "locale": "es",
+      "number": 2,
+      "description": "La perla es tu gema más favorable.\n\nLa perla es una piedra que atraerá suerte y riqueza. Te traerá energías de prosperidad y abundancia. Tener esta piedra contigo también atraerá éxito, fortuna y fama.\n\nTambién te volverás más práctico en tus elecciones y decisiones, especialmente cuando se trate de dinero, finanzas o negocios.\n\nDebido a que hay un simbolismo de perla tan fuerte tanto en nuestra cultura como en muchas otras culturas alrededor del mundo, usarlas ayuda a darte la presentación de alguien exitoso, poderoso y prestigioso."
+    },
+    {
+      "locale": "es",
+      "number": 3,
+      "description": "La amatista es tu gema de la suerte.\n\nLa amatista, junto con la amazonita, es una de las pocas piedras preciosas con el propósito específico de mejorar el pensamiento intelectual y cerebral.\n\nDescubrirás que mantener un cristal de amatista cerca, ya sea en el hogar, en una pieza de joyería o en tu bolsillo, no puede evitar mantener tu mente clara.\n\nLas complejidades del mundo moderno hacen que sea tan fácil para incluso los más brillantes y mejores de nosotros caer en la temida niebla mental, pero la amatista puede ayudar a mantener todo en orden, por así decirlo.\n\nEs como si las energías del cristal pudieran despejar los velos que de otro modo nublarían el buen juicio y el pensamiento directo.\n\nVale la pena recordar que la amatista obtuvo su nombre de la palabra griega antigua que significa “no intoxicado”.\n\nSe decía que prevenía la embriaguez, y que su brillante color provenía del dios del vino, Dionisio, derramando su vino sobre un cristal claro en señal de luto.\n\nDebido a esto, se ha dicho durante mucho tiempo que la amatista promueve la sobriedad, tanto en el sentido literal de prevenir la embriaguez, como en el sentido metafórico de desarrollar la capacidad de pensar más claramente y no estar nublado por emociones de ningún tipo específico."
+    },
+    {
+      "locale": "es",
+      "number": 4,
+      "description": "El zafiro es tu gema más favorita.\n\nEl zafiro es un gran cristal que te ayudará a convertirte en un muy buen orador. Tus palabras resonarán con todos con los que hables o frente a los que te presentes.\n\nSonarán fuerte y claras, y tu significado será fácilmente entendido por tus oyentes.\n\nEl zafiro te mostrará cómo puedes ser más seguro acerca de tu conocimiento y tus propias opiniones.\n\nTe resultará más fácil compartir tus puntos de vista y expresar tus pensamientos.\n\nEl zafiro traerá un sentido más fuerte de interconexión.\n\nLas energías de este cristal trabajarán con tu aura para que puedas alcanzar una comprensión y conciencia más profundas.\n\nCuando trabajes con este cristal de manera regular, mejorarás tu conexión con tus ángeles guardianes y guías espirituales."
+    },
+    {
+      "locale": "es",
+      "number": 5,
+      "description": "El diamante es tu gema de la suerte.\n\nDicen que los diamantes son el mejor amigo de una chica, y esta piedra brillante ha estado asociada durante mucho tiempo con matrimonios y compromisos, pero también puede ser utilizada en rituales que tratan problemas de fertilidad y salud reproductiva, incluyendo disfunción sexual. Ligado tanto al aire como al fuego, con un fuerte vínculo con el sol, los diamantes son típicamente claros pero a veces tienen vetas amarillas. Es raro encontrar uno que sea verdaderamente perfecto. Los diamantes también pueden ser utilizados para trabajos relacionados con el viaje astral y la adivinación, la meditación y la intuición."
+    },
+    {
+      "locale": "es",
+      "number": 6,
+      "description": "Esmeralda como tu gema de la suerte.\n\nLa esmeralda es la piedra del corazón porque simboliza la misericordia, la compasión y el amor universal. Representa todas las cosas maravillosas en este mundo y cómo todas están interconectadas con amor.\n\nEsta piedra promoverá el equilibrio físico, emocional, mental y espiritual.\n\nCuando todo está alineado y armonioso, puedes disfrutar de una existencia más ligera y iluminadora.\n\nLa esmeralda aumentará los niveles de energía en tu cuerpo y mejorará el flujo de energía entre los chakras inferiores y superiores.\n\nTambién te ayudará a manifestar una existencia pacífica y amorosa.\n\nTe mostrará cómo puedes mantenerte feliz y realizado simplemente siendo tú mismo.\n\nEl color verde de la esmeralda encarna el respeto que debes tener por la vida y por la creación.\n\nEsto te dará un sentido más fuerte de responsabilidad para solo obtener lo que necesitas y devolver lo que has tomado para que el equilibrio no se vea interrumpido.\n\nLas energías de esta piedra te inspirarán a vivir de una manera más armoniosa, generosa, considerada y amorosa."
+    },
+    {
+      "locale": "es",
+      "number": 7,
+      "description": "El Ojo de Gato es tu gema de la suerte.\n\nLos poderes planetarios que abarca la piedra de ojo de gato la hacen efectiva y rápida en sus resultados. Es una piedra que representa la disciplina, la concentración y la capacidad de aprendizaje en su portador.\n\nSe recomienda encarecidamente llevar la gema de ojo de gato para ahuyentar los males de tu vida. Actúa como un talismán o una fuerza psíquica para protegerte de cualquier peligro imprevisto.\n\nLa piedra de ojo de gato natural trae riqueza y prosperidad a la vida. Según la astrología védica, esta gema también puede ayudarte a recuperar tu riqueza perdida por cualquier medio.\n\nIncluso los negocios en declive pueden recuperarse con la ayuda de las propiedades de la gema de ojo de gato. Es una gema que te asegura éxito profesional.\n\nTe lleva por el camino del despertar espiritual como un evangelista. Además, la gema de ojo de gato ayuda a uno a aislarse de los placeres y deseos mundanos.\n\nLas propiedades de la gema de ojo de gato también incluyen sus excepcionales poderes curativos que pueden estimular el chakra de la corona en tu cuerpo. Esta gema te ayuda a recuperarte de condiciones post-traumáticas. También puede ayudar en la sanación del cáncer.\n\nEn su forma pura y natural, la piedra de ojo de gato te alivia de la ansiedad y el estrés. Te brinda esperanza y una actitud positiva hacia la vida.\n\nEl ojo de gato también puede otorgarte confianza en ti mismo y creatividad. Mejora la memoria y amplía tu perspectiva en la vida."
+    },
+    {
+      "locale": "es",
+      "number": 8,
+      "description": "El Diamante es tu gema de la suerte.\n\nDicen que los diamantes son el mejor amigo de una chica, y esta piedra brillante ha estado asociada durante mucho tiempo con matrimonios y compromisos, pero también puede ser utilizada en rituales que tratan problemas de fertilidad y salud reproductiva, incluyendo disfunción sexual. Vinculado tanto al aire como al fuego, con un fuerte vínculo con el sol, los diamantes son típicamente claros pero a veces están veteados de amarillo. Es raro encontrar uno que sea verdaderamente perfecto. Los diamantes también pueden ser utilizados para trabajos relacionados con el viaje astral y la adivinación, la meditación y la intuición."
+    },
+    {
+      "locale": "es",
+      "number": 9,
+      "description": "El Coral como tu gema de la suerte.\n\nEl coral es conocido como la piedra de la paz y la transformación.\n\nTambién se le llama Jardín Marino debido a lo mucho que se parece a una planta.\n\nCuando trabajas con las energías del océano, como las que sostiene esta piedra, recibirás protección contra la negatividad y las influencias malignas.\n\nEsta piedra te ayudará a liberar pensamientos y emociones poco saludables.\n\nTe ayudará a disipar cualquier fealdad o debilidad que puedas sentir para que tu yo interior se transforme de nuevo.\n\nEl coral te apoyará en tu período de cambio y transformación.\n\nTe mostrará cómo deberías valorar el pasado pero no dudar en abrazar el futuro.\n\nTe hará darte cuenta de que son en tus luchas y dificultades donde encontrarás el mejor tipo de lecciones y experiencias.\n\nEl coral también te recordará que necesitas nadar en los océanos de la vida si deseas ver lo que hay en el horizonte.\n\n¡Atrapa tantas olas como puedas y ábrete a nuevas experiencias!\n\nLas energías del coral disuadirán cualquier tipo de pensamiento negativo. Promoverá la honestidad, la veracidad y la positividad.\n\nTe alentará a tener una perspectiva más positiva sobre la vida, incluso cuando estés atravesando tus propias dificultades.\n\nEl coral te recordará formar opiniones saludables y equilibradas sobre diferentes asuntos.\n\nLas energías de esta piedra también te recordarán ser ingenioso y creativo cuando se trata de diferentes situaciones y resolver tus problemas personales o profesionales.\n\nLas energías curativas del coral también varían dependiendo de los matices del coral, pero tiene mucha energía que te evitará caer en la depresión."
+    }
+  ],
+  "translated": true
+}

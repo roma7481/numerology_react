@@ -1,0 +1,61 @@
+{
+  "table": "love_compatibility",
+  "source_locale": "ru",
+  "target_locale": "pt",
+  "source_language": "Russian",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "number": 1,
+      "description": "O número de compatibilidade do seu par é 1\n\nRelações harmoniosas, mas possíveis desavenças sobre quem será o líder do casal.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    },
+    {
+      "locale": "pt",
+      "number": 2,
+      "description": "O número de compatibilidade do seu par é 2\n\nUma união forte e equilibrada, baseada no benefício mútuo das relações para cada parceiro.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    },
+    {
+      "locale": "pt",
+      "number": 3,
+      "description": "O número de compatibilidade do seu par é 3\n\nRelações cheias de calor e ternura, mas há risco de traições e problemas relacionados à desconfiança.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    },
+    {
+      "locale": "pt",
+      "number": 4,
+      "description": "O número de compatibilidade do seu par é 4\n\nUma boa união, ambos os parceiros se preocupam um com o outro, o que permite que o relacionamento dure muito tempo.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    },
+    {
+      "locale": "pt",
+      "number": 5,
+      "description": "O número de compatibilidade do seu par é 5\n\nRelações vibrantes, cheias de paixão. Podem ocorrer problemas devido ao egoísmo excessivo de um dos parceiros.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    },
+    {
+      "locale": "pt",
+      "number": 6,
+      "description": "O número de compatibilidade do seu par é 6\n\nUma união feliz. As relações são sustentadas pela amizade, respeito mútuo e confiança.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    },
+    {
+      "locale": "pt",
+      "number": 7,
+      "description": "O número de compatibilidade do seu par é 7\n\nUma união bem-sucedida, os parceiros se apoiam mutuamente, estão ligados por interesses e paixões comuns.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    },
+    {
+      "locale": "pt",
+      "number": 8,
+      "description": "O número de compatibilidade do seu par é 8\n\nUma união forte, mas é possível que um dos parceiros manipule o outro. Para evitar sofrimentos, demonstre sinceridade e respeito um pelo outro.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    },
+    {
+      "locale": "pt",
+      "number": 9,
+      "description": "O número de compatibilidade do seu par é 9\n\nRelações normais e saudáveis. Para manter a estabilidade e evitar brigas, preste a devida atenção à área financeira.\n\nO número de compatibilidade depende da data de nascimento do seu parceiro."
+    }
+  ],
+  "translated": true
+}

@@ -1,0 +1,71 @@
+{
+  "table": "potential_number",
+  "source_locale": "es",
+  "target_locale": "it",
+  "source_language": "Spanish",
+  "target_language": "Italian",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "it",
+      "number": 1,
+      "description": "Un numero uno, riceverà un'opportunità di comandare. Sarà molto indipendente, creativo, originale e attivo. Può essere un precursore in un nuovo campo. Sarà ambizioso, astuto e aggressivo. Deve evitare di essere testardo e dominante. Per ulteriori dettagli, vedere il numero uno in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 2,
+      "description": "Un numero due ha le qualità di un diplomatico, può marciare con gli altri e farli cooperare con lui. Gli piace collezionare e raccogliere dati. Ama le biblioteche e i musei e la sua inclinazione è spirituale o religiosa. Per ulteriori dettagli, vedere il numero due in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 3,
+      "description": "Un numero tre è auto-espressivo e ha un buon senso dell'umorismo. È creativo e ha una grande immaginazione. Non deve perdere tempo disperdendo il suo talento. Deve lavorare sotto un obiettivo ben definito. Per ulteriori dettagli, vedere il numero tre in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 4,
+      "description": "Dovrà gettare fondamenta pratiche per concretizzare i suoi obiettivi. La sua tenacia di scopo, unita alla sua simpatia e onestà, sarà di grande aiuto in ciò che fa. Generalmente si orienta verso scopi scientifici o religiosi, ma di natura ortodossa e non da un nuovo punto di vista. Per ulteriori dettagli, vedere il numero quattro in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 5,
+      "description": "Potenzialmente la ricerca costante di esperienze conduce a nuovi e produttivi progetti, anche lontano da casa. Tuttavia, queste attività dovranno essere indirizzate verso il miglioramento e il progresso del pubblico in generale. Per ulteriori dettagli, vedere il numero cinque in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 6,
+      "description": "Il numero potenziale sei è impersonale. Il suo servizio è più legato al lavoro comunitario che alla sua famiglia immediata. Tuttavia, può avere comodità domestiche, poiché lo proteggono e lo amano bene, e ha soddisfazione finanziaria. Avrà ancora bisogno di assumere la responsabilità, poiché è il padre cosmico. Un numero potenziale sei possiede tutti gli strumenti del trionfo. Per ulteriori dettagli, vedere il numero sei in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 7,
+      "description": "Un numero potenziale sette insegue instancabilmente fini mentali e spirituali, anche in modo inconscio. È un buon educatore poiché le sue conoscenze acquisite attraverso lo studio di se stesso e l'esperienza di vita lo rendono degno di una saggezza superiore. Può scrivere su temi metafisici o filosofici attraverso l'inventiva pratica, scientifica e insolita. Se un numero di potere sette è al di sotto del suo livello di sviluppo, può diventare introverso. Per maggiori dettagli, vedere numero sette in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 8,
+      "description": "Un numero otto avrà bisogno di essere rigoroso con se stesso poiché la sua capacità esecutiva lo richiede. Ha l'opportunità latente in ogni momento di essere riconosciuto per i suoi successi e il suo servizio. Sebbene possa sentirsi attratto verso il settore immobiliare, il suo obiettivo è supervisionare e dirigere affari altrui. Per maggiori dettagli, vedere numero otto in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 9,
+      "description": "I campi del teatro, della letteratura, delle arti, della filantropia e del servizio disinteressato sono le sue espressioni di potere, poiché è un grande fratello dell'umanità e con una grande visione del futuro. Tuttavia, deve lottare per una vita impersonale, poiché se esige ciò che dà potrebbe risultargli contrario. Il disinteresse dovrà essere la linea retta nel cammino da seguire. Per maggiori dettagli, vedere numero nove in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 11,
+      "description": "La leadership è la sua espressione potente. Generalmente è attratto verso il palco. Molti idealisti, come leader religiosi ed evangelizzatori, sono stati, sono e saranno in un novanta percento numeri di potere undici. Il campo dell'aviazione, dell'elettricità, della televisione o dell'invenzione appartiene al dieci percento rimanente. Un numero undici poco sviluppato possiede gli stessi impulsi di potere di un numero due. Per ulteriori dettagli, vedere numero undici in \"significati dei numeri del nome completo\"."
+    },
+    {
+      "locale": "it",
+      "number": 22,
+      "description": "Se hai gettato buone fondamenta, il riconoscimento per il tuo lavoro è internazionale. È costruttore, pratico e idealista. Gli statisti, gli ambasciatori e coloro che si appellano al bene mondiale sono potenzialmente numeri ventidue. Tuttavia, nel lavorare per il bene delle masse non si deve trascurare il bene personale. Negli non evoluti, le caratteristiche di potere sono sotto l'influenza di un numero quattro. Per ulteriori dettagli, vedere numero ventidue in \"significati dei numeri del nome completo\"."
+    }
+  ],
+  "translated": true
+}

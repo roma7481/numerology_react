@@ -1,0 +1,353 @@
+{
+  "table": "psychomatrix_lines",
+  "source_locale": "en",
+  "target_locale": "it",
+  "source_language": "English",
+  "target_language": "Italian",
+  "key_columns": [
+    "category",
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "it",
+      "category": "purpose",
+      "number": 0,
+      "description": "Questa persona non si pone alcun obiettivo o scopo per se stessa, sperando in una fortuna o facendo affidamento su altre persone nella vita. Puoi facilmente cambiare idea a una persona del genere e costringerla ad abbandonare i suoi piani."
+    },
+    {
+      "locale": "it",
+      "category": "family",
+      "number": 0,
+      "description": "Questa persona non è un uomo di famiglia. Ciò significa che la sua famiglia non è affatto una priorità nella vita. Queste persone, di norma, non hanno fretta di mettere su famiglia, poiché sono più interessate al lavoro, alla carriera, alla vita sociale, ecc."
+    },
+    {
+      "locale": "it",
+      "category": "stability",
+      "number": 0,
+      "description": "Questa persona è rivoluzionaria nello spirito. Cerca di cambiare tutto ciò che lo circonda: cambia il suo ambiente, il suo posto di lavoro. Mette in discussione praticamente tutto, cercando di cambiare tutti e tutto."
+    },
+    {
+      "locale": "it",
+      "category": "esteem",
+      "number": 0,
+      "description": "Possiamo dire che questa persona ha bassa autostima e sottovaluta le proprie capacità. Con tre cifre, può a volte avere \"momenti di chiarezza\", ma è ancora molto insicuro di sé."
+    },
+    {
+      "locale": "it",
+      "category": "finance",
+      "number": 0,
+      "description": "Questa persona non vuole sostenersi finanziariamente e può facilmente approfittare dei genitori, della moglie o del marito. Questa linea non presenta alcun pericolo speciale per le donne, poiché è comune quando un marito diventa il principale breadwinner della famiglia."
+    },
+    {
+      "locale": "it",
+      "category": "talents",
+      "number": 0,
+      "description": "Più cifre – più forte è il talento. Questo non significa che se questa linea è molto forte (non più di 5 cifre per evitare sovraccarico), allora una persona sarà certamente molto talentuosa. Ricorda, molte altre linee di cifre della psicomatrice influenzano lo sviluppo potenziale dei talenti di una persona: carattere, autostima, senso di scopo, livello di energia, salute, fortuna e altri. È la combinazione di molte caratteristiche diverse e la forza di volontà di una persona che gli permettono di raggiungere i suoi obiettivi.\n\nÈ molto importante identificare il miglior ambito di applicazione per l'energia e le risorse di una persona. Non cercare mai di muoverti con il flusso della vita. Esiste un intero elenco di professioni \"calde\": avvocato, banchiere, top manager, economista, ecc. Tutte queste non sono determinate dal talento delle persone, ma dalla capacità di provvedere finanziariamente a se stessi e ai propri cari. Prima di consigliare a tuo figlio di scegliere la professione \"che fa guadagnare soldi\", pensa al suo futuro.\n\nCi sono così tante persone in questo mondo che non hanno mai sviluppato i propri talenti. Probabilmente non ci sbaglieremmo se dicessimo che questo è vero per circa il 90-95% della popolazione mondiale. Prima di ostacolare lo sviluppo degli interessi di tuo figlio, guarda le tue cifre e chiediti: sei stato in grado di scoprire e sviluppare il tuo potenziale e i tuoi talenti? Se no, allora abbi pietà di te stesso e di tuo figlio, e dagli l'opportunità di diventare parte della Storia della Terra, e a te stesso – l'opportunità di aiutarlo a farlo.\n\nPensa solo a perché scegliamo ancora per i nostri figli le migliori scuole, asili, medici e insegnanti? Il fatto è che sempre più spesso le persone dotate trovano lavori ben retribuiti; allo stesso tempo, le persone che non investono nel proprio lavoro, non si impegnano – non vengono pagate bene. Quindi, dobbiamo iniziare con l'impegno, e solo allora otterremo banchieri, manager e istituzioni statali forti: molti lavori saranno occupati da persone che sono impegnate, responsabili e sanno cosa stanno facendo. Allora non avremo più il problema di quale scuola scegliere per i nostri bambini.\n\nLa cosa principale è capire che ogni persona è unica e risponde alla madre Natura stessa (l'abbiamo già affermato più volte, ma vogliamo che questo semplice pensiero venga ricordato saldamente). Siamo tutti responsabili per noi stessi e per i nostri figli verso le generazioni future. Ogni talento non scoperto creerà un'intera catena di persone con potenziale non realizzato – questo, a sua volta, riporterà le persone alla barbarie, alle guerre, al terrore, all'odio reciproco e al desiderio di capovolgere tutto. Impara a rispondere per te stesso!"
+    },
+    {
+      "locale": "it",
+      "category": "temperament",
+      "number": 0,
+      "description": "Questo parla di un'indifferenza. Molto spesso queste persone vengono colte a tradire perché non gli importa \"con chi e come\", e il loro desiderio di dimostrare il proprio valore attraverso contatti intimi li spinge a una continua ricerca del partner ideale – specialmente uomini che cercano la stessa donna \"fredda\" che sarà completamente soddisfatta di lui, e viceversa."
+    },
+    {
+      "locale": "it",
+      "category": "spirituality",
+      "number": 0,
+      "description": "Il numero di cifre in questa linea può essere un indicatore della spiritualità di una persona. Possiamo dire che quando si hanno fino a cinque cifre, la spiritualità di una persona aumenta gradualmente dall'ateismo (nessuna cifra) a un livello massimo di spiritualità (cinque cifre). Se questa linea contiene più di cinque cifre (6 o più), allora possiamo parlare di un sovraccarico della qualità, che molto spesso porta al fanatismo e all'idolatria, quando tutte le norme umane sono distorte oltre riconoscimento, andando all'estremo. Questo somiglia di più alla completa mancanza di spiritualità piuttosto che al principio divino (combattere contro streghe ed eretici con spade e fuoco, uccidere gli \"infedeli\", sterminare i dissidenti). Il fanatismo nella sua forma estrema è sempre ateo perché non consente altri punti di vista.\n\nAnalizzando la psicomatrice, è necessario prestare attenzione alla relazione tra le due diagonali (carnale e spirituale). È la loro relazione che giocherà un ruolo chiave nella forza di ciascuna delle linee.\n\nValutando la forza di ciascuna linea, possiamo dire COSA è importante per la persona nella sua futura unione matrimoniale: il suo interesse per i principi spirituali del partner o il lato materiale (aspetti carnali inclusi i rapporti sessuali).\n\nÈ meglio quando entrambe le linee sono presentate in modo ugualmente forte. Idealmente, il rapporto delle caratteristiche quantitative di un partner dovrebbe corrispondere alla caratteristica quantitativa dell'altro. Ad esempio, se una moglie ha una diagonale carnale di 5 cifre e una spirituale di 4 cifre, allora il suo rapporto può essere scritto come 5/4. Supponiamo che suo marito abbia il seguente rapporto di diagonali: carnale – 5 cifre e spirituale – 2 cifre, con il rapporto di diagonali di 5/2. Il confronto mostra che per il marito sua moglie come femmina rappresenta un interesse maggiore rispetto a sua moglie come personalità. Quindi, probabilmente non presterà abbastanza attenzione per preparare sua moglie all'intimità, perché è più interessato al corpo che all'anima. In questa situazione, è possibile che la moglie si senta spesso delusa per il marito che non presta abbastanza attenzione ai suoi bisogni.\n\nQuando si analizza una psicomatrice, è importante tenere conto che idealmente i rapporti delle diagonali dovrebbero corrispondere, o la loro differenza dovrebbe essere minima e dello stesso segno: se il marito ha una diagonale carnale più forte, allora la moglie dovrebbe avere la sua diagonale carnale più forte di quella spirituale. Non cercare di sperimentare nella creazione di unioni matrimoniali dove l'eccessivo interesse carnale di un partner sarà contenuto dalla forte spiritualità dell'altro – questo è un forte indicatore che le due persone sono incompatibili come coniugi. Uno deve discutere le cose, mentre l'altro deve sentirle. In tale scenario, entrambe le persone soffriranno. È meglio scegliere un partner con un temperamento simile. Allora sarà molto più facile avere comprensione reciproca."
+    },
+    {
+      "locale": "it",
+      "category": "purpose",
+      "number": 1,
+      "description": "Questo significa un debole senso di scopo. Questa persona può coinvolgersi in una discussione, ma ciò non significa che voglia raggiungere un risultato specifico. Tipicamente, si tratta solo di un desiderio di sconfiggere un'altra persona in una discussione. Questa persona fa affidamento sulla fortuna e sugli amici."
+    },
+    {
+      "locale": "it",
+      "category": "family",
+      "number": 1,
+      "description": "Questa persona si rende conto di avere bisogno di iniziare una famiglia, ma non mostra alcuno sforzo speciale in questa direzione. Sta aspettando che qualcun altro prenda l'iniziativa in questo senso e faccia il lavoro per lui."
+    },
+    {
+      "locale": "it",
+      "category": "stability",
+      "number": 1,
+      "description": "Questa persona è rivoluzionaria nello spirito. Cerca di cambiare tutto ciò che lo circonda: cambia il suo ambiente, il suo posto di lavoro. Mette in discussione praticamente tutto, cercando di cambiare tutti e tutto."
+    },
+    {
+      "locale": "it",
+      "category": "esteem",
+      "number": 1,
+      "description": "Possiamo dire che questa persona ha una bassa autostima e sottovaluta le proprie capacità. Con tre cifre, a volte può avere \"momenti di chiarezza\", ma è ancora molto insicuro di sé."
+    },
+    {
+      "locale": "it",
+      "category": "finance",
+      "number": 1,
+      "description": "Questa persona non vuole sostenersi finanziariamente e può facilmente approfittare dei suoi genitori, moglie o marito. Questa linea non presenta alcun pericolo speciale per le donne, perché è comune quando un marito diventa il principale breadwinner della famiglia."
+    },
+    {
+      "locale": "it",
+      "category": "talents",
+      "number": 1,
+      "description": "Più cifre – più forte è il talento. Questo non significa che se questa linea è molto forte (non più di 5 cifre per evitare sovraccarico), allora una persona sarà sicuramente molto talentuosa. Ricorda, molte altre linee di cifre della psicomatrice influenzano lo sviluppo potenziale dei talenti di una persona: carattere, autostima, senso dello scopo, livello di energia, salute, fortuna e altri. È la combinazione di molte caratteristiche diverse e la forza di volontà di una persona che gli consente di raggiungere i suoi obiettivi.\n\nÈ molto importante identificare il miglior ambito di applicazione per l'energia e le risorse di una persona. Non cercare mai di muoverti con il flusso della vita. Esiste un intero elenco di professioni \"calde\": avvocato, banchiere, top manager, economista, ecc. Tutte queste non sono determinate dal talento delle persone, ma dalla capacità di provvedere finanziariamente a se stessi e ai propri cari. Prima di consigliare a tuo figlio di scegliere la professione \"che fa guadagnare soldi\", pensa al suo futuro.\n\nCi sono così tante persone in questo mondo che non hanno mai sviluppato i loro talenti. Probabilmente non ci sbaglieremo se diciamo che questo è vero per circa il 90-95% della popolazione mondiale. Prima di ostacolare lo sviluppo degli interessi di tuo figlio, guarda le tue cifre e chiediti: sei stato in grado di scoprire e sviluppare il tuo potenziale e i tuoi talenti? Se no, allora abbi pietà di te stesso e di tuo figlio, e dagli l'opportunità di diventare parte della Storia della Terra, e a te stesso – l'opportunità di aiutarlo a farlo.\n\nPensa solo a perché scegliamo ancora per i nostri figli le migliori scuole, asili, medici e insegnanti? Il fatto è che sempre più spesso le persone dotate trovano lavori ben retribuiti; allo stesso tempo, le persone che non investono nel loro lavoro, non si impegnano – non vengono pagate bene. Quindi, dobbiamo iniziare con l'impegno, e solo allora otterremo banchieri, manager, istituzioni statali forti: molti lavori saranno occupati da persone impegnate, responsabili e che sanno cosa stanno facendo. Allora non avremo più il problema di quali scuole scegliere per i nostri bambini.\n\nLa cosa principale è capire che ogni persona è unica e risponde alla madre Natura stessa (lo abbiamo già affermato più volte, ma vogliamo che questo semplice pensiero venga ricordato fermamente). Siamo tutti responsabili per noi stessi e per i nostri figli verso le generazioni future. Ogni talento non scoperto creerà un'intera catena di persone con potenziale non realizzato – questo, a sua volta, riporterà le persone alla barbarie, guerre, terrore, odio reciproco e desiderio di stravolgere tutto. Impara a rispondere per te stesso!"
+    },
+    {
+      "locale": "it",
+      "category": "temperament",
+      "number": 1,
+      "description": "Questo parla di indifferenza. Molto spesso queste persone vengono colte in flagrante perché non gli importa \"con chi e come\", e il loro desiderio di dimostrare il proprio valore attraverso contatti intimi li spinge a una continua ricerca del partner ideale – specialmente gli uomini che cercano la stessa donna \"fredda\" che sarà completamente soddisfatta di lui, e viceversa."
+    },
+    {
+      "locale": "it",
+      "category": "spirituality",
+      "number": 1,
+      "description": "Il numero di cifre in questa linea può essere un indicatore della spiritualità di una persona. Possiamo dire che quando si hanno fino a cinque cifre, la spiritualità di una persona aumenta gradualmente dall'ateismo (nessuna cifra) a un livello massimo di spiritualità (cinque cifre). Se questa linea contiene più di cinque cifre (6 o più), allora possiamo parlare di un sovraccarico della qualità, che spesso porta al fanatismo e all'idolatria, quando tutte le norme umane sono distorte oltre ogni riconoscimento, andando all'estremo. Questo assomiglia di più alla completa mancanza di spiritualità piuttosto che al principio divino (combattere contro streghe ed eretici con spade e fuoco, uccisione degli \"infedeli\", sterminio dei dissidenti). Il fanatismo nella sua forma estrema è sempre ateo perché non consente altri punti di vista.\n\nAnalizzando la psicomatrice, è necessario prestare attenzione alla relazione tra le due diagonali (carnale e spirituale). È la loro relazione che giocherà un ruolo chiave nella forza di ciascuna delle linee.\n\nValutando la forza di ciascuna linea, possiamo dire COSA è importante per la persona nella sua futura unione matrimoniale: il suo interesse per i principi spirituali del partner o il lato materiale (aspetti carnali, comprese le relazioni sessuali).\n\nÈ meglio quando entrambe le linee sono presentate in modo ugualmente forte. Idealmente, il rapporto delle caratteristiche quantitative di un partner dovrebbe corrispondere alla caratteristica quantitativa dell'altro. Ad esempio, se una moglie ha una diagonale carnale di 5 cifre e una spirituale di 4 cifre, allora il suo rapporto può essere scritto come 5/4. Supponiamo che suo marito abbia il seguente rapporto di diagonali: carnale – 5 cifre e spirituale – 2 cifre, con il rapporto di diagonali di 5/2. Il confronto mostra che per il marito sua moglie come femmina rappresenta un interesse maggiore rispetto a sua moglie come personalità. Quindi, probabilmente non presterà abbastanza attenzione a preparare sua moglie per l'intimità, perché è più interessato al corpo che all'anima. In questa situazione, è possibile che la moglie sarà spesso delusa per il marito che non presta abbastanza attenzione ai suoi bisogni.\n\nQuando si analizza una psicomatrice, è importante tenere conto che idealmente i rapporti delle diagonali dovrebbero corrispondere, o la loro differenza dovrebbe essere minima e dello stesso segno: se il marito ha una diagonale carnale più forte, allora la moglie dovrebbe avere la sua diagonale carnale più forte di quella spirituale. Non cercare di sperimentare nella creazione di unioni matrimoniali dove l'eccessivo interesse carnale di un partner sarà contenuto dalla forte spiritualità dell'altro – questo è un forte indicatore che le due persone sono incompatibili come coniugi. Uno deve parlare, mentre l'altro deve sentirli. In tale scenario, entrambe le persone soffriranno. È meglio scegliere un partner con un temperamento simile. Allora sarà molto più facile avere comprensione reciproca."
+    },
+    {
+      "locale": "it",
+      "category": "purpose",
+      "number": 2,
+      "description": "Questa persona ha un normale senso dello scopo. Possiamo dire che questa persona ha bisogno di tempo per mettersi in carreggiata nella vita. Prima deve scoprire le sue capacità, e solo allora stabilirà obiettivi degni per se stesso."
+    },
+    {
+      "locale": "it",
+      "category": "family",
+      "number": 2,
+      "description": "Questa persona si rende conto che deve iniziare una famiglia, ma non mostra sforzi particolari in questa direzione. Sta aspettando che qualcun altro prenda l'iniziativa in questo senso e faccia il lavoro per lui."
+    },
+    {
+      "locale": "it",
+      "category": "stability",
+      "number": 2,
+      "description": "Questa persona è molto entusiasta e pronta a reagire, ma può già controllare i suoi impulsi rivoluzionari (se lo desidera)."
+    },
+    {
+      "locale": "it",
+      "category": "esteem",
+      "number": 2,
+      "description": "Possiamo dire che questa persona ha una bassa autostima e sottovaluta le proprie capacità. Con tre cifre, può a volte avere \"momenti di chiarezza\", ma è ancora molto insicuro di sé."
+    },
+    {
+      "locale": "it",
+      "category": "finance",
+      "number": 2,
+      "description": "Questa persona si rende conto di dover sostenere la propria famiglia, quindi, per il bene della stabilità finanziaria, inizia a cercare un lavoro che offra uno stipendio realistico o medio. Di conseguenza, una persona può rinunciare al proprio sogno solo per il bene di guadagni stabili. Allo stesso tempo, se ha difficoltà a trovare un lavoro, questa persona non sarà troppo delusa perché non è molto desiderosa di essere il principale breadwinner della famiglia in primo luogo."
+    },
+    {
+      "locale": "it",
+      "category": "talents",
+      "number": 2,
+      "description": "Più cifre – più forte è il talento. Questo non significa che se questa linea è molto forte (non più di 5 cifre per evitare sovraccarico), allora una persona sarà certamente molto talentuosa. Ricorda, molte altre linee di cifre della psicomatrice influenzano lo sviluppo potenziale dei talenti di una persona: carattere, autostima, senso di scopo, livello energetico, salute, fortuna e altri. È la combinazione di molte caratteristiche diverse e la forza di volontà di una persona che gli consente di raggiungere i suoi obiettivi.\n\nÈ molto importante identificare la migliore area di applicazione per l'energia e le risorse di una persona. Non cercare mai di muoverti con il flusso della vita. Esiste un intero elenco di professioni \"calde\": avvocato, banchiere, top manager, economista, ecc. Tutte queste non sono determinate dal talento delle persone, ma dalla capacità di provvedere finanziariamente a se stessi e ai propri cari. Prima di consigliare a tuo figlio di scegliere la professione \"che fa guadagnare soldi\", pensa al suo futuro.\n\nCi sono così tante persone in questo mondo che non hanno mai sviluppato i loro talenti. Probabilmente non ci sbaglieremo se diciamo che questo è vero per circa il 90-95% della popolazione mondiale. Prima di ostacolare lo sviluppo degli interessi di tuo figlio, guarda le tue cifre e chiediti: sei riuscito a scoprire e sviluppare il tuo potenziale e i tuoi talenti? Se no, allora abbi pietà di te stesso e di tuo figlio, e dagli l'opportunità di diventare parte della Storia della Terra, e a te stesso – l'opportunità di aiutarlo a farlo.\n\nPensa solo a perché scegliamo ancora per i nostri figli le migliori scuole, asili, medici e insegnanti? Il fatto è che sempre più spesso le persone dotate trovano lavori che pagano bene; allo stesso tempo, le persone che non investono nel loro lavoro, non si impegnano – non vengono pagate bene. Quindi, dobbiamo iniziare con l'impegno, e solo allora otterremo banchieri, manager, istituzioni statali forti: molti lavori saranno ricoperti da persone impegnate, responsabili e che sanno cosa stanno facendo. Allora non avremo più il problema di quale scuola scegliere per i nostri bambini.\n\nLa cosa principale è capire che ogni persona è unica e risponde alla madre Natura stessa (lo abbiamo già affermato più volte, ma vogliamo che questo semplice pensiero venga ricordato saldamente). Siamo tutti responsabili per noi stessi e per i nostri figli verso le generazioni future. Ogni talento non scoperto creerà un'intera catena di persone con potenziale non realizzato – questo, a sua volta, riporterà le persone alla barbarie, guerre, terrore, odio reciproco e desiderio di rovesciare tutto. Impara a rispondere per te stesso!"
+    },
+    {
+      "locale": "it",
+      "category": "temperament",
+      "number": 2,
+      "description": "Questo è un temperamento normale. Questa persona può avere relazioni intime ogni giorno, ma se non è possibile – può aspettare senza alcun disagio."
+    },
+    {
+      "locale": "it",
+      "category": "spirituality",
+      "number": 2,
+      "description": "Il numero di cifre in questa linea può essere un indicatore della spiritualità di una persona. Possiamo dire che avendo fino a cinque cifre, la spiritualità di una persona aumenta gradualmente dall'ateismo (nessuna cifra) a un livello massimo di spiritualità (cinque cifre). Se questa linea contiene più di cinque cifre (6 o più), allora possiamo parlare di un sovraccarico della qualità, che porta più spesso al fanatismo e all'idolatria, quando tutte le norme umane sono distorte oltre riconoscimento, andando all'estremo. Questo somiglia di più alla completa mancanza di spiritualità piuttosto che al principio divino (combattendo contro streghe ed eretici con spade e fuoco, uccidendo gli \"infedeli\", sterminando dissidenti). Il fanatismo nella sua forma estrema è sempre ateo perché non consente altri punti di vista.\n\nAnalizzando la psicomatrice, è necessario prestare attenzione alla relazione tra le due diagonali (carnale e spirituale). È la loro relazione che giocherà un ruolo chiave nella forza di ciascuna delle linee.\n\nValutando la forza di ciascuna linea, possiamo dire COSA è importante per la persona nella sua futura unione matrimoniale: il suo interesse per i principi spirituali del partner o il lato materiale (aspetti carnali inclusi i rapporti sessuali).\n\nÈ meglio quando entrambe le linee sono presentate in modo ugualmente forte. Idealmente, il rapporto delle caratteristiche quantitative di un partner dovrebbe corrispondere alla caratteristica quantitativa dell'altro. Ad esempio, se una moglie ha una diagonale carnale di 5 cifre e una spirituale di 4 cifre, allora il suo rapporto può essere scritto come 5/4. Supponiamo che suo marito abbia il seguente rapporto di diagonali: carnale – 5 cifre e spirituale – 2 cifre, con il rapporto di diagonali di 5/2. Il confronto mostra che per il marito sua moglie come femmina rappresenta un interesse maggiore rispetto a sua moglie come personalità. Quindi, probabilmente non presterà abbastanza attenzione alla preparazione della moglie per l'intimità, perché è più interessato al corpo che all'anima. In questa situazione, è possibile che la moglie sia spesso delusa per il marito che non presta abbastanza attenzione ai suoi bisogni.\n\nQuando si analizza una psicomatrice, è importante tenere conto che idealmente i rapporti delle diagonali dovrebbero corrispondere, o la loro differenza dovrebbe essere minima e dello stesso segno: se il marito ha una diagonale carnale più forte, allora la moglie dovrebbe avere la sua diagonale carnale più forte della sua diagonale spirituale. Non cercare di sperimentare nel creare unioni matrimoniali in cui l'eccessivo interesse carnale di un partner sarà contenuto dalla forte spiritualità dell'altro – questo è un forte indicatore che le due persone sono incompatibili come coniugi. Uno deve parlare, mentre l'altro deve sentire. In tale scenario, entrambe le persone soffriranno. È meglio scegliere un partner con un temperamento simile. Allora sarà molto più facile avere comprensione reciproca."
+    },
+    {
+      "locale": "it",
+      "category": "purpose",
+      "number": 3,
+      "description": "Questa persona può cambiare i propri obiettivi completamente all'improvviso (in modo imprevedibile, improvviso e inaspettato). Molto spesso, la sua scelta è ingiustificata e inspiegabile. Si consiglia di definire i propri obiettivi basandosi sui numeri forti nella propria psicomatrice."
+    },
+    {
+      "locale": "it",
+      "category": "family",
+      "number": 3,
+      "description": "Questa persona è divisa tra un forte desiderio di formare una famiglia a tutti i costi e una completa riluttanza a farlo. Se una persona del genere decide mai di sposarsi, il suo partner dovrebbe agire immediatamente, altrimenti tutto sarà rimandato per molto tempo."
+    },
+    {
+      "locale": "it",
+      "category": "stability",
+      "number": 3,
+      "description": "Questa persona è instabile nelle proprie abitudini. Può iniziare molte abitudini e attaccamenti diversi, creando stabilità, ma può altrettanto facilmente rinunciare a essi senza apparente motivo. Dopo un po', può provare a riattivare vecchie connessioni. Tutto ciò accade sempre inaspettatamente."
+    },
+    {
+      "locale": "it",
+      "category": "esteem",
+      "number": 3,
+      "description": "Possiamo dire che questa persona ha una bassa autostima e sottovaluta le proprie capacità. Con tre cifre, può a volte avere \"momenti di chiarezza\", ma è ancora molto insicuro di sé."
+    },
+    {
+      "locale": "it",
+      "category": "finance",
+      "number": 3,
+      "description": "Queste persone possono lavorare impulsivamente. Il loro principio guida è completare il lavoro rapidamente per far durare i soldi per un po', e poi tornare a lavorare di nuovo quando necessario."
+    },
+    {
+      "locale": "it",
+      "category": "talents",
+      "number": 3,
+      "description": "Più cifre – più forte è il talento. Questo non significa che se questa linea è molto forte (non più di 5 cifre per evitare sovraccarico), allora una persona sarà certamente molto talentuosa. Ricorda, molte altre linee di cifre della psicomatrice influenzano lo sviluppo potenziale dei talenti di una persona: carattere, autostima, senso di scopo, livello di energia, salute, fortuna e altri. È la combinazione di molte caratteristiche diverse e la forza di volontà di una persona che gli consente di raggiungere i suoi obiettivi.\n\nÈ molto importante identificare il miglior ambito di applicazione per l'energia e le risorse di una persona. Non cercare mai di muoverti con il flusso della vita. Esiste un intero elenco di professioni \"calde\": avvocato, banchiere, top manager, economista, ecc. Tutte queste non sono determinate dal talento delle persone, ma dalla capacità di provvedere finanziariamente a se stessi e ai propri cari. Prima di consigliare a tuo figlio di scegliere la professione \"che fa guadagnare soldi\", pensa al suo futuro.\n\nCi sono così tante persone in questo mondo che non hanno mai sviluppato i propri talenti. Probabilmente non ci sbaglieremo se diciamo che questo è vero per circa il 90-95% della popolazione mondiale. Prima di ostacolare lo sviluppo degli interessi di tuo figlio, guarda le tue cifre e chiediti: sei stato in grado di scoprire e sviluppare il tuo potenziale e i tuoi talenti? Se no, allora abbi pietà di te stesso e di tuo figlio, e dagli l'opportunità di diventare parte della Storia della Terra, e a te stesso – l'opportunità di aiutarlo a farlo.\n\nPensa solo a perché scegliamo ancora per i nostri figli le migliori scuole, asili, medici e insegnanti? Il fatto è che sempre più spesso le persone dotate trovano lavori ben retribuiti; allo stesso tempo, le persone che non investono nel loro lavoro, non si impegnano – non vengono pagate bene. Quindi, dobbiamo iniziare con l'impegno, e solo allora otterremo banchieri, manager e istituzioni statali forti: molti lavori saranno occupati da persone che sono impegnate, responsabili e sanno cosa stanno facendo. Allora non avremo più il problema di quale scuola scegliere per i nostri bambini.\n\nLa cosa principale è capire che ogni persona è unica e risponde alla madre Natura stessa (lo abbiamo già affermato più volte, ma vogliamo che questo semplice pensiero venga ricordato saldamente). Siamo tutti responsabili per noi stessi e per i nostri figli verso le generazioni future. Ogni talento non scoperto creerà un'intera catena di persone con potenziale non realizzato – questo, a sua volta, riporterà le persone alla barbarie, guerre, terrore, odio reciproco e desiderio di ribaltare tutto. Impara a rispondere per te stesso!"
+    },
+    {
+      "locale": "it",
+      "category": "temperament",
+      "number": 3,
+      "description": "Questo è un temperamento normale. Questa persona può avere relazioni intime ogni giorno, ma se ciò è impossibile – può aspettare senza alcun disagio."
+    },
+    {
+      "locale": "it",
+      "category": "spirituality",
+      "number": 3,
+      "description": "Il numero di cifre in questa linea può essere un indicatore della spiritualità di una persona. Possiamo dire che quando si hanno fino a cinque cifre, la spiritualità di una persona aumenta gradualmente dall'assenza di spiritualità (nessuna cifra) a un livello massimo di spiritualità (cinque cifre). Se questa linea contiene più di cinque cifre (6 o più), allora possiamo parlare di un sovraccarico della qualità, che porta più spesso al fanatismo e all'idolatria, quando tutte le norme umane sono distorte oltre ogni riconoscimento, andando all'estremo. Questo somiglia di più alla completa mancanza di spiritualità piuttosto che al principio divino (combattere contro streghe ed eretici con spade e fuoco, uccidere gli \"infedeli\", sterminare i dissidenti). Il fanatismo nella sua forma estrema è sempre privo di spiritualità perché non consente altri punti di vista.\n\nAnalizzando la psicomatrice, è necessario prestare attenzione alla relazione tra le due diagonali (carnale e spirituale). È la loro relazione che giocherà un ruolo chiave nella forza di ciascuna delle linee.\n\nValutando la forza di ciascuna linea, possiamo dire COSA è importante per la persona nella sua futura unione matrimoniale: il suo interesse per i principi spirituali del partner o il lato materiale (aspetti carnali inclusi i rapporti sessuali).\n\nÈ meglio quando entrambe le linee sono presentate in modo ugualmente forte. Idealmente, il rapporto delle caratteristiche quantitative di un partner dovrebbe corrispondere alla caratteristica quantitativa dell'altro. Ad esempio, se una moglie ha una diagonale carnale di 5 cifre e una spirituale di 4 cifre, allora il suo rapporto può essere scritto come 5/4. Supponiamo che suo marito abbia il seguente rapporto di diagonali: carnale – 5 cifre e spirituale – 2 cifre, con il rapporto di diagonali di 5/2. Il confronto mostra che per il marito sua moglie come femmina rappresenta un interesse maggiore rispetto a sua moglie come personalità. Quindi, probabilmente non presterà abbastanza attenzione alla preparazione della moglie per l'intimità, perché è più interessato al corpo che all'anima. In questa situazione, è possibile che la moglie sia spesso delusa per il fatto che il marito non presta abbastanza attenzione ai suoi bisogni.\n\nQuando si analizza una psicomatrice, è importante tenere conto che idealmente i rapporti delle diagonali dovrebbero corrispondere, o la loro differenza dovrebbe essere minima e dello stesso segno: se il marito ha una diagonale carnale più forte, allora la moglie dovrebbe avere la sua diagonale carnale più forte di quella spirituale. Non cercare di sperimentare nella creazione di unioni matrimoniali in cui l'eccessivo interesse carnale di un partner sarà trattenuto dalla forte spiritualità dell'altro – questo è un forte indicatore che le due persone sono incompatibili come coniugi. Uno deve discutere le cose, mentre l'altro deve sentirle. In tale scenario, entrambe le persone soffriranno. È meglio scegliere un partner con un temperamento simile. Allora sarà molto più facile avere comprensione reciproca."
+    },
+    {
+      "locale": "it",
+      "category": "purpose",
+      "number": 4,
+      "description": "Questa persona ha un forte senso di scopo. Prima si pone un obiettivo, e solo allora inizia a misurare le proprie capacità e il livello di interesse per l'obiettivo stesso. Molto spesso questa persona raggiunge obiettivi che non corrispondono ai suoi interessi o opportunità. Raccomandiamo di studiare attentamente la psicomatrice. Avendo scelto la direzione giusta, non impostare l'asticella troppo bassa per te stesso."
+    },
+    {
+      "locale": "it",
+      "category": "family",
+      "number": 4,
+      "description": "Questa persona desidera iniziare una famiglia e agisce senza alcun ritardo. Di norma, questa persona raramente diventa quella da incolpare per una rottura, perché cerca sempre di sistemare la relazione."
+    },
+    {
+      "locale": "it",
+      "category": "stability",
+      "number": 4,
+      "description": "Queste sono persone molto stabili. Si circondano di vari legami e abitudini, creando un ambiente stabile. Possono risultare un po' noiose nei loro attaccamenti. Non amano il cambiamento."
+    },
+    {
+      "locale": "it",
+      "category": "esteem",
+      "number": 4,
+      "description": "Autostima sana. Questa persona desidera distinguersi dalla folla e mette molto impegno in questo. La domanda è se questi sforzi siano giustificati."
+    },
+    {
+      "locale": "it",
+      "category": "finance",
+      "number": 4,
+      "description": "Queste persone dedicano molto tempo e impegno per provvedere alla propria famiglia. Spesso è il loro unico obiettivo nella vita."
+    },
+    {
+      "locale": "it",
+      "category": "talents",
+      "number": 4,
+      "description": "Più cifre – più forte è il talento. Questo non significa che se questa linea è molto forte (non più di 5 cifre per evitare sovraccarico), allora una persona sarà certamente molto talentuosa. Ricorda, molte altre linee di cifre della psicomatrice influenzano lo sviluppo potenziale dei talenti di una persona: carattere, autostima, senso di scopo, livello energetico, salute, fortuna e altri. È la combinazione di molte caratteristiche diverse e la forza di volontà di una persona che gli permette di raggiungere i suoi obiettivi.\n\nÈ molto importante identificare il miglior ambito di applicazione per l'energia e le risorse di una persona. Non cercare mai di muoverti con il flusso della vita. Esiste un intero elenco di professioni “calde”: avvocato, banchiere, top manager, economista, ecc. Tutte queste non sono determinate dal talento delle persone, ma dalla capacità di provvedere finanziariamente a se stessi e ai propri cari. Prima di consigliare a tuo figlio di scegliere la professione \"che fa guadagnare soldi\", pensa al suo futuro.\n\nCi sono così tante persone in questo mondo che non hanno mai sviluppato i propri talenti. Probabilmente non ci sbaglieremo se diciamo che questo è vero per circa il 90-95% della popolazione mondiale. Prima di ostacolare lo sviluppo degli interessi di tuo figlio, guarda le tue cifre e chiediti: sei stato in grado di scoprire e sviluppare il tuo potenziale e i tuoi talenti? Se no, allora abbi pietà di te stesso e di tuo figlio, e dagli l'opportunità di diventare parte della Storia della Terra, e a te stesso – l'opportunità di aiutarlo a farlo.\n\nPensa solo a perché scegliamo ancora per i nostri figli le migliori scuole, asili, medici e insegnanti? Il fatto è che sempre più spesso le persone dotate trovano lavori ben retribuiti; allo stesso tempo, le persone che non investono nel proprio lavoro, non si impegnano – non vengono pagate bene. Quindi, dobbiamo iniziare con l'impegno, e solo allora otterremo banchieri, manager e istituzioni statali forti: molti lavori saranno occupati da persone che sono impegnate, responsabili e sanno cosa stanno facendo. Allora non avremo più il problema di quale scuola scegliere per i nostri bambini.\n\nLa cosa principale è capire che ogni persona è unica e risponde alla madre Natura stessa (lo abbiamo già affermato più volte, ma vogliamo che questo semplice pensiero venga ricordato saldamente). Siamo tutti responsabili per noi stessi e per i nostri figli verso le generazioni future. Ogni talento non scoperto creerà un'intera catena di persone con potenziale non realizzato – questo, a sua volta, riporterà le persone alla barbarie, guerre, terrore, odio reciproco e desiderio di ribaltare tutto. Impara a rispondere per te stesso!"
+    },
+    {
+      "locale": "it",
+      "category": "temperament",
+      "number": 4,
+      "description": "Questo è un temperamento forte, e questa persona ha bisogno di frequenti rapporti sessuali."
+    },
+    {
+      "locale": "it",
+      "category": "spirituality",
+      "number": 4,
+      "description": "Il numero di cifre in questa linea può essere un indicatore della spiritualità di una persona. Possiamo dire che quando si hanno fino a cinque cifre, la spiritualità di una persona aumenta gradualmente dall'assenza di spiritualità (nessuna cifra) a un livello massimo di spiritualità (cinque cifre). Se questa linea contiene più di cinque cifre (6 o più), allora possiamo parlare di un sovraccarico della qualità, che porta più spesso al fanatismo e all'idolatria, quando tutte le norme umane sono distorte oltre ogni riconoscimento, andando all'estremo. Questo somiglia di più alla completa mancanza di spiritualità piuttosto che al principio divino (combattere contro streghe ed eretici con spade e fuoco, uccidere gli \"infedeli\", sterminare i dissidenti). Il fanatismo nella sua forma estrema è sempre privo di spiritualità perché non consente altri punti di vista.\n\nAnalizzando la psicomatrice, è necessario prestare attenzione alla relazione tra le due diagonali (carnale e spirituale). È la loro relazione che giocherà un ruolo chiave nella forza di ciascuna delle linee.\n\nValutando la forza di ciascuna linea, possiamo dire COSA è importante per la persona nella sua futura unione matrimoniale: il suo interesse per i principi spirituali del partner o il lato materiale (aspetti carnali inclusi i rapporti sessuali).\n\nÈ meglio quando entrambe le linee sono presentate in modo ugualmente forte. Idealmente, il rapporto delle caratteristiche quantitative di un partner dovrebbe corrispondere alla caratteristica quantitativa dell'altro. Ad esempio, se una moglie ha una diagonale carnale di 5 cifre e una spirituale di 4 cifre, allora il suo rapporto può essere scritto come 5/4. Supponiamo che suo marito abbia il seguente rapporto di diagonali: carnale – 5 cifre e spirituale – 2 cifre, con il rapporto di diagonali di 5/2. Il confronto mostra che per il marito sua moglie come femmina rappresenta un interesse maggiore rispetto a sua moglie come personalità. Quindi, probabilmente non presterà abbastanza attenzione alla preparazione della moglie per l'intimità, perché è più interessato al corpo che all'anima. In questa situazione, è possibile che la moglie sia spesso delusa per il marito che non presta abbastanza attenzione ai suoi bisogni.\n\nQuando si analizza una psicomatrice, è importante tenere conto che idealmente i rapporti delle diagonali dovrebbero corrispondere, o la loro differenza dovrebbe essere minima e dello stesso segno: se il marito ha una diagonale carnale più forte, allora la moglie dovrebbe avere la sua diagonale carnale più forte di quella spirituale. Non cercare di sperimentare nella creazione di unioni matrimoniali in cui l'eccessivo interesse carnale di un partner sarà contenuto dalla forte spiritualità dell'altro – questo è un forte indicatore che le due persone sono incompatibili come coniugi. Uno deve discutere le cose, mentre l'altro deve sentirle. In tale scenario,"
+    },
+    {
+      "locale": "it",
+      "category": "purpose",
+      "number": 5,
+      "description": "Questa persona ha una tenacia di scopo molto forte. Questo significa che, fissando un obiettivo, questa persona può dimenticare altre persone nella sua vita – famiglia, amici, cari. È disposto a fare grandi sacrifici per raggiungere i suoi obiettivi a qualsiasi costo. Raccomandiamo di avere buon senso nel raggiungere i propri obiettivi."
+    },
+    {
+      "locale": "it",
+      "category": "family",
+      "number": 5,
+      "description": "Queste persone sono ottimi uomini di famiglia. D'altra parte, hanno una percezione idealistica della famiglia, che può portare a avere aspettative estremamente elevate e irragionevoli nei confronti della propria famiglia. L'unica cosa che può servire come scusa è il fatto che hanno aspettative altrettanto elevate per se stessi. Queste persone semplicemente non possono esistere senza una famiglia."
+    },
+    {
+      "locale": "it",
+      "category": "stability",
+      "number": 5,
+      "description": "Queste sono persone molto stabili. Si circondano di vari attaccamenti e abitudini, creando un ambiente stabile. Possono essere un po' noiosi nei loro attaccamenti. Non amano il cambiamento."
+    },
+    {
+      "locale": "it",
+      "category": "esteem",
+      "number": 5,
+      "description": "Questa persona ha un'autostima molto alta, che a volte può essere gonfiata se una persona non lavora sullo sviluppo personale ma continua a valutarsi solo in base alle proprie potenzialità, esagerandole.\n"
+    },
+    {
+      "locale": "it",
+      "category": "finance",
+      "number": 5,
+      "description": "Queste persone dedicano molto tempo e impegno per provvedere alla propria famiglia. Spesso è il loro unico obiettivo nella vita.\n"
+    },
+    {
+      "locale": "it",
+      "category": "talents",
+      "number": 5,
+      "description": "Più cifre – più forte è il talento. Questo non significa che se questa linea è molto forte (non più di 5 cifre per evitare sovraccarico), allora una persona sarà certamente molto talentuosa. Ricorda, molte altre linee di cifre della psicomatrice influenzano lo sviluppo potenziale dei talenti di una persona: carattere, autostima, senso di scopo, livello energetico, salute, fortuna e altri. È la combinazione di molte caratteristiche diverse e la forza di volontà di una persona che gli permettono di raggiungere i suoi obiettivi.\n\nÈ molto importante identificare il miglior ambito di applicazione per l'energia e le risorse di una persona. Non cercare mai di muoverti con il flusso della vita. Esiste un intero elenco di professioni \"calde\": avvocato, banchiere, top manager, economista, ecc. Tutte queste non sono determinate dal talento delle persone, ma dalla capacità di provvedere finanziariamente a se stessi e ai propri cari. Prima di consigliare a tuo figlio di scegliere la professione \"che fa guadagnare soldi\", pensa al suo futuro.\n\nCi sono così tante persone in questo mondo che non hanno mai sviluppato i loro talenti. Probabilmente non ci sbaglieremmo dicendo che questo è vero per circa il 90-95% della popolazione mondiale. Prima di ostacolare lo sviluppo degli interessi di tuo figlio, guarda le tue cifre e chiediti: sei stato in grado di scoprire e sviluppare il tuo potenziale e i tuoi talenti? Se no, allora abbi pietà di te stesso e di tuo figlio, e dagli l'opportunità di diventare parte della Storia della Terra, e a te stesso – l'opportunità di aiutarlo a farlo.\n\nPensa solo a perché scegliamo ancora per i nostri figli le migliori scuole, asili, medici e insegnanti? Il fatto è che sempre più spesso le persone dotate trovano lavori ben retribuiti; allo stesso tempo, le persone che non investono nel loro lavoro, non si impegnano – non vengono pagate bene. Quindi, dobbiamo iniziare con l'impegno, e solo allora otterremo banchieri, manager e istituzioni statali forti: molti lavori saranno occupati da persone impegnate, responsabili e che sanno cosa stanno facendo. Allora non avremo più il problema di quale scuola scegliere per i nostri bambini.\n\nLa cosa principale è capire che ogni persona è unica e risponde alla madre Natura stessa (lo abbiamo affermato più volte, ma vogliamo che questo semplice pensiero venga ricordato fermamente). Siamo tutti responsabili per noi stessi e per i nostri figli verso le generazioni future. Ogni talento non scoperto creerà un'intera catena di persone con potenziale non realizzato – questo, a sua volta, riporterà le persone alla barbarie, alle guerre, al terrore, all'odio reciproco e al desiderio di capovolgere tutto. Impara a rispondere per te stesso!"
+    },
+    {
+      "locale": "it",
+      "category": "temperament",
+      "number": 5,
+      "description": "Questo è il picco del temperamento – questa persona non può vivere senza intimità. Gli importa con chi ha relazioni intime. Non può spegnere le sue emozioni e ha bisogno della passione di un partner. Questa persona percepisce le relazioni sessuali come un'arte."
+    },
+    {
+      "locale": "it",
+      "category": "spirituality",
+      "number": 5,
+      "description": "Il numero di cifre in questa linea può essere un indicatore della spiritualità di una persona. Possiamo dire che avendo fino a cinque cifre, la spiritualità di una persona aumenta gradualmente dall'ateismo (nessuna cifra) a un livello massimo di spiritualità (cinque cifre). Se questa linea contiene più di cinque cifre (6 o più), allora possiamo parlare di un sovraccarico della qualità, che porta più spesso al fanatismo e all'idolatria, quando tutte le norme umane sono distorte oltre ogni riconoscimento, andando all'estremo. Questo somiglia di più alla completa mancanza di spiritualità piuttosto che al principio divino (combattendo contro streghe ed eretici con spade e fuoco, uccidendo gli \"infedeli\", sterminando i dissidenti). Il fanatismo nella sua forma estrema è sempre ateo perché non consente altri punti di vista.\n\nAnalizzando la psicomatrice, è necessario prestare attenzione alla relazione tra le due diagonali (carnale e spirituale). È la loro relazione che giocherà un ruolo chiave nella forza di ciascuna delle linee.\n\nValutando la forza di ciascuna linea, possiamo dire COSA è importante per la persona nella sua futura unione matrimoniale: il suo interesse per i principi spirituali del partner o il lato materiale (aspetti carnali inclusi i rapporti sessuali).\n\nÈ meglio quando entrambe le linee sono presentate in modo ugualmente forte. Idealmente, il rapporto delle caratteristiche quantitative di un partner dovrebbe corrispondere alla caratteristica quantitativa dell'altro. Ad esempio, se una moglie ha una diagonale carnale di 5 cifre e una spirituale di 4 cifre, allora il suo rapporto può essere scritto come 5/4. Supponiamo che suo marito abbia il seguente rapporto di diagonali: carnale – 5 cifre e spirituale – 2 cifre, con il rapporto di diagonali di 5/2. Il confronto mostra che per il marito sua moglie come femmina rappresenta un interesse maggiore rispetto a sua moglie come personalità. Quindi, probabilmente non presterà abbastanza attenzione per preparare sua moglie all'intimità, perché è più interessato al corpo che all'anima. In questa situazione, è possibile che la moglie sarà spesso delusa per il fatto che il marito non presta abbastanza attenzione ai suoi bisogni.\n\nQuando si analizza una psicomatrice, è importante tenere conto che idealmente i rapporti delle diagonali dovrebbero corrispondere, o la loro differenza dovrebbe essere minima e dello stesso segno: se il marito ha una diagonale carnale più forte, allora la moglie dovrebbe avere la sua diagonale carnale più forte di quella spirituale. Non cercare di sperimentare nella creazione di unioni matrimoniali dove l'eccessivo interesse carnale di un partner sarà contenuto dalla forte spiritualità dell'altro – questo è un forte indicatore che le due persone sono incompatibili come coniugi. Uno deve parlare, mentre l'altro deve sentire. In tale scenario, entrambe le persone soffriranno. È meglio scegliere un partner con un temperamento simile. Allora sarà molto più facile avere comprensione reciproca."
+    },
+    {
+      "locale": "it",
+      "category": "purpose",
+      "number": 6,
+      "description": "Questa è un'eccesso di un tratto caratteriale. Una persona si pone obiettivi ambiziosi per se stessa o diversi obiettivi contemporaneamente, il che ostacola il suo progresso."
+    },
+    {
+      "locale": "it",
+      "category": "family",
+      "number": 6,
+      "description": "La qualità di un \"uomo di famiglia\" è sovraccarica, il che significa il suo indebolimento. La spiegazione qui è semplice: queste persone cercano il loro ideale per molto tempo, il che porta a ostacoli nella creazione di una famiglia."
+    },
+    {
+      "locale": "it",
+      "category": "stability",
+      "number": 6,
+      "description": "Questo è un eccesso di qualità. Questa volta un eccesso di stabilità. Una persona cerca di circondarsi di un'abbondanza di abitudini tali che inizia ad abbandonarle non appena interferiscono con la sua vita. Possiamo dire che questa persona sta combattendo con la propria stabilità."
+    },
+    {
+      "locale": "it",
+      "category": "esteem",
+      "number": 6,
+      "description": "Sovrastimare i propri talenti e capacità porta al fatto che una persona, mentre è occupata a mettersi in mostra, dimentica le proprie vere abilità e si concentra più su cose superficiali piuttosto che sulle proprie risorse interne. Queste persone, tipicamente, non raggiungono mai i loro obiettivi, avendo speso tutto il loro ardore per affascinare la folla che ammira le loro qualità superficiali e il loro aspetto."
+    },
+    {
+      "locale": "it",
+      "category": "finance",
+      "number": 6,
+      "description": "Questa è un'eccesso di un tratto caratteriale. Questa persona inizia a lavorare molto duramente e intensamente fino a esaurirsi rapidamente e semplicemente non può continuare. Questa persona si prende carico di molte cose diverse, si disperde, creando un'illusione di lavoro."
+    },
+    {
+      "locale": "it",
+      "category": "talents",
+      "number": 6,
+      "description": "Più cifre – più forte è il talento. Questo non significa che se questa linea è molto forte (non più di 5 cifre per evitare sovraccarico), allora una persona sarà certamente molto talentuosa. Ricorda, molte altre linee di cifre della psicomatrice influenzano lo sviluppo potenziale dei talenti di una persona: carattere, autostima, senso di scopo, livello di energia, salute, fortuna e altri. È la combinazione di molte caratteristiche diverse e la forza di volontà di una persona che gli consente di raggiungere i suoi obiettivi.\n\nÈ molto importante identificare il miglior ambito di applicazione per l'energia e le risorse di una persona. Non cercare mai di muoverti con il flusso della vita. Esiste un intero elenco di professioni \"calde\": avvocato, banchiere, top manager, economista, ecc. Tutte queste non sono determinate dal talento delle persone, ma dalla capacità di provvedere finanziariamente a se stessi e ai propri cari. Prima di consigliare a tuo figlio di scegliere la professione \"che fa guadagnare soldi\", pensa al suo futuro.\n\nCi sono così tante persone in questo mondo che non hanno mai sviluppato i propri talenti. Probabilmente non ci sbaglieremo se diciamo che questo è vero per circa il 90-95% della popolazione mondiale. Prima di ostacolare lo sviluppo degli interessi di tuo figlio, guarda le tue cifre e chiediti: sei stato in grado di scoprire e sviluppare il tuo potenziale e i tuoi talenti? Se no, allora abbi pietà di te stesso e di tuo figlio, e dagli l'opportunità di diventare parte della Storia della Terra, e a te stesso – l'opportunità di aiutarlo a farlo.\n\nPensa solo a perché scegliamo ancora per i nostri figli le migliori scuole, asili, medici e insegnanti? Il fatto è che sempre più spesso le persone dotate trovano lavori ben retribuiti; allo stesso tempo, le persone che non investono nel loro lavoro, non si impegnano – non vengono pagate bene. Quindi, dobbiamo iniziare con l'impegno, e solo allora otterremo banchieri, manager e istituzioni statali forti: molti lavori saranno occupati da persone che sono impegnate, responsabili e sanno cosa stanno facendo. Allora non avremo più il problema di quale scuola scegliere per i nostri bambini.\n\nLa cosa principale è capire che ogni persona è unica e risponde alla madre Natura stessa (lo abbiamo già affermato più volte, ma vogliamo che questo semplice pensiero venga ricordato fermamente). Siamo tutti responsabili per noi stessi e per i nostri figli verso le generazioni future. Ogni talento non scoperto creerà un'intera catena di persone con potenziale non realizzato – questo, a sua volta, riporterà le persone alla barbarie, guerre, terrore, odio reciproco e desiderio di stravolgere tutto. Impara a rispondere per te stesso!"
+    },
+    {
+      "locale": "it",
+      "category": "temperament",
+      "number": 6,
+      "description": "Questo significa un sovraccarico. Una persona inizia a cercare varietà e novità così attivamente da perdere ragione e misura nel processo, il che porta infine a freddezza e insoddisfazione nell'intimità."
+    },
+    {
+      "locale": "it",
+      "category": "spirituality",
+      "number": 6,
+      "description": "Il numero di cifre in questa linea può essere un indicatore della spiritualità di una persona. Possiamo dire che quando si hanno fino a cinque cifre, la spiritualità di una persona aumenta gradualmente dall'assenza di spiritualità (nessuna cifra) a un livello massimo di spiritualità (cinque cifre). Se questa linea contiene più di cinque cifre (6 o più), allora possiamo parlare di un sovraccarico della qualità, che porta più spesso al fanatismo e all'idolatria, quando tutte le norme umane sono distorte oltre ogni riconoscimento, andando all'estremo. Questo somiglia di più alla completa mancanza di spiritualità piuttosto che al principio divino (combattere contro streghe ed eretici con spade e fuoco, uccisione degli \"infedeli\", sterminio di dissidenti). Il fanatismo nella sua forma estrema è sempre privo di spiritualità perché non consente altri punti di vista.\n\nAnalizzando la psicomatrice, è necessario prestare attenzione alla relazione tra le due diagonali (carnale e spirituale). È la loro relazione che giocherà un ruolo chiave nella forza di ciascuna delle linee.\n\nValutando la forza di ciascuna linea, possiamo dire COSA è importante per la persona nella sua futura unione matrimoniale: il suo interesse per i principi spirituali del partner o il lato materiale (aspetti carnali, comprese le relazioni sessuali).\n\nÈ meglio quando entrambe le linee sono presentate in modo ugualmente forte. Idealmente, il rapporto delle caratteristiche quantitative di un partner dovrebbe corrispondere alla caratteristica quantitativa dell'altro. Ad esempio, se una moglie ha una diagonale carnale di 5 cifre e una spirituale di 4 cifre, allora il suo rapporto può essere scritto come 5/4. Supponiamo che suo marito abbia il seguente rapporto di diagonali: carnale – 5 cifre e spirituale – 2 cifre, con il rapporto di diagonali di 5/2. Il confronto mostra che per il marito sua moglie come femmina rappresenta un interesse maggiore rispetto a sua moglie come personalità. Quindi, probabilmente non presterà sufficiente attenzione alla preparazione della moglie per l'intimità, perché è più interessato al corpo che all'anima. In questa situazione, è possibile che la moglie sia spesso delusa per il fatto che il marito non presta sufficiente attenzione ai suoi bisogni.\n\nQuando si analizza una psicomatrice, è importante tenere conto che idealmente i rapporti delle diagonali dovrebbero corrispondere, o la loro differenza dovrebbe essere minima e dello stesso segno: se il marito ha una diagonale carnale più forte, allora la moglie dovrebbe avere la sua diagonale carnale più forte di quella spirituale. Non cercare di sperimentare nella creazione di unioni matrimoniali in cui l'eccessivo interesse carnale di un partner sarà contenuto dalla forte spiritualità dell'altro – questo è un forte indicatore che le due persone sono incompatibili come coniugi. Uno deve discutere le cose, mentre l'altro deve sentirle. In tale scenario, entrambe le persone soffriranno. È meglio scegliere un partner con un temperamento simile. Allora sarà molto più facile avere una comprensione reciproca."
+    }
+  ],
+  "translated": true
+}

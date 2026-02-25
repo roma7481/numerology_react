@@ -1,0 +1,353 @@
+{
+  "table": "psychomatrix_lines",
+  "source_locale": "en",
+  "target_locale": "de",
+  "source_language": "English",
+  "target_language": "German",
+  "key_columns": [
+    "category",
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "category": "purpose",
+      "number": 0,
+      "description": "Diese Person setzt sich keine Ziele oder Vorgaben für sich selbst, in der Hoffnung auf einen glücklichen Zufall oder verlässt sich auf andere Menschen im Leben. Man kann die Meinung einer solchen Person leicht ändern und sie zwingen, ihre Pläne aufzugeben."
+    },
+    {
+      "locale": "de",
+      "category": "family",
+      "number": 0,
+      "description": "Diese Person ist kein Familienmensch. Das bedeutet, dass seine/ihre Familie im Leben überhaupt keine Priorität hat. Solche Menschen sind in der Regel nicht in Eile, eine Familie zu gründen, da sie mehr an Arbeit, Karriere, sozialem Leben usw. interessiert sind."
+    },
+    {
+      "locale": "de",
+      "category": "stability",
+      "number": 0,
+      "description": "Diese Person ist revolutionär im Geist. Sie strebt danach, alles um sich herum zu verändern: sie verändert ihre Umgebung, ihren Arbeitsplatz. Er/sie hinterfragt praktisch alles und versucht, jeden und alles zu verändern."
+    },
+    {
+      "locale": "de",
+      "category": "esteem",
+      "number": 0,
+      "description": "Wir können sagen, dass diese Person ein geringes Selbstwertgefühl hat und ihre Fähigkeiten unterschätzt. Mit drei Ziffern kann sie manchmal „Momente der Klarheit“ haben, ist jedoch immer noch sehr unsicher."
+    },
+    {
+      "locale": "de",
+      "category": "finance",
+      "number": 0,
+      "description": "Diese Person möchte sich finanziell nicht selbst unterstützen und kann leicht von ihren Eltern, ihrer Frau oder ihrem Mann profitieren. Diese Linie stellt für Frauen keine besondere Gefahr dar, da es üblich ist, wenn ein Ehemann der Hauptverdiener in der Familie wird."
+    },
+    {
+      "locale": "de",
+      "category": "talents",
+      "number": 0,
+      "description": "Je mehr Ziffern – desto stärker das Talent. Das bedeutet jedoch nicht, dass eine Person, wenn diese Linie sehr stark ist (nicht mehr als 5 Ziffern, um eine Überlastung zu vermeiden), zwangsläufig sehr talentiert sein wird. Denken Sie daran, dass viele andere Ziffernlinien der Psychomatrix die potenzielle Entwicklung der eigenen Talente beeinflussen: Charakter, Selbstwertgefühl, Sinn für Zielstrebigkeit, Energieniveau, Gesundheit, Glück und andere. Es ist die Kombination vieler verschiedener Eigenschaften und der Wille einer Person, die es ihr ermöglichen, ihre Ziele zu erreichen.\n\nEs ist sehr wichtig, das beste Anwendungsgebiet für die Energie und Ressourcen einer Person zu identifizieren. Streben Sie niemals an, mit dem Fluss des Lebens zu schwimmen. Es gibt eine ganze Liste von „heißen“ Berufen: Anwalt, Banker, Top-Manager, Ökonom usw. All diese Berufe werden nicht durch das Talent der Menschen bestimmt, sondern durch die Fähigkeit, sich selbst und ihre Angehörigen finanziell zu versorgen. Bevor Sie Ihrem Kind raten, den Beruf der „Geldverdiener“ zu wählen, denken Sie über seine Zukunft nach.\n\nEs gibt so viele Menschen in dieser Welt, die ihre Talente nie entwickelt haben. Wir werden wahrscheinlich nicht falsch liegen, wenn wir sagen, dass dies für etwa 90-95 % der Weltbevölkerung zutrifft. Bevor Sie die Entwicklung der Interessen Ihres Kindes behindern, schauen Sie sich Ihre Ziffern an und fragen Sie sich: Waren Sie in der Lage, Ihr Potenzial und Ihre Talente zu entdecken und zu entwickeln? Wenn nicht, dann haben Sie Mitleid mit sich selbst und Ihrem Kind und geben Sie ihm die Möglichkeit, ein Teil der Geschichte der Erde zu werden, und sich selbst – die Möglichkeit, ihm dabei zu helfen.\n\nDenken Sie nur darüber nach, warum wir für unsere Kinder immer noch bessere Schulen, Kindergärten, Ärzte und Lehrer wählen? Die Tatsache ist, dass immer häufiger begabte Menschen gut bezahlte Jobs finden; während Menschen, die nicht in ihre Arbeit investieren, sich nicht engagieren – nicht gut bezahlt werden. Daher müssen wir mit Engagement beginnen, und erst dann werden wir starke Banker, Manager und staatliche Institutionen haben: Viele Berufe werden von Menschen besetzt, die engagiert, verantwortungsbewusst sind und wissen, was sie tun. Dann werden wir nicht mehr das Problem haben, welche Schulen wir für unsere Kinder wählen sollen.\n\nDas Wichtigste ist zu verstehen, dass jede Person einzigartig ist und der Mutter Natur selbst antwortet (wir haben das bereits mehrfach festgestellt, aber wir möchten, dass dieser einfache Gedanke fest im Gedächtnis bleibt). Wir sind alle verantwortlich für uns selbst und unsere Kinder gegenüber zukünftigen Generationen. Jedes unentdeckte Talent wird eine ganze Kette von Menschen mit unrealisiertem Potenzial schaffen – dies wird die Menschen wiederum in den Barbarismus, Kriege, Terror, Hass aufeinander und den Wunsch zurückbringen, alles umzukehren. Lernen Sie, für sich selbst Verantwortung zu übernehmen!"
+    },
+    {
+      "locale": "de",
+      "category": "temperament",
+      "number": 0,
+      "description": "Dies spricht von einer Gleichgültigkeit. Sehr oft werden diese Menschen beim Betrügen erwischt, weil es ihnen egal ist, „mit wem und wie“, und ihr Wunsch, ihren Wert durch intime Kontakte zu beweisen, sie zu einer ständigen Suche nach dem idealen Partner drängt – insbesondere Männer, die nach derselben „kalten“ Frau suchen, die vollkommen mit ihm zufrieden sein wird, und umgekehrt."
+    },
+    {
+      "locale": "de",
+      "category": "spirituality",
+      "number": 0,
+      "description": "Die Anzahl der Ziffern in dieser Zeile kann ein Indikator für die Spiritualität einer Person sein. Man kann sagen, dass bei bis zu fünf Ziffern die Spiritualität einer Person allmählich von Gottlosigkeit (keine Ziffern) zu einem maximalen Niveau der Spiritualität (fünf Ziffern) ansteigt. Wenn diese Zeile mehr als fünf Ziffern enthält (6 oder mehr), dann können wir von einer Überlastung der Qualität sprechen, die meist zu Fanatismus und Götzendienst führt, wenn alle menschlichen Normen bis zur Unkenntlichkeit verzerrt werden und ins Extreme gehen. Dies ähnelt eher dem völligen Mangel an Spiritualität als dem göttlichen Prinzip (Kampf gegen Hexen und Häretiker mit Schwertern und Feuer, Tötung der \"Ungläubigen\", Ausrottung von Dissidenten). Fanatismus in seiner extremen Form ist immer gottlos, weil er andere Standpunkte nicht zulässt.\n\nBei der Analyse der Psychomatrix müssen Sie auf die Beziehung zwischen den beiden Diagonalen (fleischlich und spirituell) achten. Es ist ihre Beziehung, die eine Schlüsselrolle in der Stärke jeder der Linien spielt.\n\nBei der Bewertung der Stärke jeder Linie können wir sagen, WAS für die Person in ihrer zukünftigen ehelichen Verbindung wichtig ist: ihr Interesse an den spirituellen Prinzipien des Partners oder die materielle Seite (fleischliche Aspekte einschließlich sexueller Beziehungen).\n\nEs ist am besten, wenn beide Linien gleich stark ausgeprägt sind. Idealerweise sollte das Verhältnis der quantitativen Merkmale eines Partners dem quantitativen Merkmal des anderen entsprechen. Zum Beispiel, wenn eine Frau eine fleischliche Diagonale von 5 Ziffern und eine spirituelle von 4 Ziffern hat, dann kann ihr Verhältnis als 5/4 notiert werden. Angenommen, ihr Ehemann hat das folgende Verhältnis der Diagonalen: fleischlich – 5 Ziffern und spirituell – 2 Ziffern, mit dem Verhältnis der Diagonalen von 5/2. Der Vergleich zeigt, dass für den Ehemann seine Frau als Frau ein größeres Interesse darstellt als seine Frau als Persönlichkeit. Daher wird er wahrscheinlich nicht genug Aufmerksamkeit darauf verwenden, seine Frau auf Intimität vorzubereiten, weil ihn der Körper mehr interessiert als die Seele. In dieser Situation ist es möglich, dass die Frau oft enttäuscht ist, weil ihr Ehemann nicht genug auf ihre Bedürfnisse achtet.\n\nBei der Analyse einer Psychomatrix ist es wichtig zu berücksichtigen, dass idealerweise die Verhältnisse der Diagonalen übereinstimmen sollten oder deren Unterschied minimal und von demselben Vorzeichen sein sollte: Wenn der Ehemann eine stärkere fleischliche Diagonale hat, dann sollte die Frau ihre fleischliche Diagonale stärker haben als ihre spirituelle. Versuchen Sie nicht, Experimente bei der Schaffung ehelicher Verbindungen durchzuführen, bei denen das übermäßige fleischliche Interesse eines Partners durch die starke Spiritualität des anderen gebremst wird – dies ist ein starkes Indiz dafür, dass die beiden Menschen als Ehepartner inkompatibel sind. Der eine muss Dinge besprechen, während der andere sie fühlen muss. In einem solchen Szenario werden beide Menschen leiden. Es ist am besten, einen Partner mit einem ähnlichen Temperament zu wählen. Dann wird es viel einfacher sein, gegenseitiges Verständnis zu haben."
+    },
+    {
+      "locale": "de",
+      "category": "purpose",
+      "number": 1,
+      "description": "Dies bedeutet ein schwaches Zielbewusstsein. Diese Person kann sich in einen Streit verwickeln, aber das bedeutet nicht, dass sie ein bestimmtes Ergebnis erzielen möchte. Typischerweise ist dies nur der Wunsch, eine andere Person in einem Streit zu besiegen. Diese Person verlässt sich auf Glück und Freunde."
+    },
+    {
+      "locale": "de",
+      "category": "family",
+      "number": 1,
+      "description": "Diese Person erkennt, dass sie eine Familie gründen muss, zeigt jedoch keine besonderen Anstrengungen in diese Richtung. Sie wartet darauf, dass jemand anderes die Initiative in dieser Hinsicht ergreift und die Arbeit für sie erledigt."
+    },
+    {
+      "locale": "de",
+      "category": "stability",
+      "number": 1,
+      "description": "Diese Person ist revolutionär im Geist. Sie strebt danach, alles um sich herum zu verändern: Sie verändert ihre Umgebung, ihren Arbeitsplatz. Sie hinterfragt praktisch alles und versucht, jeden und alles zu verändern."
+    },
+    {
+      "locale": "de",
+      "category": "esteem",
+      "number": 1,
+      "description": "Wir können sagen, dass diese Person ein geringes Selbstwertgefühl hat und ihre Fähigkeiten unterschätzt. Mit drei Ziffern kann sie manchmal „Momente der Klarheit“ haben, ist sich jedoch selbst sehr unsicher."
+    },
+    {
+      "locale": "de",
+      "category": "finance",
+      "number": 1,
+      "description": "Diese Person möchte sich finanziell nicht selbst unterstützen und kann leicht von seinen/ihren Eltern, der Frau oder dem Mann profitieren. Diese Linie stellt für Frauen keine besondere Gefahr dar, da es üblich ist, dass ein Ehemann der Hauptverdiener in der Familie wird."
+    },
+    {
+      "locale": "de",
+      "category": "talents",
+      "number": 1,
+      "description": "Je mehr Ziffern – desto stärker das Talent. Das bedeutet jedoch nicht, dass eine Person, wenn diese Linie sehr stark ist (nicht mehr als 5 Ziffern, um eine Überlastung zu vermeiden), zwangsläufig sehr talentiert sein wird. Denken Sie daran, dass viele andere Ziffernlinien der Psychomatrix die potenzielle Entwicklung der eigenen Talente beeinflussen: Charakter, Selbstwertgefühl, Sinn für Zweck, Energieniveau, Gesundheit, Glück und andere. Es ist die Kombination vieler verschiedener Eigenschaften und der Wille einer Person, die es ihr ermöglichen, ihre Ziele zu erreichen.\n\nEs ist sehr wichtig, das beste Anwendungsgebiet für die Energie und Ressourcen einer Person zu identifizieren. Streben Sie niemals danach, mit dem Fluss des Lebens zu schwimmen. Es gibt eine ganze Liste von „heißen“ Berufen: Anwalt, Banker, Top-Manager, Ökonom usw. All diese Berufe werden nicht durch das Talent der Menschen bestimmt, sondern durch die Fähigkeit, sich selbst und ihre Angehörigen finanziell zu versorgen. Bevor Sie Ihrem Kind raten, den \"Geldverdiener\"-Beruf zu wählen, denken Sie über seine Zukunft nach.\n\nEs gibt so viele Menschen in dieser Welt, die ihre Talente nie entwickelt haben. Wir werden wahrscheinlich nicht falsch liegen, wenn wir sagen, dass dies für etwa 90-95% der Weltbevölkerung zutrifft. Bevor Sie die Entwicklung der Interessen Ihres Kindes behindern, schauen Sie sich Ihre Ziffern an und fragen Sie sich: Waren Sie in der Lage, Ihr Potenzial und Ihre Talente zu entdecken und zu entwickeln? Wenn nicht, dann haben Sie Mitleid mit sich selbst und Ihrem Kind, und geben Sie ihm die Möglichkeit, ein Teil der Geschichte der Erde zu werden, und sich selbst – die Möglichkeit, ihm dabei zu helfen.\n\nDenken Sie nur einmal darüber nach, warum wir für unsere Kinder immer noch bessere Schulen, Kindergärten, Ärzte und Lehrer auswählen? Die Tatsache ist, dass immer häufiger begabte Menschen gut bezahlte Jobs finden; gleichzeitig werden Menschen, die sich nicht in ihre Arbeit investieren, nicht engagieren – nicht gut bezahlt. Daher müssen wir mit Engagement beginnen, und erst dann werden wir starke Banker, Manager, staatliche Institutionen haben: Viele Berufe werden von Menschen besetzt, die engagiert, verantwortungsbewusst sind und wissen, was sie tun. Dann werden wir nicht mehr das Problem haben, welche Schulen wir für unsere Kinder auswählen sollen.\n\nDas Wichtigste ist zu verstehen, dass jeder Mensch einzigartig ist und auf die Mutter Natur selbst antwortet (wir haben das bereits mehrfach betont, aber wir möchten, dass dieser einfache Gedanke fest im Gedächtnis bleibt). Wir sind alle für uns selbst und unsere Kinder gegenüber zukünftigen Generationen verantwortlich. Jedes unentdeckte Talent wird eine ganze Kette von Menschen mit unrealisiertem Potenzial schaffen – dies wird die Menschen wiederum in den Barbarismus, Kriege, Terror, Hass aufeinander und den Wunsch, alles umzukehren, zurückbringen. Lernen Sie, für sich selbst Verantwortung zu übernehmen!"
+    },
+    {
+      "locale": "de",
+      "category": "temperament",
+      "number": 1,
+      "description": "Dies spricht von Gleichgültigkeit. Sehr oft werden diese Menschen beim Betrügen erwischt, weil es ihnen egal ist, „mit wem und wie“, und ihr Wunsch, ihren Wert durch intime Kontakte zu beweisen, treibt sie dazu, kontinuierlich nach dem idealen Partner zu suchen – insbesondere Männer, die nach derselben „kalten“ Frau suchen, die mit ihm vollkommen zufrieden sein wird, und umgekehrt."
+    },
+    {
+      "locale": "de",
+      "category": "spirituality",
+      "number": 1,
+      "description": "Die Anzahl der Ziffern in dieser Linie kann ein Indikator für die Spiritualität einer Person sein. Man kann sagen, dass bei bis zu fünf Ziffern die Spiritualität einer Person allmählich von Gottlosigkeit (keine Ziffern) zu einem maximalen Niveau der Spiritualität (fünf Ziffern) ansteigt. Wenn diese Linie mehr als fünf Ziffern enthält (6 oder mehr), dann können wir von einer Überlastung der Qualität sprechen, die meist zu Fanatismus und Götzendienst führt, wenn alle menschlichen Normen bis zur Unkenntlichkeit verzerrt werden und ins Extreme gehen. Dies ähnelt eher dem völligen Mangel an Spiritualität als dem göttlichen Prinzip (Kampf gegen Hexen und Häretiker mit Schwertern und Feuer, Tötung der \"Ungläubigen\", Ausrottung von Dissidenten). Fanatismus in seiner extremen Form ist immer gottlos, da er andere Standpunkte nicht zulässt.\n\nBei der Analyse der Psychomatrix muss man auf die Beziehung zwischen den beiden Diagonalen (fleischlich und spirituell) achten. Es ist ihre Beziehung, die eine Schlüsselrolle in der Stärke jeder der Linien spielt.\n\nBei der Bewertung der Stärke jeder Linie können wir sagen, WAS für die Person in ihrer zukünftigen Ehe wichtig ist: ihr Interesse an den spirituellen Prinzipien des Partners oder die materielle Seite (fleischliche Aspekte einschließlich sexueller Beziehungen).\n\nEs ist am besten, wenn beide Linien gleich stark ausgeprägt sind. Idealerweise sollte das Verhältnis der quantitativen Merkmale eines Partners dem quantitativen Merkmal des anderen entsprechen. Zum Beispiel, wenn die Frau eine fleischliche Diagonale von 5 Ziffern und eine spirituelle von 4 Ziffern hat, dann kann ihr Verhältnis als 5/4 festgehalten werden. Angenommen, ihr Ehemann hat das folgende Verhältnis der Diagonalen: fleischlich – 5 Ziffern und spirituell – 2 Ziffern, mit dem Verhältnis der Diagonalen von 5/2. Der Vergleich zeigt, dass für den Ehemann seine Frau als Frau ein größeres Interesse darstellt als seine Frau als Persönlichkeit. Daher wird er wahrscheinlich nicht genug Aufmerksamkeit darauf verwenden, seine Frau auf Intimität vorzubereiten, da er mehr am Körper als an der Seele interessiert ist. In dieser Situation ist es möglich, dass die Frau oft enttäuscht ist, weil ihr Ehemann nicht genug Aufmerksamkeit auf ihre Bedürfnisse legt.\n\nBei der Analyse einer Psychomatrix ist es wichtig zu berücksichtigen, dass idealerweise die Verhältnisse der Diagonalen übereinstimmen sollten oder ihre Differenz minimal und vom gleichen Vorzeichen sein sollte: Wenn der Ehemann eine stärkere fleischliche Diagonale hat, sollte die Frau ihre fleischliche Diagonale stärker als ihre spirituelle haben. Versuchen Sie nicht, Experimente bei der Schaffung von Ehegemeinschaften durchzuführen, bei denen das übermäßige fleischliche Interesse eines Partners durch die starke Spiritualität des anderen zurückgehalten wird – dies ist ein starkes Indiz dafür, dass die beiden Personen als Ehepartner inkompatibel sind. Der eine muss die Dinge besprechen, während der andere sie fühlen muss. In einem solchen Szenario werden beide Personen leiden. Es ist am besten, einen Partner mit einem ähnlichen Temperament zu wählen. Dann wird es viel einfacher sein, gegenseitiges Verständnis zu haben."
+    },
+    {
+      "locale": "de",
+      "category": "purpose",
+      "number": 2,
+      "description": "Diese Person hat ein normales Zielbewusstsein. Man kann sagen, dass diese Person Zeit benötigt, um im Leben auf Touren zu kommen. Zuerst muss er seine Fähigkeiten entdecken, und erst dann wird er sich würdige Ziele setzen."
+    },
+    {
+      "locale": "de",
+      "category": "family",
+      "number": 2,
+      "description": "Diese Person erkennt, dass sie eine Familie gründen muss, zeigt jedoch keine besonderen Anstrengungen in diese Richtung. Sie wartet darauf, dass jemand anderes die Initiative in dieser Hinsicht ergreift und die Arbeit für sie erledigt."
+    },
+    {
+      "locale": "de",
+      "category": "stability",
+      "number": 2,
+      "description": "Diese Person ist sehr enthusiastisch und schnell auf den Beinen, aber sie kann bereits ihre revolutionären Impulse kontrollieren (wenn sie will)."
+    },
+    {
+      "locale": "de",
+      "category": "esteem",
+      "number": 2,
+      "description": "Wir können sagen, dass diese Person ein geringes Selbstwertgefühl hat und ihre Fähigkeiten unterschätzt. Mit drei Ziffern kann sie manchmal „Momente der Klarheit“ haben, ist aber dennoch sehr unsicher."
+    },
+    {
+      "locale": "de",
+      "category": "finance",
+      "number": 2,
+      "description": "Diese Person erkennt, dass sie ihre Familie unterstützen muss, also beginnt sie, nach einem Job zu suchen, der ein realistisches oder durchschnittliches Gehalt bietet, um finanzielle Stabilität zu gewährleisten. Infolgedessen kann eine Person ihren Traum aufgeben, nur um stabile Einnahmen zu erzielen. Gleichzeitig wird diese Person, wenn sie Schwierigkeiten hat, einen Job zu finden, nicht allzu enttäuscht sein, da sie von Anfang an nicht sehr darauf erpicht ist, der Hauptverdiener in der Familie zu sein."
+    },
+    {
+      "locale": "de",
+      "category": "talents",
+      "number": 2,
+      "description": "Je mehr Ziffern – desto stärker das Talent. Das bedeutet jedoch nicht, dass eine Person, wenn diese Linie sehr stark ist (nicht mehr als 5 Ziffern, um eine Überlastung zu vermeiden), zwangsläufig sehr talentiert sein wird. Denken Sie daran, dass viele andere Ziffernlinien der Psychomatrix die potenzielle Entwicklung der eigenen Talente beeinflussen: Charakter, Selbstwertgefühl, Sinn für das Leben, Energieniveau, Gesundheit, Glück und andere. Es ist die Kombination vieler verschiedener Eigenschaften und der Willenskraft einer Person, die es ihr ermöglicht, ihre Ziele zu erreichen.\n\nEs ist sehr wichtig, den besten Anwendungsbereich für die Energie und Ressourcen einer Person zu identifizieren. Streben Sie niemals an, mit dem Fluss des Lebens zu schwimmen. Es gibt eine ganze Liste von „heißen“ Berufen: Anwalt, Banker, Top-Manager, Ökonom usw. Alle diese Berufe werden nicht durch das Talent der Menschen bestimmt, sondern durch die Fähigkeit, finanziell für sich selbst und ihre Lieben zu sorgen. Bevor Sie Ihrem Kind raten, den „geldbringenden“ Beruf zu wählen, denken Sie über seine Zukunft nach.\n\nEs gibt so viele Menschen in dieser Welt, die ihre Talente nie entwickelt haben. Wir werden wahrscheinlich nicht falsch liegen, wenn wir sagen, dass dies für etwa 90-95% der Weltbevölkerung zutrifft. Bevor Sie die Entwicklung der Interessen Ihres Kindes behindern, schauen Sie sich Ihre Ziffern an und fragen Sie sich: Waren Sie in der Lage, Ihr Potenzial und Ihre Talente zu entdecken und zu entwickeln? Wenn nicht, dann haben Sie Mitleid mit sich selbst und Ihrem Kind und geben Sie ihm die Möglichkeit, ein Teil der Geschichte der Erde zu werden, und sich selbst – die Möglichkeit, ihm dabei zu helfen.\n\nDenken Sie nur daran, warum wir für unsere Kinder immer noch bessere Schulen, Kindergärten, Ärzte und Lehrer auswählen? Die Tatsache ist, dass immer häufiger begabte Menschen gut bezahlte Jobs finden; gleichzeitig werden Menschen, die nicht in ihre Arbeit investieren, nicht engagiert – nicht gut bezahlt. Daher müssen wir mit Engagement beginnen, und erst dann werden wir starke Banker, Manager, staatliche Institutionen haben: Viele Berufe werden von Menschen besetzt, die engagiert, verantwortungsbewusst sind und wissen, was sie tun. Dann werden wir kein Problem mehr haben, welche Schulen wir für unsere Kinder wählen sollen.\n\nDas Wichtigste ist zu verstehen, dass jeder Mensch einzigartig ist und auf die Mutter Natur selbst antwortet (das haben wir bereits mehrfach betont, aber wir möchten, dass dieser einfache Gedanke fest im Gedächtnis bleibt). Wir sind alle verantwortlich für uns selbst und unsere Kinder gegenüber zukünftigen Generationen. Jedes unentdeckte Talent wird eine ganze Kette von Menschen mit unrealisiertem Potenzial schaffen – dies wird die Menschen wiederum in die Barbarei, Kriege, Terror, Hass gegeneinander und den Wunsch, alles umzukehren, zurückbringen. Lernen Sie, für sich selbst Verantwortung zu übernehmen!"
+    },
+    {
+      "locale": "de",
+      "category": "temperament",
+      "number": 2,
+      "description": "Dies ist ein normaler Temperament. Diese Person kann jeden Tag intime Beziehungen haben, aber wenn dies nicht möglich ist – kann er/sie ohne Unbehagen warten."
+    },
+    {
+      "locale": "de",
+      "category": "spirituality",
+      "number": 2,
+      "description": "Die Anzahl der Ziffern in dieser Linie kann ein Indikator für die Spiritualität einer Person sein. Wir können sagen, dass bei bis zu fünf Ziffern die Spiritualität einer Person allmählich von Gottlosigkeit (keine Ziffern) zu einem maximalen Niveau der Spiritualität (fünf Ziffern) ansteigt. Wenn diese Linie mehr als fünf Ziffern enthält (6 oder mehr), dann können wir von einer Überlastung der Qualität sprechen, die meist zu Fanatismus und Götzendienst führt, wenn alle menschlichen Normen bis zur Unkenntlichkeit verzerrt werden und ins Extreme gehen. Dies ähnelt eher dem völligen Mangel an Spiritualität als dem göttlichen Prinzip (Kampf gegen Hexen und Häretiker mit Schwertern und Feuer, Tötung der \"Ungläubigen\", Ausrottung von Dissidenten). Fanatismus in seiner extremen Form ist immer gottlos, weil er andere Standpunkte nicht zulässt.\n\nBei der Analyse der Psychomatrix müssen Sie auf das Verhältnis zwischen den beiden Diagonalen (fleischlich und spirituell) achten. Es ist ihr Verhältnis, das eine Schlüsselrolle in der Stärke jeder der Linien spielen wird.\n\nBei der Bewertung der Stärke jeder Linie können wir sagen, WAS für die Person in ihrer zukünftigen Ehe wichtig ist: ihr Interesse an den spirituellen Prinzipien des Partners oder die materielle Seite (fleischliche Aspekte einschließlich sexueller Beziehungen).\n\nEs ist am besten, wenn beide Linien gleich stark ausgeprägt sind. Idealerweise sollte das Verhältnis der quantitativen Merkmale eines Partners dem quantitativen Merkmal des anderen entsprechen. Zum Beispiel, wenn die Frau eine fleischliche Diagonale von 5 Ziffern und eine spirituelle von 4 Ziffern hat, dann kann ihr Verhältnis als 5/4 festgehalten werden. Angenommen, ihr Ehemann hat folgendes Verhältnis der Diagonalen: fleischlich – 5 Ziffern und spirituell – 2 Ziffern, mit dem Verhältnis der Diagonalen von 5/2. Der Vergleich zeigt, dass für den Ehemann seine Frau als Frau ein größeres Interesse darstellt als seine Frau als Persönlichkeit. Daher wird er wahrscheinlich nicht genug Aufmerksamkeit darauf verwenden, seine Frau auf Intimität vorzubereiten, weil ihn der Körper mehr interessiert als die Seele. In dieser Situation ist es möglich, dass die Frau oft enttäuscht ist, weil ihr Ehemann nicht genug auf ihre Bedürfnisse achtet.\n\nBei der Analyse einer Psychomatrix ist es wichtig zu berücksichtigen, dass idealerweise die Verhältnisse der Diagonalen übereinstimmen sollten oder deren Unterschied minimal und von demselben Vorzeichen sein sollte: Wenn der Ehemann eine stärkere fleischliche Diagonale hat, sollte die Frau ihre fleischliche Diagonale stärker haben als ihre spirituelle. Versuchen Sie nicht, Experimente zur Schaffung von Eheverbindungen durchzuführen, bei denen das übermäßige fleischliche Interesse eines Partners durch die starke Spiritualität des anderen eingeschränkt wird – dies ist ein starkes Indiz dafür, dass die beiden Menschen als Ehepartner inkompatibel sind. Der eine muss die Dinge besprechen, während der andere sie fühlen muss. In einem solchen Szenario werden beide Menschen leiden. Es ist am besten, einen Partner mit einem ähnlichen Temperament zu wählen. Dann wird es viel einfacher sein, gegenseitiges Verständnis zu haben."
+    },
+    {
+      "locale": "de",
+      "category": "purpose",
+      "number": 3,
+      "description": "Diese Person kann ihre Ziele völlig unerwartet (unvorhersehbar, plötzlich und unerwartet) ändern. Sehr oft ist ihre Wahl unbegründet und unerklärlich. Wir empfehlen, Ihre Ziele basierend auf den starken Zahlen in Ihrer Psychomatrix zu definieren."
+    },
+    {
+      "locale": "de",
+      "category": "family",
+      "number": 3,
+      "description": "Diese Person ist hin- und hergerissen zwischen dem starken Wunsch, um jeden Preis eine Familie zu gründen, und einer völligen Unwilligkeit, dies jemals zu tun. Wenn eine solche Person sich jemals entscheidet zu heiraten, sollte ihr Partner sofort handeln, sonst wird alles lange aufgeschoben."
+    },
+    {
+      "locale": "de",
+      "category": "stability",
+      "number": 3,
+      "description": "Diese Person ist in ihren Gewohnheiten instabil. Sie kann viele verschiedene Gewohnheiten und Bindungen beginnen, um Stabilität zu schaffen, aber sie kann ebenso leicht aufgeben, ohne dass ein offensichtlicher Grund vorliegt. Nach einer Weile kann sie versuchen, alte Verbindungen wiederzubeleben. All das geschieht immer unerwartet."
+    },
+    {
+      "locale": "de",
+      "category": "esteem",
+      "number": 3,
+      "description": "Wir können sagen, dass diese Person ein geringes Selbstwertgefühl hat und ihre Fähigkeiten unterschätzt. Mit drei Ziffern kann sie manchmal \"Momente der Klarheit\" haben, ist aber dennoch sehr unsicher in sich selbst."
+    },
+    {
+      "locale": "de",
+      "category": "finance",
+      "number": 3,
+      "description": "Diese Menschen können impulsiv arbeiten. Ihr Leitprinzip ist es, ihre Arbeit schnell zu erledigen, um das Geld eine Zeit lang zu strecken, und dann bei Bedarf wieder zur Arbeit zurückzukehren."
+    },
+    {
+      "locale": "de",
+      "category": "talents",
+      "number": 3,
+      "description": "Je mehr Ziffern – desto stärker das Talent. Das bedeutet jedoch nicht, dass, wenn diese Linie sehr stark ist (nicht mehr als 5 Ziffern, um eine Überlastung zu vermeiden), eine Person unbedingt sehr talentiert sein wird. Denken Sie daran, dass viele andere Ziffernlinien der Psychomatrix die potenzielle Entwicklung der eigenen Talente beeinflussen: Charakter, Selbstwertgefühl, Sinn für Zweck, Energieniveau, Gesundheit, Glück und andere. Es ist die Kombination vieler verschiedener Eigenschaften und der Wille einer Person, die es ihr ermöglichen, ihre Ziele zu erreichen.\n\nEs ist sehr wichtig, das beste Anwendungsgebiet für die Energie und Ressourcen einer Person zu identifizieren. Streben Sie niemals an, mit dem Fluss des Lebens zu schwimmen. Es gibt eine ganze Liste von \"heißen\" Berufen: Anwalt, Banker, Top-Manager, Ökonom usw. All diese Berufe werden nicht durch das Talent der Menschen bestimmt, sondern durch die Fähigkeit, finanziell für sich selbst und ihre Lieben zu sorgen. Bevor Sie Ihrem Kind raten, den \"Geldverdienenden\" Beruf zu wählen, denken Sie über seine Zukunft nach.\n\nEs gibt so viele Menschen in dieser Welt, die ihre Talente nie entwickelt haben. Wir werden wahrscheinlich nicht falsch liegen, wenn wir sagen, dass dies für etwa 90-95% der Weltbevölkerung zutrifft. Bevor Sie die Entwicklung der Interessen Ihres Kindes behindern, schauen Sie sich Ihre Ziffern an und fragen Sie sich: Waren Sie in der Lage, Ihr Potenzial und Ihre Talente zu entdecken und zu entwickeln? Wenn nicht, dann haben Sie Mitleid mit sich selbst und Ihrem Kind und geben Sie ihm die Möglichkeit, ein Teil der Geschichte der Erde zu werden, und sich selbst – die Möglichkeit, ihm dabei zu helfen.\n\nDenken Sie nur einmal darüber nach, warum wir für unsere Kinder immer noch bessere Schulen, Kindergärten, Ärzte und Lehrer auswählen? Die Tatsache ist, dass immer häufiger begabte Menschen gut bezahlte Jobs finden; gleichzeitig erhalten Menschen, die nicht in ihre Arbeit investieren und sich nicht engagieren – nicht gut bezahlt. Daher müssen wir mit Engagement beginnen, und nur dann werden wir starke Banker, Manager und staatliche Institutionen haben: Viele Berufe werden von Menschen besetzt, die engagiert, verantwortungsbewusst sind und wissen, was sie tun. Dann werden wir nicht mehr das Problem haben, welche Schulen wir für unsere Kinder wählen sollen.\n\nDas Wichtigste ist zu verstehen, dass jeder Mensch einzigartig ist und der Mutter Natur selbst antwortet (wir haben das bereits mehrfach festgestellt, aber wir möchten, dass dieser einfache Gedanke fest im Gedächtnis bleibt). Wir sind alle verantwortlich für uns selbst und unsere Kinder gegenüber zukünftigen Generationen. Jedes unentdeckte Talent wird eine ganze Kette von Menschen mit unrealisiertem Potenzial schaffen – dies wird die Menschen wiederum zurück zur Barbarei, zu Kriegen, Terror, Hass gegeneinander und dem Wunsch führen, alles umzukehren. Lernen Sie, für sich selbst Verantwortung zu übernehmen!"
+    },
+    {
+      "locale": "de",
+      "category": "temperament",
+      "number": 3,
+      "description": "Dies ist ein normales Temperament. Diese Person kann jeden Tag intime Beziehungen haben, aber wenn es unmöglich ist – kann er/sie ohne Unbehagen warten."
+    },
+    {
+      "locale": "de",
+      "category": "spirituality",
+      "number": 3,
+      "description": "Die Anzahl der Ziffern in dieser Zeile kann ein Indikator für die Spiritualität einer Person sein. Wir können sagen, dass bei bis zu fünf Ziffern die Spiritualität einer Person allmählich von Gottlosigkeit (keine Ziffern) zu einem maximalen Niveau der Spiritualität (fünf Ziffern) ansteigt. Wenn diese Zeile mehr als fünf Ziffern enthält (6 oder mehr), dann können wir von einer Überlastung der Qualität sprechen, die meist zu Fanatismus und Götzendienst führt, wenn alle menschlichen Normen bis zur Unkenntlichkeit verzerrt werden und ins Extreme gehen. Dies ähnelt eher dem völligen Mangel an Spiritualität als dem göttlichen Prinzip (Kampf gegen Hexen und Häretiker mit Schwertern und Feuer, Tötung der \"Ungläubigen\", Ausrottung von Dissidenten). Fanatismus in seiner extremen Form ist immer gottlos, da er andere Standpunkte nicht zulässt.\n\nBei der Analyse der Psychomatrix müssen Sie auf die Beziehung zwischen den beiden Diagonalen (fleischlich und spirituell) achten. Es ist ihre Beziehung, die eine Schlüsselrolle in der Stärke jeder der Linien spielt.\n\nBei der Bewertung der Stärke jeder Linie können wir sagen, WAS für die Person in ihrer zukünftigen Ehe wichtig ist: ihr Interesse an den spirituellen Prinzipien des Partners oder die materielle Seite (fleischliche Aspekte einschließlich sexueller Beziehungen).\n\nEs ist am besten, wenn beide Linien gleich stark ausgeprägt sind. Idealerweise sollte das Verhältnis der quantitativen Merkmale eines Partners dem quantitativen Merkmal des anderen entsprechen. Zum Beispiel, wenn eine Frau eine fleischliche Diagonale von 5 Ziffern und eine spirituelle von 4 Ziffern hat, dann kann ihr Verhältnis als 5/4 festgehalten werden. Angenommen, ihr Ehemann hat das folgende Verhältnis der Diagonalen: fleischlich – 5 Ziffern und spirituell – 2 Ziffern, mit dem Verhältnis der Diagonalen von 5/2. Der Vergleich zeigt, dass für den Ehemann seine Frau als Frau ein größeres Interesse darstellt als seine Frau als Persönlichkeit. Daher wird er wahrscheinlich nicht genug Aufmerksamkeit darauf verwenden, seine Frau auf Intimität vorzubereiten, da er mehr am Körper als an der Seele interessiert ist. In dieser Situation ist es möglich, dass die Frau oft enttäuscht ist, weil ihr Ehemann ihr nicht genug Aufmerksamkeit für ihre Bedürfnisse schenkt.\n\nBei der Analyse einer Psychomatrix ist es wichtig zu berücksichtigen, dass idealerweise die Verhältnisse der Diagonalen übereinstimmen sollten oder deren Unterschied minimal und vom gleichen Vorzeichen sein sollte: Wenn der Ehemann eine stärkere fleischliche Diagonale hat, sollte die Frau ihre fleischliche Diagonale stärker haben als ihre spirituelle. Versuchen Sie nicht, Ehen zu schaffen, in denen das übermäßige fleischliche Interesse eines Partners durch die starke Spiritualität des anderen zurückgehalten wird – dies ist ein starkes Indiz dafür, dass die beiden Menschen als Ehepartner inkompatibel sind. Der eine muss die Dinge besprechen, während der andere sie fühlen muss. In einem solchen Szenario werden beide Personen leiden. Es ist am besten, einen Partner mit einem ähnlichen Temperament zu wählen. Dann wird es viel einfacher sein, gegenseitiges Verständnis zu haben."
+    },
+    {
+      "locale": "de",
+      "category": "purpose",
+      "number": 4,
+      "description": "Diese Person hat ein starkes Zielbewusstsein. Zuerst setzt er sich ein Ziel und erst dann beginnt er, seine Fähigkeiten und das Interesse am Ziel selbst zu messen. Sehr oft erreicht diese Person Ziele, die nicht mit seinen Interessen oder Möglichkeiten übereinstimmen. Wir empfehlen, die Psychomatrix genau zu studieren. Nachdem Sie die richtige Richtung gewählt haben, setzen Sie die Messlatte nicht zu niedrig für sich selbst."
+    },
+    {
+      "locale": "de",
+      "category": "family",
+      "number": 4,
+      "description": "Diese Person möchte eine Familie gründen und handelt ohne Verzögerung. In der Regel wird diese Person selten zur Schuldigen eines Trennungsdramas, da sie immer versucht, die Beziehung zu reparieren."
+    },
+    {
+      "locale": "de",
+      "category": "stability",
+      "number": 4,
+      "description": "Dies sind sehr stabile Menschen. Sie umgeben sich mit verschiedenen Bindungen und Gewohnheiten und schaffen so eine stabile Umgebung. Sie können in ihren Bindungen etwas langweilig sein. Sie mögen keine Veränderungen."
+    },
+    {
+      "locale": "de",
+      "category": "esteem",
+      "number": 4,
+      "description": "Gesundes Selbstwertgefühl. Diese Person möchte aus der Menge herausstechen und investiert viel Mühe dafür. Die Frage ist, ob diese Bemühungen gerechtfertigt sind."
+    },
+    {
+      "locale": "de",
+      "category": "finance",
+      "number": 4,
+      "description": "Diese Menschen verbringen viel Zeit und Mühe, um für ihre Familie zu sorgen. Oft ist dies ihr einziges Lebensziel."
+    },
+    {
+      "locale": "de",
+      "category": "talents",
+      "number": 4,
+      "description": "Je mehr Ziffern – desto stärker das Talent. Das bedeutet jedoch nicht, dass eine sehr starke Linie (nicht mehr als 5 Ziffern, um eine Überlastung zu vermeiden) automatisch bedeutet, dass eine Person sehr talentiert ist. Denken Sie daran, dass viele andere Ziffernlinien der Psychomatrix die potenzielle Entwicklung der eigenen Talente beeinflussen: Charakter, Selbstwertgefühl, Sinn für Zweck, Energieniveau, Gesundheit, Glück und andere. Es ist die Kombination vieler verschiedener Eigenschaften und der Willenskraft einer Person, die es ihr ermöglicht, ihre Ziele zu erreichen.\n\nEs ist sehr wichtig, das beste Anwendungsgebiet für die Energie und Ressourcen einer Person zu identifizieren. Streben Sie niemals an, mit dem Fluss des Lebens zu schwimmen. Es gibt eine ganze Liste von „heißen“ Berufen: Anwalt, Banker, Top-Manager, Ökonom usw. All diese Berufe werden nicht durch das Talent der Menschen bestimmt, sondern durch die Fähigkeit, sich und ihre Angehörigen finanziell zu versorgen. Bevor Sie Ihrem Kind raten, den \"geldbringenden\" Beruf zu wählen, denken Sie über seine Zukunft nach.\n\nEs gibt so viele Menschen in dieser Welt, die ihre Talente nie entwickelt haben. Wir werden wahrscheinlich nicht falsch liegen, wenn wir sagen, dass dies für etwa 90-95 % der Weltbevölkerung zutrifft. Bevor Sie die Entwicklung der Interessen Ihres Kindes behindern, schauen Sie sich Ihre Ziffern an und fragen Sie sich: Waren Sie in der Lage, Ihr Potenzial und Ihre Talente zu entdecken und zu entwickeln? Wenn nicht, dann haben Sie Mitleid mit sich selbst und Ihrem Kind, und geben Sie ihm die Möglichkeit, ein Teil der Geschichte der Erde zu werden, und sich selbst – die Möglichkeit, ihm dabei zu helfen.\n\nDenken Sie nur einmal darüber nach, warum wir für unsere Kinder immer noch bessere Schulen, Kindergärten, Ärzte und Lehrer auswählen? Die Tatsache ist, dass immer häufiger begabte Menschen gut bezahlte Jobs finden; gleichzeitig erhalten Menschen, die nicht in ihre Arbeit investieren, keine gute Bezahlung. Daher müssen wir mit Engagement beginnen, und erst dann werden wir starke Banker, Manager und staatliche Institutionen haben: Viele Berufe werden von Menschen besetzt, die engagiert, verantwortungsbewusst sind und wissen, was sie tun. Dann wird es kein Problem mehr sein, welche Schulen wir für unsere Kinder auswählen.\n\nDas Wichtigste ist zu verstehen, dass jeder Mensch einzigartig ist und der Mutter Natur selbst antwortet (wir haben das bereits mehrfach erwähnt, aber wir möchten, dass dieser einfache Gedanke fest im Gedächtnis bleibt). Wir sind alle verantwortlich für uns selbst und unsere Kinder gegenüber zukünftigen Generationen. Jedes unentdeckte Talent wird eine ganze Kette von Menschen mit unrealisiertem Potenzial schaffen – dies wird die Menschen wiederum zurück zur Barbarei, zu Kriegen, Terror, Hass aufeinander und dem Wunsch, alles umzukehren, bringen. Lernen Sie, für sich selbst Verantwortung zu übernehmen!"
+    },
+    {
+      "locale": "de",
+      "category": "temperament",
+      "number": 4,
+      "description": "Dies ist ein starker Temperament, und diese Person benötigt häufige sexuelle Beziehungen."
+    },
+    {
+      "locale": "de",
+      "category": "spirituality",
+      "number": 4,
+      "description": "Die Anzahl der Ziffern in dieser Linie kann ein Indikator für die Spiritualität einer Person sein. Wir können sagen, dass bei bis zu fünf Ziffern die Spiritualität einer Person allmählich von Gottlosigkeit (keine Ziffern) zu einem maximalen Niveau der Spiritualität (fünf Ziffern) ansteigt. Wenn diese Linie mehr als fünf Ziffern enthält (6 oder mehr), dann können wir von einer Überlastung der Qualität sprechen, die meist zu Fanatismus und Götzendienst führt, wenn alle menschlichen Normen bis zur Unkenntlichkeit verzerrt werden und ins Extreme gehen. Dies ähnelt eher dem völligen Mangel an Spiritualität als dem göttlichen Prinzip (Kampf gegen Hexen und Häretiker mit Schwertern und Feuer, Tötung der \"Ungläubigen\", Ausrottung von Dissidenten). Fanatismus in seiner extremen Form ist immer gottlos, da er andere Standpunkte nicht zulässt.\n\nBei der Analyse der Psychomatrix müssen Sie auf die Beziehung zwischen den beiden Diagonalen (fleischlich und spirituell) achten. Es ist ihre Beziehung, die eine Schlüsselrolle in der Stärke jeder der Linien spielt.\n\nBei der Bewertung der Stärke jeder Linie können wir sagen, WAS für die Person in ihrer zukünftigen Ehe wichtig ist: ihr Interesse an den spirituellen Prinzipien des Partners oder die materielle Seite (fleischliche Aspekte einschließlich sexueller Beziehungen).\n\nEs ist am besten, wenn beide Linien gleich stark ausgeprägt sind. Idealerweise sollte das Verhältnis der quantitativen Merkmale eines Partners dem quantitativen Merkmal des anderen entsprechen. Zum Beispiel, wenn die Frau eine fleischliche Diagonale von 5 Ziffern und eine spirituelle von 4 Ziffern hat, dann kann ihr Verhältnis als 5/4 festgehalten werden. Angenommen, ihr Ehemann hat folgendes Verhältnis der Diagonalen: fleischlich – 5 Ziffern und spirituell – 2 Ziffern, mit dem Verhältnis der Diagonalen von 5/2. Der Vergleich zeigt, dass für den Ehemann seine Frau als Frau ein größeres Interesse darstellt als seine Frau als Persönlichkeit. Daher wird er wahrscheinlich nicht genug Aufmerksamkeit darauf verwenden, seine Frau auf Intimität vorzubereiten, da er mehr am Körper als an der Seele interessiert ist. In dieser Situation ist es möglich, dass die Frau oft enttäuscht ist, weil ihr Ehemann nicht genug Aufmerksamkeit auf ihre Bedürfnisse legt.\n\nBei der Analyse einer Psychomatrix ist es wichtig zu berücksichtigen, dass idealerweise die Verhältnisse der Diagonalen übereinstimmen sollten oder ihre Differenz minimal und vom gleichen Vorzeichen sein sollte: wenn der Ehemann eine stärkere fleischliche Diagonale hat, dann sollte die Frau ihre fleischliche Diagonale stärker haben als ihre spirituelle. Versuchen Sie nicht, Experimente bei der Schaffung von Eheverbindungen durchzuführen, bei denen das übermäßige fleischliche Interesse eines Partners durch die starke Spiritualität des anderen zurückgehalten wird – dies ist ein starkes Indiz dafür, dass die beiden Menschen als Ehepartner inkompatibel sind. Der eine muss Dinge durchsprechen, während der andere sie fühlen muss. In einem solchen Szenario,"
+    },
+    {
+      "locale": "de",
+      "category": "purpose",
+      "number": 5,
+      "description": "Diese Person hat eine sehr starke Zielstrebigkeit. Das bedeutet, dass diese Person, wenn sie ein Ziel setzt, andere Menschen in ihrem Leben – Familie, Freunde, Geliebte – vergessen kann. Sie ist bereit, große Opfer zu bringen, um ihre Ziele um jeden Preis zu erreichen. Wir empfehlen, gesunden Menschenverstand bei der Verwirklichung Ihrer Ziele zu haben."
+    },
+    {
+      "locale": "de",
+      "category": "family",
+      "number": 5,
+      "description": "Diese Menschen sind sehr gute Familienmenschen. Andererseits haben sie eine idealistische Wahrnehmung einer Familie, die letztendlich zu extrem hohen und unvernünftigen Erwartungen an ihre Familie führen kann. Das einzige, was als Entschuldigung dienen kann, ist die Tatsache, dass sie ebenso hohe Erwartungen an sich selbst haben. Diese Menschen können einfach nicht ohne Familie existieren."
+    },
+    {
+      "locale": "de",
+      "category": "stability",
+      "number": 5,
+      "description": "Dies sind sehr stabile Menschen. Sie umgeben sich mit verschiedenen Bindungen und Gewohnheiten, die eine stabile Umgebung schaffen. Sie können in ihren Bindungen etwas langweilig sein. Sie mögen keine Veränderungen."
+    },
+    {
+      "locale": "de",
+      "category": "esteem",
+      "number": 5,
+      "description": "Diese Person hat ein sehr hohes Selbstwertgefühl, das manchmal übertrieben sein kann, wenn eine Person nicht an ihrer Selbstentwicklung arbeitet, sondern sich weiterhin nur nach ihren potenziellen Fähigkeiten bewertet und diese übertreibt.\n"
+    },
+    {
+      "locale": "de",
+      "category": "finance",
+      "number": 5,
+      "description": "Diese Menschen verbringen viel Zeit und Mühe, um für ihre Familie zu sorgen. Oft ist es ihr einziges Lebensziel.\n"
+    },
+    {
+      "locale": "de",
+      "category": "talents",
+      "number": 5,
+      "description": "Je mehr Ziffern – desto stärker das Talent. Das bedeutet jedoch nicht, dass eine Person mit einer sehr starken Linie (nicht mehr als 5 Ziffern, um eine Überlastung zu vermeiden) zwangsläufig sehr talentiert sein wird. Denken Sie daran, dass viele andere Ziffernlinien der Psychomatrix die potenzielle Entwicklung der eigenen Talente beeinflussen: Charakter, Selbstwertgefühl, Sinn für Zielstrebigkeit, Energieniveau, Gesundheit, Glück und andere. Es ist die Kombination vieler verschiedener Eigenschaften und der Willenskraft einer Person, die es ihr ermöglicht, ihre Ziele zu erreichen.\n\nEs ist sehr wichtig, das beste Anwendungsgebiet für die Energie und Ressourcen einer Person zu identifizieren. Streben Sie niemals an, mit dem Fluss des Lebens zu schwimmen. Es gibt eine ganze Liste von „heißen“ Berufen: Anwalt, Banker, Top-Manager, Ökonom usw. All diese Berufe werden nicht durch das Talent der Menschen bestimmt, sondern durch die Fähigkeit, finanziell für sich selbst und ihre Lieben zu sorgen. Bevor Sie Ihrem Kind raten, den \"geldbringenden\" Beruf zu wählen, denken Sie über seine Zukunft nach.\n\nEs gibt so viele Menschen in dieser Welt, die ihre Talente nie entwickelt haben. Wir werden wahrscheinlich nicht falsch liegen, wenn wir sagen, dass dies für etwa 90-95 % der Weltbevölkerung zutrifft. Bevor Sie die Entwicklung der Interessen Ihres Kindes behindern, schauen Sie sich Ihre Ziffern an und fragen Sie sich: Waren Sie in der Lage, Ihr Potenzial und Ihre Talente zu entdecken und zu entwickeln? Wenn nicht, dann haben Sie Mitleid mit sich selbst und Ihrem Kind und geben Sie ihm die Möglichkeit, Teil der Geschichte der Erde zu werden, und sich selbst – die Möglichkeit, ihm dabei zu helfen.\n\nDenken Sie nur daran, warum wir für unsere Kinder immer noch bessere Schulen, Kindergärten, Ärzte und Lehrer auswählen? Die Tatsache ist, dass immer häufiger begabte Menschen gut bezahlte Jobs finden; gleichzeitig erhalten Menschen, die nicht in ihre Arbeit investieren, keine gute Bezahlung. Daher müssen wir mit Engagement beginnen, und erst dann werden wir starke Banker, Manager und staatliche Institutionen haben: Viele Berufe werden von Menschen ausgeübt, die engagiert, verantwortungsbewusst sind und wissen, was sie tun. Dann werden wir kein Problem mehr haben, welche Schulen wir für unsere Kinder wählen sollen.\n\nDas Wichtigste ist zu verstehen, dass jede Person einzigartig ist und der Mutter Natur selbst antwortet (wir haben das bereits mehrfach festgestellt, aber wir möchten, dass dieser einfache Gedanke fest im Gedächtnis bleibt). Wir sind alle verantwortlich für uns selbst und unsere Kinder gegenüber zukünftigen Generationen. Jedes unentdeckte Talent wird eine ganze Kette von Menschen mit unrealisiertem Potenzial schaffen – dies wird die Menschen wiederum zurück in die Barbarei, Kriege, Terror, Hass gegeneinander und den Wunsch, alles umzukehren, führen. Lernen Sie, für sich selbst Verantwortung zu übernehmen!"
+    },
+    {
+      "locale": "de",
+      "category": "temperament",
+      "number": 5,
+      "description": "Dies ist der Höhepunkt des Temperaments – diese Person kann nicht ohne Intimität leben. Ihm/ihr ist wichtig, mit wem er/sie intime Beziehungen hat. Er kann seine Emotionen nicht ausschalten und benötigt die Leidenschaft eines Partners. Diese Person betrachtet sexuelle Beziehungen als eine Kunst."
+    },
+    {
+      "locale": "de",
+      "category": "spirituality",
+      "number": 5,
+      "description": "Die Anzahl der Ziffern in dieser Linie kann ein Indikator für die Spiritualität einer Person sein. Wir können sagen, dass bei bis zu fünf Ziffern die Spiritualität einer Person allmählich von Gottlosigkeit (keine Ziffern) zu einem maximalen Niveau der Spiritualität (fünf Ziffern) ansteigt. Wenn diese Linie mehr als fünf Ziffern enthält (6 oder mehr), dann können wir von einer Überlastung der Qualität sprechen, die meist zu Fanatismus und Götzendienst führt, wenn alle menschlichen Normen bis zur Unkenntlichkeit verzerrt werden und ins Extreme gehen. Dies ähnelt eher dem völligen Mangel an Spiritualität als dem göttlichen Prinzip (Kampf gegen Hexen und Häretiker mit Schwertern und Feuer, Tötung der \"Ungläubigen\", Ausrottung von Dissidenten). Fanatismus in seiner extremen Form ist immer gottlos, da er andere Standpunkte nicht zulässt.\n\nBei der Analyse der Psychomatrix müssen Sie auf das Verhältnis zwischen den beiden Diagonalen (fleischlich und spirituell) achten. Es ist ihr Verhältnis, das eine Schlüsselrolle in der Stärke jeder der Linien spielt.\n\nBei der Bewertung der Stärke jeder Linie können wir sagen, WAS für die Person in ihrer zukünftigen Ehe wichtig ist: ihr Interesse an den spirituellen Prinzipien des Partners oder die materielle Seite (fleischliche Aspekte einschließlich sexueller Beziehungen).\n\nEs ist am besten, wenn beide Linien gleich stark ausgeprägt sind. Idealerweise sollte das Verhältnis der quantitativen Merkmale eines Partners dem quantitativen Merkmal des anderen entsprechen. Zum Beispiel, wenn die Frau eine fleischliche Diagonale von 5 Ziffern und eine spirituelle von 4 Ziffern hat, dann kann ihr Verhältnis als 5/4 festgehalten werden. Angenommen, ihr Ehemann hat das folgende Verhältnis der Diagonalen: fleischlich – 5 Ziffern und spirituell – 2 Ziffern, mit dem Verhältnis der Diagonalen von 5/2. Der Vergleich zeigt, dass für den Ehemann seine Frau als Frau ein größeres Interesse darstellt als seine Frau als Persönlichkeit. Daher wird er wahrscheinlich nicht genug Aufmerksamkeit darauf verwenden, seine Frau auf Intimität vorzubereiten, da er mehr am Körper als an der Seele interessiert ist. In dieser Situation ist es möglich, dass die Frau oft enttäuscht ist, weil ihr Ehemann nicht genug auf ihre Bedürfnisse achtet.\n\nBei der Analyse einer Psychomatrix ist es wichtig zu berücksichtigen, dass idealerweise die Verhältnisse der Diagonalen übereinstimmen sollten oder ihre Differenz minimal und vom gleichen Vorzeichen sein sollte: Wenn der Ehemann eine stärkere fleischliche Diagonale hat, dann sollte die Frau ihre fleischliche Diagonale stärker haben als ihre spirituelle. Versuchen Sie nicht, Experimente bei der Schaffung von Eheverbindungen durchzuführen, bei denen das übermäßige fleischliche Interesse eines Partners durch die starke Spiritualität des anderen zurückgehalten wird – dies ist ein starkes Indiz dafür, dass die beiden Menschen als Ehepartner inkompatibel sind. Der eine muss Dinge besprechen, während der andere sie fühlen muss. In einem solchen Szenario werden beide Menschen leiden. Es ist am besten, einen Partner mit einem ähnlichen Temperament zu wählen. Dann wird es viel einfacher sein, gegenseitiges Verständnis zu haben."
+    },
+    {
+      "locale": "de",
+      "category": "purpose",
+      "number": 6,
+      "description": "Dies ist eine Überlastung eines Charakterzugs. Eine Person setzt sich selbst Dehnziele oder mehrere Ziele gleichzeitig, was ihren Fortschritt behindert."
+    },
+    {
+      "locale": "de",
+      "category": "family",
+      "number": 6,
+      "description": "Die Qualität eines „Familienmenschen“ ist überlastet, was die Schwächung dieser Qualität bedeutet. Die Erklärung hierfür ist einfach – diese Menschen suchen sehr lange nach ihrem Ideal, was zu Hindernissen bei der Gründung einer Familie führt."
+    },
+    {
+      "locale": "de",
+      "category": "stability",
+      "number": 6,
+      "description": "Dies ist eine Qualitätsüberlastung. Diesmal eine Überlastung der Stabilität. Eine Person versucht, sich mit einer solchen Fülle von Gewohnheiten zu umgeben, dass sie beginnt, sie aufzugeben, sobald sie ihr Leben stören. Man kann sagen, dass diese Person mit ihrer eigenen Stabilität kämpft."
+    },
+    {
+      "locale": "de",
+      "category": "esteem",
+      "number": 6,
+      "description": "Die Überschätzung der eigenen Talente und Fähigkeiten führt dazu, dass eine Person, während sie damit beschäftigt ist, sich zu präsentieren, ihre wahren Fähigkeiten vergisst und sich mehr auf oberflächliche Dinge konzentriert als auf ihre inneren Ressourcen. Solche Menschen erreichen typischerweise nie ihre Ziele, da sie all ihre Leidenschaft darauf verwenden, die Menge zu bezaubern, die ihre oberflächlichen Qualitäten und ihr Aussehen bewundert."
+    },
+    {
+      "locale": "de",
+      "category": "finance",
+      "number": 6,
+      "description": "Dies ist eine Überlastung eines Charakterzugs. Diese Person beginnt, sehr hart und intensiv zu arbeiten, bis sie sich schnell erschöpft und einfach nicht weitermachen kann. Diese Person nimmt sich viele verschiedene Dinge vor, verteilt sich dünn und schafft eine Illusion von Arbeit."
+    },
+    {
+      "locale": "de",
+      "category": "talents",
+      "number": 6,
+      "description": "Je mehr Ziffern – desto stärker das Talent. Das bedeutet jedoch nicht, dass eine Person, wenn diese Linie sehr stark ist (nicht mehr als 5 Ziffern, um eine Überlastung zu vermeiden), zwangsläufig sehr talentiert sein wird. Denken Sie daran, dass viele andere Ziffernlinien der Psychomatrix die potenzielle Entwicklung der eigenen Talente beeinflussen: Charakter, Selbstwertgefühl, Sinn für Zweck, Energieniveau, Gesundheit, Glück und andere. Es ist die Kombination vieler verschiedener Eigenschaften und die Willenskraft einer Person, die es ihr ermöglichen, ihre Ziele zu erreichen.\n\nEs ist sehr wichtig, den besten Anwendungsbereich für die Energie und Ressourcen einer Person zu identifizieren. Streben Sie niemals danach, mit dem Fluss des Lebens zu schwimmen. Es gibt eine ganze Liste von „heißen“ Berufen: Anwalt, Banker, Top-Manager, Ökonom usw. All diese Berufe werden nicht durch das Talent der Menschen bestimmt, sondern durch die Fähigkeit, finanziell für sich selbst und ihre Angehörigen zu sorgen. Bevor Sie Ihrem Kind raten, den \"geldbringenden\" Beruf zu wählen, denken Sie über seine Zukunft nach.\n\nEs gibt so viele Menschen in dieser Welt, die ihre Talente nie entwickelt haben. Wir werden wahrscheinlich nicht falsch liegen, wenn wir sagen, dass dies für etwa 90-95 % der Weltbevölkerung zutrifft. Bevor Sie die Entwicklung der Interessen Ihres Kindes behindern, schauen Sie sich Ihre Ziffern an und fragen Sie sich: Konnten Sie Ihr Potenzial und Ihre Talente entdecken und entwickeln? Wenn nicht, dann haben Sie Mitleid mit sich selbst und Ihrem Kind und geben Sie ihm die Möglichkeit, ein Teil der Geschichte der Erde zu werden, und sich selbst – die Möglichkeit, ihm dabei zu helfen.\n\nDenken Sie nur einmal darüber nach, warum wir für unsere Kinder immer noch bessere Schulen, Kindergärten, Ärzte und Lehrer auswählen? Die Tatsache ist, dass immer häufiger begabte Menschen Jobs finden, die gut bezahlt werden; während Menschen, die nicht in ihre Arbeit investieren, sich nicht engagieren – nicht gut bezahlt werden. Daher müssen wir mit Engagement beginnen, und nur dann werden wir starke Banker, Manager und staatliche Institutionen haben: Viele Berufe werden von Menschen besetzt, die engagiert, verantwortungsbewusst sind und wissen, was sie tun. Dann werden wir nicht mehr das Problem haben, welche Schulen wir für unsere Kinder wählen sollen.\n\nDas Wichtigste ist zu verstehen, dass jeder Mensch einzigartig ist und der Mutter Natur selbst antwortet (wir haben das bereits mehrfach festgestellt, aber wir möchten, dass dieser einfache Gedanke fest im Gedächtnis bleibt). Wir sind alle verantwortlich für uns selbst und unsere Kinder gegenüber zukünftigen Generationen. Jedes unentdeckte Talent wird eine ganze Kette von Menschen mit unrealisiertem Potenzial schaffen – dies wird die Menschen wiederum zurück zur Barbarei, zu Kriegen, Terror, Hass gegeneinander und dem Wunsch führen, alles umzukrempeln. Lernen Sie, für sich selbst Verantwortung zu übernehmen!"
+    },
+    {
+      "locale": "de",
+      "category": "temperament",
+      "number": 6,
+      "description": "Dies bedeutet eine Überlastung. Eine Person beginnt so aktiv nach Abwechslung und Neuem zu suchen, dass sie dabei den Verstand und das Maß verliert, was letztendlich zu Kälte und Unzufriedenheit mit Intimität führt."
+    },
+    {
+      "locale": "de",
+      "category": "spirituality",
+      "number": 6,
+      "description": "Die Anzahl der Ziffern in dieser Zeile kann ein Indikator für die Spiritualität einer Person sein. Wir können sagen, dass bei bis zu fünf Ziffern die Spiritualität einer Person allmählich von Gottlosigkeit (keine Ziffern) zu einem maximalen Niveau der Spiritualität (fünf Ziffern) ansteigt. Wenn diese Zeile mehr als fünf Ziffern enthält (6 oder mehr), dann können wir von einer Überlastung der Qualität sprechen, die meist zu Fanatismus und Götzendienst führt, wenn alle menschlichen Normen bis zur Unkenntlichkeit verzerrt werden und ins Extreme gehen. Dies ähnelt eher dem völligen Mangel an Spiritualität als dem göttlichen Prinzip (Kampf gegen Hexen und Häretiker mit Schwertern und Feuer, Tötung der \"Ungläubigen\", Ausrottung von Dissidenten). Fanatismus in seiner extremen Form ist immer gottlos, weil er andere Standpunkte nicht zulässt.\n\nBei der Analyse der Psychomatrix müssen Sie auf die Beziehung zwischen den beiden Diagonalen (fleischlich und spirituell) achten. Es ist ihre Beziehung, die eine Schlüsselrolle in der Stärke jeder der Linien spielt.\n\nBei der Bewertung der Stärke jeder Linie können wir sagen, WAS für die Person in ihrer zukünftigen Ehe wichtig ist: ihr Interesse an den spirituellen Prinzipien des Partners oder die materielle Seite (fleischliche Aspekte einschließlich sexueller Beziehungen).\n\nEs ist am besten, wenn beide Linien gleich stark ausgeprägt sind. Idealerweise sollte das Verhältnis der quantitativen Merkmale eines Partners dem quantitativen Merkmal des anderen entsprechen. Zum Beispiel, wenn die Frau eine fleischliche Diagonale von 5 Ziffern und eine spirituelle von 4 Ziffern hat, dann kann ihr Verhältnis als 5/4 festgehalten werden. Angenommen, ihr Ehemann hat folgendes Verhältnis der Diagonalen: fleischlich – 5 Ziffern und spirituell – 2 Ziffern, mit dem Verhältnis der Diagonalen von 5/2. Der Vergleich zeigt, dass für den Ehemann seine Frau als Frau ein größeres Interesse darstellt als seine Frau als Persönlichkeit. Daher wird er wahrscheinlich nicht genug Aufmerksamkeit darauf verwenden, seine Frau auf Intimität vorzubereiten, da er mehr am Körper als an der Seele interessiert ist. In dieser Situation ist es möglich, dass die Frau oft enttäuscht ist, weil ihr Ehemann nicht genug auf ihre Bedürfnisse achtet.\n\nBei der Analyse einer Psychomatrix ist es wichtig zu berücksichtigen, dass idealerweise die Verhältnisse der Diagonalen übereinstimmen sollten oder deren Unterschied minimal und vom gleichen Zeichen sein sollte: Wenn der Ehemann eine stärkere fleischliche Diagonale hat, sollte die Frau ihre fleischliche Diagonale stärker haben als ihre spirituelle. Versuchen Sie nicht, Experimente bei der Schaffung von Eheverbindungen durchzuführen, bei denen das übermäßige fleischliche Interesse eines Partners durch die starke Spiritualität des anderen gebremst wird – dies ist ein starkes Indiz dafür, dass die beiden Personen als Ehepartner inkompatibel sind. Der eine muss die Dinge besprechen, während der andere sie fühlen muss. In einem solchen Szenario werden beide Menschen leiden. Es ist am besten, einen Partner mit einem ähnlichen Temperament zu wählen. Dann wird es viel einfacher sein, gegenseitiges Verständnis zu haben."
+    }
+  ],
+  "translated": true
+}

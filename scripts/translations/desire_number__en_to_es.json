@@ -1,0 +1,71 @@
+{
+  "table": "desire_number",
+  "source_locale": "en",
+  "target_locale": "es",
+  "source_language": "English",
+  "target_language": "Spanish",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "es",
+      "number": 1,
+      "description": "“¡Dentro de mí se esconde el deseo de dirigir!” \n\nTienes un deseo interno de ser visto como alguien que es seguro y está en control. La forma en que te ves, la ropa que usas, tu imagen es probablemente muy importante para ti. Te gusta ser reconocido como una persona bien informada, alguien que sabe. Nada te impide expresar esta confianza. Ten cuidado con el ego-centrismo."
+    },
+    {
+      "locale": "es",
+      "number": 2,
+      "description": "“¡Dentro de mí se esconde el deseo de pertenecer!” \n\nTienes un deseo interno de ser visto como simple y discreto. Tu enfoque y la forma en que te ves son adecuados para encajar dentro del grupo. Tu deseo de ser visto como diplomático te convierte en alguien receptivo y siempre listo para escuchar. Todos necesitamos a alguien que escuche, lo que hace que tu presencia sea bastante apreciada. Ten cuidado, demasiado de algo no siempre es una buena señal. No te conviertas en la persona cuya timidez está de acuerdo con todo."
+    },
+    {
+      "locale": "es",
+      "number": 3,
+      "description": "“¡Dentro de mí se esconde el deseo de comunicar!” \n\nTienes un deseo interno de ser el centro de atención. Ya sea con la familia, amigos o en el trabajo, te encanta ser el centro de atención. Tienes la necesidad de sentirte interesante y siempre tienes algo apasionante que contar. Quieres ser visto como un gran comunicador, ten cuidado con la exageración. Intenta mantenerte enfocado. Habla y deja hablar."
+    },
+    {
+      "locale": "es",
+      "number": 4,
+      "description": "“¡Dentro de mí se esconde el deseo de ser impecable!” \n\nTienes un deseo interno de ser visto y conocido como alguien confiable y dispuesto a ayudar en cualquier circunstancia: un ciudadano impecable. Te esfuerzas por ser organizado, disciplinado y exitoso. Te gusta ser reconocido como alguien que tiene un plan y todo lo necesario para hacerlo funcionar. De hecho, puedes ser un muy buen ejemplo para nuestra sociedad. Ten cuidado de no vivir solo para el mundo exterior. Sabe que sería imposible complacer a todos."
+    },
+    {
+      "locale": "es",
+      "number": 5,
+      "description": "“¡Dentro de mí se esconde el deseo de ser libre!” \n\nTienes un deseo interno de ser visto y conocido como alguien elegante, emocionante y agradable. Sueñas con ser libre sin restricciones, viajar y experimentar aventuras. Aunque todo es posible, todo viene con una cierta responsabilidad adjunta. No seas la persona que vive la libertad durante un mes y la prisión durante un año para pagar el precio."
+    },
+    {
+      "locale": "es",
+      "number": 6,
+      "description": "“¡Dentro de mí se esconde el deseo de ser devoto!” \n\nTienes un deseo interno de ser visto y conocido como alguien responsable y devoto. La familia, los amigos y tu comunidad pueden ser para ti una prioridad. Tu matrimonio, tus hijos y tu hogar son los elementos primarios que constituyen lo que clasificas como éxito personal. Eres una persona muy preocupada y muy protectora. Te gusta trabajar de maneras que mantengan a los demás cómodos, pero no dejes que se aprovechen de tu buen corazón."
+    },
+    {
+      "locale": "es",
+      "number": 7,
+      "description": "“¡Dentro de mí se esconde el deseo de ser el filósofo!” \n\nTienes un deseo interno de ser conocido como un gran erudito – profesor, místico, filósofo – alguien que siempre tiene algo interesante e inteligente que decir. El deseo de aprender, conocer y descubrir es parte de este número. Hay un poco de misticismo en tu ser. La curiosidad espiritual también es una característica de este número de deseo interno – conocer quién eres y por qué estás aquí."
+    },
+    {
+      "locale": "es",
+      "number": 8,
+      "description": "“¡Dentro de mí se esconde el deseo de estar en los negocios!” \n\nTienes un deseo interno de ser visto y conocido como una persona de negocios. Ya sea en política, industria o comercio, buscas el éxito y el logro – una posición que te ofrezca prestigio y estatus. Aunque esto es posible, ten cuidado de no perderte en la emoción o la ilusión."
+    },
+    {
+      "locale": "es",
+      "number": 9,
+      "description": "“¡Dentro de mí se esconde el deseo de ser altruista!” \n\nTienes un deseo interno de ser visto y conocido como filantrópico – protector de los débiles. Tu deseo de cambiar este mundo que clasificas como injusto e inequitativo está bastante presente. Sin embargo, debes ser realista en tu enfoque, asegurarte de que tu ayuda sea deseada o necesaria, no impuesta. Tu tendencia a dramatizar puede, si lo permites, desconectarte de la realidad. No obstante, tu filantropía y altruismo serán sentidos."
+    },
+    {
+      "locale": "es",
+      "number": 11,
+      "description": "“¡Dentro de mí se esconde el deseo de ser iluminado!” \n\nTienes un deseo interno de ser visto y conocido como visionario, idealista e iluminado. Tu intuición te permite ver que hay más en la vida de lo que parece. Tu espiritualidad puede clasificarse como muy alta, quizás más alta de lo que es posible vivir. Tienes un deseo efervescente de traer nuevas ideas que aliviarían el sufrimiento en nuestro mundo. Todo es posible, nunca preguntes cómo. Confía en el efecto dominó y podrías sorprenderte a ti mismo. Para tener el impacto deseado, edúcate en el tema que más te interese, o más bien, que más te llame."
+    },
+    {
+      "locale": "es",
+      "number": 22,
+      "description": "“¡Dentro de mí se esconde el deseo de registrarme en la memoria del hombre!” \n\nTienes un deseo interno de ser visto y conocido como alguien que hará una enorme diferencia y contribución a nuestra sociedad. De hecho, puedes tener una idea monumental. Sin embargo, si no llegas a realizar tus grandes deseos, sabe que haber participado en ellos ya es un gran paso adelante. Sé realista, enfocado y valiente y harás una diferencia que inevitablemente será notada."
+    }
+  ],
+  "translated": true
+}

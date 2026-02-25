@@ -1,0 +1,76 @@
+{
+  "table": "balance_number",
+  "source_locale": "ru",
+  "target_locale": "en",
+  "source_language": "Russian",
+  "target_language": "English",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "number": 1,
+      "description": "In stressful situations, a person becomes arrogant, haughty, uncompromising, and may reject the help of others even when they clearly need it. They are irritable, impulsive, concoct their own theories, and try to adhere to them.\n\nOn the other hand, the same person may sometimes seem weak-willed, incapable of decisive action, repeatedly postponing important steps, shifting initiative onto someone else.\n\nExpress your strength, try to share your problems more with family and friends, otherwise you may become lonely. This can lead to isolation. It is better to listen to the advice of those around you, which will give you additional chances and new information, based on which you will develop your approach to solving the problem. Your weapons are strength, ingenuity, and courage; with them, you will win the war."
+    },
+    {
+      "locale": "en",
+      "number": 2,
+      "description": "A person strives too hard to please others, relying not on their own beliefs but on the opinions of others. They get bogged down in details and lose the ability to see the forest for the trees, hesitating and procrastinating, accumulating excessive resources instead of acting and using what they already have.\n\nAt the same time, the imbalance of the two can manifest as emotional callousness, unresponsiveness, intolerance, unwillingness to cooperate, and a reluctance to consider existing possibilities.\n\nUse tact and diplomacy. Be less emotional. Stand firm in your problem-solving approach, and do not retreat due to feelings of resistance. Do not give up; you are gifted with the talent to find solutions that satisfy everyone.\n\nYou have a desire for compromise. Be more optimistic and inspired. Do not exaggerate the scale of difficulties. You are too sensitive; work on achieving inner balance. Equanimity and harmony will help you solve any problem. You have the potential to become a peacemaker."
+    },
+    {
+      "locale": "en",
+      "number": 3,
+      "description": "A person is too scattered, wasting a significant amount of time, money, and other resources. They talk excessively about their plans and as a result, never get around to implementing them. Instead of doing anything tangible, they build grandiose plans, generating concepts and ideas—though interesting, they remain unutilized. They poorly perceive criticism and limitations.\n\nOn the other hand, the same person may occasionally seem to reject their creative essence, falling into pessimism, engaging in routine activities, withdrawing, and resigning themselves to failures. They may find it difficult to relax, allow themselves to rest, and enjoy life.\n\nCultivate more optimism and ease in problem-solving. Try to work together with others to find a solution that satisfies everyone. Use your undeniable charm in difficult situations.\n\nIn the face of challenges, you may be extremely emotional. Try to control this trait; you need a certain degree of objectivity. You can become so engrossed in finding a solution that you may not notice the existence of an exit that satisfies all parties involved."
+    },
+    {
+      "locale": "en",
+      "number": 4,
+      "description": "A person applies a limited number of rigid templates to everything that happens around them and rejects or ignores everything that does not fit within them. They are too serious, solely focused on practical results, and demand full compliance with existing norms. Any manifestation of creativity or joy is considered an unacceptable looseness.\n\nThe same person, while demanding much from others, may themselves avoid significant efforts, making concessions for themselves. Tired of battling obstacles, they may begin to seek easy solutions and workarounds, but rarely does anything good come from these attempts.\n\nStrive to see the bigger picture and develop a calmer attitude in emotionally charged situations. Control your anger. Your strength lies in discipline. Try to focus on what is essential and seek compromises. The sense of justice inherent to you should be elevated to another level, where it is expressed through leniency, compassion, and deep understanding. A practical embodiment of these ideals can be the desire to mentally place yourself in the position of the person with whom you are in conflict. You do not know all sides of the problems you face."
+    },
+    {
+      "locale": "en",
+      "number": 5,
+      "description": "A person is unstable, restless, and impatient, constantly changing activities, interests, and attachments. They always feel that the best and most interesting things are somewhere out there, beyond the horizon, and as a result, they can never settle down or become grounded. They strive to indulge in as many worldly pleasures as possible – food, alcohol, sex – but the more they receive, the sharper their sense of dissatisfaction becomes.\n\nAs a result of this overindulgence, such a person may one day turn away from truly interesting, exciting opportunities, and in an attempt to refresh their dulled sense of reality, they usually become eccentric, capricious, and excessively picky. They start many tasks but almost immediately abandon them, not even having the chance to delve into them properly.\n\nIt is better to concentrate on your problems rather than escape from their resolution. You may avoid conflicts if you feel that it will bring you pain. Do not indulge your desires in consuming food, alcohol, and drugs.\n\nYou can find a truly constructive solution as soon as you pay closer attention to the problem. This solution is within your reach."
+    },
+    {
+      "locale": "en",
+      "number": 6,
+      "description": "A person strives to care for others, give them advice, protect them, help, and does not see the boundary beyond which their help becomes burdensome. They seek to make the world beautiful at any cost. For example, they may demand that a steam engine be silenced because it emits such an unesthetic black smoke! Such a person places too much importance on familial and other close emotional ties: everything for their own, while others can manage on their own.\n\nThe weakness of the six may manifest as an inability to keep promises, \"hanging\" on the necks of others: saying, \"I am so helpless, save me.\" A person confuses business and emotional relationships: they may have failed at work, but after all, we are such good friends!\n\nYour strength lies in understanding the people involved in the conflict and in grasping the reasons for its emergence. You may rely too heavily on friends and family in difficult situations instead of figuring things out on your own. You might seek refuge in the goodwill of people not involved in the conflict.\n\nResponsibility is the cornerstone. You play an important role in solving the problem. Recognize it."
+    },
+    {
+      "locale": "en",
+      "number": 7,
+      "description": "A person withdraws, hiding within themselves, pushing others out of their thoughts and their life. They dissect everything down to the smallest detail, analyze, criticize, and tend to poke at the most painful spot. They regard emotional impulses and other phenomena that defy logical analysis with sarcasm. They are suspicious, distrustful, seeing only the worst side of everything.\n\nThe weakness of the seven may manifest as fatalism, unfounded pessimism, a reluctance to delve into the essence of matters, and chronic dissatisfaction with everything happening around. Such a person needs others, but mainly just to express their discontent.\n\nYou hide in a certain saving inner paradise, hoping to find safety there.\nBy using clarity of mind and analytical abilities, you can find the precise way to solve a problem.\n\nYou are too consumed by the emotional aspect, clouding your mind and preventing you from finding a clear answer. You need to\nstruggle with yourself to approach problem-solving without emotions. Cast aside emotions, and you will find the answer."
+    },
+    {
+      "locale": "en",
+      "number": 8,
+      "description": "A person seeks to manage, command, assign tasks to everyone, and impose their will on all, even in situations where it would be perfectly acceptable to let events unfold naturally. This is especially undesirable when the person does not fully understand the essence of what is happening and their willful interference only complicates matters. This is usually the case when it comes to emotional, romantic, or family problems.\n\nA weak eight tends to manipulate those around them. Such a person encourages others to do for them even what they could easily handle themselves. As a result, they may one day attract an authoritarian figure into their life who will 'twist them into a pretzel'.\n\nUse your considerable energy rationally. You prefer to manipulate power rather than simply conflict with people. Use it with responsibility for the outcome. You are very inventive and can become a leader in almost any situation.\n\nTry to assert your opinion in a group, but consider the needs and ideas of those around you in solving larger-scale problems. Learn to use power for the common good."
+    },
+    {
+      "locale": "en",
+      "number": 9,
+      "description": "A person 'jumps out of themselves' to bring happiness to those around them, but since they belong to the category of groundless dreamers, their efforts often yield little result. They possess significant creative potential, but they scatter it across too many endeavors, resulting in only the appearance of activity. They are overly emotional, to the point of losing the ability to act logically and effectively.\n\nThe same person may periodically become cold and detached, citing their desire to maintain objectivity. They feel offended by the world for not rushing to reward them for all their good deeds.\n\nYou will be able to find solutions by taking into account the needs of those around you. You have the ability to understand different people and possess a broad vision. Often, you become alienated, resembling a 'tower of ivory' in which you have enclosed yourself, being an aristocrat by nature. You will find solutions by coming down from the heavens to the earth. Only by giving will you receive."
+    },
+    {
+      "locale": "en",
+      "number": 11,
+      "description": "In principle, it is interpreted similarly to the balance number 2, but the energy level here is higher, making it more challenging to master, and a person is more likely to swing from one extreme to another under stress. Moreover, their actions can provoke significant public resonance.\n\nBalance number 2:\n\nIn stressful situations, a person becomes arrogant, haughty, uncompromising, and may reject the help of others even when they clearly need it. They are irritable, impulsive, concoct their own theories, and try to adhere to them.\n\nOn the other hand, the same person may sometimes appear weak, unable to take decisive action, repeatedly postponing important steps and shifting initiative to someone else.\n\nExpress your strength, try to share your problems more with family and friends, or you may become lonely. This can lead to isolation. It is better to listen to the advice of those around you, which will provide you with additional opportunities and new information, based on which you will develop your approach to solving the problem. Your weapons are strength, ingenuity, and courage; with them, you will win the war."
+    },
+    {
+      "locale": "en",
+      "number": 22,
+      "description": "Interpreted similarly to the balance number 4, however, a person's actions provoke a significant reaction from those around them. The bearer of such a name tends to experience heightened nervous tension, making it more difficult for them to achieve balance. But once they do, they will be capable of significant accomplishments.\n\nBalance number 4:\n\nA person applies a limited number of rigid templates to everything happening around them and rejects or ignores anything that does not fit within them. They are too serious, focused solely on practical results, and demand full compliance with existing norms. Any manifestation of creativity or joy is considered unacceptable looseness.\n\nThe same person, while demanding much from others, may avoid significant efforts themselves, giving themselves allowances. Tired of fighting obstacles, they may begin to seek easy solutions and shortcuts; however, these attempts rarely yield anything good.\n\nTry to see the bigger picture and cultivate a calmer attitude in emotionally charged situations. Control your anger. Your strength lies in discipline. Strive to see the main point and seek compromises. Your inherent sense of justice should be elevated to another level, where it is expressed through leniency, compassion, and deep understanding. A practical embodiment of these ideals could be the desire to mentally place yourself in the shoes of the person you are in conflict with. You do not know all sides of the problems you face."
+    },
+    {
+      "locale": "en",
+      "number": 33,
+      "description": "Manifests itself similarly to the balance number 6. In quite rare cases, when the power of such a master number is revealed, especially if the person truly achieves balance, their ideas will have a very significant influence on people, and perhaps even on humanity as a whole.\n\nBalance number 6:\n\nA person strives to care for others, give them advice, protect, help, and does not see the boundary beyond which their help becomes burdensome. They seek to make the world beautiful at any cost. For example, they may demand that a steam locomotive be silenced – after all, it emits such an unaesthetic black smoke! Such a person places too much importance on familial and other close emotional ties: everything for their own, while others can manage.\n\nThe weakness of the six may manifest as an inability to keep promises, \"hanging\" on the necks of others: saying, I am so helpless, save me. A person confuses business and emotional relationships: they may have failed at work, but we are such good friends!\n\nYour strength lies in understanding the people involved in conflict and the reasons for the emergence of that conflict. You may rely too heavily on friends and family in difficult situations instead of figuring things out on your own. You might seek refuge in the good feelings of people not involved in the conflict.\n\nResponsibility is the cornerstone. You play an important role in solving the problem. Acknowledge it."
+    }
+  ],
+  "translated": true
+}

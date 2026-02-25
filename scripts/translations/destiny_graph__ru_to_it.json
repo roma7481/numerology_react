@@ -1,0 +1,36 @@
+{
+  "table": "destiny_graph",
+  "source_locale": "ru",
+  "target_locale": "it",
+  "source_language": "Russian",
+  "target_language": "Italian",
+  "key_columns": [
+    "state"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "it",
+      "state": "Линия Судьбы выше линии Воли.",
+      "description": "Questo indica un periodo in cui le circostanze esterne sono più forti e le lezioni del destino si inaspriscono. In questo tempo, tutto nella tua vita sarà come prescritto dal destino, quindi non è il momento di mostrare grande iniziativa e compiere atti di volontà. Non cercare di \"sfondare una porta chiusa\", ma piuttosto \"naviga con la corrente\"."
+    },
+    {
+      "locale": "it",
+      "state": "Линия Судьбы ниже линии Воли.",
+      "description": "In questo periodo sono necessarie azioni attive, non bisogna rimandare i propri progetti a domani, ma puntare in avanti, facendo grandi sforzi per raggiungere gli obiettivi prefissati. La libertà di scelta diventa centrale, mentre l'influenza delle circostanze esterne diventa insignificante. In questo periodo non bisogna contare sul destino, bisogna costruire la propria vita da soli. Puoi prendere l'iniziativa nelle tue mani, ora tutto dipenderà solo da te."
+    },
+    {
+      "locale": "it",
+      "state": "Точки пересечения линий Судьбы и Воли.",
+      "description": "Questi sono periodi molto responsabili e piuttosto sfavorevoli per qualsiasi novità. In questi intervalli di tempo non è consigliabile compiere passi responsabili e bruschi, come trasferirsi in un nuovo appartamento, cambiare lavoro, organizzare un matrimonio, ecc."
+    },
+    {
+      "locale": "it",
+      "state": "Линии Судьбы и Воли идут вместе – «Путь Монаха».",
+      "description": "In questo caso, la persona si sottomette completamente alle Forze Superiori. Tuttavia, ciò non significa che la persona non possa fare nulla: egli comprende intuitivamente che non deve andare contro il destino. Non bisogna pensare che una persona del genere sia primitiva; al contrario, è proprio lui che può realizzare piani davvero grandiosi. Un esempio caratteristico di ciò è la vita di M.V. Lomonosov (data di nascita – 19 novembre 1711)."
+    }
+  ],
+  "translated": true
+}

@@ -1,0 +1,865 @@
+{
+  "achievement_number__en": {
+    "file": "achievement_number__ru_to_en.json",
+    "source": "ru",
+    "target": "en",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "achievement_number__fr": {
+    "file": "achievement_number__ru_to_fr.json",
+    "source": "ru",
+    "target": "fr",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "achievement_number__de": {
+    "file": "achievement_number__ru_to_de.json",
+    "source": "ru",
+    "target": "de",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "achievement_number__it": {
+    "file": "achievement_number__ru_to_it.json",
+    "source": "ru",
+    "target": "it",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "achievement_number__pt": {
+    "file": "achievement_number__ru_to_pt.json",
+    "source": "ru",
+    "target": "pt",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "balance_number__en": {
+    "file": "balance_number__ru_to_en.json",
+    "source": "ru",
+    "target": "en",
+    "row_count": 12,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "balance_number__es": {
+    "file": "balance_number__ru_to_es.json",
+    "source": "ru",
+    "target": "es",
+    "row_count": 12,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "balance_number__fr": {
+    "file": "balance_number__ru_to_fr.json",
+    "source": "ru",
+    "target": "fr",
+    "row_count": 12,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "balance_number__de": {
+    "file": "balance_number__ru_to_de.json",
+    "source": "ru",
+    "target": "de",
+    "row_count": 12,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "balance_number__it": {
+    "file": "balance_number__ru_to_it.json",
+    "source": "ru",
+    "target": "it",
+    "row_count": 12,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "balance_number__pt": {
+    "file": "balance_number__ru_to_pt.json",
+    "source": "ru",
+    "target": "pt",
+    "row_count": 12,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "character_number__en": {
+    "file": "character_number__ru_to_en.json",
+    "source": "ru",
+    "target": "en",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "character_number__es": {
+    "file": "character_number__ru_to_es.json",
+    "source": "ru",
+    "target": "es",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "character_number__fr": {
+    "file": "character_number__ru_to_fr.json",
+    "source": "ru",
+    "target": "fr",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "character_number__de": {
+    "file": "character_number__ru_to_de.json",
+    "source": "ru",
+    "target": "de",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "character_number__it": {
+    "file": "character_number__ru_to_it.json",
+    "source": "ru",
+    "target": "it",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "character_number__pt": {
+    "file": "character_number__ru_to_pt.json",
+    "source": "ru",
+    "target": "pt",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "couple_number__en": {
+    "file": "couple_number__es_to_en.json",
+    "source": "es",
+    "target": "en",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "couple_number__ru": {
+    "file": "couple_number__es_to_ru.json",
+    "source": "es",
+    "target": "ru",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "couple_number__de": {
+    "file": "couple_number__es_to_de.json",
+    "source": "es",
+    "target": "de",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "couple_number__it": {
+    "file": "couple_number__es_to_it.json",
+    "source": "es",
+    "target": "it",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "desire_number__ru": {
+    "file": "desire_number__en_to_ru.json",
+    "source": "en",
+    "target": "ru",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "desire_number__es": {
+    "file": "desire_number__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_graph__en": {
+    "file": "destiny_graph__ru_to_en.json",
+    "source": "ru",
+    "target": "en",
+    "row_count": 4,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_graph__es": {
+    "file": "destiny_graph__ru_to_es.json",
+    "source": "ru",
+    "target": "es",
+    "row_count": 4,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_graph__fr": {
+    "file": "destiny_graph__ru_to_fr.json",
+    "source": "ru",
+    "target": "fr",
+    "row_count": 4,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_graph__de": {
+    "file": "destiny_graph__ru_to_de.json",
+    "source": "ru",
+    "target": "de",
+    "row_count": 4,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_graph__it": {
+    "file": "destiny_graph__ru_to_it.json",
+    "source": "ru",
+    "target": "it",
+    "row_count": 4,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_graph__pt": {
+    "file": "destiny_graph__ru_to_pt.json",
+    "source": "ru",
+    "target": "pt",
+    "row_count": 4,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_number__en": {
+    "file": "destiny_number__es_to_en.json",
+    "source": "es",
+    "target": "en",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_number__ru": {
+    "file": "destiny_number__es_to_ru.json",
+    "source": "es",
+    "target": "ru",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_number__fr": {
+    "file": "destiny_number__es_to_fr.json",
+    "source": "es",
+    "target": "fr",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_number__de": {
+    "file": "destiny_number__es_to_de.json",
+    "source": "es",
+    "target": "de",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_number__it": {
+    "file": "destiny_number__es_to_it.json",
+    "source": "es",
+    "target": "it",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "destiny_number__pt": {
+    "file": "destiny_number__es_to_pt.json",
+    "source": "es",
+    "target": "pt",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "intelligence_number__en": {
+    "file": "intelligence_number__ru_to_en.json",
+    "source": "ru",
+    "target": "en",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "intelligence_number__es": {
+    "file": "intelligence_number__ru_to_es.json",
+    "source": "ru",
+    "target": "es",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "intelligence_number__fr": {
+    "file": "intelligence_number__ru_to_fr.json",
+    "source": "ru",
+    "target": "fr",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "intelligence_number__de": {
+    "file": "intelligence_number__ru_to_de.json",
+    "source": "ru",
+    "target": "de",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "intelligence_number__it": {
+    "file": "intelligence_number__ru_to_it.json",
+    "source": "ru",
+    "target": "it",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "intelligence_number__pt": {
+    "file": "intelligence_number__ru_to_pt.json",
+    "source": "ru",
+    "target": "pt",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "karmic_lesson__en": {
+    "file": "karmic_lesson__es_to_en.json",
+    "source": "es",
+    "target": "en",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "karmic_lesson__ru": {
+    "file": "karmic_lesson__es_to_ru.json",
+    "source": "es",
+    "target": "ru",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "karmic_lesson__fr": {
+    "file": "karmic_lesson__es_to_fr.json",
+    "source": "es",
+    "target": "fr",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "karmic_lesson__de": {
+    "file": "karmic_lesson__es_to_de.json",
+    "source": "es",
+    "target": "de",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "karmic_lesson__it": {
+    "file": "karmic_lesson__es_to_it.json",
+    "source": "es",
+    "target": "it",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "karmic_lesson__pt": {
+    "file": "karmic_lesson__es_to_pt.json",
+    "source": "es",
+    "target": "pt",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "life_graph__es": {
+    "file": "life_graph__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 10,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "life_graph__fr": {
+    "file": "life_graph__en_to_fr.json",
+    "source": "en",
+    "target": "fr",
+    "row_count": 10,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "life_graph__de": {
+    "file": "life_graph__en_to_de.json",
+    "source": "en",
+    "target": "de",
+    "row_count": 10,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "life_graph__it": {
+    "file": "life_graph__en_to_it.json",
+    "source": "en",
+    "target": "it",
+    "row_count": 10,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "life_graph__pt": {
+    "file": "life_graph__en_to_pt.json",
+    "source": "en",
+    "target": "pt",
+    "row_count": 10,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "love_compatibility__en": {
+    "file": "love_compatibility__ru_to_en.json",
+    "source": "ru",
+    "target": "en",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "love_compatibility__es": {
+    "file": "love_compatibility__ru_to_es.json",
+    "source": "ru",
+    "target": "es",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "love_compatibility__fr": {
+    "file": "love_compatibility__ru_to_fr.json",
+    "source": "ru",
+    "target": "fr",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "love_compatibility__de": {
+    "file": "love_compatibility__ru_to_de.json",
+    "source": "ru",
+    "target": "de",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "love_compatibility__it": {
+    "file": "love_compatibility__ru_to_it.json",
+    "source": "ru",
+    "target": "it",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "love_compatibility__pt": {
+    "file": "love_compatibility__ru_to_pt.json",
+    "source": "ru",
+    "target": "pt",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "love_number__en": {
+    "file": "love_number__ru_to_en.json",
+    "source": "ru",
+    "target": "en",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description",
+      "man",
+      "woman"
+    ]
+  },
+  "love_number__es": {
+    "file": "love_number__ru_to_es.json",
+    "source": "ru",
+    "target": "es",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description",
+      "man",
+      "woman"
+    ]
+  },
+  "love_number__fr": {
+    "file": "love_number__ru_to_fr.json",
+    "source": "ru",
+    "target": "fr",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description",
+      "man",
+      "woman"
+    ]
+  },
+  "love_number__de": {
+    "file": "love_number__ru_to_de.json",
+    "source": "ru",
+    "target": "de",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description",
+      "man",
+      "woman"
+    ]
+  },
+  "love_number__it": {
+    "file": "love_number__ru_to_it.json",
+    "source": "ru",
+    "target": "it",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description",
+      "man",
+      "woman"
+    ]
+  },
+  "love_number__pt": {
+    "file": "love_number__ru_to_pt.json",
+    "source": "ru",
+    "target": "pt",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description",
+      "man",
+      "woman"
+    ]
+  },
+  "lucky_gem__es": {
+    "file": "lucky_gem__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "marriage_number__es": {
+    "file": "marriage_number__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "woman",
+      "man"
+    ]
+  },
+  "money_number__es": {
+    "file": "money_number__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 9,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "planet_number__en": {
+    "file": "planet_number__ru_to_en.json",
+    "source": "ru",
+    "target": "en",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description"
+    ]
+  },
+  "planet_number__es": {
+    "file": "planet_number__ru_to_es.json",
+    "source": "ru",
+    "target": "es",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description"
+    ]
+  },
+  "planet_number__fr": {
+    "file": "planet_number__ru_to_fr.json",
+    "source": "ru",
+    "target": "fr",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description"
+    ]
+  },
+  "planet_number__de": {
+    "file": "planet_number__ru_to_de.json",
+    "source": "ru",
+    "target": "de",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description"
+    ]
+  },
+  "planet_number__it": {
+    "file": "planet_number__ru_to_it.json",
+    "source": "ru",
+    "target": "it",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description"
+    ]
+  },
+  "planet_number__pt": {
+    "file": "planet_number__ru_to_pt.json",
+    "source": "ru",
+    "target": "pt",
+    "row_count": 9,
+    "text_cols": [
+      "description",
+      "detailed_description"
+    ]
+  },
+  "potential_number__en": {
+    "file": "potential_number__es_to_en.json",
+    "source": "es",
+    "target": "en",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "potential_number__ru": {
+    "file": "potential_number__es_to_ru.json",
+    "source": "es",
+    "target": "ru",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "potential_number__fr": {
+    "file": "potential_number__es_to_fr.json",
+    "source": "es",
+    "target": "fr",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "potential_number__de": {
+    "file": "potential_number__es_to_de.json",
+    "source": "es",
+    "target": "de",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "potential_number__it": {
+    "file": "potential_number__es_to_it.json",
+    "source": "es",
+    "target": "it",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "potential_number__pt": {
+    "file": "potential_number__es_to_pt.json",
+    "source": "es",
+    "target": "pt",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix__es": {
+    "file": "psychomatrix__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 57,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix__fr": {
+    "file": "psychomatrix__en_to_fr.json",
+    "source": "en",
+    "target": "fr",
+    "row_count": 57,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix__de": {
+    "file": "psychomatrix__en_to_de.json",
+    "source": "en",
+    "target": "de",
+    "row_count": 57,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix__it": {
+    "file": "psychomatrix__en_to_it.json",
+    "source": "en",
+    "target": "it",
+    "row_count": 57,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix__pt": {
+    "file": "psychomatrix__en_to_pt.json",
+    "source": "en",
+    "target": "pt",
+    "row_count": 57,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix_compat__es": {
+    "file": "psychomatrix_compat__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 40,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix_compat__fr": {
+    "file": "psychomatrix_compat__en_to_fr.json",
+    "source": "en",
+    "target": "fr",
+    "row_count": 40,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix_compat__pt": {
+    "file": "psychomatrix_compat__en_to_pt.json",
+    "source": "en",
+    "target": "pt",
+    "row_count": 40,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix_lines__es": {
+    "file": "psychomatrix_lines__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 56,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix_lines__fr": {
+    "file": "psychomatrix_lines__en_to_fr.json",
+    "source": "en",
+    "target": "fr",
+    "row_count": 56,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix_lines__de": {
+    "file": "psychomatrix_lines__en_to_de.json",
+    "source": "en",
+    "target": "de",
+    "row_count": 56,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix_lines__it": {
+    "file": "psychomatrix_lines__en_to_it.json",
+    "source": "en",
+    "target": "it",
+    "row_count": 56,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "psychomatrix_lines__pt": {
+    "file": "psychomatrix_lines__en_to_pt.json",
+    "source": "en",
+    "target": "pt",
+    "row_count": 56,
+    "text_cols": [
+      "description"
+    ]
+  },
+  "realization_number__es": {
+    "file": "realization_number__en_to_es.json",
+    "source": "en",
+    "target": "es",
+    "row_count": 11,
+    "text_cols": [
+      "description"
+    ]
+  }
+}

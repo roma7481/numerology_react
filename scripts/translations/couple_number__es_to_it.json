@@ -1,0 +1,61 @@
+{
+  "table": "couple_number",
+  "source_locale": "es",
+  "target_locale": "it",
+  "source_language": "Spanish",
+  "target_language": "Italian",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "it",
+      "number": 1,
+      "description": "Questa combinazione stabilisce una relazione istantanea, che offre una comprensione fluida e facile tra entrambe le persone, anche se a volte possono presentare alcune attitudini di competizione tra di loro.\n\nQueste coppie possono sentire ciò che l'altro pensa e prova fin dal primo contatto. Quando iniziano a parlare della loro vita, possono persino scoprire di aver vissuto esperienze molto simili.\n\nSpesso la Coppia Naturale risulta non essere un buon compagno, questo è direttamente collegato al fatto che uno dei due sta vibrando il lato positivo del numero mentre l'altro è nella vibrazione negativa."
+    },
+    {
+      "locale": "it",
+      "number": 2,
+      "description": "In questo tipo di coppia, ognuno è molto indipendente e sarà deciso a cercare il meglio per se stesso. Se riescono a conciliare i loro interessi per sentirsi a proprio agio, avranno un buon futuro insieme. Diventeranno una coppia dinamica e indipendente, che funzionerà molto bene.\n\nMa, se non riescono a trovare un punto medio e nessuno è disposto a cedere, la relazione ha i giorni contati."
+    },
+    {
+      "locale": "it",
+      "number": 3,
+      "description": "Questa coppia si intende molto bene. Congeniano nel modo di vedere il mondo e se si vogliono, diventeranno un forte supporto l'uno per l'altro. Insieme si sentono sicuri e riusciranno a costruire una vita sia tranquilla che creativa.\n\nTuttavia, possono diventare troppo dipendenti l'uno dall'altro. Cercate spazi personali per evitare di soffocare."
+    },
+    {
+      "locale": "it",
+      "number": 4,
+      "description": "Questa coppia si caratterizza per avere persone laboriose, che sanno cosa vogliono e lavorano per raggiungere l'obiettivo. Questo la rende una coppia con grande proiezione futura e con la capacità di reinventarsi.\n\nSe hanno un progetto di vita comune, saranno una coppia stabile, che non avrà problemi a raggiungere i propri obiettivi."
+    },
+    {
+      "locale": "it",
+      "number": 5,
+      "description": "Questa coppia è anch'essa laboriosa, attenta ai dettagli e molto assertiva. Per questo, possono avere insieme una vita piena di soddisfazioni.\n\nTuttavia, la dose di convenzionalismo che li caratterizza e la loro poca capacità di rinnovarsi faranno sì che la coppia corra il rischio di cadere nella monotonia e nella noia. Dovranno trovare modi per condire la loro relazione, se vogliono continuare con emozione."
+    },
+    {
+      "locale": "it",
+      "number": 6,
+      "description": "Questa coppia ha, soprattutto, molta intimità. Se riescono a trovare progetti che li uniscano nel tempo, vivranno la loro relazione con la stessa passione del primo giorno.\n\nMa se non riescono a scoprire i loro punti in comune, saranno una coppia un po' superficiale, che avrà i suoi momenti migliori durante l'intimità."
+    },
+    {
+      "locale": "it",
+      "number": 7,
+      "description": "La coppia può funzionare bene, purché siano chiari nelle loro intenzioni. Infatti, entrambi sono un po' individualisti, e se non parlano le cose, nessuno cederà di un millimetro. Questo può portare a rendere la relazione un disastro.\n\nSe riescono a capirsi sinceramente e ad ascoltarsi, possono raggiungere un buon equilibrio che li porterà a sentirsi a proprio agio l'uno con l'altro."
+    },
+    {
+      "locale": "it",
+      "number": 8,
+      "description": "Questa coppia è creativa, popolare e piena di energia. Insieme saranno un mare di entusiasmo: non ci sarà obiettivo che sembri difficile da raggiungere. Così sono una buona coppia e si intendono bene, ma devono imparare a fissare obiettivi concreti.\n\nSe si lasciano trasportare dall'entusiasmo, possono finire per commettere errori che li porteranno a grandi crisi, che potrebbero essere difficili da superare. Perciò, è meglio avere un piano d'azione e non lasciarsi guidare troppo dall'impulso."
+    },
+    {
+      "locale": "it",
+      "number": 9,
+      "description": "È una coppia che sarà molto romantica. Quei eterni innamorati, a cui gli anni sembrano non togliere l'affetto che provano. Così, se il loro amore è profondo, può essere la coppia ideale.\n\nCerto, devono imparare a gestire le loro emozioni, perché entrambi sono molto sensibili. Se si feriscono, le ferite saranno profonde e il dolore lungo."
+    }
+  ],
+  "translated": true
+}

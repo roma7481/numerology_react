@@ -1,0 +1,61 @@
+{
+  "table": "love_compatibility",
+  "source_locale": "ru",
+  "target_locale": "fr",
+  "source_language": "Russian",
+  "target_language": "French",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "fr",
+      "number": 1,
+      "description": "Le nombre de compatibilité de votre couple est 1\n\nDes relations harmonieuses, mais des disputes peuvent survenir en raison de qui sera le leader dans le couple.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    },
+    {
+      "locale": "fr",
+      "number": 2,
+      "description": "Le nombre de compatibilité de votre couple est 2\n\nUne union solide et équilibrée, fondée sur un bénéfice mutuel des relations pour chaque partenaire.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    },
+    {
+      "locale": "fr",
+      "number": 3,
+      "description": "Le nombre de compatibilité de votre couple est 3\n\nLes relations sont pleines de chaleur et de tendresse, mais il y a un risque d'infidélité et de problèmes liés à la méfiance.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    },
+    {
+      "locale": "fr",
+      "number": 4,
+      "description": "Le nombre de compatibilité de votre couple est 4\n\nUne bonne union, les deux partenaires prennent soin l'un de l'autre, ce qui permet aux relations de durer très longtemps.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    },
+    {
+      "locale": "fr",
+      "number": 5,
+      "description": "Le nombre de compatibilité de votre couple est 5\n\nDes relations éclatantes, pleines de passion. Des problèmes peuvent survenir en raison de l'égoïsme excessif de l'un des partenaires.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    },
+    {
+      "locale": "fr",
+      "number": 6,
+      "description": "Le nombre de compatibilité de votre couple est 6\n\nUne union heureuse. Les relations sont renforcées par l'amitié, le respect mutuel et la confiance.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    },
+    {
+      "locale": "fr",
+      "number": 7,
+      "description": "Le nombre de compatibilité de votre couple est 7\n\nUne union réussie, les partenaires se soutiennent mutuellement, unis par des intérêts et des passions communs.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    },
+    {
+      "locale": "fr",
+      "number": 8,
+      "description": "Le nombre de compatibilité de votre couple est 8\n\nUne union solide, mais il est possible qu'un des partenaires manipule l'autre. Pour éviter la souffrance, faites preuve de sincérité et de respect l'un envers l'autre.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    },
+    {
+      "locale": "fr",
+      "number": 9,
+      "description": "Le nombre de compatibilité de votre couple est 9\n\nDes relations normales et saines. Pour maintenir la stabilité et éviter les disputes, accordez une attention particulière à la sphère financière.\n\nLe nombre de compatibilité dépend de la date de naissance de votre partenaire."
+    }
+  ],
+  "translated": true
+}

@@ -1,0 +1,61 @@
+{
+  "table": "intelligence_number",
+  "source_locale": "ru",
+  "target_locale": "it",
+  "source_language": "Russian",
+  "target_language": "Italian",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "it",
+      "number": 1,
+      "description": "Pensate in modo indipendente, non convenzionale, i vostri pensieri si distinguono per originalità. Praticamente non vi lasciate influenzare dagli altri. Le vostre idee le realizzate con determinazione. Nei dibattiti cercate sempre di far sì che l'ultima parola rimanga a voi."
+    },
+    {
+      "locale": "it",
+      "number": 2,
+      "description": "Pensate in modo raffinato e perspicace. Siete inclini ad ascoltare la vostra intuizione quando affrontate compiti difficili e quando è necessario fare una scelta. Non rifiutate mai le idee degli altri, siete aperti a esse, ma per questo a volte vi lasciate influenzare eccessivamente."
+    },
+    {
+      "locale": "it",
+      "number": 3,
+      "description": "Pensate in modo creativo, ma un po' disordinato. I pensieri saltano da uno all'altro e non riescono a fermarsi, quindi spesso non riuscite a concentrarvi su un solo problema. Di conseguenza, il vostro approccio e il vostro modo di agire risultano estremamente illogici, ma comunque portano al risultato desiderato."
+    },
+    {
+      "locale": "it",
+      "number": 4,
+      "description": "Pensate in modo metodico e pratico. Pianificate ogni vostra azione passo dopo passo, e perciò avete sempre una risposta per tutto. Ma l'altra faccia della medaglia è che il vostro approccio risulta spesso rigido e nuove idee non testate vi fanno sentire a disagio."
+    },
+    {
+      "locale": "it",
+      "number": 5,
+      "description": "Pensate in modo leggero e veloce, affrontate tutto in modo flessibile e adattabile. Trovate la soluzione a qualsiasi problema quasi istantaneamente, calcolando immediatamente le possibili varianti e conseguenze. Ed è proprio la vostra straordinaria prontezza di spirito che vi salva in diverse situazioni difficili."
+    },
+    {
+      "locale": "it",
+      "number": 6,
+      "description": "Pensate di solito in modo equilibrato, stabile e giusto. Siete buoni ascoltatori. Vi piace osservare come le persone reagiscono alle parole, ai pensieri e alle idee. Notate i più piccoli dettagli e li applicate con grande successo ai vostri scopi. Tuttavia, la visione del quadro generale spesso rimane per voi inaccessibile."
+    },
+    {
+      "locale": "it",
+      "number": 7,
+      "description": "Non ti sono mai piaciute le risposte semplici. Scavi sempre in profondità, studiando il problema in modo completo e dall'interno fino a quando non arriva la certezza di averlo compreso appieno. E ora, senza esitazioni, inizi a risolverlo. Molte poche persone sono in grado di discutere con te nella capacità di risolvere problemi seri e trovare risposte a questioni complesse."
+    },
+    {
+      "locale": "it",
+      "number": 8,
+      "description": "Di solito guardi tutto ciò che accade da una certa altezza, quindi vedi sempre l'intero problema. Non ami entrare nei dettagli e prestare attenzione ai particolari, preferendo affidarli a persone con una mentalità più ristretta e concreta. Non confondi mai il razionale con l'irrazionale e utilizzi entrambi con facilità nella tua vita."
+    },
+    {
+      "locale": "it",
+      "number": 9,
+      "description": "Vedi e comprendi sempre molto chiaramente cosa pensano gli altri su un determinato argomento, ma non esprimi la tua opinione fino a quando non si sono espressi tutti gli altri, e solo dopo indichi ciò che è stato trascurato o semplicemente non pensato. Trovi la soluzione giusta e la risposta corretta semplicemente escludendo uno dopo l'altro le soluzioni sbagliate dall'intero elenco delle possibilità. Costruire catene logiche non è il tuo metodo."
+    }
+  ],
+  "translated": true
+}

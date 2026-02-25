@@ -1,0 +1,71 @@
+{
+  "table": "destiny_number",
+  "source_locale": "es",
+  "target_locale": "fr",
+  "source_language": "Spanish",
+  "target_language": "French",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "fr",
+      "number": 1,
+      "description": "Votre mission dans la vie est d'être un leader, un précurseur ou un chef d'entreprise, mais le succès sera obtenu grâce à l'initiative, l'indépendance et l'originalité. Vous devez apprendre à utiliser votre pouvoir de volonté, apprendre à penser par vous-même avec confiance et exploiter vos propres capacités. Les numéros un doivent être en plus constructifs et différents, individualistes et chercheurs de nouvelles idées. Cependant, le fait d'être un leader ne signifie pas que vous devez être dictatorial, dominateur ou agressif. Cela signifie affronter les obstacles avec le courage d'un numéro un."
+    },
+    {
+      "locale": "fr",
+      "number": 2,
+      "description": "Les numéros deux sont des diplomates ou des pacifistes, ils peuvent équilibrer les situations et parvenir à la coopération grâce à leur tact, car ils ont la capacité de voir les deux côtés du problème. Ils ont la patience pour être des administrateurs ou gérer des détails. Ils peuvent être des experts en statistiques car la collecte de données est le travail d'un expert en administration. Dans les affaires, il leur convient mieux d'être en partenariat que d'être indépendants. Le mariage est idéal pour un numéro deux. Ils doivent cultiver les arts tels que la musique, la danse, le chant et la peinture, car ils ont un bon sens du rythme, du temps et de la couleur."
+    },
+    {
+      "locale": "fr",
+      "number": 3,
+      "description": "Votre destin est de vous auto-exprimer par les mots, la littérature, le théâtre ou l'oratoire.\nVotre travail consiste à éveiller l'esprit et l'imagination pour que les autres apprennent à rire. Un numéro trois est un divertissement ambulant. Vous devez être créatif, inspirant, artistique, actif, utile, optimiste et un véritable ami. Étant donné que vous avez le don de la parole, vous devez vous intéresser au théâtre, à l'opéra, à la littérature, à l'oratoire ou à la représentation théâtrale."
+    },
+    {
+      "locale": "fr",
+      "number": 4,
+      "description": "Un quatre a toujours tendance à être un constructeur. Il est très travailleur et honnête. Ce serait un bon gestionnaire de bureau, car il est consciencieux, digne de confiance, économique et excellent dans les détails et la routine. Il est analytique, pratique, systématique, déterminé, sincère et ordonné. Il peut assumer beaucoup de responsabilités et aider à protéger les autres."
+    },
+    {
+      "locale": "fr",
+      "number": 5,
+      "description": "Son destin indique l'aspect le plus joyeux de la vie. Il aura la liberté. Il acceptera avec plaisir les nouvelles idées, le changement, les nouvelles méthodes et le progrès. Un numéro cinq doit être polyvalent, rapide et courageux, car il aura de nombreuses expériences qu'il devra utiliser pour grandir intérieurement. La vie sociale et le sexe opposé sont les plus grands plaisirs d'un numéro cinq. Il peut être idéal pour la vente, la publicité, la promotion de nouvelles idées ou pensées, les voyages et les relations publiques."
+    },
+    {
+      "locale": "fr",
+      "number": 6,
+      "description": "La mission d'un numéro six est de servir à la maison et dans la communauté, car le six est une vibration amoureuse centrée sur la famille. Il est père ou maître cosmique. Il est aimant, compréhensif, compatissant et peut assumer beaucoup de responsabilités. Ce serait un bon musicien, car le rythme, l'harmonie et la beauté sont comme une forme de vie nécessaire à son évolution. Une vie domestique est également essentielle. Il pourra servir l'humanité en tant qu'infirmier, médecin, enseignant, musicien, chanteur, peintre, acteur, agriculteur, éleveur, ingénieur, décorateur d'intérieur ou assistant social."
+    },
+    {
+      "locale": "fr",
+      "number": 7,
+      "description": "L'éducation dans le domaine de la science ou les mystères de la vie sont\nsa mission. Un numéro sept est un penseur profond et pourrait triompher dans des réalisations inventives ou scientifiques, et dans la découverte de la signification cachée de la nature. Il a besoin de passer du temps seul et en silence, afin de méditer et de recevoir l'inspiration de son intérieur. Il doit être un spécialiste dans la collecte de connaissances de toute source, ce qui l'attachera à être un esprit concentré sur des réalités plutôt que sur des superficialités. Son aspiration doit être de gagner en compréhension et d'acquérir des connaissances. Il peut travailler comme écrivain, avocat, technicien, expert en antiquités, théologien, enquêteur privé ou conseiller. Extérieurement, on peut le considérer comme étrange, car il est un solitaire marchant sur des chemins inexplorés ou inhabituels."
+    },
+    {
+      "locale": "fr",
+      "number": 8,
+      "description": "La vie d'un numéro huit est destinée aux grandes affaires et\nfinances. Il peut gagner beaucoup d'argent, mais cela ne doit pas être son aspiration. Il doit apprendre à reconnaître l'équilibre entre les forces matérielles et spirituelles. Sa devise doit être : justice. Il ne doit pas perdre de temps à lutter pour la fortune, mais travailler pour la satisfaction et l'accomplissement personnel. Sa récompense doit être un travail bien fait. Il peut travailler dans le sport et les divertissements en général. Le gouvernement et les affaires civiques. L'édition, l'impression et la fabrication sont des domaines ouverts pour un numéro huit, tout comme la banque ou être chef d'une entreprise. Il doit s'associer avec des gens talentueux et influents. Il peut également avoir une inclination philosophique ou religieuse."
+    },
+    {
+      "locale": "fr",
+      "number": 9,
+      "description": "Il tend à être un grand frère de l'humanité, exprimant amour,\ncompassion et compréhension. Le service est son devoir. Il doit apprendre à être impersonnel et à ne pas s'appuyer sur les possessions matérielles ni sur l'amour personnel. \"Donner, c'est recevoir\" est le destin d'un numéro neuf. Il pourrait être enseignant, écrivain, docteur, acteur, infirmier, avocat, philanthrope ou assistant social."
+    },
+    {
+      "locale": "fr",
+      "number": 11,
+      "description": "Consulte le numéro deux à la recherche de qualités mineures. Un\nnuméro onze est original, intuitif et un maître leader qui suit des chemins spirituels et inspirants. Un onze doit consacrer sa vie au public. Il est idéaliste et philosophique. Il peut s'engager dans la vie en tant que psychologue, enseignant, aviateur, inventeur de produits audio et d'images ou écrivain sur des sujets théosophiques ou métaphysiques."
+    },
+    {
+      "locale": "fr",
+      "number": 22,
+      "description": "Consultez le numéro quatre à la recherche de qualités mineures. Le\nnuméro vingt-deux est le maître constructeur sur le plan matériel, généralement de renommée internationale. Il peut travailler avec de grands groupes car il peut les gérer parfaitement. Il pourrait être à la tête d'une institution, diplomate, acheteur, constructeur, organisateur, homme d'État ou expert en efficacité. Le numéro vingt-deux qui ne vit pas selon les capacités de son numéro descend vibratoirement aux caractéristiques d'un numéro quatre, dédié à l'occupation d'un emploi commun, comptable, agriculteur, contremaître ou comme employé national."
+    }
+  ],
+  "translated": true
+}

@@ -1,0 +1,71 @@
+{
+  "table": "destiny_number",
+  "source_locale": "es",
+  "target_locale": "pt",
+  "source_language": "Spanish",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "number": 1,
+      "description": "Sua missão na vida é ser líder, precursor ou chefe de empresa, mas o sucesso será alcançado com iniciativa, independência e originalidade. Deve aprender a usar seu poder de vontade, aprender a pensar por si mesmo com confiança e explorar suas próprias capacidades. Os números um devem ser, além de construtivos e diferentes, individualistas e pesquisadores sobre novas ideias. No entanto, o fato de ser um líder não significa que deva ser ditatorial, dominador ou agressivo. Isso significa enfrentar os obstáculos com a coragem de um número um."
+    },
+    {
+      "locale": "pt",
+      "number": 2,
+      "description": "Os números dois são diplomáticos ou pacifistas, podem equilibrar situações e alcançar a cooperação por meio de seu tato, pois têm a capacidade de ver ambos os lados do problema. Têm paciência para serem administradores ou lidar com detalhes. Podem ser especialistas em estatísticas, já que a coleta de dados é para o trabalho de um especialista em administração. Nos negócios, é mais vantajoso uma sociedade do que ser independente. O casamento é ideal para um número dois. Deve cultivar as artes como a música, a dança, o canto e a pintura, pois tem bom senso de ritmo, tempo e cor."
+    },
+    {
+      "locale": "pt",
+      "number": 3,
+      "description": "Seu destino é auto-expressar-se em palavras, literatura, teatro ou oratória.\nSeu trabalho consiste em despertar o espírito e a imaginação para que os outros aprendam a rir. Um número três é um entretenimento ambulante. Deve ser criador, inspirador, artístico, ativo, útil, otimista e verdadeiro amigo. Como possui o dom da palavra, deve se interessar por teatro, ópera, literatura, oratória ou representação teatral."
+    },
+    {
+      "locale": "pt",
+      "number": 4,
+      "description": "Um quatro sempre tende a ser construtor. É muito trabalhador e\nhonesto. Seria um bom gerente de escritório, pois é consciencioso, digno de confiança, econômico e excelente em pormenores e rotina. É analítico, prático, sistemático, decidido, sincero e organizado. Pode assumir muita responsabilidade e ajudar a proteger os outros."
+    },
+    {
+      "locale": "pt",
+      "number": 5,
+      "description": "Seu destino sinaliza o aspecto mais alegre da vida. Terá liberdade.\nAceitará de bom grado as novas ideias, a mudança, os novos métodos e o progresso. Um número cinco deve ser versátil, esperto e corajoso, pois terá muitas experiências que deverá usar para crescer interiormente. A vida social e o sexo oposto são os maiores prazeres de um número cinco. Pode ser ideal para vendas, propaganda, promoção de novas ideias ou pensamentos, viagens e relações públicas."
+    },
+    {
+      "locale": "pt",
+      "number": 6,
+      "description": "A missão de um número seis é servir em casa e na comunidade,\numa vez que o seis é uma vibração amorosa centrada na família. É pai ou mestre cósmico. É amante, compreensivo, compassivo e pode assumir muita responsabilidade. Seria um bom músico, pois o ritmo, a harmonia e a beleza são como uma forma de vida necessária para sua evolução. Uma vida doméstica também é essencial. Poderá servir à humanidade como enfermeiro, médico, professor, músico, cantor, pintor, ator, agricultor, pecuarista, engenheiro, decorador de interiores ou assistente social."
+    },
+    {
+      "locale": "pt",
+      "number": 7,
+      "description": "A educação no campo da ciência ou os mistérios da vida são\nsua missão. Um número sete é um pensador profundo e pode triunfar em conquistas inventivas ou científicas, e na descoberta do significado oculto da natureza. Precisa passar algum tempo sozinho e em silêncio, a fim de meditar e receber inspiração de seu interior. Deve ser um especialista em reunir conhecimentos de toda fonte, o que o ligará a ser uma mente concentrada em realidades em vez de superficialidades. Sua aspiração deve ser ganhar compreensão e adquirir conhecimento. Pode trabalhar como escritor, advogado, técnico, especialista em antiguidades, teólogo, investigador privado ou conselheiro. Externamente, pode ser considerado estranho, uma vez que é um solitário caminhante dos caminhos inexplorados ou incomuns."
+    },
+    {
+      "locale": "pt",
+      "number": 8,
+      "description": "A vida de um número oito está destinada aos grandes negócios e\nfinanças. Pode ganhar muito dinheiro, mas essa não deve ser sua aspiração. Deve aprender a reconhecer o equilíbrio entre as forças materiais e espirituais. Seu lema deve ser: justiça. Não deve desperdiçar tempo lutando pela fortuna, mas sim trabalhar pela satisfação e realização pessoal. Sua recompensa deve ser uma tarefa bem feita. Pode trabalhar em esportes e entretenimentos em geral. No governo e nos assuntos cívicos. A edição, impressão e manufatura são campos abertos para um número oito, assim como o setor bancário ou ser chefe de uma empresa. Deve associar-se a pessoas talentosas e influentes. Também pode ter inclinação filosófica ou religiosa."
+    },
+    {
+      "locale": "pt",
+      "number": 9,
+      "description": "Tende a ser um grande irmão da humanidade, expressando amor,\ncompaixão e compreensão. O serviço é seu dever. Deve aprender a ser impessoal e a não se apoiar nas posses materiais nem no amor pessoal. \"Dar é receber\" é o destino de um número nove. Poderia ser professor, escritor, médico, ator, enfermeiro, advogado, filantropo ou assistente social."
+    },
+    {
+      "locale": "pt",
+      "number": 11,
+      "description": "Consulte o número dois em busca de qualidades menores. Um\nnúmero onze é original, intuitivo e um líder mestre que segue rumos espirituais e inspiradores. Um onze deve dedicar sua vida ao público. É idealista e filosófico. Pode se ocupar na vida como psicólogo, professor, aviador, inventor de produtos de áudio e imagens ou escritor de temas teosóficos ou metafísicos."
+    },
+    {
+      "locale": "pt",
+      "number": 22,
+      "description": "Consulte o número quatro em busca de qualidades menores. O\nnúmero vinte e dois é o mestre construtor no plano material, geralmente de fama internacional. Pode trabalhar com grandes grupos, pois consegue gerenciá-los perfeitamente. Poderia ser chefe de uma instituição, diplomata, comprador, construtor, organizador, estadista ou especialista em eficiência. O número vinte e dois que não vive de acordo com as capacidades de seu número, desce vibratoriamente às características de um número quatro, dedicado à ocupação de um emprego comum, contador, agricultor, capataz ou como empregado nacional."
+    }
+  ],
+  "translated": true
+}

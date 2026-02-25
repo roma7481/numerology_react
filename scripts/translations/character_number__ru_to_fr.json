@@ -1,0 +1,71 @@
+{
+  "table": "character_number",
+  "source_locale": "ru",
+  "target_locale": "fr",
+  "source_language": "Russian",
+  "target_language": "French",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "fr",
+      "number": 1,
+      "description": "Les personnes-un sont des individus déterminés et forts, cherchant activement leur objectif ; elles regardent l'avenir avec optimisme, sont assez têtues et confiantes, très ambitieuses et souvent agressives, leur agressivité étant toujours liée à la perception que quelqu'un essaie de \"leur apprendre à vivre\" ou se met en travers de leur chemin. Elles défendront de toutes leurs forces leur indépendance et leur droit. Elles ont une excellente mémoire, sont exceptionnellement organisées, peuvent accomplir plusieurs tâches à la fois - grâce à leur concentration exceptionnelle. Dans la vie, elles aspirent à tout ce qui est nouveau et inexploré, entraînant souvent les autres - en raison de leurs qualités de leader - mais n'écoutent jamais l'opinion des autres. Il est difficile de travailler avec elles en équipe : ce sont des individualistes, et si elles atteignent le pouvoir, elles préfèrent un style de direction autoritaire."
+    },
+    {
+      "locale": "fr",
+      "number": 2,
+      "description": "Les personnes-deux ont l'habitude de naviguer entre les intérêts des autres, elles sont très douces et tactiles, craignant d'offenser autrui, toujours prêtes au compromis et préférant créer autour d'elles une atmosphère de paix et d'harmonie. Elles n'utilisent jamais leurs avantages si cela peut blesser un ami ou un partenaire, préférant coopérer plutôt que de se battre, et il leur est beaucoup plus facile de se soumettre que de prendre des décisions. Ce sont des employés assidus, soignés et modestes. Les personnes-deux peuvent être timides, secrètes, indécises, fuyant la responsabilité. Elles n'ont souvent pas d'opinion propre ni de pensées personnelles, réfléchissant et planifiant tout soigneusement. Et - malheureusement - elles souffrent souvent de dépressions. D'où leur introversion et leur morosité, leur incapacité à rire."
+    },
+    {
+      "locale": "fr",
+      "number": 3,
+      "description": "Les personnes-trois ont un caractère joyeux, voient tout avec humour, elles sont chanceuses dans la vie, talentueuses et polyvalentes, dotées d'une énergie enviable et aiment mener une vie active, elles se séparent facilement de l'argent, sont généreuses et bienveillantes. Les personnes-trois sont des créateurs, possédant une riche imagination, très douées par nature. Leurs plus grandes opportunités se trouvent dans le domaine de l'art, car elles ont un don littéraire ou artistique, et l'essentiel pour elles est d'exprimer par des mots, des couleurs ou des sons leurs émotions. Elles sont éloquentes, savent communiquer, sont souvent des leaders dans leur cercle d'amis, mais présentent des défauts tels qu'une fierté excessive, un ego surdimensionné, de l'égoïsme et de l'indépendance, de l'ambition, de l'autoritarisme, parfois de l'arrogance et de la grossièreté manifeste. De plus, elles gaspillent souvent leurs forces sur de nombreuses tâches inutiles, sans prendre rien au sérieux. Cette insouciance les empêche souvent de devenir ce pour quoi elles sont nées - des génies."
+    },
+    {
+      "locale": "fr",
+      "number": 4,
+      "description": "Les personnes de quatre sont des chevaux de trait de l'histoire ; puisque le nombre 4 montre la volonté, l'endurance, la persévérance dans l'atteinte des objectifs, ces personnes réussissent par un travail acharné, mais malgré les difficultés, elles continuent d'avancer vers leur but. Elles sont rationalistes, n'ont pas une imagination riche, mais sont pratiques et travailleuses. Bien qu'elles n'aient pas d'élans créatifs, elles savent diriger des personnes créatives, les regroupant à leur convenance et utilisant leur talent, en tant qu'administrateurs - ce sont des personnes à leur place. Elles sont dotées d'un grand sens du devoir, aiment la justice, apprécient le côté matériel de la vie - bien manger, se reposer, et aspirent toujours à la stabilité et à l'abondance. En même temps, elles manquent d'ouverture d'esprit, éprouvent souvent du stress, peuvent être agitées, nerveuses, tomber dans l'ennui et la mélancolie. Dans la vie, elles ne sont pas très chanceuses, bien qu'elles travaillent dur, elles sont souvent frappées par des malheurs et des échecs. Mais elles surmontent courageusement les obstacles, en ce sens leur patience n'a jamais de limites."
+    },
+    {
+      "locale": "fr",
+      "number": 5,
+      "description": "Les personnes de cinq sont actives, inquiètes, agitées, intelligentes et impatientes. Elles aiment voyager, voir beaucoup de choses, entendre beaucoup de choses, communiquer avec de nombreuses personnes, pour ressentir un confort total, elles ont besoin de changer leur monde habituel, sinon elles se languissent et se fatiguent, éprouvant ennui et malaise physique. Elles sont assez ambitieuses, colériques, très sexuelles. Par conséquent, les cinq des deux sexes ont du mal à maintenir la fidélité dans la famille et se retrouvent souvent face à l'incompréhension et aux scandales. En raison de leur agitation et de leur incapacité à se concentrer, elles s'attaquent souvent à des affaires et les abandonnent immédiatement, en général, elles obtiennent leur éducation tant bien que mal : elles n'aiment pas travailler, elles veulent tout apprendre tout de suite, ce qui n'est pas possible.\n\nLes hommes jouent très souvent à des jeux d'argent, font des paris, spéculent, adorent le risque et les aventures, les femmes sont plus prudentes, mais si leur intérêt est piqué, elles oublient toute prudence. Cette caractéristique les conduit souvent à des ennuis. Elles ne peuvent pas non plus travailler constamment au même endroit, donc elles changent de lieu de travail. Elles ne sont pas capables de s'occuper de tâches routinières. Souvent, ces personnes trichent, mentent, mènent une vie dissolue, et en même temps, elles sont joyeuses, agréables à côtoyer, insouciantes, si bien sûr elles ne commencent pas à se plaindre, ce qui leur arrive aussi."
+    },
+    {
+      "locale": "fr",
+      "number": 6,
+      "description": "Les personnes de six sont remarquablement équilibrées, bienveillantes, fiables, elles savent toujours créer un environnement confortable autour d'elles, aiment leur maison et leurs proches, ont beaucoup d'amis. Elles sont de merveilleuses personnes sous tous les aspects - fidèles, honnêtes, consciencieuses, romantiques, douces. Elles aiment l'harmonie et la paix et s'efforcent d'éteindre immédiatement toutes les querelles et conflits, elles partagent généreusement leur chaleur, et si de l'argent est nécessaire - elles partagent aussi de l'argent. Mais en un sens, elles sont très conservatrices et ne perçoivent pas la désinvolture des personnes plus ouvertes, elles souffrent de l'impolitesse des autres, préfèrent fuir les problèmes plutôt que de les résoudre, jusqu'à ce qu'il ne soit plus possible de les ignorer. Ce sont des personnes travailleuses, mais elles ne touchent pas les étoiles, elles n'ont pas non plus de fibre commerciale, mais elles sont capables de trouver des erreurs chez ceux qui créent un monde par inspiration, et non par prescription. Si elles atteignent une position élevée, leur caractère peut se gâter : elles peuvent être non seulement charmantes et discrètes, mais aussi vaniteuses, hautaines, satisfaites d'elles-mêmes, insistantes et mesquines."
+    },
+    {
+      "locale": "fr",
+      "number": 7,
+      "description": "Les personnes ayant le chiffre sept sont souvent des introvertis, elles aiment la solitude, sont préoccupées par leurs pensées, contemplatives, ont du mal à établir des contacts, mais grâce à leur concentration intérieure, elles sont capables d'une analyse profonde, très perspicaces, savent percer les mystères, prêtent attention aux moindres détails qui échappent à l'attention des autres. Souvent, sous le signe du sept, naissent des poètes, des philosophes, des scientifiques, des mystiques, et même s'ils n'ont pas de tels talents, toutes ces personnes possèdent néanmoins une intuition et une imagination développées. Dans la communication, elles sont froides, essaient de préserver leur harmonie intérieure et n'aiment pas laisser quelqu'un accéder aux mystères de leur âme, mais elles sont constamment à la recherche d'une vérité connue. Souvent, ces personnes sont sujettes à la rêverie, créant des fantasmes étranges et complexes.\n\nElles ne possèdent pas d'éloquence, il leur est donc difficile d'exprimer adéquatement leurs sensations et leurs pensées, elles préfèrent mettre leurs pensées sur papier, ne participent pas aux débats, évitent les disputes. Parmi leurs défauts, on peut mentionner une tendance accrue aux pensées sombres et à la dépression, à la déception dans la vie, une tendance au suicide ou à l'isolement, au sarcasme sombre, à la misanthropie. Cependant, au moindre succès, lorsqu'elles reçoivent de la reconnaissance, les personnes ayant le chiffre sept s'épanouissent : elles ont besoin d'éloges pour que la vie leur semble belle."
+    },
+    {
+      "locale": "fr",
+      "number": 8,
+      "description": "Les personnes ayant le chiffre huit sont énergiques, capables, dotées du don de concentrer leurs forces en un seul point pour atteindre leurs objectifs, elles aspirent au succès, tout en possédant un esprit pratique, calculateur et acéré. Toutes leurs pensées sont tournées vers le monde matériel, et il suffit de quelques efforts pour qu'elles trouvent le bon chemin d'investissement. Ce sont des personnes très \"occupées\" dans la vie, dont toutes les pensées tournent autour des flux d'argent ou du destin de leurs entreprises, elles deviennent souvent des entrepreneurs, et cela est un diagnostic. Dans la vie, elles considèrent comme principales qualités la capacité à se battre, à se sortir de situations difficiles, à trouver des échappatoires tout en réussissant. Le principal indicateur de la richesse d'une personne pour elles est sa position dans la société. Elles sont prudentes et sages, n'entreprennent pas d'actions risquées, n'agissent jamais sans réfléchir.\n\nSi elles laissent se développer des qualités négatives, ce sont les personnes les plus désagréables - impitoyables, agressives, têtues, cruelles, n'aimant que leur propre personne, peu scrupuleuses dans les moyens, despotiques, méprisant ceux qui n'ont pas d'argent. Extérieurement, elles peuvent sembler sombres et renfermées, mais personne ne sait quelles passions bouillonnent dans ces âmes, quelle avidité les dévore de l'intérieur. Parfois, elles laissent échapper l'irritation accumulée dans des actes des plus étranges et sauvages. Elles ne se laissent pas dresser ou le font, mais avec une immense difficulté."
+    },
+    {
+      "locale": "fr",
+      "number": 9,
+      "description": "Les personnes ayant le chiffre neuf sont idéalistes, rêveuses, aspirent à des généralisations, s'éloignent souvent de la terre, très romantiques, impulsives, même passionnées, dotées de charme et tendres et aimantes. Elles respectent et prennent soin de leurs proches, mais souhaitent servir le bien de l'humanité tout entière. À cet égard, elles sont totalement désintéressées et très généreuses. Les gens ne les comprennent souvent pas et commencent à les apprécier lorsqu'elles ne sont plus là.\n\nCe sont de bons scientifiques, enseignants et artistes, dotés de force de volonté, de courage, capables d'élans inspirés, souvent inspirant tous ceux qui ont perdu espoir. Dans la vie, elles sont peu pratiques, ne pensent pas à elles-mêmes, très honnêtes et donc disent des choses peu flatteuses en face, mais en même temps dépendent de diverses conventions. Souvent, elles se laissent facilement influencer par une personne qui leur semble agréable, s'attachent rapidement et se désintéressent tout aussi vite de l'objet de leur passion, cherchant à rester à l'écart de tout. Elles craignent beaucoup la pauvreté, la vieillesse et la misère. Elles se contredisent souvent, peuvent être sans enfants, brusques, arrogantes et mystiques."
+    },
+    {
+      "locale": "fr",
+      "number": 11,
+      "description": "Les personnes de onze sont considérées comme étranges parce qu'elles ne ressemblent pas aux autres. Elles viennent dans ce monde pour apporter quelque chose de nouveau, réaliser une sorte de révolution. Elles ont une haute intuition, possèdent une énergie enviable et semblent recevoir des indications de forces supérieures.\n\nParmi elles, il y a à la fois des génies et des fous. Souvent, elles deviennent des prédicateurs, des voyants. Elles ont le don de persuasion, sont courageuses, déterminées et sûres de leur droit. La vie avec elles est très difficile, car pour accomplir leur mission, elles sont prêtes à sacrifier tout ce qu'elles aiment. C'est pourquoi elles vivent le plus souvent dans la solitude."
+    },
+    {
+      "locale": "fr",
+      "number": 22,
+      "description": "Les personnes de vingt-deux possèdent toutes les meilleures qualités que l'on puisse imaginer.\n\nElles sont énergiques et enclines au leadership, équilibrées et sensibles, dotées d'un don créatif, très flexibles, harmonieuses, capables d'une haute concentration de pensée, possèdent des qualités commerciales, un potentiel spirituel élevé et, comme on dit, une charisme.\n\nC'est pourquoi ces personnes deviennent souvent des leaders de mouvements populaires ou de grands scientifiques, médecins, philosophes, hommes d'affaires, magiciens."
+    }
+  ],
+  "translated": true
+}

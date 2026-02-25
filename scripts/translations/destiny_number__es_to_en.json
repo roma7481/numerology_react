@@ -1,0 +1,71 @@
+{
+  "table": "destiny_number",
+  "source_locale": "es",
+  "target_locale": "en",
+  "source_language": "Spanish",
+  "target_language": "English",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "number": 1,
+      "description": "Your mission in life is to be a leader, forerunner, or business chief, but success will be achieved with initiative, independence, and originality. You must learn to use your willpower, learn to think for yourself with confidence, and exploit your own capabilities. Number ones must be not only constructive and different but also individualistic and inquisitive about new ideas. However, being a leader does not mean you must be dictatorial, dominating, or aggressive. This means facing obstacles with the courage of a number one."
+    },
+    {
+      "locale": "en",
+      "number": 2,
+      "description": "Number twos are diplomats or pacifists; they can balance situations and achieve cooperation through their tact, as they have the ability to see both sides of a problem. They possess the patience to be administrators or manage details. They can be experts in statistics since data collection is essential for an expert in administration. In business, they benefit more from a partnership than from being independent. Marriage is ideal for a number two. They should cultivate the arts such as music, dance, singing, and painting, as they have a good sense of rhythm, timing, and color."
+    },
+    {
+      "locale": "en",
+      "number": 3,
+      "description": "Your destiny is to express yourself through words, literature, theater, or oratory.\nYour work consists of awakening the spirit and imagination so that others learn to laugh. A number three is a walking entertainment. You must be a creator, inspirer, artistic, active, useful, optimistic, and a true friend. Since you have the gift of speech, you should take an interest in theater, opera, literature, or acting."
+    },
+    {
+      "locale": "en",
+      "number": 4,
+      "description": "A four always tends to be a builder. It is very hardworking and honest. It would be a good office manager, as it is conscientious, trustworthy, economical, and excellent with details and routine. It is analytical, practical, systematic, determined, sincere, and orderly. It can take on a lot of responsibility and help protect others."
+    },
+    {
+      "locale": "en",
+      "number": 5,
+      "description": "Its destiny points to the most joyful aspect of life. It will have freedom. It will gladly accept new ideas, change, new methods, and progress. A number five must be versatile, ready, and brave, as it will have many experiences to use for inner growth. Social life and the opposite sex are the greatest pleasures of a number five. It can be ideal for sales, advertising, promoting new ideas or thoughts, travel, and public relations."
+    },
+    {
+      "locale": "en",
+      "number": 6,
+      "description": "The mission of a number six is to serve in the home and in the community, as six is a loving vibration centered on family. It is a cosmic parent or teacher. It is loving, understanding, compassionate, and can take on a lot of responsibility. It would be a good musician, as rhythm, harmony, and beauty are like a necessary way of life for its evolution. A homely life is also essential. It can serve humanity as a nurse, doctor, teacher, musician, singer, painter, actor, farmer, rancher, engineer, interior decorator, or social worker."
+    },
+    {
+      "locale": "en",
+      "number": 7,
+      "description": "Education in the field of science or the mysteries of life is\nits mission. A number seven is a deep thinker and could succeed in inventive or scientific achievements, and in discovering the hidden meaning of nature. It needs to spend some time alone and in silence, in order to meditate and receive inspiration from within. It must be a specialist in gathering knowledge from all sources, which will tie it to being a mind focused on realities rather than superficialities. Its aspiration should be to gain understanding and acquire knowledge. It can work as a writer, lawyer, technician, antiques expert, theologian, private investigator, or counselor. Externally, it may be considered strange, as it is a solitary walker of unexplored or unusual paths."
+    },
+    {
+      "locale": "en",
+      "number": 8,
+      "description": "The life of a number eight is destined for great business and\nfinance. It can earn a lot of money, but this should not be its aspiration. It must learn to recognize the balance between material and spiritual forces. Its motto should be: justice. It should not waste time struggling for fortune, but work for satisfaction and personal fulfillment. Its reward should be a job well done. It can work in sports and entertainment in general, government and civic affairs. Publishing, printing, and manufacturing are open fields for a number eight, as well as banking or being the head of a company. It should associate with talented and influential people. It may also have a philosophical or religious inclination."
+    },
+    {
+      "locale": "en",
+      "number": 9,
+      "description": "It tends to be a great brother of humanity, expressing love,\ncompassion, and understanding. Service is its duty. It must learn to be impersonal and not rely on material possessions or personal love. \"To give is to receive\" is the destiny of a number nine. It could be a teacher, writer, doctor, actor, nurse, lawyer, philanthropist, or social worker."
+    },
+    {
+      "locale": "en",
+      "number": 11,
+      "description": "Consult the number two for lesser qualities. An eleven is original, intuitive, and a master leader who follows spiritual and inspiring paths. An eleven must dedicate their life to the public. They are idealistic and philosophical. They may engage in life as a psychologist, teacher, aviator, inventor of audio and visual products, or writer on theosophical or metaphysical topics."
+    },
+    {
+      "locale": "en",
+      "number": 22,
+      "description": "Consult the number four for lesser qualities. The twenty-two is the master builder on the material plane, generally of international fame. They can work with large groups as they can manage them perfectly. They could be the head of an institution, diplomat, buyer, builder, organizer, statesman, or efficiency expert. The twenty-two that does not live according to the capabilities of their number vibrationally descends to the characteristics of a number four, dedicated to the occupation of a common job, accountant, farmer, foreman, or as a national employee."
+    }
+  ],
+  "translated": true
+}

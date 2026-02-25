@@ -1,0 +1,61 @@
+{
+  "table": "karmic_lesson",
+  "source_locale": "es",
+  "target_locale": "en",
+  "source_language": "Spanish",
+  "target_language": "English",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "number": 1,
+      "description": "Few ones or none reveal a lack of self-confidence. A karmic one must learn to make decisions and initiate new things."
+    },
+    {
+      "locale": "en",
+      "number": 2,
+      "description": "Few twos or none reveal shyness and unnecessary squandering of money. A karmic two must learn to work in groups, pay attention to details, conserve energy in the form of money, and be patient."
+    },
+    {
+      "locale": "en",
+      "number": 3,
+      "description": "Few threes or none reveal a lack of self-confidence and an attempt to hide in public. A karmic three must learn to control themselves and not be explosive, must learn to be more creative and not scatter their talent; to have self-confidence and to improve their quality of expression in front of the public."
+    },
+    {
+      "locale": "en",
+      "number": 4,
+      "description": "Few fours or none reveals a lack of attention to details and order. A karmic four must lay a solid foundation without turning a blind eye to the work, without evading it, patiently focusing on what they do, without accepting limitations."
+    },
+    {
+      "locale": "en",
+      "number": 5,
+      "description": "Few fives or none reveals fear of change and the unknown. A karmic five is rarely absent. They are only required to face change and the unknown."
+    },
+    {
+      "locale": "en",
+      "number": 6,
+      "description": "Few sixes or none reveals a lack of responsibility. A karmic six must learn a great deal about the opposite sex. They must learn to be a good father or mother, setting an example from their own life. Responsibility will be demanded of them at all times."
+    },
+    {
+      "locale": "en",
+      "number": 7,
+      "description": "Few sevens or none reveal a lack of faith and understanding between the duality of spirit and matter. A karmic seven is quite difficult to pass as a lesson; one must learn the hidden secrets of earthly life and at the same time hear the voice of the spiritual. One must discover the relationship that exists between the two and live according to their discoveries. They will have to develop faith and what it implies for a greater understanding of their life. Many spiritual masters, paradoxically, were born with a karmic seven, which compelled them to turn inward and live in the world without being of the world, in a balanced, scientific, and holy manner."
+    },
+    {
+      "locale": "en",
+      "number": 8,
+      "description": "Few eights or none reveal inefficiency in economic matters or material issues. A karmic eight must learn the value of money, to organize and direct. This karma will force its holder to manage their own business and administer their own assets throughout their life, in order to understand for the next life the saving of spiritual energy manifested in the lower plane as money."
+    },
+    {
+      "locale": "en",
+      "number": 9,
+      "description": "Few nines or none reveal emotional shocks and setbacks until learning to be generous, compassionate, loving, and dedicated to others. A karmic nine, like the karmic seven, carries within itself a very high good for the soul, since if the holder of any of these numbers lives according to the lesson required of them, spiritual mastery knocks at their door."
+    }
+  ],
+  "translated": true
+}

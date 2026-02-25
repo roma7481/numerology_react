@@ -1,0 +1,81 @@
+{
+  "table": "marriage_number",
+  "source_locale": "en",
+  "target_locale": "es",
+  "source_language": "English",
+  "target_language": "Spanish",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description",
+    "woman",
+    "man"
+  ],
+  "rows": [
+    {
+      "locale": "es",
+      "number": 1,
+      "description": "Un día de boda con el número UNO está regido por el Sol. Este día dará importancia a cómo fue su disposición juntos como pareja, así como individualmente, antes del matrimonio. El noviazgo fue inolvidable, y quizás un poco más largo que la mayoría, y cómo tú y tu amado se conocieron es una historia bastante romántica. Mucho como la mano del Destino. Elegir un día de boda con el número UNO indica que son una pareja muy afectuosa y amorosa. Muestra una madurez en el matrimonio y una capacidad para resolver desacuerdos y contratiempos de manera respetuosa. Esta pareja amorosa busca una total unidad el uno con el otro.\n\nHay un fuerte deseo dentro de ambos por que el matrimonio tenga éxito, incluso si ha habido fracasos en el pasado. Ambos se han probado mutuamente de manera bastante exhaustiva antes de que se anunciara el compromiso. Conocen muy bien los gustos y disgustos del otro, y eso ha sido importante, pero recuerden que a partir de este día deben permitir la inevitabilidad del cambio.",
+      "woman": null,
+      "man": null
+    },
+    {
+      "locale": "es",
+      "number": 2,
+      "description": "Si eliges un día de boda con el número DOS para casarte, querrás una boda muy privada o extremadamente pública. Este es el número para escapar, y el día de boda con el número DOS puede necesitar ser un matrimonio en secreto. El consejo de tu madre será aceptado con fuerza o rechazado al hacer los planes de la boda. No hay un término medio. La madurez emocional de uno de esta pareja puede estar ausente, pero la madurez es un activo valioso para el éxito de esta unión. No te sorprendas si todos derraman una lágrima o dos en este día de boda, pues la ceremonia sin duda tendrá una calidad sentimental.\n\nLas comodidades del hogar se enfatizarán en un matrimonio con el número DOS. Puede que ya tengas tu apartamento o casa listos, con uno de ustedes viviendo en él, antes de la boda real. El día de boda con el número DOS está regido por la Luna, que representa la feminidad y los secretos, y el deseo de una familia puede ser una razón fuerte para este matrimonio. Además, el deseo de un compañero que pueda amar a los hijos de un matrimonio anterior, y ser alguien que pueda ser un padrastro comprensivo para ellos, puede ser un motivo para un día de boda con el número DOS.\n\nSi un embarazo o estos hijos anteriores son la única razón para el matrimonio, puede que desees reconsiderar tu decisión de casarte.",
+      "woman": null,
+      "man": null
+    },
+    {
+      "locale": "es",
+      "number": 3,
+      "description": "Si no estabas bromeando cuando dijiste que solo te casarías por dinero, entonces podrías encontrar que un día con el número TRES es una excelente elección para aumentar tu seguridad financiera a través de la suerte de esta asociación. Ambos pueden estar excesivamente preocupados por lo que la familia y los amigos piensan de su unión, y también que su boda tiene que ser la más grande y la mejor. Si ustedes dos esperan demasiado, entonces este día podría comenzar como una gran decepción, con quizás incluso un aguacero de lluvia.\n\nUn día de boda con el número TRES está regido por Júpiter, por lo que puede haber muchos hijos nacidos de esta pareja, así como la posibilidad de partos múltiples, o miembros de la familia extendida viviendo con ustedes parte del tiempo.",
+      "woman": null,
+      "man": null
+    },
+    {
+      "locale": "es",
+      "number": 4,
+      "description": "Si ambos han estado discutiendo y acordando todas las responsabilidades que conlleva el matrimonio, y han sopesado cuidadosamente los pros y los contras de la vida matrimonial, quizás elijan un día Número CUATRO para casarse. La importancia de una fecha de boda Número CUATRO es la fidelidad hasta que la muerte los separe. Esta es una pareja que puede trabajar junta y lograr metas que de otro modo parecerían imposibles, como dirigir un negocio con éxito juntos, o expandir la vivienda, tener múltiples unidades de propiedad como bienes raíces, una sola cuenta bancaria y cada proyecto es uno de unidad. Sea lo que sea, desde comprar una casa hasta tener sus hijos, será cuidadosamente cronometrado y planeado.\n\nUn toque del destino puede haber unido a usted y a su amado. De alguna manera, un compañero satisface las necesidades emocionales del otro. ¡Algo que se pensaba que faltaba en la vida ahora se encuentra! Un deseo de seguridad es otro factor motivador con esta fecha de matrimonio. Un día de boda Número CUATRO crea un matrimonio donde será muy importante echar raíces, continuar el nombre de la familia y construir un futuro. Este es un matrimonio regido por Saturno y la pareja casi siempre elegirá vivir cerca de sus padres o cerca del pueblo donde creció la novia.",
+      "woman": null,
+      "man": null
+    },
+    {
+      "locale": "es",
+      "number": 5,
+      "description": "Si ha elegido un Número CINCO como su día de boda, puede que esté poniendo énfasis en lo bien que usted y su amado se comunican entre sí. Este será un matrimonio activo, y necesitará luchar contra la monotonía y el aburrimiento, por lo que será prudente tener algunos intereses individuales así como otros compartidos. Este es un matrimonio donde cada uno de ustedes necesitará su espacio, su propio lugar de trabajo y mucho tiempo a solas.\n\nHabrá bastante viaje después de esta boda, y cada niño nacido del matrimonio Número CINCO puede nacer en un lugar diferente. El matrimonio Número CINCO está regido por Mercurio y significa que posiblemente un compañero tendrá que trabajar para que el otro termine la universidad, la escuela de derecho o la escuela de medicina. En la jubilación, esta pareja permanecerá activa, con interés en los jóvenes, para mantener una perspectiva saludable.",
+      "woman": null,
+      "man": null
+    },
+    {
+      "locale": "es",
+      "number": 6,
+      "description": "Las bendiciones de Venus con todo su Amor y Devoción caen sobre el día de boda Número SEIS. Amor, afecto, paz y felicidad son los favores que Venus puede otorgar. Esto no significa que no haya desafíos o que estén bajo algún tipo de encanto mágico. La responsabilidad, la confianza y el cuidado son imprescindibles para mantener este maravilloso comienzo. Esta pareja estará dispuesta a trabajar duro y largas horas juntas, con mucho tiempo para discutir y planificar las cosas, porque el matrimonio se convertirá en lo más importante en ambas vidas.\n\nSe hará todo lo posible para resolver cualquier disputa, y el matrimonio Número SEIS, como una fecha regida por Venus, será bueno para las reconciliaciones. Esta también es una fecha de responsabilidad de la pareja por un padre enfermo en la vejez, así como la herencia para mantener el hogar de uno de los padres.",
+      "woman": null,
+      "man": null
+    },
+    {
+      "locale": "es",
+      "number": 7,
+      "description": "¡Cuidado si has elegido la fecha de boda Número SIETE! Puede que sea necesario un cambio, alteraciones o una reubicación del salón de recepción. Aunque el día Número SIETE representa contratiempos con los planes, también puede representar ser reducido en el último minuto. Regido por Urano, el día de la boda Número SIETE puede representar boletos de avión perdidos, accidentes, un vestido que no encaja o que la dama de honor llegue después de la ceremonia. Urano también representa un noviazgo rápido y furioso, despertarse por la mañana y encontrarse casado con un extraño, ser plantado en el altar, así como que esta asociación sea una decisión poco sabia. Si hay felicidad y amor en esta unión, entonces quizás uno de los padres no acepte a tu prometido como la pareja adecuada, poniendo presión y culpa en todos.\n\nEste podría ser el día de la boda de un matrimonio de raza mixta, una boda católico-protestante, personas del mismo sexo o personas de orígenes completamente diferentes que se unen.",
+      "woman": null,
+      "man": null
+    },
+    {
+      "locale": "es",
+      "number": 8,
+      "description": "¡Wow! ¡Cariño! Al elegir el Número OCHO para tu día de boda, deseas ser compatible en todos los aspectos con tu pareja, y el sexo será un aspecto muy importante en esta relación. Esta es la pareja que, una noche encantada, intercambió miradas a través de esa sala llena de gente y supieron de inmediato que estaban destinados el uno para el otro. Luego pasaron las siguientes semanas en la cama, se despertaron un día, fueron al Juez de Paz y se casaron. Te dirán que se sintieron casados antes de la segunda mirada en la primera noche que se conocieron. ¡Una vez unidos, son inseparables!\n\nEl día de la boda Número OCHO está regido por MARTE, y representa una excelente posibilidad para que esta pareja prospere en un negocio juntos, así como para convertirse en un fuerte equipo personal. También puede ser el matrimonio donde un socio tiene que sacrificarse por la carrera del otro, con cada pareja admirando el coraje del otro.",
+      "woman": null,
+      "man": null
+    },
+    {
+      "locale": "es",
+      "number": 9,
+      "description": "Un día de boda Número NUEVE puede ser, de hecho, uno de secreto. Otra fecha de posible fuga, porque el día de boda Número NUEVE está regido por Neptuno. La fe en la que fuiste criado puede ser un factor muy importante a considerar antes de que tenga lugar este matrimonio. Este será un evento muy espiritual, siguiendo todas las reglas de la boda de la fe que se siga. Uno de esta pareja puede practicar medicina o, quizás, puede estar discapacitado. Hay una sombra de lo Divino en esta unión, ya sea que la pareja que se casa sea consciente de ello o no.\n\nEste es un matrimonio donde hubo una lucha por unirse, ya sea causada por la distancia o por las fuertes objeciones de ambas familias. Podría ser un matrimonio de diferentes religiones, donde ambos eligen seguir su religión de la infancia, y puede requerir mucho trabajo. Además, una parte del dúo puede ser bastante rica mientras que la otra apenas llega a fin de mes, o cada uno puede estar separado por una gran diferencia de edad. Cualesquiera que sean las razones para las objeciones a esta boda, ambos socios encontrarán fuerza y consuelo el uno en el otro a medida que se convierten en una sola casa y hogar. Si se deben hacer sacrificios en esta unión, y generalmente se hacen, se harán con gran amor y devoción.",
+      "woman": null,
+      "man": null
+    }
+  ],
+  "translated": true
+}

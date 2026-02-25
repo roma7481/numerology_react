@@ -1,0 +1,61 @@
+{
+  "table": "intelligence_number",
+  "source_locale": "ru",
+  "target_locale": "fr",
+  "source_language": "Russian",
+  "target_language": "French",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "fr",
+      "number": 1,
+      "description": "Vous pensez de manière indépendante, non conventionnelle, vos pensées se distinguent par leur originalité. Vous vous soumettez pratiquement jamais à l'influence des autres. Vous mettez vos idées en œuvre avec persévérance. Dans les débats, vous vous efforcez toujours de garder le dernier mot."
+    },
+    {
+      "locale": "fr",
+      "number": 2,
+      "description": "Vous pensez de manière raffinée et perspicace. Vous avez tendance à écouter votre intuition lors de la résolution de tâches difficiles et lorsque vous devez faire un choix. Vous ne rejetez jamais les idées des autres, vous êtes ouvert à elles, mais à cause de cela, vous vous laissez parfois trop influencer par autrui."
+    },
+    {
+      "locale": "fr",
+      "number": 3,
+      "description": "Vous pensez de manière créative, mais quelque peu désordonnée. Vos pensées sautent d'une à l'autre et ne peuvent pas se fixer, c'est pourquoi vous avez souvent du mal à vous concentrer sur un seul problème. En fin de compte, votre approche et votre manière d'agir s'avèrent extrêmement illogiques, mais néanmoins, elles mènent au résultat souhaité."
+    },
+    {
+      "locale": "fr",
+      "number": 4,
+      "description": "Vous pensez de manière méthodique et pratique. Vous planifiez toutes vos actions étape par étape, et c'est pourquoi vous avez toujours une réponse à tout. Mais l'autre côté de la médaille est que votre approche est souvent rigide et que les nouvelles idées non éprouvées vous mettent mal à l'aise."
+    },
+    {
+      "locale": "fr",
+      "number": 5,
+      "description": "Vous pensez facilement et rapidement, vous abordez tout de manière flexible et adaptative. Vous trouvez presque instantanément la solution à tout problème, calculant immédiatement les scénarios et les conséquences. Et c'est votre remarquable ingéniosité qui vous sauve dans diverses situations difficiles."
+    },
+    {
+      "locale": "fr",
+      "number": 6,
+      "description": "Vous pensez généralement de manière équilibrée, stable et juste. Vous êtes un bon auditeur. Vous aimez observer comment les gens réagissent aux mots, aux pensées et aux idées. Vous remarquez les moindres détails et les appliquez très habilement à vos fins. Cependant, la vision d'ensemble vous reste souvent inaccessible."
+    },
+    {
+      "locale": "fr",
+      "number": 7,
+      "description": "Vous n'avez jamais été satisfait des réponses simples. Vous creusez toujours profondément, étudiant le problème sous tous ses angles et de l'intérieur jusqu'à ce que la certitude vienne que vous l'avez complètement compris. Et maintenant, sans hésitation, vous commencez à le résoudre. Très peu de gens peuvent rivaliser avec vous dans l'art de résoudre des problèmes sérieux et de trouver des réponses à des questions complexes."
+    },
+    {
+      "locale": "fr",
+      "number": 8,
+      "description": "Vous regardez généralement tout ce qui se passe d'un peu plus haut, ce qui vous permet de voir le problème dans son ensemble. Vous n'aimez pas vous attarder sur les détails et préférez laisser cela aux personnes ayant une pensée plus étroite et terre-à-terre. Vous ne confondez jamais le rationnel et l'irrationnel et utilisez avec aisance les deux dans votre vie."
+    },
+    {
+      "locale": "fr",
+      "number": 9,
+      "description": "Vous voyez et comprenez toujours très clairement ce que pensent les autres sur une question donnée, mais vous ne partagez pas votre opinion tant que tout le monde ne s'est pas exprimé, et seulement après cela, vous signalez ce qui a été négligé ou simplement pas pensé. Vous trouvez la bonne solution et la bonne réponse simplement en éliminant un à un les choix incorrects de toute la liste des possibilités. Construire des chaînes logiques n'est pas votre méthode."
+    }
+  ],
+  "translated": true
+}

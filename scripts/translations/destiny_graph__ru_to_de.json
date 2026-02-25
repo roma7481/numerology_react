@@ -1,0 +1,36 @@
+{
+  "table": "destiny_graph",
+  "source_locale": "ru",
+  "target_locale": "de",
+  "source_language": "Russian",
+  "target_language": "German",
+  "key_columns": [
+    "state"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "state": "Линия Судьбы выше линии Воли.",
+      "description": "Dies weist auf eine Zeit hin, in der die äußeren Umstände am stärksten sind und die Lektionen des Schicksals strenger werden. In solchen Zeiten wird alles in Ihrem Leben so sein, wie es das Schicksal vorschreibt, daher sollten Sie nicht zu viel Initiative zeigen und keine willentlichen Handlungen vornehmen. Versuchen Sie nicht, „gegen eine geschlossene Tür zu drücken“, sondern „schwimmen Sie mit dem Strom“."
+    },
+    {
+      "locale": "de",
+      "state": "Линия Судьбы ниже линии Воли.",
+      "description": "In dieser Zeit sind aktive Maßnahmen erforderlich, Sie sollten Ihre eigenen Projekte nicht auf morgen verschieben, sondern vorwärts streben und große Anstrengungen unternehmen, um die gesetzten Ziele zu erreichen. Die Freiheit der Wahl tritt in den Vordergrund, während der Einfluss äußerer Umstände unbedeutend wird. In dieser Zeit sollten Sie sich nicht auf das Schicksal verlassen, sondern Ihr Leben selbst gestalten. Sie können mutig die Initiative in Ihre eigenen Hände nehmen, jetzt wird alles nur von Ihnen abhängen."
+    },
+    {
+      "locale": "de",
+      "state": "Точки пересечения линий Судьбы и Воли.",
+      "description": "Dies sind sehr verantwortungsvolle und ziemlich ungünstige Zeiträume für irgendwelche Neuerungen. In solchen Zeitabschnitten sollten Sie keine verantwortungsvollen und abrupten Schritte unternehmen – umziehen, den Job wechseln, eine Hochzeit organisieren usw."
+    },
+    {
+      "locale": "de",
+      "state": "Линии Судьбы и Воли идут вместе – «Путь Монаха».",
+      "description": "In diesem Fall unterwirft sich der Mensch vollständig den Höheren Mächten. Das bedeutet jedoch nicht, dass der Mensch nichts tun kann – er versteht intuitiv, dass er nicht gegen das Schicksal handeln sollte. Man sollte nicht denken, dass eine solche Person primitiv ist; im Gegenteil, gerade sie kann tatsächlich grandiose Pläne verwirklichen. Ein charakteristisches Beispiel dafür ist das Leben von M.V. Lomonossow (Geburtsdatum – 19. November 1711)."
+    }
+  ],
+  "translated": true
+}

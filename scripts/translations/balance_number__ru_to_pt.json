@@ -1,0 +1,76 @@
+{
+  "table": "balance_number",
+  "source_locale": "ru",
+  "target_locale": "pt",
+  "source_language": "Russian",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "number": 1,
+      "description": "Em situações de estresse, a pessoa se torna arrogante, altiva, inflexível, podendo rejeitar a ajuda de outras pessoas, mesmo quando claramente precisa dela. Ela é irritadiça, impulsiva, inventa suas próprias teorias e tenta segui-las.\n\nPor outro lado, a mesma pessoa pode, às vezes, parecer fraca, incapaz de tomar uma atitude decisiva, adiando repetidamente um passo importante, transferindo a iniciativa para outra pessoa.\n\nExpresse sua força, tente compartilhar mais seus problemas com a família e amigos, caso contrário, você pode se tornar solitário. Isso pode levar ao isolamento. É melhor ouvir os conselhos dos outros, o que lhe dará chances adicionais e novas informações, com base nas quais você desenvolverá sua abordagem para resolver o problema. Sua arma é a força, a inventividade e a coragem, com as quais você ganhará a guerra."
+    },
+    {
+      "locale": "pt",
+      "number": 2,
+      "description": "A pessoa se esforça demais para agradar os outros, confiando não em suas próprias convicções, mas nas opiniões alheias. Ela se perde em detalhes e perde a capacidade de ver a floresta através das árvores, hesita e procrastina, acumulando recursos excessivos, em vez de agir e usar o que já possui.\n\nAo mesmo tempo, o desequilíbrio do dois pode se manifestar como insensibilidade emocional, falta de resposta, intolerância, falta de disposição para cooperar, relutância em considerar as possibilidades reais existentes.\n\nUse tato e diplomacia. Seja menos emocional. Defenda sua maneira de resolver problemas, e não recue por sentir resistência. Não desista, você é dotado do talento de encontrar soluções que satisfaçam a todos.\n\nVocê tem uma inclinação para compromissos. Seja mais otimista e encorajador. Não exagere a magnitude das dificuldades. Você é muito sensível, trabalhe para alcançar um equilíbrio interno. A estabilidade e a harmonia ajudarão você a resolver qualquer problema. Você é capaz de se tornar um pacificador."
+    },
+    {
+      "locale": "pt",
+      "number": 3,
+      "description": "A pessoa é dispersa demais, desperdiçando uma grande quantidade de tempo, dinheiro e outros recursos. Ela fala excessivamente sobre seus planos e, como resultado, nunca realmente os coloca em prática. Em vez de fazer algo concreto, ela constrói planos grandiosos, gera conceitos e ideias – embora interessantes, permanecem sem aplicação. Ela tem dificuldade em aceitar críticas e limitações.\n\nPor outro lado, a mesma pessoa pode, de vez em quando, parecer recusar seu lado criativo, cair no pessimismo, ocupar-se com atividades rotineiras, se fechar, resignar-se com os fracassos. Ela pode ter dificuldade em relaxar, permitir-se descansar e desfrutar da vida.\n\nDesenvolva mais otimismo e leveza na resolução de problemas. Tente trabalhar junto com os outros na busca de uma solução que satisfaça a todos. Use seu inegável charme em situações difíceis.\n\nDiante de desafios, você pode ser extremamente emocional. Tente controlar essa característica, você precisa de um certo grau de objetividade. Você pode se envolver tanto na busca de uma solução que não perceba a existência de uma saída que satisfaça todas as partes interessadas."
+    },
+    {
+      "locale": "pt",
+      "number": 4,
+      "description": "A pessoa aplica a tudo que acontece ao seu redor um número limitado de rígidos padrões e rejeita ou ignora tudo que não se encaixa neles. Ela é muito séria, focada exclusivamente em resultados práticos, exige total conformidade com as normas existentes. Qualquer manifestação de criatividade ou diversão é considerada uma indesejável desordem.\n\nEssa mesma pessoa, exigindo muito dos outros, pode evitar esforços significativos, fazendo concessões a si mesma. Cansada de lutar contra obstáculos, pode começar a buscar soluções fáceis e caminhos alternativos, no entanto, raramente dessas tentativas resulta algo bom.\n\nTente ver a perspectiva e desenvolva uma atitude mais calma em situações emocionalmente carregadas. Controle sua raiva. Sua força está na disciplina. Tente ver o essencial e busque compromissos. O senso de justiça que lhe é inerente deve ser elevado a um outro nível, onde se expressará através da indulgência, compaixão e profundo entendimento. A manifestação prática desses ideais pode ser o desejo de se colocar mentalmente no lugar da pessoa com quem você está em conflito. Você não conhece todos os lados dos problemas que enfrenta."
+    },
+    {
+      "locale": "pt",
+      "number": 5,
+      "description": "A pessoa é instável, inquieta e impaciente, mudando constantemente de atividades, interesses e afeições. Ela está sempre convencida de que o melhor e mais interessante está em algum lugar além do horizonte, e, como resultado, nunca consegue se estabelecer, se fixar. Ela tenta consumir o máximo possível de prazeres mundanos – comida, álcool, sexo – mas quanto mais recebe, mais aguda se torna sua insatisfação.\n\nComo resultado da saturação, essa pessoa pode um dia recusar oportunidades realmente interessantes e emocionantes, e na tentativa de refrescar sua percepção da realidade, geralmente se torna excêntrica, caprichosa e excessivamente exigente. Ela começa muitas coisas, mas quase imediatamente desiste, nem mesmo conseguindo se aprofundar nelas.\n\nÉ melhor concentrar-se em seus problemas, em vez de fugir de sua solução. Você pode evitar conflitos se sentir que isso lhe trará dor. Não ceda aos seus desejos de consumir comida, álcool e medicamentos.\n\nVocê pode encontrar uma solução realmente construtiva assim que prestar mais atenção ao problema. Essa solução está ao seu alcance."
+    },
+    {
+      "locale": "pt",
+      "number": 6,
+      "description": "A pessoa busca cuidar dos outros, dar conselhos, proteger, ajudar e não vê o limite onde sua ajuda se torna um fardo. Ela se esforça para tornar o mundo bonito, a qualquer custo. Por exemplo, pode exigir que a locomotiva tape o cano – afinal, dela sai uma fumaça preta tão antiestética! Essa pessoa atribui muita importância aos laços emocionais familiares e outros próximos: tudo para os seus, e os outros que se danem.\n\nA fraqueza do seis pode se manifestar como a incapacidade de cumprir promessas, \"pendurar-se\" no pescoço de outras pessoas: tipo, sou tão fraco, me salve. A pessoa confunde relações de negócios e emocionais: deixou o trabalho de lado, mas somos tão bons amigos!\n\nSua força está na compreensão das pessoas que entraram em conflito e na compreensão das causas desse conflito. Você pode depender demais de amigos e familiares em situações difíceis, em vez de resolver por conta própria. Pode ser que você busque abrigo nos bons sentimentos das pessoas não envolvidas no conflito.\n\nA responsabilidade é a pedra angular. Na resolução do problema, você desempenha um papel importante. Reconheça isso."
+    },
+    {
+      "locale": "pt",
+      "number": 7,
+      "description": "A pessoa se fecha, se esconde dentro de si mesma, empurra outras pessoas para fora de seus pensamentos e de sua vida. Ela desmonta tudo em partes, analisa, critica, tenta cutucar o ponto mais doloroso. Ela aborda os impulsos emocionais e outros fenômenos que não se submetem à análise lógica com sarcasmo. É desconfiada, cínica, vê apenas o lado negativo de tudo.\n\nA fraqueza do sete pode se manifestar como fatalismo, pessimismo infundado, relutância em entender a essência das coisas, descontentamento crônico com tudo o que acontece ao redor. Essa pessoa precisa de outras pessoas, mas principalmente apenas para expressar seu descontentamento.\n\nVocê se esconde em um certo paraíso interno salvador e espera que lá esteja em segurança.\nUsando a clareza de mente e habilidades analíticas, pode encontrar uma maneira precisa de resolver o problema.\n\nVocê está muito absorvido pelo aspecto emocional, obscurecendo a mente e não permitindo encontrar uma resposta clara. Você precisa lutar contra si mesmo para abordar a resolução de problemas sem emoções. Deixe de lado as emoções, e você encontrará a resposta."
+    },
+    {
+      "locale": "pt",
+      "number": 8,
+      "description": "A pessoa busca comandar, dar ordens, distribuir tarefas a todos, submeter todos à sua vontade, mesmo em situações onde é perfeitamente possível deixar os eventos seguirem seu curso. Isso é especialmente indesejável quando a pessoa não entende bem a essência do que está acontecendo e, com sua intervenção voluntariosa, apenas complica a situação. Isso geralmente acontece quando se trata de problemas emocionais, amorosos, familiares.\n\nO oito fraco tende a manipular os outros. Essa pessoa incentiva os que estão ao seu redor a fazerem por ela até mesmo aquilo que ela mesma poderia facilmente resolver. Como resultado, ela pode, um dia, atrair para sua vida uma personalidade autoritária que \"a dobrará como um chifre de carneiro\".\n\nUse sua energia extraordinária de forma racional. Você prefere manipular o poder do que simplesmente entrar em conflito com as pessoas. Use-a com responsabilidade pelos resultados. Você é muito inventivo e pode se tornar um líder praticamente em qualquer situação.\n\nTente afirmar sua opinião no coletivo, mas considere as necessidades e ideias dos outros na resolução de problemas de maior escala. Aprenda a usar o poder em nome do bem comum."
+    },
+    {
+      "locale": "pt",
+      "number": 9,
+      "description": "A pessoa \"salta para fora de si mesma\" para alegrar os outros, mas como ela pertence à categoria de sonhadores sem fundamento, o resultado de seus esforços muitas vezes não é muito significativo. Ela possui um considerável potencial criativo, no entanto, dispersa-o em um número excessivo de atividades, resultando apenas em uma aparência de atividade. Ela é excessivamente emocional, a ponto de perder a capacidade de agir de forma lógica e eficaz.\n\nA mesma pessoa pode, periodicamente, se tornar fria e distante, alegando que busca manter a objetividade. Ela se ofende com o mundo todo por as pessoas não se apressarem em recompensá-la por todas as suas boas ações.\n\nVocê poderá encontrar soluções levando em consideração as necessidades dos outros. Possui a capacidade de entender diferentes pessoas e possui uma visão ampla. Frequentemente, você se torna alienado, lembrando uma \"torre de marfim\", na qual se enclausurou, sendo aristocrata por natureza. Encontrará soluções ao descer do céu para a terra. Somente dando, você encontrará."
+    },
+    {
+      "locale": "pt",
+      "number": 11,
+      "description": "Em princípio, é interpretado da mesma forma que o número de equilíbrio 2, mas o nível de energia aqui é mais elevado, dominá-la é mais difícil, e uma pessoa tem maior probabilidade de, sob estresse, oscilar de um extremo ao outro. Além disso, suas ações podem causar um ressonância social significativa.\n\nnúmero de equilíbrio 2:\n\nEm situações de estresse, a pessoa se torna arrogante, presunçosa, inflexível, pode rejeitar a ajuda de outras pessoas, mesmo quando claramente precisa dela. Ela é irritadiça, impulsiva, inventa suas próprias teorias e tenta segui-las.\n\nPor outro lado, a mesma pessoa pode, às vezes, parecer fraca, incapaz de tomar uma decisão decisiva, adiando repetidamente um passo importante, transferindo a iniciativa para outra pessoa.\n\nExpresse sua força, tente compartilhar mais seus problemas com a família e amigos, caso contrário, você pode\nse tornar solitário. Isso pode levar à isolamento. É melhor ouvir os conselhos dos outros, o que lhe dará\nmais oportunidades e novas informações, com base nas quais você desenvolverá sua abordagem para\nresolver o problema. Sua arma é a força, a inventividade e a coragem, com isso você ganhará a guerra."
+    },
+    {
+      "locale": "pt",
+      "number": 22,
+      "description": "É interpretado de forma semelhante ao número de equilíbrio 4, no entanto, as ações da pessoa provocam uma reação significativa nos outros. Aquele que possui esse nome tende a ter uma tensão nervosa elevada, tornando mais difícil alcançar o equilíbrio. Mas se conseguir, será capaz de realizações significativas.\n\nnúmero de equilíbrio 4:\n\nA pessoa aplica a tudo o que acontece ao seu redor um número limitado de rígidos padrões e rejeita ou ignora tudo o que não se encaixa neles. Ela é muito séria, orientada exclusivamente para resultados práticos, exige total conformidade com as normas existentes. Qualquer manifestação de criatividade ou alegria é considerada uma indisciplina inaceitável.\n\nA mesma pessoa, exigindo muito dos outros, pode evitar esforços significativos, fazendo concessões a si mesma. Cansada de lutar contra obstáculos, pode começar a buscar soluções fáceis e caminhos alternativos, mas raramente essas tentativas resultam em algo bom.\n\nTente ver a perspectiva e desenvolva uma atitude mais calma em situações emocionalmente carregadas. Controle sua raiva. Sua força é a disciplina. Tente ver o essencial e busque compromissos. Seu senso de justiça deve ser elevado a um novo nível, onde se expressará através da indulgência, compaixão e compreensão profunda. A manifestação prática desses ideais pode ser o desejo de se colocar mentalmente no lugar da pessoa com quem você está em conflito.\nVocê não conhece todos os lados dos problemas que enfrenta."
+    },
+    {
+      "locale": "pt",
+      "number": 33,
+      "description": "Manifesta-se como o número de equilíbrio 6. Em casos bastante raros, quando a força desse número mestre se revela, especialmente se a pessoa realmente alcançar o equilíbrio, suas ideias terão uma influência muito significativa sobre as pessoas, e talvez até sobre a humanidade como um todo.\n\nnúmero de equilíbrio 6:\n\nA pessoa busca cuidar dos outros, dar conselhos, proteger, ajudar e não vê o limite onde sua ajuda se torna onerosa. Ela se esforça para tornar o mundo bonito, a qualquer custo. Por exemplo, pode exigir que a locomotiva tape o tubo – afinal, dele sai uma fumaça preta tão antiestética! Essa pessoa atribui importância excessiva aos laços emocionais familiares e próximos: tudo para os seus, e os outros que se danem.\n\nA fraqueza do seis pode se manifestar como a incapacidade de cumprir promessas, \"pendurar-se\" no pescoço de outras pessoas: tipo, sou tão fraco, me salve. A pessoa confunde relações de trabalho e emocionais: deixou o trabalho de lado, mas somos tão bons amigos!\n\nSua força está na compreensão das pessoas que entraram em conflito e na compreensão das causas desse\nconflito. Você pode depender demais de amigos e familiares em situações difíceis, em vez de resolver as coisas por conta própria. Talvez você busque abrigo nos bons sentimentos das pessoas que não estão envolvidas no conflito.\n\nA responsabilidade é a pedra angular. Na resolução do problema, você desempenha um papel importante. Reconheça-o."
+    }
+  ],
+  "translated": true
+}

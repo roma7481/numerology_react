@@ -1,0 +1,61 @@
+{
+  "table": "intelligence_number",
+  "source_locale": "ru",
+  "target_locale": "es",
+  "source_language": "Russian",
+  "target_language": "Spanish",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "es",
+      "number": 1,
+      "description": "Piensas de manera independiente, no convencional, tus pensamientos se distinguen por su originalidad. Prácticamente no te dejas influenciar por los demás. Te esfuerzas por llevar a cabo tus ideas con determinación. En las discusiones, siempre intentas que la última palabra quede contigo."
+    },
+    {
+      "locale": "es",
+      "number": 2,
+      "description": "Piensas de manera refinada y perspicaz. Tiendes a escuchar tu intuición al enfrentar tareas difíciles y cuando necesitas tomar una decisión. Nunca rechazas las ideas de los demás, estás abierto a ellas, pero a veces esto te hace ceder demasiado a la influencia externa."
+    },
+    {
+      "locale": "es",
+      "number": 3,
+      "description": "Piensas de manera creativa, pero algo desordenada. Tus pensamientos saltan de un tema a otro y no pueden detenerse, por lo que a menudo no puedes concentrarte en un solo problema. Como resultado, tu enfoque y forma de actuar son extremadamente ilógicos, pero, sin embargo, te llevan al resultado deseado."
+    },
+    {
+      "locale": "es",
+      "number": 4,
+      "description": "Piensas de manera metódica y práctica. Consideras cada uno de tus pasos cuidadosamente, por lo que siempre tienes una respuesta para todo. Sin embargo, el otro lado de la moneda es que tu enfoque a menudo resulta ser inflexible y las nuevas ideas, no comprobadas, te hacen sentir incómodo."
+    },
+    {
+      "locale": "es",
+      "number": 5,
+      "description": "Piensas de manera ligera y rápida, abordas todo de forma flexible y adaptativa. Encuentras la solución a cualquier problema casi instantáneamente, calculando al instante las posibles situaciones y consecuencias. Y es precisamente tu aguda perspicacia la que te salva en diversas situaciones difíciles."
+    },
+    {
+      "locale": "es",
+      "number": 6,
+      "description": "Piensas generalmente de manera equilibrada, estable y justa. Eres un buen oyente. Te gusta observar cómo las personas son influenciadas por las palabras, pensamientos e ideas. Notas los más pequeños detalles y los aplicas de manera muy efectiva a tus propios fines. Sin embargo, la visión del panorama general a menudo te resulta inaccesible."
+    },
+    {
+      "locale": "es",
+      "number": 7,
+      "description": "Nunca te han satisfecho las respuestas simples. Siempre profundizas, estudias el problema de manera integral y desde adentro hasta que llega la confianza de que lo has comprendido completamente. Y ahora, sin dudar, comienzas a resolverlo. Muy pocas personas pueden debatir contigo en la habilidad de resolver problemas serios y encontrar respuestas a preguntas complejas."
+    },
+    {
+      "locale": "es",
+      "number": 8,
+      "description": "Generalmente miras todo lo que sucede desde una perspectiva elevada, por lo que siempre ves el problema en su totalidad. No te gusta entrar en detalles ni prestar atención a minucias, prefiriendo dejarlas a personas con una mentalidad más estrecha y terrenal. Nunca confundes lo racional con lo irracional y utilizas ambos en tu vida con facilidad."
+    },
+    {
+      "locale": "es",
+      "number": 9,
+      "description": "Siempre ves y entiendes con claridad lo que piensan los demás sobre un tema determinado, pero no expresas tu opinión hasta que todos los demás lo hayan hecho, y solo después indicas lo que ha sido pasado por alto o simplemente no se ha pensado. Encuentras la solución correcta y la respuesta adecuada simplemente eliminando una a una las respuestas incorrectas de toda la lista de posibilidades. Construir cadenas lógicas no es tu método."
+    }
+  ],
+  "translated": true
+}

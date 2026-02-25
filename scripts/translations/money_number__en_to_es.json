@@ -1,0 +1,61 @@
+{
+  "table": "money_number",
+  "source_locale": "en",
+  "target_locale": "es",
+  "source_language": "English",
+  "target_language": "Spanish",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "es",
+      "number": 1,
+      "description": "Te gusta tener un control completo de tu dinero. No te importa trabajar duro siempre y cuando te paguen bien por ello. Puede que decidas trabajar para ti mismo, ser tu propio jefe para realmente controlar el dinero que generas."
+    },
+    {
+      "locale": "es",
+      "number": 2,
+      "description": "Tienes una intuición muy fuerte cuando se trata de decisiones sobre dinero, tanto para ganarlo como para gastarlo sabiamente. Puedes discernir si una propuesta es buena o mala incluso cuando los datos sugieren lo contrario. Ten en cuenta que puede llevarte un tiempo aprender a confiar en tus instintos."
+    },
+    {
+      "locale": "es",
+      "number": 3,
+      "description": "Puedes hablar para conseguir dinero. Tienes habilidades de comunicación fuertes que puedes utilizar para ganarte la vida. Probablemente serías un buen vendedor, entertainer o coach de vida. No tienes problemas para generar ideas que generen dinero, pero llevarlas a cabo es difícil.\n\nEl dígito \"3\" siempre trae éxito. Todas las sumas con tres traen éxito y significan una posición financiera estable. El dinero con el número \"3\" puede ser prestado o hacer una inversión financiera en proyectos prometedores.\n\nPara ser rico, guarda una nota feliz en la cartera con el número 3, es mejor si es dinero extranjero. Si te piden ayuda en efectivo, da un billete con el dígito tres, este símbolo de suerte te regresará con una recompensa. Ella traerá ayuda al mendigo, tú regresarás con porcentajes.\n\nNo es un secreto que en el mundo existen leyes de justicia y ayudar a otras personas mejora tu situación financiera. Si tu número de destino \"3\" significa que eres una persona generosa y haces un buen trabajo, el destino te regresará tres veces más."
+    },
+    {
+      "locale": "es",
+      "number": 4,
+      "description": "Te sientes atraído por elecciones de carrera conservadoras. Trabajarás felizmente para ascender en la escalera corporativa hasta una posición de confianza y responsabilidad. Esperas trabajar arduo y largo por lo que obtienes y te enorgulleces de cada parada en el camino.\n\nEn Numerología, \"4\" es un símbolo de prosperidad y simboliza estabilidad financiera, una situación financiera sostenible. Si este es tu número según la fecha de nacimiento, entonces eres un buen financiero y sabes cómo gestionar el dinero sabiamente y cómo hacer dinero.\n\nEl dígito \"4\" es el símbolo de dinero más positivo, una persona tiene diferentes habilidades, por eso esta persona siempre logra el éxito. Este hombre sabe que necesita ganar dinero para vivir dignamente.\n\nLos billetes con una figura de \"4\" son mejor dejarlos en la cartera, serán una garantía de prosperidad estable y buen bienestar. No des ningún billete a nadie y no lo presentes, es mejor gastarlo tú mismo."
+    },
+    {
+      "locale": "es",
+      "number": 5,
+      "description": "Te sientes atraído por carreras que implican comprar y vender, y hacer tratos. Te encanta la variedad en tu trabajo, y probablemente cambiarás de carrera varias veces en tu vida. Te gusta ser tu propio jefe y odias ser dirigido y que te digan exactamente qué hacer en tu trabajo. Intentarás encontrar un trabajo donde puedas viajar mucho.\n\nEl 5 es un buen número para promover proyectos comerciales, así que si tienes en tu cartera un billete con el número \"5\", necesita ser gastado en cosas útiles, significa que en el futuro tu situación financiera se duplicará.\n\nTambién haz una compra el día 5 del mes, estos artículos resultarán ser útiles, y estarás complacido. Es mejor comprar algo que sea importante para ti y tu familia.\n\nSi construyes una casa, asegúrate de colocar una moneda con el número \"5\" bajo los cimientos, existe la creencia de que en la casa nunca experimentarás pobreza. Pero, si ya has construido una casa, no te decepciones, la riqueza no te pasará de largo, si colocas una o varias monedas cerca de la puerta de entrada."
+    },
+    {
+      "locale": "es",
+      "number": 6,
+      "description": "Debes tener un trabajo estable para ser feliz. La seguridad laboral es clave para ti, temes no estar empleado o no tener un ingreso constante. Tu trabajo actual no es tan importante para ti, ya que tu familia siempre es lo primero en tu vida. Probablemente recibirás algún tipo de dinero de tu familia durante tu vida, quizás una herencia de algún tipo.\n\nNúmero de estabilidad. Si según la Numerología tu fecha de nacimiento es el número \"6\", entonces eres una persona que no gastará dinero sin pensar, no compras cosas caras. Eres una persona muy económica. No te gusta tomar y dar dinero en préstamos, piensas que es mejor recibir un salario más bajo pero estable, así que nunca arriesgas y no juegas.\n\nTienes suerte, y desafortunadamente no todos son capaces de gestionar el dinero sabiamente, y no olvides que la energía espiritual es más importante que los beneficios materiales, entonces todo estará bien.\n\nPara que siempre tengas una prosperidad material estable, coloca tres billetes en tu cartera de modo que la cantidad total sea \"6\" y este dinero te traerá suerte. La estabilidad financiera no ha perjudicado a nadie en el mundo moderno."
+    },
+    {
+      "locale": "es",
+      "number": 7,
+      "description": "Deseas trabajar en un empleo técnico, uno relacionado con la ciencia o la investigación. Te encanta el estudio y la resolución de problemas involucrados en tu trabajo. Rara vez obtienes gran riqueza de tu trabajo, ya que priorizas la satisfacción laboral sobre la ganancia financiera.\n\nSi este es tu número, entonces no puedes contenerte de hacer compras innecesarias. Consigue un salario y estíralo durante un mes; desafortunadamente, no se trata de ti.\n\nEn tu vida, a menudo hay eventos brillantes y en pocos días llega la decepción y, en algunos casos, grandes deudas. En los negocios, es mejor escuchar los consejos de los socios y confiar solo en personas de confianza, porque a través de una fuerte confianza en otras personas, arriesgas ir a la quiebra."
+    },
+    {
+      "locale": "es",
+      "number": 8,
+      "description": "Eres bueno para hacer dinero. O serás autónomo o ocuparás un alto cargo en la empresa de otra persona. Enfocas tus energías en ganar dinero, y quizás te guste demasiado. Necesitas asegurarte de desarrollar algún otro interés en la vida para que tu trabajo no te consuma.\n\nEl símbolo del infinito, o dos veces cuatro, en Numerología es un buen dígito. Si tu cifra es \"8\" según la fecha de nacimiento en Numerología, esto significa que en tu vida siempre habrá un flujo interminable de dinero, pero la suma de dinero será diferente, grande y pequeña.\n\nSi tienes un billete con el número \"8\", asegúrate de llevarlo contigo, te servirá como un recuerdo y aumentará tu estado financiero.\n\nUna persona que tiene en su bolso un billete con la denominación del número \"8\" a menudo encuentra dinero o objetos de valor costosos. Si no lo crees, pruébalo tú mismo y te sorprenderás. Puedes dar o prestar y recibirás varias veces más."
+    },
+    {
+      "locale": "es",
+      "number": 9,
+      "description": "Te gusta trabajar para causas y organizaciones humanitarias. Tu deseo de ayudar a los demás puede hacer que seas demasiado generoso a la hora de dar tu tiempo y dinero. Ves el dinero simplemente como un medio para un fin, solo teniendo valor por lo que puede hacer por las personas.\n\nEl 9 es el dígito más neutral, no hará que una persona sea rica, pero tampoco vivirá en la pobreza. Una persona es muy frugal y no gasta dinero en viajes o cosas caras. Este hombre prefiere descansar de manera moderada con su familia o amigos, y a pesar de que la persona es un poco avara, para la familia o los parientes hace compras costosas. Es mejor comprar comida o ropa. Este dígito equilibra las cualidades positivas y negativas."
+    }
+  ],
+  "translated": true
+}

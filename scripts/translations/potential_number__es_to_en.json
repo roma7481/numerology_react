@@ -1,0 +1,71 @@
+{
+  "table": "potential_number",
+  "source_locale": "es",
+  "target_locale": "en",
+  "source_language": "Spanish",
+  "target_language": "English",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "number": 1,
+      "description": "A number one will receive an opportunity to lead. They will be very independent, creative, original, and active. They may be a forerunner in a new field. They will be ambitious, shrewd, and aggressive. They should avoid being stubborn and domineering. For more details, see number one in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 2,
+      "description": "A number two has the qualities of a diplomat; they can march with others and make them cooperate with them. They enjoy collecting and gathering data. They like libraries and museums, and their inclination is spiritual or religious. For more details, see number two in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 3,
+      "description": "A number three is self-expressive and has a good sense of humor. They are creative and have a great imagination. They should not waste time scattering their talent. They must work under a well-defined goal. For more details, see number three in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 4,
+      "description": "You will need to lay practical foundations to achieve your goals. Your tenacity of purpose, combined with your friendliness and honesty, will be of great help in whatever you do. Generally, you lean towards scientific or religious purposes, but of an orthodox nature and not from a new perspective. For more details, see number four in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 5,
+      "description": "Potentially, the constant search for experiences leads to new and productive projects, even far from home. However, these activities should be directed towards the improvement and advancement of the general public. For more details, see number five in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 6,
+      "description": "The potential number six is impersonal. Its service is more connected to community work than to your immediate family. However, you may have home comforts, as they protect and love you well, and you have financial satisfaction. You will still need to take on responsibility, as you are the cosmic father. A potential number six possesses all the tools for triumph. For more details, see number six in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 7,
+      "description": "A potential number seven tirelessly pursues mental and spiritual goals, even unconsciously. It is a good educator as its knowledge acquired through self-study and life experience grants it superior wisdom. It can write on metaphysical or philosophical topics through practical, scientific, and unusual inventiveness. If a power number seven is below its level of development, it may become introverted. For more details, see number seven in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 8,
+      "description": "A number eight will need to be rigorous with itself as its executive capacity demands it. It has latent opportunity at all times to be recognized for its achievements and service. While it may feel attracted to real estate, its goal lies in supervising and directing others' affairs. For more details, see number eight in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 9,
+      "description": "The fields of theater, literature, the arts, philanthropy, and selfless service are its expressions of power, as it is a great brother of humanity with a grand vision for the future. However, it must strive for an impersonal life, for if it demands what it gives, it may find itself at odds. Selflessness should be the straight line on the path to follow. For more details, see number nine in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 11,
+      "description": "Leadership is your powerful expression. You are generally drawn to the podium. Many idealists, such as religious leaders and evangelists, were, are, and will be ninety percent power numbers eleven. The fields of aviation, electricity, television, or invention belong to the remaining ten percent. A poorly developed eleven possesses the same power impulses as a number two. For more details, see number eleven in \"meanings of full name numbers.\""
+    },
+    {
+      "locale": "en",
+      "number": 22,
+      "description": "If you have laid a good foundation, recognition for your work is international. You are a builder, practical and idealistic. Statesmen, ambassadors, and those who appeal to the global good are potentially numbers twenty-two. However, while working for the good of the masses, one must not neglect personal well-being. In the unevolved, the characteristics of power are under the influence of a number four. For more details, see number twenty-two in \"meanings of full name numbers.\""
+    }
+  ],
+  "translated": true
+}

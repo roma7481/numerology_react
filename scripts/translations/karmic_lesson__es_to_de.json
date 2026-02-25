@@ -1,0 +1,61 @@
+{
+  "table": "karmic_lesson",
+  "source_locale": "es",
+  "target_locale": "de",
+  "source_language": "Spanish",
+  "target_language": "German",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "number": 1,
+      "description": "Wenig oder keine Einsen, zeigt mangelndes Selbstvertrauen. Eine karmische Eins muss lernen, Entscheidungen zu treffen und neue Dinge zu beginnen."
+    },
+    {
+      "locale": "de",
+      "number": 2,
+      "description": "Wenig oder keine Zweien, zeigt Schüchternheit und unnötige Geldverschwendung. Eine karmische Zwei muss lernen, im Team zu arbeiten, auf Details zu achten, Energie in Form von Geld zu sparen und geduldig zu sein."
+    },
+    {
+      "locale": "de",
+      "number": 3,
+      "description": "Wenig oder keine Dreien, zeigt einen Mangel an Selbstvertrauen und den Versuch, sich in der Öffentlichkeit zu verstecken. Eine karmische Drei muss lernen, sich zu kontrollieren und nicht explosiv zu sein, kreativer zu sein und ihr Talent nicht zu zerstreuen; Vertrauen in sich selbst zu haben und ihre Ausdrucksqualität vor Publikum zu verbessern."
+    },
+    {
+      "locale": "de",
+      "number": 4,
+      "description": "Wenig oder keine Vieren zeigen einen Mangel an Aufmerksamkeit für Details und Ordnung. Eine karmische Vier muss gute Fundamente legen, ohne die Arbeit zu ignorieren, ohne ihr auszuweichen, und sich geduldig auf das zu konzentrieren, was sie tut, ohne Einschränkungen zu akzeptieren."
+    },
+    {
+      "locale": "de",
+      "number": 5,
+      "description": "Wenig oder keine Fünfen zeigen Angst vor Veränderung und dem Unbekannten. Eine karmische Fünf fehlt nur selten. Es wird nur gefordert, sich der Veränderung und dem Unbekannten zu stellen."
+    },
+    {
+      "locale": "de",
+      "number": 6,
+      "description": "Wenig oder keine Sechsen zeigen einen Mangel an Verantwortung. Eine karmische Sechs muss viel über das andere Geschlecht lernen. Sie muss lernen, ein guter Vater oder eine gute Mutter zu sein, indem sie aus ihrem eigenen Beispiel schöpft. Verantwortung wird ihr jederzeit abverlangt."
+    },
+    {
+      "locale": "de",
+      "number": 7,
+      "description": "Wenig oder keine Siebenen offenbaren einen Mangel an Glauben und Verständnis zwischen der Dualität von Geist und Materie. Eine karmische Sieben ist ziemlich schwierig als Lektion zu bestehen; sie muss die verborgenen Geheimnisse des irdischen Lebens lernen und gleichzeitig die Stimme des Spirituellen hören. Sie muss die Beziehung zwischen beidem entdecken und gemäß ihren Entdeckungen leben. Sie wird lernen müssen, Glauben zu entwickeln und was dieser für ein größeres Verständnis ihres Lebens bedeutet. Viele spirituelle Meister, als Paradoxon, wurden mit einer karmischen Sieben geboren, die sie zwang, nach innen zu schauen und in der Welt zu leben, ohne von der Welt zu sein, auf eine ausgewogene, wissenschaftliche und heilige Weise."
+    },
+    {
+      "locale": "de",
+      "number": 8,
+      "description": "Wenig oder keine Achtungen offenbaren Ineffizienz in wirtschaftlichen Angelegenheiten oder materiellen Fragen. Eine karmische Acht muss den Wert des Geldes lernen, organisieren und leiten. Dieses Karma wird den Besitzer zwingen, sein eigenes Geschäft zu führen und sein eigenes Vermögen sein ganzes Leben lang zu verwalten, um für das nächste Leben das Einsparen von spiritueller Energie zu erkennen, die sich auf der unteren Ebene als Geld manifestiert."
+    },
+    {
+      "locale": "de",
+      "number": 9,
+      "description": "Wenig oder keine Neunen offenbaren emotionale Aufregungen und Widrigkeiten, bis sie lernen, großzügig, mitfühlend, liebevoll und den anderen gewidmet zu sein. Eine karmische Neun, ähnlich wie die karmische Sieben, trägt in sich ein sehr hohes Gut für die Seele, denn wenn der Besitzer einer dieser Zahlen gemäß der Lektion lebt, die von ihm verlangt wird, klopft die spirituelle Meisterschaft an seine Tür."
+    }
+  ],
+  "translated": true
+}

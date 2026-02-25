@@ -1,0 +1,76 @@
+{
+  "table": "balance_number",
+  "source_locale": "ru",
+  "target_locale": "es",
+  "source_language": "Russian",
+  "target_language": "Spanish",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "es",
+      "number": 1,
+      "description": "En situaciones de estrés, la persona se vuelve arrogante, altanera, inflexible, puede rechazar la ayuda de los demás, incluso cuando claramente la necesita. Es irritable, impulsiva, inventa sus propias teorías y trata de seguirlas.\n\nPor otro lado, la misma persona puede parecer a veces débil, incapaz de tomar una decisión decisiva, pospone una y otra vez un paso importante, delega la iniciativa a alguien más.\n\nExpresa tu fuerza, intenta compartir más tus problemas con familiares y amigos, de lo contrario, puedes\nvolverte solitario. Esto puede llevar a la aislamiento. Es mejor escuchar los consejos de los demás, lo que te dará\nnuevas oportunidades e información, sobre la cual desarrollarás tu enfoque para\nresolver el problema. Tu arma es la fuerza, la inventiva y el coraje, con ello ganarás la guerra."
+    },
+    {
+      "locale": "es",
+      "number": 2,
+      "description": "La persona tiende demasiado a complacer a los demás, se basa no en sus propias creencias, sino en las opiniones ajenas. Se enreda en los detalles y pierde la capacidad de ver el bosque por los árboles, duda y se toma su tiempo, acumula recursos excesivos, en lugar de actuar y utilizar lo que ya tiene.\n\nAl mismo tiempo, el desequilibrio del dos puede manifestarse como dureza emocional, falta de respuesta, intolerancia, falta de disposición para colaborar, renuencia a considerar las oportunidades que realmente existen.\n\nUtiliza el tacto y la diplomacia. Sé menos emocional. Defiende tu forma de resolver problemas, y\nno retrocedas por sentir resistencia. No te rindas, tienes el talento de encontrar\nsoluciones que satisfacen a todos.\n\nTienes una inclinación hacia los compromisos. Sé más optimista y entusiasta. No exageres\nla magnitud de las dificultades. Eres demasiado sensible, trabaja en alcanzar un equilibrio interno.\nLa estabilidad y la armonía te ayudarán a resolver cualquier problema. Eres capaz de convertirte en un pacificador."
+    },
+    {
+      "locale": "es",
+      "number": 3,
+      "description": "La persona es demasiado dispersa, gasta inútilmente una gran cantidad de tiempo, dinero y otros recursos. Habla en exceso sobre sus planes y, como resultado, nunca se pone a realizarlos. En lugar de hacer algo real, construye planes grandiosos, genera conceptos e ideas, aunque interesantes, pero que permanecen sin utilizar. Tiene dificultades para aceptar la crítica y las limitaciones.\n\nPor otro lado, la misma persona puede, de vez en cuando, parecer que renuncia a su lado creativo, caer en el pesimismo, dedicarse a actividades rutinarias, cerrarse, resignarse ante los fracasos. Puede serle difícil relajarse, permitirse descansar y disfrutar de la vida.\n\nDesarrolla más optimismo y ligereza en la resolución de problemas. Intenta trabajar junto a otros\nen la búsqueda de una solución que satisfaga a todos. Utiliza tu indudable encanto en situaciones difíciles.\n\nFrente a las pruebas, puedes ser extremadamente emocional. Intenta controlar esta característica,\necesitas cierto grado de objetividad. Puedes involucrarte tanto en la búsqueda de una solución que no te des cuenta\nde la existencia de una salida que satisfaga a todas las partes interesadas."
+    },
+    {
+      "locale": "es",
+      "number": 4,
+      "description": "La persona aplica a todo lo que sucede a su alrededor un número limitado de rígidos patrones y rechaza o ignora todo lo que no se ajusta a ellos. Es demasiado seria, orientada exclusivamente hacia el resultado práctico, y exige una total conformidad con las normas existentes. Cualquier manifestación de creatividad o diversión la considera una inaceptable desorganización.\n\nLa misma persona, al exigir mucho de los demás, puede evitar esfuerzos significativos, haciéndose concesiones a sí misma. Cansada de luchar contra los obstáculos, puede comenzar a buscar soluciones fáciles y atajos, sin embargo, de estos intentos rara vez surge algo bueno.\n\nTrate de ver la perspectiva y desarrolle una actitud más tranquila en situaciones emocionalmente intensas. Controle su ira. Su fuerza radica en la disciplina. Intente ver lo esencial y busque compromisos. Su sentido de justicia debe elevarse a otro nivel, donde se exprese a través de la indulgencia, la compasión y una profunda comprensión. La manifestación práctica de estos ideales puede ser el deseo de mentalmente ponerse en el lugar de la persona con la que está en conflicto. No conoce todos los aspectos de los problemas que enfrenta."
+    },
+    {
+      "locale": "es",
+      "number": 5,
+      "description": "La persona es inestable, inquieta e impaciente, cambia constantemente de actividades, intereses y apegos. Siempre le parece que lo mejor y más interesante está allá afuera, más allá del horizonte, y como resultado, nunca puede asentarse, estabilizarse. Intenta consumir tantos placeres mundanos como sea posible: comida, alcohol, sexo, pero cuanto más recibe, más agudamente siente la insatisfacción.\n\nComo resultado de la saturación, tal persona puede un día rechazar oportunidades realmente interesantes y emocionantes, y en un intento de refrescar su sensación de realidad embotada, generalmente se vuelve excéntrica, caprichosa y excesivamente exigente. Comienza muchas cosas, pero casi de inmediato las abandona, ni siquiera logrando profundizar en ellas.\n\nEs mejor que se concentre en sus problemas, en lugar de huir de su solución. Puede evitar conflictos si siente que eso le causará dolor. No ceda a sus deseos de consumir comida, alcohol y medicamentos.\n\nPuede encontrar una solución realmente constructiva tan pronto como preste más atención al problema. Esta solución está dentro de su alcance."
+    },
+    {
+      "locale": "es",
+      "number": 6,
+      "description": "La persona tiende a cuidar de los demás, darles consejos, proteger, ayudar y no ve el límite donde su ayuda se vuelve una carga. Aspira a hacer del mundo un lugar hermoso, a cualquier costo. Por ejemplo, puede exigir que se tape la chimenea de una locomotora, ¡pues de ella sale un humo negro tan poco estético! Esta persona otorga demasiada importancia a los lazos emocionales familiares y cercanos: todo para los suyos, y los demás que se las arreglen.\n\nLa debilidad del seis puede manifestarse como la incapacidad de cumplir promesas, \"colgarse\" del cuello de otras personas: es decir, yo soy tan débil, ¡sálvenme! La persona confunde las relaciones laborales y emocionales: ha fallado en el trabajo, ¡pero somos tan buenos amigos!\n\nSu fuerza radica en comprender a las personas que están en conflicto y en entender las causas de ese conflicto. Puede depender demasiado de amigos y familiares en situaciones difíciles, en lugar de resolverlo por su cuenta. Es posible que busque refugio en los buenos sentimientos de personas no involucradas en el conflicto.\n\nLa responsabilidad es la piedra angular. En la resolución del problema, usted tiene un papel importante. Tómelo en cuenta."
+    },
+    {
+      "locale": "es",
+      "number": 7,
+      "description": "La persona se encierra, se oculta dentro de sí misma, empuja a los demás fuera de sus pensamientos y de su vida. Descompone todo en piezas, analiza, critica, busca pinchar en el lugar más doloroso. Con los impulsos del alma y otros fenómenos que no se pueden someter a un análisis lógico, se comporta con sarcasmo. Es desconfiada, suspicaz, ve solo el lado negativo de todo.\n\nLa debilidad del siete puede manifestarse como fatalismo, pesimismo infundado, falta de voluntad para profundizar en la esencia de las cosas, descontento crónico con todo lo que sucede a su alrededor. Esta persona necesita de los demás, pero principalmente solo para expresarles su descontento.\n\nTe escondes en un cierto paraíso interno salvador y esperas que allí estés a salvo.\nUsando la claridad de mente y las habilidades analíticas, puedes encontrar una manera precisa de resolver el problema.\n\nTe absorbe demasiado el aspecto emocional, nublando tu mente y no permitiéndote encontrar una respuesta clara. Necesitas\nluchar contigo mismo para abordar la resolución de problemas sin emociones. Deja de lado las emociones y encontrarás la respuesta."
+    },
+    {
+      "locale": "es",
+      "number": 8,
+      "description": "La persona busca dirigir, mandar, repartir tareas a todos, someter a todos a su voluntad, incluso en situaciones donde es perfectamente posible dejar que los eventos sigan su curso. Esto es especialmente indeseable cuando la persona no comprende bien la esencia de lo que está sucediendo y su intervención voluntariosa solo complica la situación. Así suele suceder cuando se trata de problemas emocionales, amorosos, familiares.\n\nEl ocho débil tiende a manipular a los que le rodean. Esta persona incita a los demás a hacer por él incluso aquello que él mismo podría manejar sin dificultad. Como resultado, puede atraer a su vida a una personalidad autoritaria que \"lo retorcerá como a un caracol\".\n\nUsa racionalmente tu considerable energía. Prefieres manipular el poder que simplemente entrar en conflicto con las personas. Utilízala con responsabilidad por el resultado. Eres muy ingenioso\ny puedes convertirte en líder prácticamente en cualquier situación.\n\nIntenta afirmar tu opinión en el colectivo, pero ten en cuenta las necesidades e ideas de los demás en la resolución\nde problemas de mayor envergadura. Aprende a usar el poder en nombre del bien común."
+    },
+    {
+      "locale": "es",
+      "number": 9,
+      "description": "La persona \"salta fuera de sí misma\" para hacer felices a los que le rodean, pero dado que pertenece a la categoría de soñadores sin fundamento, el resultado de sus esfuerzos no suele ser muy significativo. Posee un considerable potencial creativo, sin embargo, lo dispersa en demasiadas actividades, y como resultado, solo queda una apariencia de actividad. Es demasiado emocional, hasta el punto de perder la capacidad de actuar de manera lógica y efectiva.\n\nLa misma persona puede volverse periódicamente fría y distante, alegando que busca mantener la objetividad. Se ofende con el mundo entero porque las personas no se apresuran a recompensarlo por todas sus bondades.\n\nPodrás encontrar soluciones teniendo en cuenta las necesidades de los demás. Tienes la capacidad de entender a\ndiferentes personas y posees una visión amplia. A menudo te vuelves distante, recordando a una \"torre de marfil\", en la que te has encerrado, siendo aristócrata por naturaleza. Encontrarás soluciones al bajar\nde los cielos a la tierra. Solo dando, encontrarás."
+    },
+    {
+      "locale": "es",
+      "number": 11,
+      "description": "En principio, se interpreta de la misma manera que el número de equilibrio 2, pero el nivel de energía aquí es más alto, dominarla es más difícil, y una persona tiene más probabilidades de, bajo la influencia del estrés, saltar de un extremo a otro. Además, sus acciones pueden provocar un considerable eco social.\n\nnúmero de equilibrio 2:\n\nEn situaciones de estrés, la persona se vuelve arrogante, altanera, inflexible, puede rechazar la ayuda de los demás, incluso cuando claramente la necesita. Es irritable, impulsivo, inventa sus propias teorías y trata de seguirlas.\n\nPor otro lado, la misma persona puede parecer a veces débil, incapaz de tomar una decisión decisiva, pospone una y otra vez un paso importante, transfiere la iniciativa a otra persona.\n\nExpresa tu fuerza, intenta compartir más tus problemas con familiares y amigos, de lo contrario, puedes\nvolverte solitario. Esto puede llevar a la aislamiento. Es mejor escuchar los consejos de quienes te rodean, lo que te dará\nmás oportunidades y nueva información, sobre la cual desarrollarás tu enfoque para\nresolver el problema. Tu arma es la fuerza, la inventiva y el coraje, con ello ganarás la guerra."
+    },
+    {
+      "locale": "es",
+      "number": 22,
+      "description": "Se interpreta de manera similar al número de equilibrio 4, sin embargo, las acciones de la persona provocan una reacción significativa en los demás. A quien lleva este nombre le caracteriza una tensión nerviosa elevada, por lo que le resulta más difícil alcanzar el equilibrio. Pero si lo logra, será capaz de grandes logros.\n\nnúmero de equilibrio 4:\n\nLa persona aplica a todo lo que sucede a su alrededor un número limitado de rígidos patrones y rechaza o ignora todo lo que no encaja en ellos. Es demasiado seria, orientada exclusivamente a resultados prácticos, exige el cumplimiento total de las normas existentes. Cualquier manifestación de creatividad o diversión la considera una inaceptable desorganización.\n\nLa misma persona, al exigir mucho de los demás, puede evitar esfuerzos significativos, hacerse concesiones. Cansada de luchar contra obstáculos, puede comenzar a buscar soluciones fáciles y atajos, sin embargo, de estos intentos rara vez surge algo bueno.\n\nIntenta ver la perspectiva y desarrolla una actitud más tranquila en situaciones emocionalmente tensas. Controla tu ira. Tu fuerza es la disciplina. Intenta ver lo principal y busca compromisos. Tu sentido de justicia debe elevarse a otro nivel, donde se exprese a través de la indulgencia, la compasión y una profunda comprensión. La encarnación práctica de estos ideales puede ser el deseo de mentalmente estar en el lugar de la persona con la que estás en conflicto. No conoces todos los lados de los problemas que enfrentas."
+    },
+    {
+      "locale": "es",
+      "number": 33,
+      "description": "Se manifiesta como el número de equilibrio 6. En casos bastante raros, cuando la fuerza de este número maestro se revela, especialmente si la persona realmente alcanza el equilibrio, sus ideas tendrán un impacto muy significativo en las personas, y tal vez en la humanidad en su conjunto.\n\nnúmero de equilibrio 6:\n\nLa persona tiende a cuidar de los demás, darles consejos, proteger, ayudar y no ve el límite donde su ayuda se vuelve una carga. Busca hacer el mundo hermoso, a cualquier costo. Por ejemplo, puede exigir que se tape la chimenea de una locomotora, ¡pues de ella sale un humo negro tan poco estético! Esta persona otorga demasiada importancia a los lazos emocionales familiares y cercanos: todo para los suyos, y los demás que se arreglen.\n\nLa debilidad del seis puede manifestarse como incapacidad para mantener promesas, \"colgarse\" del cuello de los demás: como si dijera, soy tan débil, ¡sálvame! La persona confunde las relaciones laborales y emocionales: ha fallado en el trabajo, pero ¡somos tan buenos amigos!\n\nTu fuerza radica en comprender a las personas en conflicto y en entender las causas de este\nconflicto. Puedes depender demasiado de amigos y familiares en situaciones difíciles, en lugar de\nresolverlo por ti mismo. Es posible que busques refugio en los buenos sentimientos de las personas que no\nestán involucradas en el conflicto.\n\nLa responsabilidad es la piedra angular. En la resolución del problema, tienes un papel importante. Tómalo en conciencia."
+    }
+  ],
+  "translated": true
+}

@@ -1,0 +1,353 @@
+{
+  "table": "psychomatrix_lines",
+  "source_locale": "en",
+  "target_locale": "es",
+  "source_language": "English",
+  "target_language": "Spanish",
+  "key_columns": [
+    "category",
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "es",
+      "category": "purpose",
+      "number": 0,
+      "description": "Esta persona no establece metas ni objetivos para sí misma, esperando una oportunidad afortunada o confiando en otras personas en la vida. Se puede cambiar fácilmente la opinión de tal persona y obligarla a abandonar sus planes."
+    },
+    {
+      "locale": "es",
+      "category": "family",
+      "number": 0,
+      "description": "Esta persona no es un hombre de familia. Esto significa que su familia no es una prioridad en la vida en absoluto. Tales personas, por regla general, no tienen prisa por formar una familia, ya que están más interesadas en el trabajo, la carrera, la vida social, etc."
+    },
+    {
+      "locale": "es",
+      "category": "stability",
+      "number": 0,
+      "description": "Esta persona es revolucionaria de espíritu. Busca cambiar todo a su alrededor: cambia su entorno, su lugar de trabajo. Cuestiona prácticamente todo, tratando de cambiar a todos y a todo."
+    },
+    {
+      "locale": "es",
+      "category": "esteem",
+      "number": 0,
+      "description": "Podemos decir que esta persona tiene baja autoestima y subestima sus capacidades. Con tres dígitos, a veces puede tener “momentos de claridad”, pero sigue siendo muy inseguro de sí mismo."
+    },
+    {
+      "locale": "es",
+      "category": "finance",
+      "number": 0,
+      "description": "Esta persona no quiere mantenerse financieramente, y puede fácilmente depender de sus padres, esposa o esposo. Esta línea no presenta ningún peligro especial para las mujeres, porque es común cuando un esposo se convierte en el principal sostén de la familia."
+    },
+    {
+      "locale": "es",
+      "category": "talents",
+      "number": 0,
+      "description": "Cuantos más dígitos, más fuerte es el talento. Esto no significa que si esta línea es muy fuerte (no más de 5 dígitos para evitar sobrecarga), entonces una persona será necesariamente muy talentosa. Recuerda, muchas otras líneas de dígitos de la psicomatriz afectan el desarrollo potencial de los talentos de una persona: carácter, autoestima, sentido de propósito, nivel de energía, salud, suerte, entre otros. Es la combinación de muchas características diferentes y la fuerza de voluntad de una persona lo que le permite alcanzar sus metas.\n\nEs muy importante identificar la mejor área de aplicación para la energía y los recursos de una persona. Nunca busques moverte con la corriente de la vida. Hay toda una lista de profesiones “calientes”: abogado, banquero, alto directivo, economista, etc. Todas ellas no están determinadas por el talento de las personas, sino por la capacidad de proveer financieramente para sí mismos y sus seres queridos. Antes de aconsejar a tu hijo que elija la profesión \"que genera dinero\", piensa en su futuro.\n\nHay tantas personas en este mundo que nunca han desarrollado sus talentos. Probablemente no estaremos equivocados si decimos que esto es cierto para alrededor del 90-95% de la población mundial. Antes de obstaculizar el desarrollo de los intereses de tu hijo, mira tus dígitos y pregúntate: ¿pudiste descubrir y desarrollar tu potencial y talentos? Si no, entonces ten compasión por ti mismo y por tu hijo, y dale la oportunidad de convertirse en parte de la Historia de la Tierra, y a ti mismo – la oportunidad de ayudarlo a hacerlo.\n\nSolo piensa en por qué aún elegimos para nuestros hijos mejores escuelas, jardines de infancia, médicos y maestros. El hecho es que cada vez más personas talentosas encuentran trabajos que pagan bien; al mismo tiempo, las personas que no invierten en sus trabajos, que no se comprometen – no reciben buenos salarios. Así que, debemos comenzar con el compromiso, y solo entonces obtendremos banqueros, gerentes e instituciones estatales fuertes: muchos trabajos serán ocupados por personas comprometidas, responsables y que saben lo que hacen. Entonces ya no tendremos el problema de qué escuelas elegir para nuestros hijos.\n\nLo principal es entender que cada persona es única y responde a la madre Naturaleza misma (ya lo hemos afirmado repetidamente, pero queremos que este simple pensamiento se recuerde firmemente). Todos somos responsables de nosotros mismos y de nuestros hijos ante las futuras generaciones. Cada talento no descubierto creará toda una cadena de personas con potencial no realizado – esto, a su vez, llevará a las personas de vuelta al barbarismo, guerras, terror, odio hacia los demás y deseo de darlo todo vuelta. ¡Aprende a responder por ti mismo!"
+    },
+    {
+      "locale": "es",
+      "category": "temperament",
+      "number": 0,
+      "description": "Esto habla de una indiferencia. Muy a menudo, estas personas son sorprendidas engañando porque no les importa “con quién y cómo”, y su deseo de demostrar su valía a través de contactos íntimos los empuja a una búsqueda continua del compañero ideal, especialmente hombres que buscan a la misma mujer “fría” que estará completamente satisfecha con él, y viceversa."
+    },
+    {
+      "locale": "es",
+      "category": "spirituality",
+      "number": 0,
+      "description": "El número de dígitos en esta línea puede ser un indicador de la espiritualidad de una persona. Podemos decir que al tener hasta cinco dígitos, la espiritualidad de una persona aumenta gradualmente desde la falta de espiritualidad (sin dígitos) hasta un nivel máximo de espiritualidad (cinco dígitos). Si esta línea contiene más de cinco dígitos (6 o más), entonces podemos hablar de una sobrecarga de la calidad, que a menudo conduce al fanatismo y la idolatría, cuando todas las normas humanas se distorsionan más allá del reconocimiento, yendo al extremo. Esto se asemeja más a la completa falta de espiritualidad que al principio divino (luchando contra brujas y herejes con espadas y fuego, matando a los \"infieles\", exterminando disidentes). El fanatismo en su forma extrema es siempre ateo porque no permite otros puntos de vista.\n\nAl analizar la psicomatriz, es necesario prestar atención a la relación entre las dos diagonales (carnal y espiritual). Es su relación la que jugará un papel clave en la fuerza de cada una de las líneas.\n\nEvaluando la fuerza de cada línea, podemos decir QUÉ es importante para la persona en su futura unión marital: su interés en los principios espirituales de la pareja o el lado material (aspectos carnales que incluyen relaciones sexuales).\n\nEs mejor cuando ambas líneas están presentadas igualmente fuertes. Idealmente, la relación de las características cuantitativas de un compañero debería corresponder a la característica cuantitativa del otro. Por ejemplo, si una esposa tiene una diagonal carnal de 5 dígitos y una espiritual de 4 dígitos, entonces su relación puede escribirse como 5/4. Supongamos que su esposo tiene la siguiente relación de diagonales: carnal – 5 dígitos y espiritual – 2 dígitos, con la relación de diagonales de 5/2. La comparación muestra que para el esposo su esposa como mujer representa un mayor interés que su esposa como personalidad. Así que, probablemente, no prestará suficiente atención a preparar a su esposa para la intimidad, porque está más interesado en el cuerpo que en el alma. En esta situación, es posible que la esposa a menudo se sienta molesta porque su esposo no presta suficiente atención a sus necesidades.\n\nAl analizar una psicomatriz, es importante tener en cuenta que idealmente las relaciones de las diagonales deberían coincidir, o su diferencia debería ser mínima y del mismo signo: si el esposo tiene una diagonal carnal más fuerte, entonces la esposa debería tener su diagonal carnal más fuerte que la espiritual. No intentes experimentar creando uniones maritales donde el interés carnal excesivo de un compañero sea contenido por la fuerte espiritualidad del otro; este es un fuerte indicador de que las dos personas son incompatibles como cónyuges. Uno necesita hablar las cosas, mientras que el otro necesita sentirlas. En tal escenario, ambas personas sufrirán. Es mejor elegir un compañero con un temperamento similar. Entonces será mucho más fácil tener entendimiento mutuo."
+    },
+    {
+      "locale": "es",
+      "category": "purpose",
+      "number": 1,
+      "description": "Esto significa un débil sentido de propósito. Esta persona puede involucrarse en una discusión, pero no significa que quiera lograr un resultado específico. Típicamente, esto es solo un deseo de vencer a otra persona en una discusión. Esta persona confía en la suerte y en los amigos."
+    },
+    {
+      "locale": "es",
+      "category": "family",
+      "number": 1,
+      "description": "Esta persona se da cuenta de que necesita comenzar una familia, pero no muestra ningún esfuerzo especial en esta dirección. Está esperando que alguien más tome la iniciativa al respecto y haga el trabajo por él."
+    },
+    {
+      "locale": "es",
+      "category": "stability",
+      "number": 1,
+      "description": "Esta persona es revolucionaria de espíritu. Busca cambiar todo a su alrededor: cambia su entorno, su lugar de trabajo. Cuestiona prácticamente todo, tratando de cambiar a todos y a todo."
+    },
+    {
+      "locale": "es",
+      "category": "esteem",
+      "number": 1,
+      "description": "Podemos decir que esta persona tiene baja autoestima y subestima sus capacidades. Con tres dígitos, a veces puede tener “momentos de claridad”, pero aún se siente muy inseguro de sí mismo."
+    },
+    {
+      "locale": "es",
+      "category": "finance",
+      "number": 1,
+      "description": "Esta persona no quiere apoyarse financieramente, y puede fácilmente depender de sus padres, esposa o esposo. Esta línea no presenta ningún peligro especial para las mujeres, porque es común cuando un esposo se convierte en el principal sostén de la familia."
+    },
+    {
+      "locale": "es",
+      "category": "talents",
+      "number": 1,
+      "description": "Cuantos más dígitos, más fuerte es el talento. Esto no significa que si esta línea es muy fuerte (no más de 5 dígitos para evitar sobrecarga), entonces una persona será necesariamente muy talentosa. Recuerda, muchas otras líneas de dígitos de la psicomatriz afectan el desarrollo potencial de los talentos de uno: carácter, autoestima, sentido de propósito, nivel de energía, salud, suerte, y otros. Es la combinación de muchas características diferentes y la fuerza de voluntad de una persona lo que le permite alcanzar sus metas.\n\nEs muy importante identificar la mejor área de aplicación para la energía y los recursos de una persona. Nunca busques moverte con la corriente de la vida. Hay toda una lista de profesiones \"calientes\": abogado, banquero, alto directivo, economista, etc. Todas ellas están determinadas no por el talento de las personas, sino por la capacidad de proveer financieramente para sí mismos y sus seres queridos. Antes de aconsejar a tu hijo que elija una profesión \"que genere dinero\", piensa en su futuro.\n\nHay tantas personas en este mundo que nunca han desarrollado sus talentos. Probablemente no nos equivocaremos si decimos que esto es cierto para aproximadamente el 90-95% de la población mundial. Antes de obstaculizar el desarrollo de los intereses de tu hijo, mira tus propios dígitos y pregúntate: ¿pudiste descubrir y desarrollar tu potencial y talentos? Si no, entonces ten compasión de ti mismo y de tu hijo, y dale la oportunidad de convertirse en parte de la Historia de la Tierra, y a ti mismo – la oportunidad de ayudarle a hacerlo.\n\nSolo piensa en por qué todavía elegimos para nuestros hijos mejores escuelas, jardines de infancia, médicos y maestros. El hecho es que cada vez más personas talentosas encuentran trabajos bien remunerados; al mismo tiempo, las personas que no invierten en sus trabajos, que no se comprometen – no son bien pagadas. Así que, debemos comenzar con el compromiso, y solo entonces obtendremos banqueros, gerentes e instituciones estatales fuertes: muchos trabajos serán ocupados por personas que están comprometidas, son responsables y saben lo que hacen. Entonces ya no tendremos el problema de qué escuelas elegir para nuestros hijos.\n\nLo principal es entender que cada persona es única y responde a la madre Naturaleza misma (ya lo hemos afirmado repetidamente, pero queremos que este pensamiento simple se recuerde firmemente). Todos somos responsables de nosotros mismos y de nuestros hijos ante las generaciones futuras. Cada talento no descubierto creará toda una cadena de personas con potencial no realizado – esto, a su vez, llevará a las personas de regreso a la barbarie, guerras, terror, odio entre sí y deseo de darlo todo vuelta. ¡Aprende a responder por ti mismo!"
+    },
+    {
+      "locale": "es",
+      "category": "temperament",
+      "number": 1,
+      "description": "Esto habla de una indiferencia. Muy a menudo, estas personas son atrapadas engañando porque no les importa \"con quién y cómo\", y su deseo de probar su valía a través de contactos íntimos les empuja a una búsqueda continua del compañero ideal – especialmente hombres que buscan a la misma mujer \"fría\" que estará completamente satisfecha con él, y viceversa."
+    },
+    {
+      "locale": "es",
+      "category": "spirituality",
+      "number": 1,
+      "description": "El número de dígitos en esta línea puede ser un indicador de la espiritualidad de una persona. Podemos decir que al tener hasta cinco dígitos, la espiritualidad de una persona aumenta gradualmente desde la falta de espiritualidad (sin dígitos) hasta un nivel máximo de espiritualidad (cinco dígitos). Si esta línea contiene más de cinco dígitos (6 o más), entonces podemos hablar de una sobrecarga de la calidad, que a menudo conduce al fanatismo y la idolatría, cuando todas las normas humanas se distorsionan más allá del reconocimiento, yendo al extremo. Esto se asemeja más a la completa falta de espiritualidad que al principio divino (luchando contra brujas y herejes con espadas y fuego, matando a los \"infieles\", exterminando disidentes). El fanatismo en su forma extrema siempre es ateo porque no permite otros puntos de vista.\n\nAl analizar la psicomatriz, es necesario prestar atención a la relación entre las dos diagonales (carnal y espiritual). Es su relación la que jugará un papel clave en la fuerza de cada una de las líneas.\n\nAl evaluar la fuerza de cada línea, podemos decir QUÉ es importante para la persona en su futura unión marital: su interés por los principios espirituales de la pareja o el aspecto material (aspectos carnales que incluyen relaciones sexuales).\n\nEs mejor cuando ambas líneas están presentadas igualmente fuertes. Idealmente, la proporción de las características cuantitativas de un socio debería corresponder a la característica cuantitativa del otro. Por ejemplo, si una esposa tiene una diagonal carnal de 5 dígitos y una espiritual de 4 dígitos, entonces su proporción puede escribirse como 5/4. Supongamos que su esposo tiene la siguiente proporción de diagonales: carnal – 5 dígitos y espiritual – 2 dígitos, con la proporción de diagonales de 5/2. La comparación muestra que para el esposo su esposa como mujer representa un mayor interés que su esposa como personalidad. Así que, probablemente, no prestará suficiente atención a preparar a su esposa para la intimidad, porque está más interesado en el cuerpo que en el alma. En esta situación, es posible que la esposa se sienta a menudo molesta porque su esposo no presta suficiente atención a sus necesidades.\n\nAl analizar una psicomatriz, es importante tener en cuenta que idealmente las proporciones de las diagonales deberían coincidir, o su diferencia debería ser mínima y del mismo signo: si el esposo tiene una diagonal carnal más fuerte, entonces la esposa debería tener su diagonal carnal más fuerte que la espiritual. No intentes experimentar creando uniones matrimoniales donde el interés carnal excesivo de un socio sea contenido por la fuerte espiritualidad del otro; este es un fuerte indicador de que las dos personas son incompatibles como cónyuges. Uno necesita hablar las cosas, mientras que el otro necesita sentirlas. En tal escenario, ambas personas sufrirán. Es mejor elegir un socio con un temperamento similar. Entonces será mucho más fácil tener un entendimiento mutuo."
+    },
+    {
+      "locale": "es",
+      "category": "purpose",
+      "number": 2,
+      "description": "Esta persona tiene un sentido de propósito normal. Podemos decir que esta persona necesita tiempo para adaptarse en la vida. Primero necesita descubrir sus capacidades, y solo entonces establecerá metas dignas para sí mismo."
+    },
+    {
+      "locale": "es",
+      "category": "family",
+      "number": 2,
+      "description": "Esta persona se da cuenta de que necesita formar una familia, pero no muestra ningún esfuerzo especial en esta dirección. Está esperando que alguien más tome la iniciativa al respecto y haga el trabajo por él."
+    },
+    {
+      "locale": "es",
+      "category": "stability",
+      "number": 2,
+      "description": "Esta persona es muy entusiasta y rápida en sus reacciones, pero ya puede controlar sus impulsos revolucionarios (si así lo desea)."
+    },
+    {
+      "locale": "es",
+      "category": "esteem",
+      "number": 2,
+      "description": "Podemos decir que esta persona tiene baja autoestima y subestima sus capacidades. Con tres dígitos, a veces puede tener “momentos de claridad”, pero aún se siente muy inseguro de sí mismo."
+    },
+    {
+      "locale": "es",
+      "category": "finance",
+      "number": 2,
+      "description": "Esta persona se da cuenta de que necesita apoyar a su familia, por lo que, en aras de la estabilidad financiera, comienza a buscar un trabajo que ofrezca un salario realista o promedio. Como resultado, una persona puede renunciar a su sueño solo por el bien de unos ingresos estables. Al mismo tiempo, si tiene dificultades para encontrar un trabajo, esta persona no se decepcionará demasiado porque no tiene muchas ganas de ser el principal sostén de la familia en primer lugar."
+    },
+    {
+      "locale": "es",
+      "category": "talents",
+      "number": 2,
+      "description": "Cuantos más dígitos, más fuerte es el talento. Esto no significa que si esta línea es muy fuerte (no más de 5 dígitos para evitar la sobrecarga), entonces una persona será ciertamente muy talentosa. Recuerda, muchas otras líneas de dígitos de la psicomatriz afectan el desarrollo potencial de los talentos de uno: carácter, autoestima, sentido de propósito, nivel de energía, salud, suerte y otros. Es la combinación de muchas características diferentes y la fuerza de voluntad de una persona lo que le permite alcanzar sus metas.\n\nEs muy importante identificar la mejor área de aplicación para la energía y los recursos de una persona. Nunca busques moverte con la corriente de la vida. Hay toda una lista de profesiones \"calientes\": abogado, banquero, alto directivo, economista, etc. Todas ellas no están determinadas por el talento de las personas, sino por la capacidad de proveer financieramente para sí mismos y sus seres queridos. Antes de aconsejar a tu hijo que elija la profesión \"que genera dinero\", piensa en su futuro.\n\nHay tantas personas en este mundo que nunca han desarrollado sus talentos. Probablemente no nos equivocaremos si decimos que esto es cierto para aproximadamente el 90-95% de la población mundial. Antes de obstaculizar el desarrollo de los intereses de tu hijo, mira tus dígitos y pregúntate: ¿pudiste descubrir y desarrollar tu potencial y talentos? Si no, entonces ten compasión por ti mismo y por tu hijo, y dale la oportunidad de convertirse en parte de la Historia de la Tierra, y a ti mismo – la oportunidad de ayudarle a hacerlo.\n\nSolo piensa en por qué aún elegimos para nuestros hijos mejores escuelas, jardines de infancia, médicos y maestros. El hecho es que cada vez más personas talentosas encuentran trabajos que pagan bien; al mismo tiempo, las personas que no invierten en sus trabajos, que no se comprometen – no son bien remuneradas. Así que, debemos comenzar con el compromiso, y solo entonces obtendremos banqueros, gerentes e instituciones estatales sólidos: muchos trabajos serán ocupados por personas que están comprometidas, son responsables y saben lo que hacen. Entonces ya no tendremos el problema de qué escuelas elegir para nuestros hijos.\n\nLo principal es entender que cada persona es única y responde a la madre Naturaleza misma (ya lo hemos afirmado repetidamente, pero queremos que este simple pensamiento se recuerde firmemente). Todos somos responsables de nosotros mismos y de nuestros hijos ante las generaciones futuras. Cada talento no descubierto creará una cadena entera de personas con potencial no realizado – esto, a su vez, llevará a las personas de vuelta a la barbarie, guerras, terror, odio entre sí y deseo de dar la vuelta a todo. ¡Aprende a responder por ti mismo!"
+    },
+    {
+      "locale": "es",
+      "category": "temperament",
+      "number": 2,
+      "description": "Este es un temperamento normal. Esta persona puede tener relaciones íntimas todos los días, pero si es imposible, puede esperar sin ningún malestar."
+    },
+    {
+      "locale": "es",
+      "category": "spirituality",
+      "number": 2,
+      "description": "El número de dígitos en esta línea puede ser un indicador de la espiritualidad de una persona. Podemos decir que al tener hasta cinco dígitos, la espiritualidad de una persona aumenta gradualmente desde la impiedad (sin dígitos) hasta un nivel máximo de espiritualidad (cinco dígitos). Si esta línea contiene más de cinco dígitos (6 o más), entonces podemos hablar de una sobrecarga de la calidad, que a menudo conduce al fanatismo y la idolatría, cuando todas las normas humanas se distorsionan más allá del reconocimiento, yendo al extremo. Esto se asemeja más a la completa falta de espiritualidad que al principio divino (luchando contra brujas y herejes con espadas y fuego, matando a los \"infieles\", exterminando disidentes). El fanatismo en su forma extrema es siempre impío porque no permite otros puntos de vista.\n\nAl analizar la psicomatriz, es necesario prestar atención a la relación entre las dos diagonales (carnal y espiritual). Es su relación la que jugará un papel clave en la fuerza de cada una de las líneas.\n\nEvaluando la fuerza de cada línea, podemos decir QUÉ es importante para la persona en su futura unión marital: su interés en los principios espirituales de la pareja o el lado material (aspectos carnales, incluidas las relaciones sexuales).\n\nEs mejor cuando ambas líneas están presentadas igualmente fuertes. Idealmente, la proporción de las características cuantitativas de un socio debe corresponder a la característica cuantitativa del otro. Por ejemplo, si una esposa tiene una diagonal carnal de 5 dígitos y una espiritual de 4 dígitos, entonces su proporción puede escribirse como 5/4. Supongamos que su esposo tiene la siguiente proporción de diagonales: carnal – 5 dígitos y espiritual – 2 dígitos, con la proporción de diagonales de 5/2. La comparación muestra que para el esposo su esposa como mujer representa un mayor interés que su esposa como personalidad. Así que, probablemente no prestará suficiente atención a preparar a su esposa para la intimidad, porque está más interesado en el cuerpo que en el alma. En esta situación, es posible que la esposa a menudo se sienta molesta porque su esposo no presta suficiente atención a sus necesidades.\n\nAl analizar una psicomatriz, es importante tener en cuenta que idealmente las proporciones de las diagonales deben coincidir, o su diferencia debe ser mínima y del mismo signo: si el esposo tiene una diagonal carnal más fuerte, entonces la esposa debe tener su diagonal carnal más fuerte que la espiritual. No intentes experimentar creando uniones maritales donde el interés carnal excesivo de un socio sea reprimido por la fuerte espiritualidad del otro – este es un fuerte indicador de que las dos personas son incompatibles como cónyuges. Uno necesita hablar las cosas, mientras que el otro necesita sentirlas. En tal escenario, ambas personas sufrirán. Es mejor elegir un compañero con un temperamento similar. Entonces será mucho más fácil tener entendimiento mutuo."
+    },
+    {
+      "locale": "es",
+      "category": "purpose",
+      "number": 3,
+      "description": "Esta persona puede cambiar sus metas completamente de la nada (de manera impredecible, repentina e inesperada). Muy a menudo, su elección es injustificada e inexplicable. Recomendamos definir tus metas basadas en los números fuertes de tu psicomatriz."
+    },
+    {
+      "locale": "es",
+      "category": "family",
+      "number": 3,
+      "description": "Esta persona está dividida entre un fuerte deseo de formar una familia a cualquier costo y una completa falta de voluntad para hacerlo en absoluto. Si tal persona alguna vez decide casarse, su pareja debería actuar de inmediato, o todo se pospondrá por un largo tiempo."
+    },
+    {
+      "locale": "es",
+      "category": "stability",
+      "number": 3,
+      "description": "Esta persona es inestable en sus hábitos. Puede comenzar muchos hábitos y apegos diferentes, creando estabilidad, pero también puede renunciar a ellos con la misma facilidad sin razón aparente. Después de un tiempo, puede intentar reanimar viejas conexiones. Todo esto siempre sucede de manera inesperada."
+    },
+    {
+      "locale": "es",
+      "category": "esteem",
+      "number": 3,
+      "description": "Podemos decir que esta persona tiene baja autoestima y subestima sus capacidades. Con tres dígitos, a veces puede tener \"momentos de claridad\", pero sigue siendo muy inseguro de sí mismo."
+    },
+    {
+      "locale": "es",
+      "category": "finance",
+      "number": 3,
+      "description": "Estas personas pueden trabajar de manera impulsiva. Su principio rector es completar su trabajo rápidamente para que el dinero dure un tiempo, y luego volver a trabajar cuando sea necesario."
+    },
+    {
+      "locale": "es",
+      "category": "talents",
+      "number": 3,
+      "description": "Cuantos más dígitos, más fuerte es el talento. Esto no significa que si esta línea es muy fuerte (no más de 5 dígitos para evitar sobrecarga), entonces una persona será necesariamente muy talentosa. Recuerda, muchas otras líneas de dígitos de la psicomatriz afectan el desarrollo potencial de los talentos de uno: carácter, autoestima, sentido de propósito, nivel de energía, salud, suerte, y otros. Es la combinación de muchas características diferentes y la fuerza de voluntad de una persona lo que le permite alcanzar sus metas.\n\nEs muy importante identificar la mejor área de aplicación para la energía y los recursos de una persona. Nunca busques moverte con la corriente de la vida. Hay toda una lista de profesiones \"calientes\": abogado, banquero, alto directivo, economista, etc. Todas ellas están determinadas no por el talento de las personas, sino por la capacidad de proveer financieramente para sí mismos y sus seres queridos. Antes de aconsejar a tu hijo que elija la profesión \"que genera dinero\", piensa en su futuro.\n\nHay tantas personas en este mundo que nunca han desarrollado sus talentos. Probablemente no nos equivoquemos si decimos que esto es cierto para aproximadamente el 90-95% de la población mundial. Antes de obstaculizar el desarrollo de los intereses de tu hijo, mira tus dígitos y pregúntate: ¿pudiste descubrir y desarrollar tu potencial y talentos? Si no, entonces ten compasión por ti mismo y por tu hijo, y dale la oportunidad de convertirse en parte de la Historia de la Tierra, y a ti mismo – la oportunidad de ayudarlo a hacerlo.\n\nSolo piensa en por qué todavía elegimos para nuestros hijos mejores escuelas, jardines de infancia, médicos y maestros. El hecho es que cada vez más personas talentosas encuentran trabajos que pagan bien; al mismo tiempo, las personas que no invierten en sus trabajos, que no se comprometen – no son bien remuneradas. Así que, debemos comenzar con el compromiso, y solo entonces obtendremos banqueros, gerentes e instituciones estatales fuertes: muchos trabajos serán ocupados por personas que están comprometidas, son responsables y saben lo que están haciendo. Entonces ya no tendremos el problema de qué escuelas elegir para nuestros hijos.\n\nLo principal es entender que cada persona es única y responde a la madre Naturaleza misma (ya lo hemos afirmado repetidamente, pero queremos que este pensamiento simple se recuerde firmemente). Todos somos responsables de nosotros mismos y de nuestros hijos ante las generaciones futuras. Cada talento no descubierto creará toda una cadena de personas con potencial no realizado – esto, a su vez, llevará a las personas de vuelta al barbarismo, guerras, terror, odio entre sí y deseo de dar vuelta todo. ¡Aprende a responder por ti mismo!"
+    },
+    {
+      "locale": "es",
+      "category": "temperament",
+      "number": 3,
+      "description": "Este es un temperamento normal. Esta persona puede tener relaciones íntimas todos los días, pero si es imposible, puede esperar sin ningún malestar."
+    },
+    {
+      "locale": "es",
+      "category": "spirituality",
+      "number": 3,
+      "description": "El número de dígitos en esta línea puede ser un indicador de la espiritualidad de una persona. Podemos decir que al tener hasta cinco dígitos, la espiritualidad de una persona aumenta gradualmente desde la falta de espiritualidad (sin dígitos) hasta un nivel máximo de espiritualidad (cinco dígitos). Si esta línea contiene más de cinco dígitos (6 o más), entonces podemos hablar de una sobrecarga de la calidad, que a menudo conduce al fanatismo y la idolatría, cuando todas las normas humanas se distorsionan más allá del reconocimiento, y se van al extremo. Esto se asemeja más a la completa falta de espiritualidad que al principio divino (luchando contra brujas y herejes con espadas y fuego, matando a los \"infieles\", exterminando disidentes). El fanatismo en su forma extrema siempre es ateo porque no permite otros puntos de vista.\n\nAl analizar la psicomatriz, es necesario prestar atención a la relación entre las dos diagonales (carnal y espiritual). Es su relación la que jugará un papel clave en la fuerza de cada una de las líneas.\n\nAl evaluar la fuerza de cada línea, podemos decir QUÉ es importante para la persona en su futura unión marital: su interés en los principios espirituales de la pareja o el lado material (aspectos carnales, incluidas las relaciones sexuales).\n\nEs mejor cuando ambas líneas están presentadas igualmente fuertes. Idealmente, la proporción de las características cuantitativas de un socio debería corresponder a la característica cuantitativa del otro. Por ejemplo, si una esposa tiene una diagonal carnal de 5 dígitos y una espiritual de 4 dígitos, entonces su proporción puede escribirse como 5/4. Supongamos que su esposo tiene la siguiente proporción de diagonales: carnal – 5 dígitos y espiritual – 2 dígitos, con la proporción de diagonales de 5/2. La comparación muestra que para el esposo su esposa como mujer representa un mayor interés que su esposa como personalidad. Así que, probablemente, no prestará suficiente atención a preparar a su esposa para la intimidad, porque está más interesado en el cuerpo que en el alma. En esta situación, es posible que la esposa a menudo se sienta molesta porque su esposo no presta suficiente atención a sus necesidades.\n\nAl analizar una psicomatriz, es importante tener en cuenta que idealmente las proporciones de las diagonales deberían coincidir, o su diferencia debería ser mínima y del mismo signo: si el esposo tiene una diagonal carnal más fuerte, entonces la esposa debería tener su diagonal carnal más fuerte que la espiritual. No intentes experimentar creando uniones maritales donde el interés carnal excesivo de un socio sea contenido por la fuerte espiritualidad del otro: este es un fuerte indicador de que las dos personas son incompatibles como cónyuges. Uno necesita hablar las cosas, mientras que el otro necesita sentirlas. En tal escenario, ambas personas sufrirán. Es mejor elegir un socio con un temperamento similar. Entonces será mucho más fácil tener un entendimiento mutuo."
+    },
+    {
+      "locale": "es",
+      "category": "purpose",
+      "number": 4,
+      "description": "Esta persona tiene un fuerte sentido de propósito. Primero establece una meta para sí mismo, y solo entonces comienza a medir sus capacidades y el nivel de interés en la meta misma. Muy a menudo, esta persona alcanza metas que no corresponden a sus intereses u oportunidades. Recomendamos estudiar detenidamente la psicomatriz. Habiendo elegido la dirección correcta, no te pongas el listón demasiado bajo."
+    },
+    {
+      "locale": "es",
+      "category": "family",
+      "number": 4,
+      "description": "Esta persona quiere formar una familia y actúa en consecuencia sin ninguna demora. Como regla general, esta persona rara vez se convierte en la culpable de una ruptura, porque siempre intenta arreglar la relación."
+    },
+    {
+      "locale": "es",
+      "category": "stability",
+      "number": 4,
+      "description": "Estas son personas muy estables. Se rodean de varios vínculos y hábitos, creando un entorno estable. Pueden ser un poco aburridos en sus vínculos. No les gusta el cambio."
+    },
+    {
+      "locale": "es",
+      "category": "esteem",
+      "number": 4,
+      "description": "Autoestima saludable. Esta persona quiere destacar entre la multitud y pone mucho esfuerzo en ello. La pregunta es si estos esfuerzos están justificados."
+    },
+    {
+      "locale": "es",
+      "category": "finance",
+      "number": 4,
+      "description": "Estas personas dedican mucho tiempo y esfuerzo para proveer a su familia. A menudo, este es su único objetivo en la vida."
+    },
+    {
+      "locale": "es",
+      "category": "talents",
+      "number": 4,
+      "description": "Cuantos más dígitos, más fuerte es el talento. Esto no significa que si esta línea es muy fuerte (no más de 5 dígitos para evitar sobrecarga), entonces una persona será necesariamente muy talentosa. Recuerda, muchas otras líneas de dígitos de la psicomatriz afectan el desarrollo potencial de los talentos de uno: carácter, autoestima, sentido de propósito, nivel de energía, salud, suerte y otros. Es la combinación de muchas características diferentes y la fuerza de voluntad de una persona lo que le permite alcanzar sus metas.\n\nEs muy importante identificar la mejor área de aplicación para la energía y los recursos de una persona. Nunca busques moverte con la corriente de la vida. Hay toda una lista de profesiones \"calientes\": abogado, banquero, alto directivo, economista, etc. Todas ellas están determinadas no por el talento de las personas, sino por la capacidad de proveer financieramente para sí mismos y sus seres queridos. Antes de aconsejar a tu hijo que elija la profesión \"que genera dinero\", piensa en su futuro.\n\nHay tantas personas en este mundo que nunca han desarrollado sus talentos. Probablemente no estaremos equivocados si decimos que esto es cierto para aproximadamente el 90-95% de la población mundial. Antes de obstaculizar el desarrollo de los intereses de tu hijo, mira tus dígitos y pregúntate: ¿pudiste descubrir y desarrollar tu potencial y talentos? Si no, entonces ten compasión por ti mismo y por tu hijo, y dale la oportunidad de convertirse en parte de la Historia de la Tierra, y a ti mismo – la oportunidad de ayudarlo a hacerlo.\n\nSolo piensa en por qué aún elegimos para nuestros hijos mejores escuelas, jardines de infancia, médicos y maestros. El hecho es que cada vez más a menudo las personas talentosas encuentran trabajos que pagan bien; al mismo tiempo, las personas que no invierten en sus trabajos, que no se comprometen, no reciben buenos pagos. Así que, debemos comenzar con el compromiso, y solo entonces obtendremos banqueros, gerentes e instituciones estatales fuertes: muchos trabajos serán ocupados por personas que están comprometidas, son responsables y saben lo que están haciendo. Entonces ya no tendremos el problema de qué escuelas elegir para nuestros hijos.\n\nLo principal es entender que cada persona es única y responde a la madre Naturaleza misma (ya lo hemos afirmado repetidamente, pero queremos que este pensamiento simple se recuerde firmemente). Todos somos responsables de nosotros mismos y de nuestros hijos ante las futuras generaciones. Cada talento no descubierto creará toda una cadena de personas con potencial no realizado; esto, a su vez, llevará a las personas de vuelta a la barbarie, guerras, terror, odio entre sí y deseo de dar la vuelta a todo. ¡Aprende a responder por ti mismo!"
+    },
+    {
+      "locale": "es",
+      "category": "temperament",
+      "number": 4,
+      "description": "Este es un temperamento fuerte, y esta persona necesita relaciones sexuales frecuentes."
+    },
+    {
+      "locale": "es",
+      "category": "spirituality",
+      "number": 4,
+      "description": "El número de dígitos en esta línea puede ser un indicador de la espiritualidad de una persona. Podemos decir que al tener hasta cinco dígitos, la espiritualidad de una persona aumenta gradualmente desde la falta de espiritualidad (sin dígitos) hasta un nivel máximo de espiritualidad (cinco dígitos). Si esta línea contiene más de cinco dígitos (6 o más), entonces podemos hablar de una sobrecarga de la calidad, que a menudo conduce al fanatismo y la idolatría, cuando todas las normas humanas se distorsionan más allá del reconocimiento, y se van al extremo. Esto se asemeja más a la completa falta de espiritualidad que al principio divino (luchando contra brujas y herejes con espadas y fuego, matando a los \"infieles\", exterminando disidentes). El fanatismo en su forma extrema es siempre ateo porque no permite otros puntos de vista.\n\nAl analizar la psicomatriz, es necesario prestar atención a la relación entre las dos diagonales (carnal y espiritual). Es su relación la que jugará un papel clave en la fuerza de cada una de las líneas.\n\nEvaluando la fuerza de cada línea, podemos decir QUÉ es importante para la persona en su futura unión marital: su interés por los principios espirituales de la pareja o el lado material (aspectos carnales incluyendo relaciones sexuales).\n\nEs mejor cuando ambas líneas están presentadas igualmente fuertes. Idealmente, la proporción de las características cuantitativas de un socio debería corresponder a la característica cuantitativa del otro. Por ejemplo, si una esposa tiene una diagonal carnal de 5 dígitos y una espiritual de 4 dígitos, entonces su proporción puede escribirse como 5/4. Supongamos que su esposo tiene la siguiente proporción de diagonales: carnal – 5 dígitos y espiritual – 2 dígitos, con la proporción de diagonales de 5/2. La comparación muestra que para el esposo su esposa como mujer representa un mayor interés que su esposa como personalidad. Así que, probablemente no prestará suficiente atención a preparar a su esposa para la intimidad, porque está más interesado en el cuerpo que en el alma. En esta situación, es posible que la esposa se sienta a menudo molesta porque su esposo no presta suficiente atención a sus necesidades.\n\nAl analizar una psicomatriz, es importante tener en cuenta que idealmente las proporciones de las diagonales deberían coincidir, o su diferencia debería ser mínima y del mismo signo: si el esposo tiene una diagonal carnal más fuerte, entonces la esposa debería tener su diagonal carnal más fuerte que la espiritual. No intentes experimentar creando uniones maritales donde el excesivo interés carnal de un socio sea contenido por la fuerte espiritualidad del otro – esto es un fuerte indicador de que las dos personas son incompatibles como cónyuges. Uno necesita hablar las cosas, mientras que el otro necesita sentirlas. En tal escenario,"
+    },
+    {
+      "locale": "es",
+      "category": "purpose",
+      "number": 5,
+      "description": "Esta persona tiene una tenacidad de propósito muy fuerte. Esto significa que al establecer un objetivo, esta persona puede olvidar a otras personas en su vida – familia, amigos, seres queridos. Está dispuesto a hacer grandes sacrificios para alcanzar sus metas a cualquier costo. Recomendamos tener sentido común al alcanzar tus objetivos."
+    },
+    {
+      "locale": "es",
+      "category": "family",
+      "number": 5,
+      "description": "Estas personas son muy buenos hombres de familia. Por otro lado, tienen una percepción idealista de la familia, lo que puede llevar en última instancia a tener expectativas extremadamente altas e irracionales hacia su familia. Lo único que puede servir como excusa es el hecho de que tienen expectativas igualmente altas para sí mismos. Estas personas simplemente no pueden existir sin una familia."
+    },
+    {
+      "locale": "es",
+      "category": "stability",
+      "number": 5,
+      "description": "Estas son personas muy estables. Se rodean de diversos apegos y hábitos, creando un entorno estable. Pueden ser un poco aburridos en sus apegos. No les gusta el cambio."
+    },
+    {
+      "locale": "es",
+      "category": "esteem",
+      "number": 5,
+      "description": "Esta persona tiene una autoestima muy alta, que a veces puede estar inflada si una persona no trabaja en su desarrollo personal, pero continúa valorándose solo por sus capacidades potenciales mientras las exagera.\n"
+    },
+    {
+      "locale": "es",
+      "category": "finance",
+      "number": 5,
+      "description": "Estas personas dedican mucho tiempo y esfuerzo para proveer a su familia. A menudo, es su único objetivo en la vida.\n"
+    },
+    {
+      "locale": "es",
+      "category": "talents",
+      "number": 5,
+      "description": "Cuantos más dígitos, más fuerte es el talento. Esto no significa que si esta línea es muy fuerte (no más de 5 dígitos para evitar la sobrecarga), entonces una persona será necesariamente muy talentosa. Recuerda, muchas otras líneas de dígitos de la psicomatriz afectan el desarrollo potencial de los talentos de una persona: carácter, autoestima, sentido de propósito, nivel de energía, salud, suerte, entre otros. Es la combinación de muchas características diferentes y la fuerza de voluntad de una persona lo que le permite alcanzar sus metas.\n\nEs muy importante identificar la mejor área de aplicación para la energía y los recursos de una persona. Nunca busques moverte con la corriente de la vida. Hay toda una lista de profesiones “calientes”: abogado, banquero, alto directivo, economista, etc. Todas ellas están determinadas no por el talento de las personas, sino por la capacidad de proveer financieramente para sí mismos y sus seres queridos. Antes de aconsejar a tu hijo que elija la profesión “que genera dinero”, piensa en su futuro.\n\nHay tantas personas en este mundo que nunca han desarrollado sus talentos. Probablemente no nos equivoquemos si decimos que esto es cierto para aproximadamente el 90-95% de la población mundial. Antes de obstaculizar el desarrollo de los intereses de tu hijo, mira tus dígitos y pregúntate: ¿pudiste descubrir y desarrollar tu potencial y talentos? Si no, entonces ten compasión por ti mismo y por tu hijo, y dale la oportunidad de convertirse en parte de la Historia de la Tierra, y a ti mismo – la oportunidad de ayudarlo a hacerlo.\n\nSolo piensa en por qué todavía elegimos para nuestros hijos mejores escuelas, jardines de infancia, médicos y maestros. El hecho es que cada vez más a menudo las personas talentosas encuentran trabajos que pagan bien; al mismo tiempo, las personas que no invierten en sus trabajos, que no se comprometen – no reciben una buena remuneración. Así que, debemos comenzar con el compromiso, y solo entonces obtendremos banqueros, gerentes e instituciones estatales fuertes: muchos trabajos serán ocupados por personas que son comprometidas, responsables y saben lo que están haciendo. Entonces ya no tendremos el problema de qué escuelas elegir para nuestros hijos.\n\nLo principal es entender que cada persona es única y responde a la madre Naturaleza misma (ya lo hemos afirmado repetidamente, pero queremos que este simple pensamiento se recuerde firmemente). Todos somos responsables de nosotros mismos y de nuestros hijos ante las generaciones futuras. Cada talento no descubierto creará toda una cadena de personas con potencial no realizado – esto, a su vez, llevará a las personas de regreso a la barbarie, guerras, terror, odio hacia los demás y deseo de darlo todo vuelta. ¡Aprende a responder por ti mismo!"
+    },
+    {
+      "locale": "es",
+      "category": "temperament",
+      "number": 5,
+      "description": "Este es el pico del temperamento: esta persona no puede vivir sin intimidad. Le importa con quién tiene relaciones íntimas. No puede apagar sus emociones y necesita la pasión de su pareja. Esta persona percibe las relaciones sexuales como un arte."
+    },
+    {
+      "locale": "es",
+      "category": "spirituality",
+      "number": 5,
+      "description": "El número de dígitos en esta línea puede ser un indicador de la espiritualidad de una persona. Podemos decir que al tener hasta cinco dígitos, la espiritualidad de una persona aumenta gradualmente desde la impiedad (sin dígitos) hasta un nivel máximo de espiritualidad (cinco dígitos). Si esta línea contiene más de cinco dígitos (6 o más), entonces podemos hablar de una sobrecarga de la calidad, que a menudo conduce al fanatismo y la idolatría, cuando todas las normas humanas se distorsionan más allá del reconocimiento, yendo al extremo. Esto se asemeja más a la completa falta de espiritualidad que al principio divino (luchando contra brujas y herejes con espadas y fuego, matando a los \"infieles\", exterminando disidentes). El fanatismo en su forma extrema es siempre impío porque no permite otros puntos de vista.\n\nAl analizar la psicomatriz, es necesario prestar atención a la relación entre las dos diagonales (carnal y espiritual). Es su relación la que jugará un papel clave en la fuerza de cada una de las líneas.\n\nEvaluando la fuerza de cada línea, podemos decir QUÉ es importante para la persona en su futura unión matrimonial: su interés en los principios espirituales de la pareja o el lado material (aspectos carnales incluyendo relaciones sexuales).\n\nEs mejor cuando ambas líneas están presentadas igualmente fuertes. Idealmente, la proporción de las características cuantitativas de un compañero debería corresponder a la característica cuantitativa del otro. Por ejemplo, si una esposa tiene una diagonal carnal de 5 dígitos y una espiritual de 4 dígitos, entonces su proporción puede escribirse como 5/4. Supongamos que su esposo tiene la siguiente proporción de diagonales: carnal – 5 dígitos y espiritual – 2 dígitos, con la proporción de diagonales de 5/2. La comparación muestra que para el esposo su esposa como mujer representa un mayor interés que su esposa como personalidad. Por lo tanto, probablemente no prestará suficiente atención a preparar a su esposa para la intimidad, porque está más interesado en el cuerpo que en el alma. En esta situación, es posible que la esposa a menudo se sienta molesta porque su esposo no presta suficiente atención a sus necesidades.\n\nAl analizar una psicomatriz, es importante tener en cuenta que idealmente las proporciones de las diagonales deberían coincidir, o su diferencia debería ser mínima y del mismo signo: si el esposo tiene una diagonal carnal más fuerte, entonces la esposa debería tener su diagonal carnal más fuerte que la espiritual. No intentes experimentar creando uniones matrimoniales donde el interés carnal excesivo de un compañero sea contenido por la fuerte espiritualidad del otro – este es un fuerte indicador de que las dos personas son incompatibles como cónyuges. Uno necesita hablar las cosas, mientras que el otro necesita sentirlas. En tal escenario, ambas personas sufrirán. Es mejor elegir un compañero con un temperamento similar. Entonces será mucho más fácil tener entendimiento mutuo."
+    },
+    {
+      "locale": "es",
+      "category": "purpose",
+      "number": 6,
+      "description": "Esta es una sobrecarga de un rasgo de carácter. Una persona establece metas ambiciosas para sí misma o varias metas al mismo tiempo, lo que obstaculiza su progreso."
+    },
+    {
+      "locale": "es",
+      "category": "family",
+      "number": 6,
+      "description": "La calidad de un \"hombre de familia\" está sobrecargada, lo que significa el debilitamiento de esta calidad. La explicación aquí es simple: estas personas buscan su ideal durante mucho tiempo, lo que conduce a obstáculos en la creación de una familia."
+    },
+    {
+      "locale": "es",
+      "category": "stability",
+      "number": 6,
+      "description": "Esta es una sobrecarga de calidad. Esta vez una sobrecarga de estabilidad. Una persona busca rodearse de tal abundancia de hábitos que comienza a abandonarlos tan pronto como interfieren con su vida. Podemos decir que esta persona está luchando con su propia estabilidad."
+    },
+    {
+      "locale": "es",
+      "category": "esteem",
+      "number": 6,
+      "description": "Sobreestimar los talentos y capacidades de uno mismo lleva al hecho de que una persona, mientras está ocupada mostrando su grandeza, olvida sus verdaderas habilidades y se enfoca más en cosas superficiales en lugar de en sus recursos internos. Tales personas, típicamente, nunca alcanzan sus metas, habiendo gastado todo su ardor en encantar a la multitud que admira sus cualidades superficiales y apariencia."
+    },
+    {
+      "locale": "es",
+      "category": "finance",
+      "number": 6,
+      "description": "Esto es una sobrecarga de un rasgo de carácter. Esta persona comienza a trabajar muy duro e intensamente hasta que se agota rápidamente y simplemente no puede continuar. Esta persona asume muchas cosas diferentes, se dispersa, creando una ilusión de trabajo."
+    },
+    {
+      "locale": "es",
+      "category": "talents",
+      "number": 6,
+      "description": "Cuantos más dígitos, más fuerte es el talento. Esto no significa que si esta línea es muy fuerte (no más de 5 dígitos para evitar la sobrecarga), entonces una persona será necesariamente muy talentosa. Recuerda, muchas otras líneas de dígitos de la psicomatriz afectan el desarrollo potencial de los talentos de uno: carácter, autoestima, sentido de propósito, nivel de energía, salud, suerte, y otros. Es la combinación de muchas características diferentes y la fuerza de voluntad de una persona lo que le permite alcanzar sus metas.\n\nEs muy importante identificar la mejor área de aplicación para la energía y los recursos de una persona. Nunca busques moverte con la corriente de la vida. Hay toda una lista de profesiones \"calientes\": abogado, banquero, alto directivo, economista, etc. Todas ellas están determinadas no por el talento de las personas, sino por la capacidad de proveer financieramente para sí mismos y sus seres queridos. Antes de aconsejar a tu hijo que elija la profesión \"que genera dinero\", piensa en su futuro.\n\nHay tantas personas en este mundo que nunca han desarrollado sus talentos. Probablemente no nos equivoquemos si decimos que esto es cierto para alrededor del 90-95% de la población mundial. Antes de obstaculizar el desarrollo de los intereses de tu hijo, mira tus dígitos y pregúntate: ¿pudiste descubrir y desarrollar tu potencial y talentos? Si no, entonces ten compasión de ti mismo y de tu hijo, y dale la oportunidad de convertirse en parte de la Historia de la Tierra, y a ti mismo – la oportunidad de ayudarle a hacerlo.\n\nSolo piensa en por qué aún elegimos para nuestros hijos mejores escuelas, jardines de infancia, médicos y maestros. El hecho es que cada vez más a menudo las personas talentosas encuentran trabajos que pagan bien; al mismo tiempo, las personas que no invierten en sus trabajos, no se comprometen – no reciben buenos pagos. Así que, debemos comenzar con el compromiso, y solo entonces obtendremos banqueros, gerentes e instituciones estatales fuertes: muchos trabajos serán ocupados por personas que están comprometidas, son responsables y saben lo que están haciendo. Entonces ya no tendremos el problema de qué escuelas elegir para nuestros hijos.\n\nLo principal es entender que cada persona es única y responde a la madre Naturaleza misma (ya lo hemos afirmado repetidamente, pero queremos que este simple pensamiento se recuerde firmemente). Todos somos responsables de nosotros mismos y de nuestros hijos ante las futuras generaciones. Cada talento no descubierto creará toda una cadena de personas con potencial no realizado – esto, a su vez, llevará a las personas de regreso al barbarismo, guerras, terror, odio entre sí y deseo de dar vuelta todo. ¡Aprende a responder por ti mismo!"
+    },
+    {
+      "locale": "es",
+      "category": "temperament",
+      "number": 6,
+      "description": "Esto significa una sobrecarga. Una persona comienza a buscar variedad y novedad de tal manera que pierde la razón y la medida en el proceso, lo que finalmente conduce a la frialdad y la insatisfacción con la intimidad."
+    },
+    {
+      "locale": "es",
+      "category": "spirituality",
+      "number": 6,
+      "description": "El número de dígitos en esta línea puede ser un indicador de la espiritualidad de una persona. Podemos decir que al tener hasta cinco dígitos, la espiritualidad de una persona aumenta gradualmente desde la falta de espiritualidad (sin dígitos) hasta un nivel máximo de espiritualidad (cinco dígitos). Si esta línea contiene más de cinco dígitos (6 o más), entonces podemos hablar de una sobrecarga de la calidad, que a menudo conduce al fanatismo y la idolatría, cuando todas las normas humanas se distorsionan hasta el punto de no reconocimiento, y se van al extremo. Esto se asemeja más a la completa falta de espiritualidad que al principio divino (luchando contra brujas y herejes con espadas y fuego, matando a los \"infieles\", exterminando disidentes). El fanatismo en su forma extrema es siempre ateo porque no permite otros puntos de vista.\n\nAl analizar la psicomatriz, es necesario prestar atención a la relación entre las dos diagonales (carnal y espiritual). Es su relación la que jugará un papel clave en la fuerza de cada una de las líneas.\n\nAl evaluar la fuerza de cada línea, podemos decir QUÉ es importante para la persona en su futura unión marital: su interés por los principios espirituales de la pareja o el lado material (aspectos carnales, incluidas las relaciones sexuales).\n\nEs mejor cuando ambas líneas están presentadas igualmente fuertes. Idealmente, la proporción de las características cuantitativas de un socio debería corresponder a la característica cuantitativa del otro. Por ejemplo, si una esposa tiene una diagonal carnal de 5 dígitos y una espiritual de 4 dígitos, entonces su proporción puede escribirse como 5/4. Supongamos que su esposo tiene la siguiente proporción de diagonales: carnal – 5 dígitos y espiritual – 2 dígitos, con la proporción de diagonales de 5/2. La comparación muestra que para el esposo su esposa como mujer representa un mayor interés que su esposa como personalidad. Así que, probablemente, no prestará suficiente atención a preparar a su esposa para la intimidad, porque está más interesado en el cuerpo que en el alma. En esta situación, es posible que la esposa se sienta a menudo molesta porque su esposo no presta suficiente atención a sus necesidades.\n\nAl analizar una psicomatriz, es importante tener en cuenta que idealmente las proporciones de las diagonales deberían coincidir, o su diferencia debería ser mínima y del mismo signo: si el esposo tiene una diagonal carnal más fuerte, entonces la esposa debería tener su diagonal carnal más fuerte que la espiritual. No intentes experimentar creando uniones maritales donde el interés carnal excesivo de un socio sea contenido por la fuerte espiritualidad del otro; este es un fuerte indicador de que las dos personas son incompatibles como cónyuges. Uno necesita hablar las cosas, mientras que el otro necesita sentirlas. En tal escenario, ambas personas sufrirán. Es mejor elegir un compañero con un temperamento similar. Entonces será mucho más fácil tener un entendimiento mutuo."
+    }
+  ],
+  "translated": true
+}

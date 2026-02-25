@@ -1,0 +1,71 @@
+{
+  "table": "character_number",
+  "source_locale": "ru",
+  "target_locale": "pt",
+  "source_language": "Russian",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "number": 1,
+      "description": "As pessoas de número um são determinadas e fortes, buscando ativamente seus objetivos; elas olham para o futuro com otimismo, são bastante teimosas e autoconfiantes, muito ambiciosas e frequentemente agressivas, sendo que sua agressividade está sempre ligada ao fato de acreditarem que alguém está tentando \"ensinar-lhes a viver\" ou se coloca em seu caminho. Com todas as suas forças, defenderão sua independência e seu ponto de vista. Têm uma memória excelente, são excepcionalmente organizadas, conseguem realizar várias tarefas ao mesmo tempo - pois possuem uma concentração de atenção excepcional. Na vida, buscam tudo o que é novo e desconhecido, frequentemente liderando - devido às suas marcantes qualidades de liderança - outras pessoas, mas nunca ouvem a opinião dos outros. É difícil trabalhar com elas em equipe: são individualistas e, ao alcançarem poder, preferem um estilo de liderança autoritário."
+    },
+    {
+      "locale": "pt",
+      "number": 2,
+      "description": "As pessoas de número dois costumam navegar entre os interesses alheios, são muito suaves e táticas, temem ofender os outros, estão sempre dispostas ao compromisso e preferem criar ao seu redor uma atmosfera de paz e harmonia. Elas nunca usam suas vantagens se isso pode magoar um amigo ou parceiro, preferindo não lutar, mas cooperar, nunca se colocam como líderes, e é muito mais fácil para elas se submeterem do que tomarem decisões. São funcionárias dedicadas, cuidadosas e modestas. As pessoas de número dois podem ser tímidas, reservadas, indecisas, evitando responsabilidades. Muitas vezes, não têm opiniões próprias e pensamentos próprios, pensam e planejam tudo cuidadosamente. E - infelizmente - frequentemente sofrem de depressões. Daí sua introversão e melancolia, a incapacidade de rir."
+    },
+    {
+      "locale": "pt",
+      "number": 3,
+      "description": "As pessoas de número três têm um espírito alegre, veem tudo com humor, são sortudas na vida, talentosas e versáteis, possuem uma energia invejável e, por isso, gostam de levar uma vida ativa, desprendendo-se facilmente do dinheiro, sendo generosas e benevolentes. As pessoas de número três são criativas, possuem uma rica imaginação e são muito dotadas por natureza. As maiores oportunidades dessas pessoas estão na esfera da arte, pois têm um dom literário ou artístico, e o mais importante para elas é expressar suas emoções em palavras, cores ou sons. Elas são eloquentes, sabem se comunicar, são líderes entre amigos, mas como desvantagens têm características como orgulho excessivo, autoimportância, egoísmo e independência, ambição, autoritarismo, às vezes arrogância e rudeza descarada. Além disso, frequentemente desperdiçam suas energias em muitas atividades desnecessárias, mas ao mesmo tempo não levam nada a sério. Essa despreocupação muitas vezes as impede de se tornarem o que realmente nasceram para ser - geniais."
+    },
+    {
+      "locale": "pt",
+      "number": 4,
+      "description": "As pessoas com o número quatro são os cavalos de carga da história; uma vez que o número 4 representa a vontade, resistência e persistência na busca de objetivos, essas pessoas alcançam o sucesso através de trabalho árduo, mas, apesar das dificuldades, continuam a avançar em direção a suas metas. Elas são racionalistas, não possuem uma imaginação rica, mas são práticas e trabalhadoras. E embora não tenham impulsos criativos, sabem como liderar pessoas criativas, agrupando-as conforme sua vontade e utilizando seus talentos; como administradores, são pessoas em seu lugar. Elas possuem um forte senso de dever, amam a justiça, valorizam o lado material da vida - uma boa refeição, descanso, e sempre buscam estabilidade e abundância. Ao mesmo tempo, lhes falta amplitude de pensamento, frequentemente experimentam estresse, podem ser inquietas, nervosas, cair em tédio e melancolia. Na vida, não são muito afortunadas, embora trabalhem muito, frequentemente desastres e fracassos recaem sobre elas. Mas superam obstáculos com coragem; nesse aspecto, sua paciência nunca chega ao fim."
+    },
+    {
+      "locale": "pt",
+      "number": 5,
+      "description": "As pessoas com o número cinco são ativas, inquietas, inquietas, inteligentes e impacientes. Elas gostam de viajar, ver muito, ouvir muito, interagir com muitas pessoas; para uma sensação completa de conforto, precisam mudar seu mundo habitual, caso contrário, ficam melancólicas e cansadas, experimentando tédio e mal-estar físico. Elas são bastante ambiciosas, explosivas e muito sexuais. Portanto, os cinco, de ambos os sexos, têm dificuldade em manter a fidelidade na família e se deparam com incompreensão e escândalos. Devido à inquietude e à incapacidade de se concentrar, frequentemente se envolvem em atividades e logo as abandonam; geralmente, sua educação é adquirida de qualquer jeito: não gostam de trabalhar, querem aprender tudo de imediato, o que não é possível.\n\nOs homens muitas vezes jogam, fazem apostas, especulam, adoram risco e aventuras; as mulheres são mais cautelosas, mas se seu interesse é despertado, esquecem toda a precaução. Essa característica frequentemente os leva a problemas. Eles também não conseguem trabalhar constantemente em um único lugar, portanto, mudam de emprego. Não são capazes de lidar com tarefas rotineiras. Muitas vezes, essas pessoas cometem fraudes, mentem, levam uma vida dissoluta, e ao mesmo tempo são alegres, agradáveis na comunicação, despreocupadas, a menos que comecem a se lamentar, o que também acontece com elas."
+    },
+    {
+      "locale": "pt",
+      "number": 6,
+      "description": "As pessoas com o número seis são maravilhosamente equilibradas, bondosas, confiáveis, sempre conseguem criar um ambiente acolhedor ao seu redor, amam o lar e os entes queridos, e têm muitos amigos. Elas são, em todos os aspectos, pessoas magníficas - fiéis, honestas, conscientes, românticas, suaves. Elas amam harmonia e paz e buscam apagar imediatamente todas as brigas e conflitos, compartilham generosamente seu calor e, se necessário, seu dinheiro. Mas, de certa forma, são muito conservadoras e não aceitam a liberdade de pessoas mais abertas, sofrem com a falta de tato dos outros, preferem se afastar dos problemas, em vez de resolvê-los, até que se torne impossível ignorá-los. Elas são trabalhadoras, mas não aspiram a estrelas, não têm um espírito empresarial, mas são capazes de encontrar erros em quem cria o mundo por inspiração, e não por regras. Se alcançam uma posição elevada, seu caráter pode se deteriorar: podem ser não apenas adoráveis e discretas, mas também vaidosas, arrogantes, satisfeitas consigo mesmas, insistentes e mesquinhas."
+    },
+    {
+      "locale": "pt",
+      "number": 7,
+      "description": "As pessoas com o número sete são frequentemente introvertidas, amam a solidão, estão ocupadas com seus pensamentos, são contemplativas, têm dificuldade em entrar em contato, mas, devido à sua concentração interna, são capazes de uma análise profunda, muito perspicazes, conseguem desvendar mistérios, prestam atenção aos menores detalhes que escapam à percepção dos outros. Muitas vezes, sob o signo do sete, nascem poetas, filósofos, cientistas, místicos, e mesmo que não tenham esses talentos, todas essas pessoas possuem intuição e imaginação desenvolvida. Em suas interações, são um tanto frias, tentam manter sua harmonia interna e não gostam de permitir que alguém acesse os mistérios de sua própria alma, mas estão sempre em busca de uma verdade conhecida. Frequentemente, essas pessoas tendem a sonhar, criando fantasias estranhas e elaboradas.\n\nElas não possuem eloquência, portanto, têm dificuldade em expressar adequadamente suas sensações e pensamentos, preferindo colocar suas ideias no papel, não participam de disputas e evitam discussões. Entre os defeitos, pode-se mencionar uma tendência acentuada a pensamentos sombrios e depressão, desilusão com a vida, tendência ao suicídio ou a um comportamento recluso, sarcasmo sombrio e misantropia. No entanto, ao menor sucesso, ao receber reconhecimento, as pessoas com o número sete florescem: precisam de elogios para que a vida pareça bela."
+    },
+    {
+      "locale": "pt",
+      "number": 8,
+      "description": "As pessoas com o número oito são enérgicas, capazes, dotadas do dom de concentrar forças em um único ponto para alcançar seus objetivos, buscam o sucesso, possuindo uma mente prática, calculista e perspicaz. Todos os seus pensamentos estão voltados para o mundo material, e é suficiente um pequeno esforço para que elas encontrem o caminho certo para investir capital. Na vida, são pessoas muito \"ocupadas\", cujos pensamentos giram em torno de fluxos de dinheiro ou do destino de suas empresas, frequentemente se tornam empresários, e isso é um diagnóstico. Na vida, consideram como principais qualidades a habilidade de lutar, se desvencilhar de situações complicadas, encontrar brechas e, ao mesmo tempo, prosperar. O principal indicador de sucesso para elas é a posição na sociedade. Elas mesmas são cautelosas e prudentes, não realizam ações arriscadas, nunca agem sem pensar.\n\nSe permitirem que qualidades negativas se desenvolvam, tornam-se as pessoas mais desagradáveis - impiedosas, agressivas, teimosas, cruéis, que amam apenas a si mesmas, indiscriminadas nos meios, despóticas, desprezando aqueles que não têm dinheiro. Externamente, podem parecer sombrias e reclusas, mas ninguém sabe quais paixões fervilham nessas almas, quão avarentos são por dentro. Ocasionalmente, elas liberam a irritação acumulada em atos dos mais estranhos e selvagens. Não se deixam treinar ou, se o fazem, é com enorme dificuldade."
+    },
+    {
+      "locale": "pt",
+      "number": 9,
+      "description": "As pessoas com o número nove são idealistas, sonhadoras, buscam generalizações, frequentemente se desligam da realidade, são muito românticas, impulsivas, até apaixonadas, dotadas de charme, ternura e amorosidade. Elas respeitam e cuidam das pessoas próximas, mas desejam servir ao bem de toda a humanidade. Nesse aspecto, são completamente altruístas e muito generosas. As pessoas frequentemente não as compreendem e começam a valorizá-las quando já não estão mais presentes.\n\nSão bons cientistas, professores e artistas, dotados de força de vontade, coragem, capazes de impulsos inspiradores, frequentemente inspirando todos que perderam a esperança. Na vida, são impráticas, não pensam em si mesmas, muito honestas e, por isso, dizem verdades desconfortáveis diretamente aos olhos, mas, ao mesmo tempo, são dependentes de várias convenções. Muitas vezes, se deixam influenciar facilmente por alguém que lhes parece agradável, rapidamente se apaixonam e rapidamente perdem o interesse pelo objeto de sua paixão, buscando sempre ficar à parte. Têm um grande medo da pobreza, da velhice e da miséria. Frequentemente, contradizem a si mesmas, podem ser inférteis, bruscas, arrogantes e místicas."
+    },
+    {
+      "locale": "pt",
+      "number": 11,
+      "description": "As pessoas do número onze são consideradas estranhas porque não se parecem com os outros. Elas vêm ao mundo para trazer algo novo, realizar uma certa revolução. Possuem uma intuição elevada, uma energia invejável e parecem receber orientações de forças superiores.\n\nEntre elas, há tanto gênios quanto pessoas completamente loucas. Muitas vezes, tornam-se pregadores, videntes. Elas têm o dom da persuasão, são corajosas, decididas e confiantes em sua retidão. A vida com elas é muito complicada, pois, para cumprir sua missão, estão dispostas a sacrificar tudo o que amam. Por isso, frequentemente vivem na solidão."
+    },
+    {
+      "locale": "pt",
+      "number": 22,
+      "description": "As pessoas do número vinte e dois são dotadas de todas as melhores qualidades que se pode imaginar.\n\nElas são enérgicas e inclinadas à liderança, equilibradas e sensíveis, possuem um dom criativo, são muito flexíveis, harmoniosas, capazes de alta concentração de pensamento, têm qualidades empresariais, um alto potencial espiritual e, como se costuma dizer, carisma.\n\nPor isso, essas pessoas frequentemente se tornam líderes de movimentos populares ou grandes cientistas, médicos, filósofos, empresários, magos."
+    }
+  ],
+  "translated": true
+}

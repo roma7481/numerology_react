@@ -1,0 +1,61 @@
+{
+  "table": "love_compatibility",
+  "source_locale": "ru",
+  "target_locale": "de",
+  "source_language": "Russian",
+  "target_language": "German",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "number": 1,
+      "description": "Die Kompatibilitätszahl Ihres Paares 1\n\nHarmonische Beziehungen, aber es können Streitigkeiten darüber entstehen, wer der Führer in der Beziehung ist.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    },
+    {
+      "locale": "de",
+      "number": 2,
+      "description": "Die Kompatibilitätszahl Ihres Paares 2\n\nEine starke, ausgeglichene Verbindung, die auf dem gegenseitigen Nutzen der Beziehung für jeden Partner basiert.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    },
+    {
+      "locale": "de",
+      "number": 3,
+      "description": "Die Kompatibilitätszahl Ihres Paares 3\n\nDie Beziehung ist voller Wärme und Zärtlichkeit, aber es besteht das Risiko von Untreue und Problemen, die mit Misstrauen verbunden sind.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    },
+    {
+      "locale": "de",
+      "number": 4,
+      "description": "Die Kompatibilitätszahl Ihres Paares ist 4\n\nEine gute Verbindung, beide Partner kümmern sich umeinander, wodurch die Beziehung sehr lange dauern kann.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    },
+    {
+      "locale": "de",
+      "number": 5,
+      "description": "Die Kompatibilitätszahl Ihres Paares ist 5\n\nLeuchtende Beziehungen, voller Leidenschaft. Probleme können aufgrund der übermäßigen Egozentrik eines der Partner auftreten.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    },
+    {
+      "locale": "de",
+      "number": 6,
+      "description": "Die Kompatibilitätszahl Ihres Paares ist 6\n\nEine glückliche Verbindung. Die Beziehung wird durch Freundschaft, gegenseitigen Respekt und Vertrauen gestärkt.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    },
+    {
+      "locale": "de",
+      "number": 7,
+      "description": "Die Kompatibilitätszahl Ihres Paares 7\n\nEine erfolgreiche Verbindung, die Partner unterstützen sich gegenseitig, sie verbinden gemeinsame Interessen und Leidenschaften.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    },
+    {
+      "locale": "de",
+      "number": 8,
+      "description": "Die Kompatibilitätszahl Ihres Paares 8\n\nEine starke Verbindung, aber es ist möglich, dass einer der Partner den anderen manipuliert. Um Leid zu vermeiden – zeigen Sie Aufrichtigkeit und Respekt füreinander.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    },
+    {
+      "locale": "de",
+      "number": 9,
+      "description": "Die Kompatibilitätszahl Ihres Paares 9\n\nNormale, gesunde Beziehungen. Um Stabilität zu gewährleisten und Streitigkeiten zu vermeiden, schenken Sie der finanziellen Sphäre die nötige Aufmerksamkeit.\n\nDie Kompatibilitätszahl hängt vom Geburtsdatum Ihres Partners ab."
+    }
+  ],
+  "translated": true
+}

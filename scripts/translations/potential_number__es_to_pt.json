@@ -1,0 +1,71 @@
+{
+  "table": "potential_number",
+  "source_locale": "es",
+  "target_locale": "pt",
+  "source_language": "Spanish",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "number": 1,
+      "description": "Um número um, receberá uma oportunidade de mandar. Será muito independente, criador, original e ativo. Pode ser precursor em um novo campo. Será ambicioso, sagaz e agressivo. Deve evitar ser obstinado e dominador. Para mais detalhes, ver número um em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 2,
+      "description": "Um número dois tem as qualidades de um diplomata, pode marchar com os outros e fazer com que cooperem com ele. Gosta de colecionar e reunir dados. Gosta de bibliotecas e museus e sua inclinação é espiritual ou religiosa. Para mais detalhes, ver número dois em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 3,
+      "description": "Um número três é auto-expressivo e tem bom senso de humor. É criador e tem uma grande imaginação. Não deve perder tempo dispersando seu talento. Deve trabalhar sob uma meta bem definida. Para mais detalhes, ver número três em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 4,
+      "description": "Você terá que lançar fundações práticas para concretizar suas metas. Sua tenacidade de propósito, mais sua simpatia e honestidade, serão de grande ajuda em tudo o que fizer. Geralmente, se volta para propósitos científicos ou religiosos, mas de natureza ortodoxa e não a partir de um novo ponto de vista. Para mais detalhes, veja o número quatro em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 5,
+      "description": "Potencialmente, a busca constante por experiências leva a novos e produtivos projetos, mesmo que longe de casa. No entanto, essas atividades devem ser direcionadas para a melhoria e avanço do público em geral. Para mais detalhes, veja o número cinco em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 6,
+      "description": "O número potencial seis é impessoal. Seu serviço está mais ligado ao trabalho comunitário do que à sua família imediata. No entanto, podem ter comodidades domésticas, pois o protegem e o amam bem, e têm satisfação financeira. Você ainda precisará assumir a responsabilidade, já que é o pai cósmico. Um número potencial seis possui todas as ferramentas do triunfo. Para mais detalhes, veja o número seis em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 7,
+      "description": "Um número potencial sete persegue incansavelmente fins mentais e espirituais, mesmo que inconscientemente. É um bom educador, pois seus conhecimentos adquiridos através do estudo de si mesmo e da experiência de vida o tornam merecedor de uma sabedoria superior. Pode escrever sobre temas metafísicos ou filosóficos através da inventividade prática, científica e incomum. Se um número de poder sete estiver abaixo de seu nível de desenvolvimento, pode se tornar introvertido. Para mais detalhes, veja o número sete em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 8,
+      "description": "Um número oito precisará ser rigoroso consigo mesmo, pois sua capacidade executiva assim o exige. Tem a oportunidade latente a todo momento de ser reconhecido por suas conquistas e serviços. Embora possa se sentir atraído por bens imóveis, sua meta está em supervisionar e dirigir assuntos alheios. Para mais detalhes, veja o número oito em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 9,
+      "description": "Os campos do teatro, da literatura, das artes, da filantropia e do serviço desinteressado são suas expressões de poder, pois é um grande irmão da humanidade e possui uma grande visão de futuro. No entanto, deve lutar por uma vida impessoal, pois se exigir o que dá pode resultar em contrariedades. O desinteresse deverá ser a linha reta no caminho a seguir. Para mais detalhes, veja o número nove em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 11,
+      "description": "A liderança é sua expressão poderosa. Geralmente é atraído para o palco. Muitos idealistas, como líderes religiosos e evangelizadores, foram, são e serão em noventa por cento números de poder onze. O campo da aviação, da eletricidade, da televisão ou da invenção pertence aos dez por cento restantes. Um número onze pouco desenvolvido possui os mesmos impulsos de poder que um número dois. Para mais detalhes, veja o número onze em \"significados de números de nome completo\"."
+    },
+    {
+      "locale": "pt",
+      "number": 22,
+      "description": "Se você lançou boas fundações, o reconhecimento por seus trabalhos é internacional. É construtor, prático e idealista. Os estadistas, embaixadores e aqueles que apelam pelo bem mundial são potencialmente números vinte e dois. No entanto, ao trabalhar pelo bem das massas, não se deve descuidar do bem pessoal. Nos não evoluídos, as características de poder estão sob a influência de um número quatro. Para mais detalhes, veja o número vinte e dois em \"significados de números de nome completo\"."
+    }
+  ],
+  "translated": true
+}

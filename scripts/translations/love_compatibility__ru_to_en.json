@@ -1,0 +1,61 @@
+{
+  "table": "love_compatibility",
+  "source_locale": "ru",
+  "target_locale": "en",
+  "source_language": "Russian",
+  "target_language": "English",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "number": 1,
+      "description": "The compatibility number of your couple is 1\n\nHarmonious relationships, but conflicts may arise over who will be the leader in the pair.\n\nThe compatibility number depends on your partner's date of birth."
+    },
+    {
+      "locale": "en",
+      "number": 2,
+      "description": "The compatibility number of your couple is 2\n\nA strong, balanced union based on mutual benefit from the relationship for each partner.\n\nThe compatibility number depends on your partner's date of birth."
+    },
+    {
+      "locale": "en",
+      "number": 3,
+      "description": "The compatibility number of your couple is 3\n\nThe relationship is filled with warmth and tenderness, but there is a risk of infidelity and issues related to distrust.\n\nThe compatibility number depends on your partner's date of birth."
+    },
+    {
+      "locale": "en",
+      "number": 4,
+      "description": "The compatibility number of your couple is 4\n\nA good union, both partners care for each other, which allows the relationship to last a very long time.\n\nThe compatibility number depends on your partner's date of birth."
+    },
+    {
+      "locale": "en",
+      "number": 5,
+      "description": "The compatibility number of your couple is 5\n\nVibrant relationships, full of passion. Problems may arise due to excessive selfishness of one of the partners.\n\nThe compatibility number depends on your partner's date of birth."
+    },
+    {
+      "locale": "en",
+      "number": 6,
+      "description": "The compatibility number of your couple is 6\n\nA happy union. The relationship is reinforced by friendship, mutual respect, and trust.\n\nThe compatibility number depends on your partner's date of birth."
+    },
+    {
+      "locale": "en",
+      "number": 7,
+      "description": "The compatibility number of your couple is 7\n\nA successful union, partners support each other, connected by common interests and passions.\n\nThe compatibility number depends on your partner's date of birth."
+    },
+    {
+      "locale": "en",
+      "number": 8,
+      "description": "The compatibility number of your couple is 8\n\nA strong union, but it is possible that one partner manipulates the other. To avoid suffering, show sincerity and respect for each other.\n\nThe compatibility number depends on your partner's date of birth."
+    },
+    {
+      "locale": "en",
+      "number": 9,
+      "description": "The compatibility number of your couple is 9\n\nNormal, healthy relationships. To maintain stability and avoid quarrels, pay proper attention to the financial sphere.\n\nThe compatibility number depends on your partner's date of birth."
+    }
+  ],
+  "translated": true
+}

@@ -1,0 +1,61 @@
+{
+  "table": "couple_number",
+  "source_locale": "es",
+  "target_locale": "en",
+  "source_language": "Spanish",
+  "target_language": "English",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "number": 1,
+      "description": "This combination establishes an instant connection, offering a fluid and easy understanding between both individuals, even though at times they may display certain competitive attitudes towards each other.\n\nThese couples can sense what the other thinks and feels from the very first contact. When they start to talk about their lives, they may even discover that they have gone through very similar experiences.\n\nOften, the Natural Couple turns out not to be such a good partner; this is directly related to one of them vibrating on the positive side of the number while the other is on the negative vibration."
+    },
+    {
+      "locale": "en",
+      "number": 2,
+      "description": "In this type of couple, each person is very independent and will be determined to seek the best for themselves. If they manage to align their interests to feel comfortable, they will have a good future together. They will become a dynamic and independent couple that works very well.\n\nHowever, if they cannot find a middle ground and neither is willing to give in, the relationship has a limited lifespan."
+    },
+    {
+      "locale": "en",
+      "number": 3,
+      "description": "This couple gets along very well. They resonate in their worldview, and if they love each other, they will become a strong support for one another. Together, they feel secure and will manage to build a life that is both peaceful and creative.\n\nThat said, they can become too dependent on each other. They should seek personal spaces to avoid suffocating one another."
+    },
+    {
+      "locale": "en",
+      "number": 4,
+      "description": "This couple is characterized by having hardworking individuals who know what they want and work to achieve their goals. This makes them a couple with great future potential and the ability to reinvent themselves.\n\nIf they have a common life project, they will be a stable couple that will have no problem reaching their objectives."
+    },
+    {
+      "locale": "en",
+      "number": 5,
+      "description": "This couple is also hardworking, detail-oriented, and very assertive. Therefore, they can have a life together filled with many satisfactions.\n\nHowever, the conventionality that characterizes them, along with their limited capacity for renewal, will put the couple at risk of falling into monotony and boredom. They will need to find ways to spice up their relationship if they want to continue moving forward with excitement."
+    },
+    {
+      "locale": "en",
+      "number": 6,
+      "description": "This couple has, above all, a lot of chemistry. If they manage to find projects that unite them over time, they will live their relationship with the same passion as on the first day.\n\nBut if they fail to discover their common points, they will be a somewhat superficial couple, who will have their best moments during intimacy."
+    },
+    {
+      "locale": "en",
+      "number": 7,
+      "description": "The couple can function well as long as they are clear about their intentions. Both are a bit individualistic, and if they do not communicate, neither will yield an inch. This can lead to the relationship becoming a disaster.\n\nIf they manage to understand each other sincerely and listen, they can achieve a good balance that allows them to feel comfortable with one another."
+    },
+    {
+      "locale": "en",
+      "number": 8,
+      "description": "This couple is creative, popular, and full of energy. Together they will be a sea of enthusiasm: there will be no goal that seems difficult to achieve. Thus, they are a good couple and understand each other well, but they need to learn to set concrete goals.\n\nIf they let themselves be carried away by enthusiasm, they may end up making mistakes that lead to major crises, which may be hard to overcome. Therefore, it is better to have a plan of action and not be guided too much by impulse."
+    },
+    {
+      "locale": "en",
+      "number": 9,
+      "description": "It is a couple that will be very romantic. Those eternal lovers, for whom the years seem not to diminish the affection they feel for each other. Thus, if their love is deep, it can be the ideal couple.\n\nHowever, they must learn to manage their emotions because both are very sensitive. If they hurt each other, the wounds will be deep, and the pain long-lasting."
+    }
+  ],
+  "translated": true
+}

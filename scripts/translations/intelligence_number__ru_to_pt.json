@@ -1,0 +1,61 @@
+{
+  "table": "intelligence_number",
+  "source_locale": "ru",
+  "target_locale": "pt",
+  "source_language": "Russian",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "number": 1,
+      "description": "Você pensa de forma independente, não convencional, seus pensamentos se destacam pela originalidade. Você praticamente não se deixa influenciar pelos outros. Suas ideias são persistentemente colocadas em prática. Em discussões, você sempre se esforça para que a última palavra fique com você."
+    },
+    {
+      "locale": "pt",
+      "number": 2,
+      "description": "Você pensa de maneira refinada e perspicaz. Tem a tendência de ouvir sua intuição ao resolver tarefas difíceis e quando precisa fazer uma escolha. Nunca rejeita as ideias de outras pessoas, está aberto a elas, mas por causa disso, às vezes se deixa influenciar demais."
+    },
+    {
+      "locale": "pt",
+      "number": 3,
+      "description": "Você pensa de forma criativa, mas um tanto desordenada. Os pensamentos pulam de um para outro e não conseguem parar, por isso muitas vezes você não consegue se concentrar em um único problema. E, no final, sua abordagem e maneira de agir se mostram extremamente ilógicas, mas, no entanto, levam ao resultado desejado."
+    },
+    {
+      "locale": "pt",
+      "number": 4,
+      "description": "Você pensa de maneira metódica e prática. Você planeja todas as suas ações passo a passo, e por isso sempre tem uma resposta para tudo. Mas o outro lado da moeda é que sua abordagem muitas vezes se revela inflexível, e novas ideias não testadas fazem você se sentir desconfortável."
+    },
+    {
+      "locale": "pt",
+      "number": 5,
+      "description": "Você pensa de forma leve e rápida, abordando tudo de maneira flexível e adaptativa. A solução para qualquer problema aparece quase instantaneamente, calculando imediatamente as opções de eventos e consequências. E é precisamente sua notável sagacidade que o salva em várias situações difíceis."
+    },
+    {
+      "locale": "pt",
+      "number": 6,
+      "description": "Você pensa geralmente de forma equilibrada, estável e justa. Você é um bom ouvinte. Gosta de observar como as pessoas são afetadas pelas palavras, pensamentos e ideias. Você nota os menores detalhes e os aplica de maneira muito eficaz em seus objetivos. No entanto, a visão do quadro geral muitas vezes permanece inacessível para você."
+    },
+    {
+      "locale": "pt",
+      "number": 7,
+      "description": "Você nunca se contentou com respostas simples. Você sempre cava fundo, estuda o problema de forma abrangente e de dentro para fora até que a confiança chegue, garantindo que você compreendeu completamente. E agora, sem hesitar, você começa a resolvê-lo. Muito poucas pessoas conseguem discutir com você a habilidade de resolver problemas sérios e encontrar respostas para questões complexas."
+    },
+    {
+      "locale": "pt",
+      "number": 8,
+      "description": "Você geralmente observa tudo o que acontece de uma perspectiva elevada, portanto, sempre vê o problema como um todo. Você não gosta de se aprofundar em detalhes e prestar atenção a minúcias, preferindo deixá-las para pessoas com um pensamento mais restrito e prático. Você nunca confunde o racional com o irracional e utiliza ambos com facilidade em sua vida."
+    },
+    {
+      "locale": "pt",
+      "number": 9,
+      "description": "Você sempre vê e entende claramente o que as outras pessoas pensam sobre uma questão ou outra, mas não expressa sua opinião até que todos os outros tenham se manifestado, e só depois disso você aponta o que foi negligenciado ou simplesmente não pensado. A solução correta e a resposta certa vêm para você simplesmente eliminando uma a uma as soluções incorretas da lista de possibilidades. Construir cadeias lógicas não é o seu método."
+    }
+  ],
+  "translated": true
+}

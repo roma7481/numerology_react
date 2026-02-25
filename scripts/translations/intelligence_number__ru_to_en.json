@@ -1,0 +1,61 @@
+{
+  "table": "intelligence_number",
+  "source_locale": "ru",
+  "target_locale": "en",
+  "source_language": "Russian",
+  "target_language": "English",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "en",
+      "number": 1,
+      "description": "You think independently and unconventionally; your thoughts are marked by originality. You are practically immune to external influence. You stubbornly bring your ideas to life. In disputes, you always strive to have the last word."
+    },
+    {
+      "locale": "en",
+      "number": 2,
+      "description": "You think subtly and perceptively. You tend to listen to your intuition when solving difficult problems and when making choices. You never dismiss the ideas of others; you are open to them, but because of this, you sometimes succumb too much to external influence."
+    },
+    {
+      "locale": "en",
+      "number": 3,
+      "description": "You think creatively, but somewhat chaotically. Your thoughts jump from one to another and cannot settle, which often prevents you from concentrating on a single issue. As a result, your approach and course of action can be extremely illogical, yet they still lead to the desired outcome."
+    },
+    {
+      "locale": "en",
+      "number": 4,
+      "description": "You think methodically and practically. You plan all your actions step by step, and therefore you always have an answer for everything. However, the other side of the coin is that your approach often turns out to be inflexible, and new, untested ideas make you feel uncomfortable."
+    },
+    {
+      "locale": "en",
+      "number": 5,
+      "description": "You think easily and quickly, approaching everything flexibly and adaptively. You find solutions to any problem almost instantly, instantly calculating the options and consequences. It is your remarkable resourcefulness that saves you in various difficult situations."
+    },
+    {
+      "locale": "en",
+      "number": 6,
+      "description": "You usually think evenly, steadily, and fairly. You are a good listener. You enjoy observing how people are affected by words, thoughts, and ideas. You notice the smallest details and successfully apply them to your goals. However, seeing the big picture often remains inaccessible to you."
+    },
+    {
+      "locale": "en",
+      "number": 7,
+      "description": "You have never been satisfied with simple answers. You always dig deep, studying the problem comprehensively and from within until you feel confident that you have fully understood it. And now, without hesitation, you begin to solve it. Very few people can challenge you in your ability to tackle serious issues and find answers to complex questions."
+    },
+    {
+      "locale": "en",
+      "number": 8,
+      "description": "You usually view everything from a slight elevation, which allows you to see the entire problem as a whole. You do not like to delve into details or pay attention to specifics, preferring to leave those to people with a more narrow and grounded mindset. You never confuse the rational with the irrational and easily incorporate both into your life."
+    },
+    {
+      "locale": "en",
+      "number": 9,
+      "description": "You always have a very clear understanding of what others think on a given issue, but you do not express your opinion until everyone else has spoken, and only then do you point out what has been overlooked or simply not thought through. You find the right solution and correct answer by systematically eliminating one incorrect option after another from the list of possibilities. Building logical chains is not your method."
+    }
+  ],
+  "translated": true
+}

@@ -1,0 +1,36 @@
+{
+  "table": "destiny_graph",
+  "source_locale": "ru",
+  "target_locale": "pt",
+  "source_language": "Russian",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "state"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "state": "Линия Судьбы выше линии Воли.",
+      "description": "Isso indica um período em que as circunstâncias externas são mais fortes e as lições do destino se tornam mais rigorosas. Nesse tempo, tudo em sua vida será como está prescrito pelo destino, portanto, não vale a pena demonstrar grande iniciativa e realizar atos de vontade. Não tente \"forçar uma porta fechada\", mas melhor \"navegue com a corrente\"."
+    },
+    {
+      "locale": "pt",
+      "state": "Линия Судьбы ниже линии Воли.",
+      "description": "Neste período, ações ativas são necessárias, não se deve adiar seus próprios projetos para amanhã, mas sim avançar, fazendo grandes esforços para alcançar os objetivos estabelecidos. A liberdade de escolha se torna primordial, enquanto a influência das circunstâncias externas se torna insignificante. Não se deve confiar no destino neste período, é preciso construir a própria vida. Você pode assumir a iniciativa com confiança, agora tudo dependerá apenas de você."
+    },
+    {
+      "locale": "pt",
+      "state": "Точки пересечения линий Судьбы и Воли.",
+      "description": "Estes são períodos muito responsáveis e bastante desfavoráveis para qualquer novidade. Em tais intervalos de tempo, não se deve tomar nenhuma decisão responsável e drástica, como mudar para um novo apartamento, trocar de emprego, organizar um casamento, etc."
+    },
+    {
+      "locale": "pt",
+      "state": "Линии Судьбы и Воли идут вместе – «Путь Монаха».",
+      "description": "Neste caso, a pessoa se submete completamente às Forças Superiores. No entanto, isso não significa que a pessoa não possa fazer nada — ela intuitivamente entende que não deve ir contra o destino. Não se deve pensar que tal pessoa é primitiva; ao contrário, é ela quem pode realizar planos verdadeiramente grandiosos. Um exemplo característico disso é a vida de M.V. Lomonosov (data de nascimento — 19 de novembro de 1711)."
+    }
+  ],
+  "translated": true
+}

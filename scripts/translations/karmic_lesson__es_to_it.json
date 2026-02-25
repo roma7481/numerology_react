@@ -1,0 +1,61 @@
+{
+  "table": "karmic_lesson",
+  "source_locale": "es",
+  "target_locale": "it",
+  "source_language": "Spanish",
+  "target_language": "Italian",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "it",
+      "number": 1,
+      "description": "Pochi uno o nessuno, rivela mancanza di fiducia in se stessi. Un kármico uno deve imparare a prendere decisioni e a iniziare cose nuove."
+    },
+    {
+      "locale": "it",
+      "number": 2,
+      "description": "Pochi due o nessuno, rivela timidezza e sperpero inutile di denaro. Un kármico due deve imparare a lavorare in gruppo, a prestare attenzione ai dettagli, a risparmiare energia sotto forma di denaro e a essere paziente."
+    },
+    {
+      "locale": "it",
+      "number": 3,
+      "description": "Pochi tre o nessuno, rivela carenza di fiducia in se stessi e tentativo di nascondersi in pubblico. Un kármico tre deve imparare a controllarsi e a non essere esplosivo, deve imparare a essere più creativo e a non disperdere il proprio talento; a avere fiducia in se stesso e a migliorare la propria qualità di espressione di fronte al pubblico."
+    },
+    {
+      "locale": "it",
+      "number": 4,
+      "description": "Pochi quattro o nessuno, rivela mancanza di attenzione ai dettagli e all'ordine. Un kármico quattro deve gettare buone fondamenta senza chiudere gli occhi sul lavoro, senza evitarlo, concentrandosi pazientemente su ciò che fa, senza accettare limitazioni."
+    },
+    {
+      "locale": "it",
+      "number": 5,
+      "description": "Pochi cinque o nessuno, rivela paura del cambiamento e dell'ignoto. Un kármico cinque, raramente manca. Si richiede solo di affrontare il cambiamento e l'ignoto."
+    },
+    {
+      "locale": "it",
+      "number": 6,
+      "description": "Pochi sei o nessuno, rivela mancanza di responsabilità. Un kármico sei deve imparare molto sul sesso opposto. Deve imparare a essere un buon padre o una buona madre, dando il proprio esempio. La responsabilità sarà richiesta in ogni momento."
+    },
+    {
+      "locale": "it",
+      "number": 7,
+      "description": "Pochi sette o nessuno, rivela una mancanza di fede e comprensione tra la dualità spirito-materia. Un sette karmico è piuttosto difficile da approvare come lezione, deve apprendere i segreti nascosti della vita terrena e allo stesso tempo ascoltare la voce dello spirituale, deve scoprire la relazione che esiste tra uno e l'altro e vivere in accordo con le sue scoperte. Dovrà sviluppare la fede e ciò che essa implica per una maggiore comprensione della sua vita. Molti maestri spirituali, come paradosso, sono nati con un sette karmico, che li ha costretti a volgere lo sguardo verso il loro interno e a vivere nel mondo senza essere del mondo, in modo equilibrato, scientifico e sacro."
+    },
+    {
+      "locale": "it",
+      "number": 8,
+      "description": "Pochi otto o nessuno, rivela inefficienza in questioni economiche o materiali. Un otto karmico deve apprendere il valore del denaro, a organizzare e dirigere. Questo karma costringerà il suo possessore a gestire la propria attività e a amministrare i propri beni per tutta la vita, al fine di conoscere per la vita futura il risparmio di energia spirituale manifestata nel piano inferiore come denaro."
+    },
+    {
+      "locale": "it",
+      "number": 9,
+      "description": "Pochi nove o nessuno, rivela sobbalzi e contrarietà emotive fino ad apprendere a essere generoso, compassionevole, amante e dedicato agli altri. Un nove karmico, così come il sette karmico, porta dentro di sé un bene altissimo per l'anima, poiché se il possessore di uno di questi numeri vive in accordo con la lezione che gli è richiesta, la maestria spirituale bussa alla sua porta."
+    }
+  ],
+  "translated": true
+}

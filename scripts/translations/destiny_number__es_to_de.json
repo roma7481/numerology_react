@@ -1,0 +1,71 @@
+{
+  "table": "destiny_number",
+  "source_locale": "es",
+  "target_locale": "de",
+  "source_language": "Spanish",
+  "target_language": "German",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "number": 1,
+      "description": "Ihre Lebensmission ist es, Führer, Vorreiter oder Unternehmensleiter zu sein, wobei der Erfolg mit Initiative, Unabhängigkeit und Originalität erreicht wird. Sie müssen lernen, Ihre Willenskraft zu nutzen, selbstbewusst zu denken und Ihre eigenen Fähigkeiten auszuschöpfen. Die Einsen sollten zudem konstruktiv und anders, individualistisch und forschend in Bezug auf neue Ideen sein. Dennoch bedeutet es, ein Führer zu sein, nicht, dass man diktatorisch, dominierend oder aggressiv sein muss. Es bedeutet, den Herausforderungen mit dem Mut einer Eins zu begegnen."
+    },
+    {
+      "locale": "de",
+      "number": 2,
+      "description": "Die Zweien sind Diplomaten oder Pazifisten, sie können Situationen ausbalancieren und durch ihr Feingefühl Kooperation erreichen, da sie in der Lage sind, beide Seiten des Problems zu sehen. Sie haben Geduld, um Verwalter zu sein oder Details zu handhaben. Sie können Experten in Statistiken sein, da die Datensammlung für die Arbeit eines Verwaltungsexperten wichtig ist. Im Geschäftsleben ist eine Partnerschaft für sie vorteilhafter als Unabhängigkeit. Die Ehe ist ideal für eine Zwei. Sie sollten die Künste wie Musik, Tanz, Gesang und Malerei pflegen, da sie ein gutes Gespür für Rhythmus, Zeit und Farbe haben."
+    },
+    {
+      "locale": "de",
+      "number": 3,
+      "description": "Ihr Schicksal ist es, sich in Worten, Literatur, Theater oder Rhetorik auszudrücken.\nIhre Aufgabe besteht darin, den Geist und die Vorstellungskraft zu wecken, damit andere lernen zu lachen. Eine Drei ist ein wandelndes Unterhaltungselement. Sie sollte schöpferisch, inspirierend, künstlerisch, aktiv, nützlich, optimistisch und ein wahrer Freund sein. Da sie das Geschenk der Worte hat, sollte sie sich für Theater, Oper, Literatur, Rhetorik oder Schauspiel interessieren."
+    },
+    {
+      "locale": "de",
+      "number": 4,
+      "description": "Eine Vier neigt immer dazu, ein Baumeister zu sein. Sie ist sehr fleißig und ehrlich. Sie wäre ein guter Büroleiter, da sie gewissenhaft, vertrauenswürdig, wirtschaftlich und ausgezeichnet in Details und Routine ist. Sie ist analytisch, praktisch, systematisch, entschlossen, aufrichtig und ordentlich. Sie kann viel Verantwortung übernehmen und anderen helfen, sich zu schützen."
+    },
+    {
+      "locale": "de",
+      "number": 5,
+      "description": "Ihr Schicksal weist auf den fröhlichsten Aspekt des Lebens hin. Sie werden Freiheit haben. Sie werden bereitwillig neue Ideen, Veränderungen, neue Methoden und Fortschritt akzeptieren. Eine Fünf muss vielseitig, bereit und mutig sein, da sie viele Erfahrungen machen wird, die sie nutzen muss, um innerlich zu wachsen. Das soziale Leben und das andere Geschlecht sind die größten Vorlieben einer Fünf. Sie kann ideal für den Verkauf, Werbung, die Förderung neuer Ideen oder Gedanken, Reisen und Öffentlichkeitsarbeit sein."
+    },
+    {
+      "locale": "de",
+      "number": 6,
+      "description": "Die Mission einer Sechs ist es, in der Familie und der Gemeinschaft zu dienen, da die Sechs eine liebevolle Schwingung ist, die sich auf die Familie konzentriert. Sie ist ein kosmischer Elternteil oder Lehrer. Sie ist liebevoll, verständnisvoll, mitfühlend und kann viel Verantwortung übernehmen. Sie wäre eine gute Musikerin, denn Rhythmus, Harmonie und Schönheit sind wie eine notwendige Lebensweise für ihre Evolution. Ein häusliches Leben ist ebenfalls wesentlich. Sie kann der Menschheit als Krankenschwester, Arzt, Lehrer, Musiker, Sänger, Maler, Schauspieler, Landwirt, Viehzüchter, Ingenieur, Innenarchitekt oder Sozialarbeiter dienen."
+    },
+    {
+      "locale": "de",
+      "number": 7,
+      "description": "Die Bildung im Bereich der Wissenschaft oder die Geheimnisse des Lebens sind\nseine Mission. Eine sieben ist ein tiefgründiger Denker und könnte in erfinderischen oder wissenschaftlichen Leistungen sowie in der Entdeckung der verborgenen Bedeutung der Natur erfolgreich sein. Er muss einige Zeit allein und in Stille verbringen, um zu meditieren und Inspiration aus seinem Inneren zu empfangen. Er sollte ein Spezialist darin sein, Wissen aus jeder Quelle zu sammeln, was ihn dazu bringen wird, ein konzentrierter Geist in Realitäten statt in Oberflächlichkeiten zu sein. Sein Bestreben sollte sein, Verständnis zu gewinnen und Wissen zu erwerben. Er kann als Schriftsteller, Anwalt, Techniker, Antiquitätenexperte, Theologe, Privatdetektiv oder Berater arbeiten. Äußerlich könnte er als seltsam angesehen werden, da er ein einsamer Wanderer auf unerforschten oder ungewöhnlichen Wegen ist."
+    },
+    {
+      "locale": "de",
+      "number": 8,
+      "description": "Das Leben einer acht ist für große Geschäfte und\nFinanzen bestimmt. Er kann viel Geld verdienen, aber das sollte nicht sein Bestreben sein. Er muss lernen, das Gleichgewicht zwischen materiellen und spirituellen Kräften zu erkennen. Sein Motto sollte sein: Gerechtigkeit. Er sollte keine Zeit damit verschwenden, um Reichtum zu kämpfen, sondern für Zufriedenheit und persönliche Erfüllung arbeiten. Seine Belohnung sollte eine gut gemachte Aufgabe sein. Er kann im Sport und in der Unterhaltung im Allgemeinen arbeiten. In der Regierung und in bürgerlichen Angelegenheiten. Die Verlagswesen, der Druck und die Herstellung sind offene Felder für eine acht, ebenso wie die Banken oder die Leitung eines Unternehmens. Er sollte sich mit talentierten und einflussreichen Menschen zusammenschließen. Er kann auch eine philosophische oder religiöse Neigung haben."
+    },
+    {
+      "locale": "de",
+      "number": 9,
+      "description": "Er tendiert dazu, ein großer Bruder der Menschheit zu sein, Liebe,\nMitgefühl und Verständnis auszudrücken. Der Dienst ist seine Pflicht. Er muss lernen, unpersönlich zu sein und sich nicht auf materielle Besitztümer oder persönliche Liebe zu stützen. \"Geben ist empfangen\" ist das Schicksal einer neun. Er könnte Lehrer, Schriftsteller, Arzt, Schauspieler, Krankenschwester, Anwalt, Philanthrop oder Sozialarbeiter sein."
+    },
+    {
+      "locale": "de",
+      "number": 11,
+      "description": "Konsultiere die Zahl zwei auf der Suche nach geringeren Qualitäten. Eine\nelf ist originell, intuitiv und ein Meisterführer, der spirituellen und inspirierenden Wegen folgt. Eine Elf muss ihr Leben der Öffentlichkeit widmen. Sie ist idealistisch und philosophisch. Sie kann im Leben als Psychologe, Lehrer, Pilot, Erfinder von Audio- und Bildprodukten oder Schriftsteller über theosophische oder metaphysische Themen tätig sein."
+    },
+    {
+      "locale": "de",
+      "number": 22,
+      "description": "Konsultiere die Zahl vier auf der Suche nach geringeren Qualitäten. Die\nzweiundzwanzig ist der Meisterbauer auf der materiellen Ebene, in der Regel von internationalem Ruf. Sie kann mit großen Gruppen arbeiten, da sie diese perfekt leiten kann. Sie könnte Leiter einer Institution, Diplomat, Einkäufer, Bauunternehmer, Organisator, Staatsmann oder Effizienzexperte sein. Die zweiundzwanzig, die nicht gemäß den Fähigkeiten ihrer Zahl lebt, sinkt vibrational zu den Eigenschaften einer Zahl vier ab, die sich mit einem gewöhnlichen Beruf, Buchhalter, Landwirt, Vorarbeiter oder als nationaler Angestellter beschäftigt."
+    }
+  ],
+  "translated": true
+}

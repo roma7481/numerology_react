@@ -1,0 +1,61 @@
+{
+  "table": "karmic_lesson",
+  "source_locale": "es",
+  "target_locale": "pt",
+  "source_language": "Spanish",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "number": 1,
+      "description": "Poucos uns ou nenhum, revela falta de confiança em si mesmo. Um kármico um deve aprender a tomar decisões e iniciar coisas novas."
+    },
+    {
+      "locale": "pt",
+      "number": 2,
+      "description": "Poucos dois ou nenhum, revela timidez e dilapidação desnecessária do dinheiro. Um kármico dois deve aprender a trabalhar em grupo, a prestar atenção aos detalhes, a economizar energia na forma de dinheiro e a ser paciente."
+    },
+    {
+      "locale": "pt",
+      "number": 3,
+      "description": "Poucos três ou nenhum, revela carência de confiança em si mesmo e tentativa de ocultar-se em público. Um kármico três deve aprender a controlar-se e a não ser explosivo, deve aprender a ser mais criativo e a não dispersar seu talento; a ter confiança em si mesmo e a melhorar sua qualidade de expressão diante do público."
+    },
+    {
+      "locale": "pt",
+      "number": 4,
+      "description": "Poucos quatros ou nenhum, revela falta de atenção aos detalhes e à ordem. Um kármico quatro deve lançar boas fundações sem fechar os olhos para o trabalho, sem evitá-lo, concentrando-se pacientemente no que faz, sem aceitar limitações."
+    },
+    {
+      "locale": "pt",
+      "number": 5,
+      "description": "Poucos cincos ou nenhum, revela medo da mudança e do desconhecido. Um kármico cinco raramente falta. Apenas é exigido que enfrente a mudança e o desconhecido."
+    },
+    {
+      "locale": "pt",
+      "number": 6,
+      "description": "Poucos seis ou nenhum, revela falta de responsabilidade. Um kármico seis deve aprender muito sobre o sexo oposto. Deve aprender a ser um bom pai ou uma boa mãe, dando de seu próprio exemplo. A responsabilidade será exigida a todo momento."
+    },
+    {
+      "locale": "pt",
+      "number": 7,
+      "description": "Poucos setes ou nenhum, revela Falta de fé e compreensão entre a dualidade espírito-matéria. Um kármico sete é bastante difícil de aprovar como lição, deve aprender os segredos ocultos da vida terrena e ao mesmo tempo ouvir a voz do espiritual, deve descobrir a relação que existe entre um e outro e viver de acordo com suas descobertas. Terá que desenvolver a fé e o que isso implica para uma maior compreensão de sua vida. Muitos mestres espirituais, como paradoxo, nasceram com um kármico sete, que os obrigou a se voltar para dentro e viver no mundo sem ser do mundo, de uma maneira equilibrada, científica e santa."
+    },
+    {
+      "locale": "pt",
+      "number": 8,
+      "description": "Poucos oitos ou nenhum, revela ineficiência em assuntos econômicos ou questões materiais. Um kármico oito deve aprender o valor do dinheiro, a organizar e dirigir. Este karma forçará seu possuidor a gerenciar seu próprio negócio e a administrar seus próprios bens durante toda a sua vida, a fim de conhecer para a vida próxima a economia de energia espiritual manifestada no plano inferior como dinheiro."
+    },
+    {
+      "locale": "pt",
+      "number": 9,
+      "description": "Poucos noves ou nenhum, revela sobressaltos e contrariedades emotivas até aprender a ser generoso, compassivo, amante e dedicado aos outros. Um kármico nove, assim como o Kármico sete, traz dentro de si um bem altíssimo para a alma, pois se o possuidor de algum desses números vive de acordo com a lição que lhe é exigida, a maestria espiritual bate à sua porta."
+    }
+  ],
+  "translated": true
+}

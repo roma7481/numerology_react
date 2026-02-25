@@ -1,0 +1,71 @@
+{
+  "table": "potential_number",
+  "source_locale": "es",
+  "target_locale": "de",
+  "source_language": "Spanish",
+  "target_language": "German",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "number": 1,
+      "description": "Eine Eins wird die Gelegenheit erhalten, zu führen. Sie wird sehr unabhängig, kreativ, originell und aktiv sein. Sie kann Pionier in einem neuen Bereich sein. Sie wird ehrgeizig, scharfsinnig und aggressiv sein. Sie sollte vermeiden, stur und dominierend zu sein. Für weitere Details siehe Eins in \"Bedeutungen der vollständigen Namen-Zahlen\"."
+    },
+    {
+      "locale": "de",
+      "number": 2,
+      "description": "Eine Zwei hat die Eigenschaften eines Diplomaten, sie kann mit anderen zusammenarbeiten und sie dazu bringen, mit ihr zu kooperieren. Sie sammelt gerne Daten und Informationen. Sie mag Bibliotheken und Museen, und ihre Neigung ist spirituell oder religiös. Für weitere Details siehe Zwei in \"Bedeutungen der vollständigen Namen-Zahlen\"."
+    },
+    {
+      "locale": "de",
+      "number": 3,
+      "description": "Eine Drei ist selbstexpressiv und hat einen guten Sinn für Humor. Sie ist kreativ und hat eine große Vorstellungskraft. Sie sollte keine Zeit damit verschwenden, ihr Talent zu zerstreuen. Sie sollte unter einem klar definierten Ziel arbeiten. Für weitere Details siehe Drei in \"Bedeutungen der vollständigen Namen-Zahlen\"."
+    },
+    {
+      "locale": "de",
+      "number": 4,
+      "description": "Sie müssen praktische Fundamente legen, um Ihre Ziele zu verwirklichen. Ihre Zielstrebigkeit, gepaart mit Ihrer Sympathie und Ehrlichkeit, wird Ihnen in allem, was Sie tun, von großem Nutzen sein. Generell neigen Sie zu wissenschaftlichen oder religiösen Zielen, jedoch von orthodoxer Natur und nicht aus einer neuen Perspektive. Für weitere Details siehe die Zahl vier in \"Bedeutungen der vollständigen Namenzahlen\"."
+    },
+    {
+      "locale": "de",
+      "number": 5,
+      "description": "Potentiell führt die ständige Suche nach Erfahrungen zu neuen und produktiven Projekten, sogar weit weg von zu Hause. Diese Aktivitäten sollten jedoch auf die Verbesserung und den Fortschritt der Allgemeinheit ausgerichtet sein. Für weitere Details siehe die Zahl fünf in \"Bedeutungen der vollständigen Namenzahlen\"."
+    },
+    {
+      "locale": "de",
+      "number": 6,
+      "description": "Die potenzielle Zahl sechs ist unpersönlich. Ihr Dienst ist mehr mit der Gemeinschaftsarbeit verbunden als mit Ihrer unmittelbaren Familie. Dennoch können Sie häuslichen Komfort haben, denn sie beschützen und lieben Sie gut, und Sie haben finanzielle Zufriedenheit. Sie müssen jedoch weiterhin Verantwortung übernehmen, da Sie der kosmische Vater sind. Eine potenzielle Zahl sechs besitzt alle Werkzeuge des Triumphs. Für weitere Details siehe die Zahl sechs in \"Bedeutungen der vollständigen Namenzahlen\"."
+    },
+    {
+      "locale": "de",
+      "number": 7,
+      "description": "Eine potenzielle Nummer sieben verfolgt unermüdlich mentale und spirituelle Ziele, sogar bis ins Unbewusste. Sie ist ein guter Lehrer, da ihr Wissen, das sie durch Selbststudium und Lebenserfahrung erlangt hat, sie mit einer höheren Weisheit ausstattet. Sie kann über metaphysische oder philosophische Themen durch praktische, wissenschaftliche und ungewöhnliche Kreativität schreiben. Wenn eine Nummer sieben unter ihrem Entwicklungsniveau bleibt, kann sie introvertiert werden. Für weitere Details siehe Nummer sieben in \"Bedeutungen der vollständigen Namen\"."
+    },
+    {
+      "locale": "de",
+      "number": 8,
+      "description": "Eine Nummer acht muss rigoros mit sich selbst sein, da ihre exekutive Fähigkeit dies erfordert. Sie hat jederzeit die latente Möglichkeit, für ihre Leistungen und ihren Dienst anerkannt zu werden. Obwohl sie sich zu Immobilien hingezogen fühlen kann, liegt ihr Ziel darin, fremde Angelegenheiten zu überwachen und zu leiten. Für weitere Details siehe Nummer acht in \"Bedeutungen der vollständigen Namen\"."
+    },
+    {
+      "locale": "de",
+      "number": 9,
+      "description": "Die Bereiche Theater, Literatur, Kunst, Philanthropie und selbstloser Dienst sind ihre Ausdrucksformen der Kraft, da sie ein großer Bruder der Menschheit ist und eine große Zukunftsvision hat. Sie muss jedoch für ein unpersönliches Leben kämpfen, denn wenn sie das verlangt, was sie gibt, kann es ihr widersprechen. Der Selbstlosigkeit sollte die gerade Linie auf dem Weg sein, den sie einschlagen sollte. Für weitere Details siehe Nummer neun in \"Bedeutungen der vollständigen Namen\"."
+    },
+    {
+      "locale": "de",
+      "number": 11,
+      "description": "Die Führung ist ihr kraftvoller Ausdruck. Sie wird oft zur Bühne hingezogen. Viele Idealisten, wie religiöse Führer und Evangelisten, waren, sind und werden zu neunzig Prozent Zahlen von Macht elf sein. Das Feld der Luftfahrt, Elektrizität, Fernsehen oder Erfindung gehört zu den verbleibenden zehn Prozent. Eine wenig entwickelte Elf hat die gleichen Machtimpulse wie eine Zwei. Für weitere Details siehe die elf in \"Bedeutungen von vollständigen Namen\"."
+    },
+    {
+      "locale": "de",
+      "number": 22,
+      "description": "Wenn Sie gute Grundlagen gelegt haben, ist die Anerkennung für Ihre Arbeit international. Sie sind ein Konstrukteur, praktisch und idealistisch. Staatsmänner, Botschafter und diejenigen, die für das weltweite Wohl eintreten, sind potenziell Zahlen zweiundzwanzig. Bei der Arbeit für das Wohl der Massen sollte jedoch das persönliche Wohl nicht vernachlässigt werden. Bei den nicht Evolvierten sind die Machtmerkmale unter dem Einfluss einer Vier. Für weitere Details siehe die zweiundzwanzig in \"Bedeutungen von vollständigen Namen\"."
+    }
+  ],
+  "translated": true
+}

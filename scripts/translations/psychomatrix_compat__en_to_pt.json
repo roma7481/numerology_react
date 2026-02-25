@@ -1,0 +1,257 @@
+{
+  "table": "psychomatrix_compat",
+  "source_locale": "en",
+  "target_locale": "pt",
+  "source_language": "English",
+  "target_language": "Portuguese",
+  "key_columns": [
+    "category",
+    "strength"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "pt",
+      "category": "ESTEEM",
+      "strength": "weak",
+      "description": "O nível de autoestima de ambos os parceiros é bastante baixo. Se essas duas pessoas desejam ficar juntas, precisam aprender a se apoiar mutuamente. Ambos os parceiros não valorizam suas capacidades. Eles precisam de apoio, mas como ambos têm um baixo nível de autoestima, nem sempre são capazes de fornecê-lo um ao outro. Por outro lado — uma pessoa com baixa autoestima tende a atribuir seu sucesso aos méritos de outra, e não aos seus próprios. Essa tendência pode gradualmente elevar a autoestima do casal, assim ambos os parceiros podem ajudar um ao outro a acreditar em si mesmos."
+    },
+    {
+      "locale": "pt",
+      "category": "ESTEEM",
+      "strength": "moderate",
+      "description": "O nível geral de autoestima deste casal está em um nível médio. Esta é uma premissa confiável para o sucesso a longo prazo, pois ambos os parceiros poderão avaliar razoavelmente suas habilidades e capacidades. Isso os impedirá de perder o controle sobre a situação em caso de fracasso ou de perder a cabeça em caso de sorte extraordinária. Ambos os parceiros se complementam e se apoiam. Essas duas pessoas serão capazes de alcançar os maiores picos em qualquer área da vida, fazendo esforços razoáveis."
+    },
+    {
+      "locale": "pt",
+      "category": "ESTEEM",
+      "strength": "strong",
+      "description": "Ambos os parceiros têm aproximadamente o mesmo nível de autoestima. Eles têm as mesmas premissas para o sucesso e avaliam de forma sóbria suas habilidades e circunstâncias para alcançar seu objetivo. Eles se apoiam e se complementam quando necessário e têm um alto nível de autoconfiança e uma mentalidade voltada para o sucesso. Se esforços apropriados forem feitos, o casal alcançará alturas significativas em qualquer área."
+    },
+    {
+      "locale": "pt",
+      "category": "ESTEEM",
+      "strength": "you_stronger",
+      "description": "Sua autoestima é mais pronunciada do que a do seu parceiro. No entanto, esta é uma excelente união. Você ajudará seu parceiro a aprender a se tratar com mais respeito, ganhar mais confiança e elevar seu nível de autoestima, enquanto seu parceiro não impedirá que você se expresse da maneira que gosta. Se você aprender a ser humilde e respeitoso em relação ao seu parceiro, então o casal terá um grande futuro."
+    },
+    {
+      "locale": "pt",
+      "category": "ESTEEM",
+      "strength": "partner_stronger",
+      "description": "A autoestima do seu parceiro é mais pronunciada do que a sua. No entanto, esta é uma excelente união. Seu parceiro ajudará você a aprender a se tratar com mais respeito, ganhar mais confiança e elevar seu nível de autoestima, enquanto você permitirá que ele se expresse da maneira que gosta. Se seu parceiro aprender a ser humilde e respeitoso em relação a você, então o casal terá um grande futuro."
+    },
+    {
+      "locale": "pt",
+      "category": "FINANCE",
+      "strength": "weak",
+      "description": "Ambos os parceiros mostram falta de interesse em todas as questões relacionadas ao assunto dinheiro. Esta visão de vida parece ser menos importante. Ninguém está preocupado em melhorar o bem-estar da família, o dinheiro é gasto facilmente, o conceito de poupança é extremamente baixo. Isso frequentemente leva à escassez de dinheiro e, em raras ocasiões, a dificuldades financeiras. Por outro lado, a situação pode melhorar uma vez que você comece a tratar seus ativos financeiros de maneira mais sábia e razoável."
+    },
+    {
+      "locale": "pt",
+      "category": "FINANCE",
+      "strength": "moderate",
+      "description": "A habilidade de ganhar dinheiro de ambos os parceiros está em um nível médio, nenhum deles tem problemas financeiros. Ambos os parceiros geralmente sabem como ganhar um bom dinheiro. No entanto, às vezes podem enfrentar certas dificuldades. Se tanto você quanto seu parceiro fizerem mais esforços e demonstrarem mais ambição, certamente poderão alcançar a segurança financeira. Considerando o mesmo nível de interesse em dinheiro, esta pode ser a melhor combinação, já que não há uma forte ambição por dinheiro nem escassez de recursos financeiros."
+    },
+    {
+      "locale": "pt",
+      "category": "FINANCE",
+      "strength": "strong",
+      "description": "Ambos os parceiros deste casal sabem como ganhar dinheiro e sabem como fazê-lo bem. Esta união nunca enfrentará problemas financeiros. Neste relacionamento, o dinheiro nunca será uma fonte de desavença. Mesmo que você ou seu parceiro não consigam ganhar o suficiente, o outro sempre encontrará uma maneira de apoiar a família financeiramente, e vice-versa. O dinheiro nesta união é considerado uma parte significativa da vida. Ambos os parceiros dedicam esforços significativos para garantir sua estabilidade financeira. A única recomendação seria olhar para o mundo de um ângulo diferente. Nem tudo neste mundo se relaciona apenas com dinheiro, há diferentes alegrias na vida."
+    },
+    {
+      "locale": "pt",
+      "category": "FINANCE",
+      "strength": "you_stronger",
+      "description": "Você ganha um bom dinheiro, que é mais do que suficiente para satisfazer todas as suas necessidades e as necessidades da família. Comparado a você, a habilidade de ganhar dinheiro do seu parceiro não é tão notável, provavelmente o dinheiro que ele ganha será gasto para seu próprio prazer. Recomendamos que você preste mais atenção a outros aspectos da vida, além das finanças. O dinheiro não é a única fonte de estabilidade e harmonia em um relacionamento."
+    },
+    {
+      "locale": "pt",
+      "category": "FINANCE",
+      "strength": "partner_stronger",
+      "description": "Seu parceiro ganha um bom dinheiro, que é mais do que suficiente para satisfazer todas as suas necessidades e as necessidades da família. Comparado com seu parceiro, sua capacidade de gerar dinheiro não é tão notável, provavelmente o dinheiro que você está ganhando será gasto em seu próprio prazer. Quanto à recomendação para seu parceiro, ele deve prestar mais atenção a outros aspectos da vida, além das finanças. O dinheiro não é a única fonte de estabilidade e harmonia em um relacionamento."
+    },
+    {
+      "locale": "pt",
+      "category": "TALENTS",
+      "strength": "weak",
+      "description": "Os talentos de ambos os parceiros neste casal não são tão notáveis e estão aproximadamente no mesmo nível. Normalmente, ambos não demonstram interesse em arte ou vida criativa e estão mais preocupados com coisas relacionadas à rotina diária casual. Munições talentosas, atores e artistas geralmente não os inspiram muito. No entanto, não se pode dizer que os parceiros não se encaixam, pelo contrário, suas opiniões são uma boa combinação em muitos assuntos. A única recomendação para este casal seria tentar olhar para a vida de um ângulo diferente e explorar sua criatividade. Você ficará surpreso com quantos talentos pessoais pode descobrir."
+    },
+    {
+      "locale": "pt",
+      "category": "TALENTS",
+      "strength": "moderate",
+      "description": "O nível de talento e criatividade neste casal está em um nível médio. Isso significa que ambos os parceiros estão bem equilibrados nessa característica. Se eles estiverem a fim de aprender novos passos de dança, irão a uma escola de dança, mas é improvável que o façam regularmente. Normalmente, ambos os parceiros têm uma vida criativa muito diversificada, no entanto, geralmente permanecem no nível amador ou moderado. Talvez, um dos parceiros deste casal esteja mais inclinado a se envolver em uma atividade criativa. No entanto, o outro parceiro é improvável que apoie a iniciativa e compartilhe o interesse."
+    },
+    {
+      "locale": "pt",
+      "category": "TALENTS",
+      "strength": "strong",
+      "description": "Neste casal, ambos os parceiros possuem habilidades criativas igualmente altas e são muito talentosos. Esta é uma boa premissa para relacionamentos saudáveis. Eles se apoiarão fortemente em qualquer empreendimento relacionado à criatividade, ciência, negócios e hobbies. Ambos desfrutam dos frutos de seu trabalho criativo. Portanto, eles sempre se ajudarão a melhorar nessas áreas. Ambos os parceiros são realmente ótimos em tudo que está relacionado à criatividade e desfrutam muito disso. Não é necessário dizer que o casal se encaixa perfeitamente, eles compartilharão os mesmos interesses e inspirações."
+    },
+    {
+      "locale": "pt",
+      "category": "TALENTS",
+      "strength": "you_stronger",
+      "description": "Neste casal, você é visivelmente mais talentoso do que seu parceiro, mas isso não parece ser um problema para ele. Além disso, pode ser uma boa premissa para um relacionamento saudável. Seu parceiro não irá atrapalhar sua expressão criativa, enquanto você ajudará seu parceiro no desenvolvimento pessoal, descobrindo seus talentos ocultos. Levando isso em consideração, o casal tem um futuro brilhante."
+    },
+    {
+      "locale": "pt",
+      "category": "TALENTS",
+      "strength": "partner_stronger",
+      "description": "Neste casal, seu parceiro é visivelmente mais talentoso do que você, mas isso não parece ser um problema para você. Além disso, pode ser uma boa premissa para um relacionamento saudável. Você não irá atrapalhar a expressão criativa de seu parceiro, enquanto seu parceiro ajudará você no desenvolvimento pessoal, descobrindo seus talentos ocultos. Levando isso em consideração, o casal tem um futuro brilhante."
+    },
+    {
+      "locale": "pt",
+      "category": "PURPOSE",
+      "strength": "weak",
+      "description": "O senso de propósito deste casal está em um nível bastante baixo. Isso significa que nenhum deles se esforçará para tomar a iniciativa, e nenhum deles empurrará o outro em direção aos seus objetivos. Em um relacionamento assim, ambos os parceiros precisam de um líder para guiá-los, mas ninguém quer assumir uma posição de liderança. Nenhum de vocês tem força suficiente ou o desejo de gerenciar os assuntos familiares e colocar as coisas em suas próprias mãos. Por outro lado, se os parceiros tomarem mais iniciativa e forem mais ativos e envolvidos, isso beneficiará o relacionamento e o levará para o próximo nível."
+    },
+    {
+      "locale": "pt",
+      "category": "PURPOSE",
+      "strength": "moderate",
+      "description": "Neste casal, ambos têm um senso de propósito na vida bastante equilibrado e médio. É provável que esta seja uma união forte. Às vezes, no entanto, vocês podem experimentar uma falta de motivação para alcançar seus objetivos e anseiam por um parceiro líder mais forte ao seu lado. Existe a chance de que muitas ideias e planos de vocês permaneçam apenas no papel, mas nunca se tornem realidade. No entanto, se ambos aprenderem a ser mais ativos na busca de seus objetivos, isso pode levar a um relacionamento maravilhoso."
+    },
+    {
+      "locale": "pt",
+      "category": "PURPOSE",
+      "strength": "strong",
+      "description": "Ambos são igualmente motivados, o que pode levar a constantes brigas pela posição de liderança no relacionamento. Nenhum de vocês será capaz de dominar completamente, pois nenhum dos dois quer ceder. Apesar de suas personalidades fortes, vocês devem aprender a trabalhar em equipe e encontrar um acordo; assim, poderão construir um belo relacionamento de confiança."
+    },
+    {
+      "locale": "pt",
+      "category": "PURPOSE",
+      "strength": "you_stronger",
+      "description": "Este tipo de união é considerado o mais ideal. Você tem uma personalidade mais forte do que seu parceiro, o que significa que provavelmente será o líder na família. Ter dois parceiros com níveis de personalidade diferentes é um cenário maravilhoso para um grande relacionamento, ambos os parceiros se complementarão. Neste relacionamento, conflitos de interesse ou disputas pela liderança são muito improváveis. Vocês dois atuam como uma equipe e se apoiam e cuidam um do outro."
+    },
+    {
+      "locale": "pt",
+      "category": "PURPOSE",
+      "strength": "partner_stronger",
+      "description": "Este tipo de união é considerado o mais ideal. Seu parceiro tem uma personalidade mais forte em comparação a você, e provavelmente será o líder na família. Ter dois parceiros com níveis de personalidade diferentes é um cenário maravilhoso para um grande relacionamento, ambos os parceiros se complementarão. Neste relacionamento, conflitos de interesse ou disputas pela liderança são muito improváveis. Vocês dois atuam como uma equipe e se apoiam e cuidam um do outro."
+    },
+    {
+      "locale": "pt",
+      "category": "FAMILY",
+      "strength": "weak",
+      "description": "Neste casal, ninguém está com pressa de começar uma família. O relacionamento não formal pode durar anos ou até uma vida inteira. Além disso, essas pessoas podem ter filhos e criá-los sem assinar nenhum documento. Claro, esse estilo de vida pode às vezes causar críticas públicas, mas eles se importam muito pouco com isso — o principal é que se sintam mais confortáveis vivendo dessa maneira. É difícil dar um conselho aqui, pois cabe apenas ao casal decidir se querem se casar oficialmente. Se você se sente confortável vivendo assim, está totalmente OK. O mais importante é que você e seu parceiro estejam desfrutando desse tipo de relacionamento."
+    },
+    {
+      "locale": "pt",
+      "category": "FAMILY",
+      "strength": "moderate",
+      "description": "Nesta união, ambos os parceiros são bastante neutros em relação a começar uma família. Eles não têm um forte desejo de ter uma família. No entanto, eles desejam tê-la em algum momento. É melhor não adiar essa questão por muito tempo, caso contrário, pode não acontecer de forma alguma. Vocês dois se dão bem juntos, mas ainda podem ter confrontos sobre questões familiares. Por natureza, ambos anseiam pela felicidade familiar. Se vocês se esforçarem mais, seu relacionamento crescerá em uma bela família e uma união forte."
+    },
+    {
+      "locale": "pt",
+      "category": "FAMILY",
+      "strength": "strong",
+      "description": "Ambos têm um forte desejo de começar uma família e não vão adiar essa questão. Ambos os parceiros valorizam sua família e sempre a colocam em primeiro lugar. Tal família sempre terá paz e harmonia. Vocês dois têm um grande potencial para se tornarem cônjuges amorosos que cuidam de seus filhos e um do outro. Vocês desfrutarão de cozinhar, cuidar de seu lar e filhos e colocarão muito esforço nisso. Desnecessário dizer, é uma grande união familiar."
+    },
+    {
+      "locale": "pt",
+      "category": "FAMILY",
+      "strength": "you_stronger",
+      "description": "Neste casal, você está mais ligado à família em comparação com seu parceiro. Você cercará sua família com cuidado e sempre a colocará em primeiro lugar. Você se preocupa muito com o bem-estar de sua família. Embora você seja muito bom em assuntos domésticos, seria bom se seu parceiro também se esforçasse mais. Apesar do fato de que seu parceiro está muito menos envolvido na vida familiar, seu cuidado com a casa e as crianças é mais do que suficiente para este belo relacionamento. Você é muito bom em cozinhar, manter a casa limpa e cuidar de seus filhos. Em geral, é uma união bastante boa."
+    },
+    {
+      "locale": "pt",
+      "category": "FAMILY",
+      "strength": "partner_stronger",
+      "description": "Neste casal, seu parceiro está mais ligado à família em comparação a você. Ele cercará a família com cuidado e sempre a colocará em primeiro lugar. Seu parceiro se preocupa muito com o bem-estar da família. Embora ele seja muito bom em assuntos domésticos, seria bom se você também se esforçasse mais. Apesar do fato de você estar muito menos envolvido na vida familiar, o cuidado do seu parceiro com a casa e as crianças é mais do que suficiente para este belo relacionamento. Seu parceiro é muito bom em cozinhar, manter a casa limpa e cuidar das crianças. Em geral, é uma união bastante boa."
+    },
+    {
+      "locale": "pt",
+      "category": "STABILITY",
+      "strength": "weak",
+      "description": "Ambos os parceiros aqui são extremamente inconstantes e não gostam de ficar em um lugar por muito tempo. Eles são atraídos por novas oportunidades e aventuras. Pode-se dizer que os parceiros se encaixam bem juntos. No entanto, ambos precisam ser sábios para não se envolver em qualquer tipo de situações perigosas ou desagradáveis. É uma união maravilhosa, pois ambos estão altamente motivados para novos experimentos emocionantes na vida e não querem se estabelecer."
+    },
+    {
+      "locale": "pt",
+      "category": "STABILITY",
+      "strength": "moderate",
+      "description": "Esse tipo de relacionamento é considerado o mais otimizado. Neste casal, ambos têm uma quantidade média de hábitos e podem facilmente abrir mão deles e adquirir novos. Ambos os parceiros são bastante descontraídos: não estão muito ligados ao passado, se quiserem, podem arrumar suas coisas e buscar novas aventuras no exterior. No entanto, eles ainda podem viver e trabalhar em um lugar por muitos anos. Contudo, para o bem de um relacionamento saudável, seria bom permitir algumas mudanças em sua vida de vez em quando."
+    },
+    {
+      "locale": "pt",
+      "category": "STABILITY",
+      "strength": "strong",
+      "description": "Ambos os parceiros têm muitos hábitos antigos e são muito intolerantes a mudanças. Isso pode ser um bom pré-requisito para um relacionamento forte se vocês estiverem na mesma sintonia. No entanto, também pode se tornar uma fonte de desentendimento se houver um conflito de interesses. Neste tipo de relacionamento, é necessário fazer concessões e aprender a ceder em seus velhos hábitos. Ser mais leal e flexível ajudará a construir uma união maravilhosa."
+    },
+    {
+      "locale": "pt",
+      "category": "STABILITY",
+      "strength": "you_stronger",
+      "description": "Neste casal, você é mais intolerante a mudanças do que seu parceiro. No entanto, isso não é necessariamente uma coisa ruim. Você parece ser mais razoável e estável, enquanto seu parceiro é movido pela excitação e novas ideias. Nesse caso, seu parceiro o impulsionará em direção ao autodesenvolvimento, enquanto você impede que seu parceiro aja de forma espontânea e se envolva em situações perigosas ou desagradáveis. Neste relacionamento, vocês se complementam perfeitamente. No entanto, o desejo por estabilidade em uma pessoa e a necessidade de mudança na outra podem nem sempre ser os mesmos. Para construir um relacionamento bom e saudável, ambos os parceiros precisam fazer concessões e ser mais flexíveis."
+    },
+    {
+      "locale": "pt",
+      "category": "STABILITY",
+      "strength": "partner_stronger",
+      "description": "Neste casal, seu parceiro é mais intolerante a mudanças. No entanto, isso não é necessariamente uma coisa ruim. Seu parceiro parece ser mais razoável e estável, enquanto você é movido pela excitação e novas ideias. Nesse caso, você o impulsionará em direção ao autodesenvolvimento, enquanto seu parceiro o impedirá de agir de forma espontânea e se envolver em situações perigosas ou desagradáveis. Neste relacionamento, vocês se complementam perfeitamente. No entanto, o desejo por estabilidade em uma pessoa e a necessidade de mudança na outra podem nem sempre ser os mesmos. Para construir um relacionamento bom e saudável, ambos os parceiros precisam fazer concessões e ser mais flexíveis."
+    },
+    {
+      "locale": "pt",
+      "category": "SPIRITUALITY",
+      "strength": "weak",
+      "description": "Ambos os parceiros deste casal têm um nível relativamente baixo de espiritualidade. É muito provável que não frequentem igrejas ou outros lugares sagrados e demonstrem muito pouco interesse em tudo que está relacionado à religião ou à fé. O principal interesse do casal reside em outras áreas. Nesse aspecto, ambos os parceiros se encaixam bem, uma vez que não têm desavenças sobre quaisquer assuntos espirituais ou religiosos."
+    },
+    {
+      "locale": "pt",
+      "category": "SPIRITUALITY",
+      "strength": "moderate",
+      "description": "Ambos os parceiros deste casal têm um nível médio de espiritualidade. Eles podem acreditar em Deus, mas é improvável que frequentem igrejas ou outros lugares sagrados regularmente. Tipicamente, esses tipos de pessoas são mais pragmáticas do que religiosas. No entanto, quando se trata de compatibilidade pessoal, os parceiros têm uma compreensão mútua e se encaixam bem. A única desvantagem é que, como o nível de espiritualidade está no mesmo patamar para ambos, isso significa que nenhum de vocês pode ajudar o outro a alcançar o próximo estágio de autodesenvolvimento e consciência espiritual."
+    },
+    {
+      "locale": "pt",
+      "category": "SPIRITUALITY",
+      "strength": "strong",
+      "description": "Neste casal, a espiritualidade de ambos os parceiros está em um nível igualmente alto. Eles respeitam seu passado, honram tradições e valorizam seus pais. É muito provável que sejam pessoas religiosas. Mesmo que nenhum dos parceiros seja religioso, provavelmente essa é uma decisão bem ponderada de sua parte e vocês têm uma opinião muito forte sobre esse assunto. Com base nessa característica particular, os parceiros se adequam bem um ao outro. Ambos estão interessados no significado oculto das coisas e na mística."
+    },
+    {
+      "locale": "pt",
+      "category": "SPIRITUALITY",
+      "strength": "you_stronger",
+      "description": "Neste casal, seu nível de espiritualidade é mais alto do que o de seu parceiro. Se você está interessado em mistérios espirituais, provavelmente terá que descobri-los por conta própria. Dependendo do nível de espiritualidade de seu parceiro, ele pode ajudá-lo a encontrar as respostas para as questões sagradas ou permanecer indiferente."
+    },
+    {
+      "locale": "pt",
+      "category": "SPIRITUALITY",
+      "strength": "partner_stronger",
+      "description": "Neste casal, o nível de espiritualidade de seu parceiro é mais alto do que o seu. Se ele está interessado em mistérios espirituais, então provavelmente terá que descobri-los por conta própria. Dependendo do seu nível de espiritualidade, você pode ajudar seu parceiro a encontrar as respostas para as questões sagradas ou permanecer indiferente."
+    },
+    {
+      "locale": "pt",
+      "category": "TEMPERAMENT",
+      "strength": "weak",
+      "description": "O nível de libido neste casal é bastante baixo para ambos os parceiros. Não há um forte desejo de se tornar íntimos. Os temperamentos de ambos os parceiros são mais ou menos os mesmos, o que é uma base sólida para um relacionamento equilibrado e saudável."
+    },
+    {
+      "locale": "pt",
+      "category": "TEMPERAMENT",
+      "strength": "moderate",
+      "description": "Ambos os parceiros têm um nível de libido médio. Há um desejo moderado de intimidade entre os dois. Nesse aspecto, esta união existirá em absoluta harmonia e equilíbrio."
+    },
+    {
+      "locale": "pt",
+      "category": "TEMPERAMENT",
+      "strength": "strong",
+      "description": "Ambos os parceiros nesta união têm um nível de libido alto. Há um forte desejo de intimidade no casal, que é necessário com bastante frequência. Eles compartilham os mesmos interesses, esta é uma boa combinação."
+    },
+    {
+      "locale": "pt",
+      "category": "TEMPERAMENT",
+      "strength": "you_stronger",
+      "description": "Neste casal, seu nível de libido é mais alto do que o do seu parceiro. Isso pode deprimir ou frustrar seu parceiro. Do seu lado, se você não obtiver o que deseja, pode começar a buscar satisfação fora do relacionamento. Por outro lado, se ambos aprenderem a comprometer-se e respeitar as necessidades um do outro, pode ser uma união maravilhosa."
+    },
+    {
+      "locale": "pt",
+      "category": "TEMPERAMENT",
+      "strength": "partner_stronger",
+      "description": "Neste casal, o nível de libido do seu parceiro é mais alto do que o seu. Às vezes, isso pode te deprimir ou frustrar. Do lado do seu parceiro, se ele não obtiver o que deseja, pode começar a buscar satisfação fora do relacionamento. Por outro lado, se ambos aprenderem a ceder e respeitar as necessidades um do outro, pode ser uma união maravilhosa."
+    }
+  ],
+  "translated": true
+}

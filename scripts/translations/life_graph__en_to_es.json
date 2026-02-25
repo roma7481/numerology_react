@@ -1,0 +1,66 @@
+{
+  "table": "life_graph",
+  "source_locale": "en",
+  "target_locale": "es",
+  "source_language": "English",
+  "target_language": "Spanish",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "es",
+      "number": 0,
+      "description": "Un pequeño suministro de energía vital, una persona necesita la ayuda de otras personas, por lo que está buscando nueva energía. La crisis en la vida humana, problemas o enfermedades graves. A veces, una persona está al borde de la muerte. La mitad del gráfico - puede significar muerte súbita, el final del gráfico - una larga enfermedad."
+    },
+    {
+      "locale": "es",
+      "number": 1,
+      "description": "Una persona controla su destino de manera independiente y no espera ayuda de otras personas. La energía vital es muy pequeña, por lo que las personas se cansan rápidamente. Si el horario es temprano - esto significa el nacimiento en condiciones adversas y familias disfuncionales. Según el gráfico, la curva se encuentra en el medio y al final - pobreza, pérdida de interés en la vida, enfermedad y depresión."
+    },
+    {
+      "locale": "es",
+      "number": 2,
+      "description": "Incertidumbre y una visión pesimista del futuro. Pérdida de energía a través de un mal período de la vida. La barra gris en la vida."
+    },
+    {
+      "locale": "es",
+      "number": 3,
+      "description": "Relaciones mutuas e intercambio de energía con otras personas, pero se logra con trabajo duro. La posición financiera no aumenta y no hay carrera."
+    },
+    {
+      "locale": "es",
+      "number": 4,
+      "description": "Buena salud y estado de ánimo positivo. Manifestación de talento, alta capacidad de trabajo, pero no hay oportunidad de convertirse en líder. La vida es interesante sin problemas."
+    },
+    {
+      "locale": "es",
+      "number": 5,
+      "description": "Cambio frecuente de lugar, viajando y conociendo nuevas personas. Hay un deseo de compartir amor y estar en el centro de atención, pero en la familia pueden ocurrir malentendidos con tu ser querido."
+    },
+    {
+      "locale": "es",
+      "number": 6,
+      "description": "Buen trabajo, nuevos conocidos con personas y exhibición de talento. Alta energía vital y muchos planes para el futuro."
+    },
+    {
+      "locale": "es",
+      "number": 7,
+      "description": "Buenas y estables relaciones en la familia y respeto por los colegas. Grandes planes para el futuro y la capacidad de realizar sus ideas. El hombre es capaz de comprometerse y defender sus opiniones. La manifestación de habilidades esotéricas."
+    },
+    {
+      "locale": "es",
+      "number": 8,
+      "description": "La persona es capaz de liderar un colectivo robótico, puede influir en otras personas y resolver problemas complejos. Una persona con un gran potencial de energía, hay un intercambio energético de otras personas y la capacidad de proporcionar varios pasos adelante. Alta habilidad esotérica. El hombre logra altos resultados en su carrera, éxito en los negocios y una buena posición financiera."
+    },
+    {
+      "locale": "es",
+      "number": 9,
+      "description": "Soledad con gran energía espiritual. Más atención se da a los bienes espirituales que a las cosas materiales. Una persona no está interesada en la nueva tecnología, sino en un buen maestro y un psicólogo. Capaz de dirigir a las personas hacia la correcta dirección vital. El alto nivel de conocimiento espiritual y respeto por las personas."
+    }
+  ],
+  "translated": true
+}

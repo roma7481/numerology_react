@@ -1,0 +1,61 @@
+{
+  "table": "couple_number",
+  "source_locale": "es",
+  "target_locale": "de",
+  "source_language": "Spanish",
+  "target_language": "German",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "number": 1,
+      "description": "Diese Kombination schafft eine sofortige Verbindung, die ein fließendes und einfaches Verständnis zwischen beiden Personen bietet, auch wenn sie gelegentlich bestimmte wettbewerbsorientierte Haltungen zeigen können.\n\nDiese Paare können fühlen, was der andere denkt und fühlt, seit dem ersten Kontakt. Wenn sie anfangen, über ihr Leben zu sprechen, werden sie sogar entdecken, dass sie sehr ähnliche Erfahrungen gemacht haben.\n\nHäufig erweist sich die Natürliche Partnerschaft als nicht so gute Begleiterin, was direkt damit zusammenhängt, dass einer von beiden die positive Seite der Zahl vibriert, während der andere in der negativen Vibration ist."
+    },
+    {
+      "locale": "de",
+      "number": 2,
+      "description": "In dieser Art von Beziehung ist jeder sehr unabhängig und entschlossen, das Beste für sich selbst zu suchen. Wenn es ihnen gelingt, ihre Interessen zu vereinen, um sich wohlzufühlen, haben sie eine gute Zukunft zusammen. Sie werden zu einem dynamischen und unabhängigen Paar, das sehr gut funktioniert.\n\nWenn sie jedoch keinen gemeinsamen Nenner finden und keiner bereit ist, nachzugeben, hat die Beziehung ihre Tage gezählt."
+    },
+    {
+      "locale": "de",
+      "number": 3,
+      "description": "Dieses Paar versteht sich sehr gut. Sie stimmen in ihrer Sichtweise der Welt überein, und wenn sie sich lieben, werden sie eine starke Unterstützung füreinander. Zusammen fühlen sie sich sicher und werden in der Lage sein, ein Leben zu schaffen, das sowohl ruhig als auch kreativ ist.\n\nAllerdings können sie zu abhängig voneinander werden. Suchen Sie persönliche Freiräume, um ein Ersticken zu vermeiden."
+    },
+    {
+      "locale": "de",
+      "number": 4,
+      "description": "Dieses Paar zeichnet sich durch fleißige Menschen aus, die wissen, was sie wollen, und hart arbeiten, um ihr Ziel zu erreichen. Das macht es zu einem Paar mit großem Zukunftspotenzial und der Fähigkeit, sich neu zu erfinden.\n\nWenn sie ein gemeinsames Lebensprojekt haben, werden sie ein stabiles Paar sein, das keine Probleme hat, seine Ziele zu erreichen."
+    },
+    {
+      "locale": "de",
+      "number": 5,
+      "description": "Dieses Paar ist ebenfalls fleißig, detailverliebt und sehr durchsetzungsfähig. Daher können sie zusammen ein Leben mit vielen Zufriedenheiten führen.\n\nDie konventionelle Prägung, die sie kennzeichnet, und ihre geringe Fähigkeit zur Erneuerung werden jedoch dazu führen, dass das Paar Gefahr läuft, in Monotonie und Langeweile zu verfallen. Sie müssen Wege finden, ihre Beziehung zu würzen, wenn sie weiterhin mit Begeisterung vorankommen wollen."
+    },
+    {
+      "locale": "de",
+      "number": 6,
+      "description": "Dieses Paar hat vor allem viel Haut. Wenn sie es schaffen, Projekte zu finden, die sie über die Zeit verbinden, werden sie ihre Beziehung mit der gleichen Leidenschaft leben wie am ersten Tag.\n\nWenn sie jedoch ihre gemeinsamen Punkte nicht entdecken, werden sie ein etwas oberflächliches Paar sein, das seine besten Momente in der Intimität hat."
+    },
+    {
+      "locale": "de",
+      "number": 7,
+      "description": "Das Paar kann gut funktionieren, solange sie in ihren Absichten klar sind. Denn beide sind ein wenig individualistisch, und wenn sie nicht miteinander sprechen, wird keiner einen Schritt zurückweichen. Das kann dazu führen, dass die Beziehung ein Desaster wird.\n\nWenn sie es schaffen, sich ehrlich zu verstehen und zuzuhören, können sie ein gutes Gleichgewicht erreichen, das sie dazu bringt, sich miteinander wohlzufühlen."
+    },
+    {
+      "locale": "de",
+      "number": 8,
+      "description": "Dieses Paar ist kreativ, beliebt und voller Energie. Gemeinsam werden sie ein Meer aus Enthusiasmus sein: Es wird kein Ziel geben, das ihnen schwer zu erreichen erscheint. So sind sie ein gutes Paar und verstehen sich gut, aber sie müssen lernen, konkrete Ziele zu setzen.\n\nWenn sie sich vom Enthusiasmus mitreißen lassen, können sie am Ende Fehler machen, die sie in große Krisen stürzen, die vielleicht schwer zu überwinden sind. Deshalb ist es besser, einen Aktionsplan zu haben und sich nicht zu sehr vom Impuls leiten zu lassen."
+    },
+    {
+      "locale": "de",
+      "number": 9,
+      "description": "Es ist ein Paar, das sehr romantisch sein wird. Diese ewigen Verliebten, denen die Jahre nicht das Gefühl nehmen, das sie füreinander haben. Wenn ihre Liebe tief ist, kann es das ideale Paar sein.\n\nAllerdings müssen sie lernen, mit ihren Emotionen umzugehen, denn beide sind sehr sensibel. Wenn sie sich verletzen, werden die Wunden tief sein und der Schmerz lange anhalten."
+    }
+  ],
+  "translated": true
+}

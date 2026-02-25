@@ -1,0 +1,71 @@
+{
+  "table": "character_number",
+  "source_locale": "ru",
+  "target_locale": "de",
+  "source_language": "Russian",
+  "target_language": "German",
+  "key_columns": [
+    "number"
+  ],
+  "text_columns": [
+    "description"
+  ],
+  "rows": [
+    {
+      "locale": "de",
+      "number": 1,
+      "description": "Menschen mit der Eins sind zielstrebige und starke Persönlichkeiten, die aktiv auf ihr Ziel hinarbeiten; sie blicken optimistisch in die Zukunft, sind ziemlich stur und selbstsicher, sehr ehrgeizig und oft aggressiv, wobei ihre Aggression immer damit verbunden ist, dass sie glauben, jemand versuche, \"sie zu belehren\" oder ihnen in den Weg zu stehen. Mit aller Kraft werden sie ihre Unabhängigkeit und ihr Recht verteidigen. Sie haben ein ausgezeichnetes Gedächtnis, sind äußerst organisiert und können mehrere Aufgaben gleichzeitig erledigen - da sie über eine außergewöhnliche Konzentrationsfähigkeit verfügen. Im Leben streben sie nach allem Neuen und Unbekannten, führen oft andere Menschen an - aufgrund ihrer ausgeprägten Führungsqualitäten - aber hören niemals auf die Meinungen anderer. In einem Team ist es schwierig, mit ihnen zu arbeiten: Sie sind Individualisten, und wenn sie Macht erlangen, bevorzugen sie einen autoritären Führungsstil."
+    },
+    {
+      "locale": "de",
+      "number": 2,
+      "description": "Menschen mit der Zwei sind es gewohnt, zwischen den Interessen anderer zu lavieren, sie sind sehr sanft und taktvoll, haben Angst, andere Menschen zu beleidigen, sind immer auf Kompromisse eingestellt und ziehen es vor, eine Atmosphäre des Friedens und der Harmonie um sich herum zu schaffen. Sie nutzen niemals ihre Vorteile, wenn sie damit ihren Freund oder Partner verletzen könnten, ziehen es vor, nicht zu kämpfen, sondern zu kooperieren, drängen sich niemals in die Führungsrolle und es fällt ihnen viel leichter, sich zu unterwerfen, als Entscheidungen zu treffen. Sie sind fleißige, ordentliche und bescheidene Angestellte. Menschen mit der Zwei können Schüchternheit, Verschlossenheit und Unentschlossenheit besitzen und neigen dazu, Verantwortung zu meiden. Oft haben sie keine eigene Meinung und keine eigenen Gedanken, denken alles sorgfältig durch und planen. Und - leider - leiden sie oft unter Depressionen. Daher ihre Verschlossenheit und Traurigkeit, ihre Unfähigkeit zu lachen."
+    },
+    {
+      "locale": "de",
+      "number": 3,
+      "description": "Menschen mit der Drei haben einen fröhlichen Charakter, sehen alles mit Humor, sie sind im Leben erfolgreich, talentiert und vielseitig, sie haben eine beneidenswerte Energie und lieben es, einen aktiven Lebensstil zu führen, sie geben leicht Geld aus, sind großzügig und wohlwollend. Menschen mit der Drei sind kreative Naturen, sie haben eine reiche Vorstellungskraft und sind von Natur aus sehr begabt. Die größten Möglichkeiten dieser Menschen liegen im Bereich der Kunst, denn sie haben ein literarisches oder künstlerisches Talent, und das Wichtigste für sie ist, ihre Empfindungen in Worten, Farben oder Klängen auszudrücken. Sie sind redegewandt, können kommunizieren, sind im Freundeskreis oft die Führer, haben aber als Nachteil Eigenschaften wie übermäßigen Stolz, Selbstgefälligkeit, Egoismus und Unabhängigkeit, Ehrgeiz, Autorität, manchmal Überheblichkeit und unverhohlene Grobheit. Außerdem verschwenden sie oft unnötig ihre Kräfte auf viele belanglose Dinge, nehmen jedoch nichts ernst. Diese Sorglosigkeit hindert sie oft daran, das zu werden, wozu sie geboren wurden - genial."
+    },
+    {
+      "locale": "de",
+      "number": 4,
+      "description": "Menschen mit der Zahl vier sind die Zugpferde der Geschichte; da die Zahl 4 Willenskraft, Ausdauer und Beharrlichkeit auf dem Weg zum Ziel zeigt, erreichen solche Menschen ihren Erfolg durch harte Arbeit. Trotz der Schwierigkeiten streben sie dennoch unermüdlich ihrem Ziel entgegen. Sie sind rational, nicht mit reicher Vorstellungskraft gesegnet, aber praktisch und fleißig. Obwohl sie selbst keine kreativen Impulse haben, wissen sie, wie sie kreative Menschen führen können, indem sie diese nach ihrem Ermessen gruppieren und ihr Talent nutzen. Als Administratoren sind sie genau am richtigen Platz. Sie besitzen ein starkes Pflichtbewusstsein, lieben Gerechtigkeit, schätzen die materielle Seite des Lebens - gut essen, sich entspannen, und streben immer nach Stabilität und Wohlstand. Gleichzeitig fehlt ihnen oft die Weite des Denkens, sie erleben häufig Stress, können unruhig sein, nervös werden, in Langeweile verfallen und melancholisch werden. Im Leben haben sie nicht allzu viel Glück, obwohl sie hart arbeiten; oft fallen ihnen Unglücke und Misserfolge zu. Doch sie überwinden tapfer die Hindernisse, in dieser Hinsicht kennt ihre Geduld keine Grenzen."
+    },
+    {
+      "locale": "de",
+      "number": 5,
+      "description": "Menschen mit der Zahl fünf sind aktiv, unruhig, ungeduldig, intelligent und impulsiv. Sie lieben es zu reisen, viel zu sehen, viel zu hören und mit vielen zu kommunizieren. Für ein vollständiges Gefühl von Komfort benötigen sie einen Wechsel in ihrer gewohnten Welt, sonst leiden sie unter Langeweile und körperlichem Unwohlsein. Sie sind ziemlich ehrgeizig, aufbrausend und sehr sexuell. Daher fällt es den Fünfern beiderlei Geschlechts schwer, in der Familie treu zu bleiben, und sie geraten oft in Missverständnisse und Skandale. Aufgrund ihrer Unruhe und Unfähigkeit, sich zu konzentrieren, greifen sie häufig nach Aufgaben und lassen diese sofort wieder fallen; ihre Ausbildung erhalten sie oft nur halbherzig: Sie mögen es nicht zu arbeiten, sie wollen alles sofort lernen, aber so funktioniert es nicht.\n\nMänner spielen sehr oft mit Glücksspielen, wetten, spekulieren, lieben das Risiko und Abenteuer, während Frauen vorsichtiger sind, aber wenn ihr Interesse geweckt wird, vergessen sie jede Vorsicht. Diese Eigenschaft führt sie oft ins Unglück. Ständig an einem Ort zu arbeiten, können sie ebenfalls nicht, weshalb sie häufig den Arbeitsplatz wechseln. Routinetätigkeiten sind ihnen nicht möglich. Oft betrügen solche Menschen, lügen, führen ein ausschweifendes Leben, und gleichzeitig sind sie fröhlich, angenehm im Umgang, sorglos, es sei denn, sie beginnen, Mitleid mit sich selbst zu haben, was ihnen ebenfalls passiert."
+    },
+    {
+      "locale": "de",
+      "number": 6,
+      "description": "Menschen mit der Zahl sechs sind wunderbar ausgeglichen, gutmütig, zuverlässig, schaffen es immer, eine gemütliche Atmosphäre um sich herum zu schaffen, lieben ihr Zuhause und ihre Lieben und haben viele Freunde. Sie sind in allen Belangen wunderbare Menschen - treu, ehrlich, gewissenhaft, romantisch, sanft. Sie lieben Harmonie und Frieden und streben danach, alle Streitigkeiten und Konflikte sofort zu beenden; sie teilen großzügig ihre Wärme und, wenn Geld benötigt wird, auch ihr Geld. Aber in gewisser Weise sind sie sehr konservativ und nehmen die Ungezwungenheit offenerer Menschen nicht an, leiden unter der Taktlosigkeit anderer und ziehen es vor, Problemen aus dem Weg zu gehen, anstatt sie zu lösen, bis es ganz unmöglich wird, sie zu ignorieren. Sie sind fleißige Menschen, aber sie greifen nicht nach den Sternen, haben auch kein Geschäftstalent, aber sie sind in der Lage, Fehler bei denen zu finden, die die Welt aus Inspiration und nicht nach Vorschrift schaffen. Wenn sie eine hohe Position erreichen, kann sich ihr Charakter auch verschlechtern: Sie können nicht nur liebenswürdig und unauffällig sein, sondern auch eitel, überheblich, selbstzufrieden, aufdringlich und kleinlich."
+    },
+    {
+      "locale": "de",
+      "number": 7,
+      "description": "Menschen mit der Zahl sieben sind meist Introvertierte, sie lieben die Einsamkeit, sind mit ihren Gedanken beschäftigt, kontemplativ, haben Schwierigkeiten, Kontakt aufzunehmen, doch aufgrund ihrer inneren Konzentration sind sie zu tiefen Analysen fähig, sehr scharfsinnig, können Geheimnisse entschlüsseln und achten auf die kleinsten Details, die anderen entgehen. Oft werden unter dem Zeichen der sieben Dichter, Philosophen, Wissenschaftler und Mystiker geboren, und selbst wenn solche Talente fehlen, besitzen diese Menschen dennoch Intuition und eine ausgeprägte Vorstellungskraft. In der Kommunikation sind sie kühl, versuchen ihre innere Harmonie zu bewahren und lassen niemanden an die Geheimnisse ihrer Seele heran. Doch sie sind ständig auf der Suche nach einer bekannten Wahrheit. Oft neigen solche Menschen zur Träumerei, die seltsame und komplexe Fantasien hervorbringt.\n\nSie sind nicht redegewandt, daher fällt es ihnen schwer, ihre Empfindungen und Gedanken adäquat auszudrücken; sie ziehen es vor, ihre Gedanken zu Papier zu bringen, nehmen nicht an Streitgesprächen teil und weichen Auseinandersetzungen aus. Zu den Nachteilen zählt eine erhöhte Neigung zu düsteren Gedanken und Depressionen, Enttäuschungen im Leben, eine Neigung zu Selbstmord oder - zur Verschlossenheit, düsterem Sarkasmus und Misanthropie. Doch bei dem geringsten Erfolg, bei der Anerkennung blühen Menschen mit der Zahl sieben auf: Sie brauchen Lob, damit das Leben schön erscheint."
+    },
+    {
+      "locale": "de",
+      "number": 8,
+      "description": "Menschen mit der Zahl acht sind energisch, fähig, besitzen die Gabe, Kräfte an einem Punkt zu bündeln, um Ziele zu erreichen. Sie streben nach Erfolg und haben dabei einen praktischen, berechnenden und scharfen Verstand. Alle ihre Gedanken sind mit der materiellen Welt beschäftigt, und es bedarf nur geringer Anstrengungen, um den richtigen Weg der Kapitalanlage zu finden. Im Leben sind sie sehr \"beschäftigte\" Menschen, deren Gedanken sich um Geldströme oder das Schicksal ihrer Firmen drehen; oft werden sie zu Geschäftsleuten, und das ist ein Diagnose. Im Leben halten sie die Fähigkeit zu kämpfen, sich aus schwierigen Situationen zu winden, Schlupflöcher zu finden und dabei erfolgreich zu sein, für die Hauptmerkmale. Der wichtigste Indikator für den Wohlstand eines Menschen ist für sie die gesellschaftliche Stellung. Sie selbst sind vorsichtig und umsichtig, unternehmen keine riskanten Handlungen und handeln niemals ohne Rücksicht.\n\nWenn sie es zulassen, dass sich negative Eigenschaften entwickeln, sind sie die unangenehmsten Menschen - rücksichtslos, aggressiv, stur, grausam, lieben nur sich selbst, sind rücksichtslos in ihren Mitteln, despotisch und verachten diejenigen, die kein Geld haben. Äußerlich können sie grimmig und verschlossen wirken, doch niemand weiß, welche Leidenschaften in diesen Seelen brodeln, welche Gier sie von innen auffrisst. Gelegentlich lassen sie angestautes Ärger in den seltsamsten und wildesten Handlungen heraus. Sie sind schwer zu erziehen oder unterwerfen sich, aber mit enormer Mühe."
+    },
+    {
+      "locale": "de",
+      "number": 9,
+      "description": "Menschen mit der Zahl neun sind idealistisch, träumerisch, streben nach Verallgemeinerungen, oft abgehoben von der Erde, sehr romantisch, impulsiv, sogar leidenschaftlich, mit Charme ausgestattet und zärtlich sowie liebevoll. Sie respektieren und kümmern sich um ihre nahestehenden Menschen, möchten jedoch der Menschheit insgesamt dienen. In dieser Hinsicht sind sie vollkommen selbstlos und sehr großzügig. Die Menschen verstehen sie oft nicht und beginnen, sie zu schätzen, wenn sie nicht mehr da sind.\n\nSie sind gute Wissenschaftler, Lehrer und Künstler, die über Willenskraft und Mut verfügen, fähig zu inspirierenden Impulsen, die oft alle ermutigen, die den Mut verloren haben. Im Leben sind sie unpraktisch, denken nicht an sich selbst, sind sehr ehrlich und sagen daher unangenehme Dinge direkt ins Gesicht, sind aber gleichzeitig von verschiedenen Konventionen abhängig. Oft lassen sie sich leicht von einer Person, die ihnen angenehm erscheint, beeinflussen, und ihre Leidenschaft erlischt schnell. Sie streben danach, sich aus allem herauszuhalten. Sie fürchten sich sehr vor Armut, Alter und Elend. Oft widersprechen sie sich selbst, sind kinderlos, schroff, überheblich und mystisch."
+    },
+    {
+      "locale": "de",
+      "number": 11,
+      "description": "Menschen mit der Zahl elf gelten als seltsam, weil sie sich von anderen Menschen unterscheiden. Sie kommen in die Welt, um ihr etwas Neues zu bringen, einen gewissen Umbruch zu vollziehen. Sie haben eine hohe Intuition, besitzen beneidenswerte Energie und scheinen Anweisungen von höheren Mächten zu erhalten.\n\nUnter ihnen gibt es sowohl Genies als auch völlig Verrückte. Oft werden sie zu Predigern oder Sehern. Sie haben die Gabe der Überzeugung, sind mutig, entschlossen und überzeugt von ihrem Recht. Das Leben mit ihnen ist sehr schwierig, denn um ihre Mission zu erfüllen, sind sie bereit, alles, was sie lieben, zu opfern. Daher leben sie meist in Einsamkeit."
+    },
+    {
+      "locale": "de",
+      "number": 22,
+      "description": "Menschen mit der Zahl zweiundzwanzig sind mit allen besten Eigenschaften ausgestattet, die man sich nur vorstellen kann.\n\nSie sind energisch und neigen zur Führung, sind ausgeglichen und sensibel, besitzen ein kreatives Talent, sind sehr flexibel, harmonisch, fähig zu hoher Konzentration des Denkens, haben geschäftliche Qualitäten, ein hohes spirituelles Potenzial und, wie man so schön sagt, Charisma.\n\nDeshalb werden solche Menschen oft zu Führern von Volksbewegungen oder großen Wissenschaftlern, Ärzten, Philosophen, Geschäftsleuten, Magiern."
+    }
+  ],
+  "translated": true
+}
