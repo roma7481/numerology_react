@@ -58,7 +58,9 @@ export default function CategoryDetailScreen() {
     const [loading, setLoading] = useState(true);
     const [mainNumber, setMainNumber] = useState<number | number[]>(0);
     const [readings, setReadings] = useState<{ number: number; data: Record<string, any> | null }[]>([]);
+    const [categoryInfo, setCategoryInfo] = useState('');
     const [expandedSections, setExpandedSections] = useState<Set<number>>(new Set([0]));
+    const [infoExpanded, setInfoExpanded] = useState(false);
     const [nameModalVisible, setNameModalVisible] = useState(false);
     const [profileModalVisible, setProfileModalVisible] = useState(false);
 
@@ -88,6 +90,10 @@ export default function CategoryDetailScreen() {
             const locale = language || 'en';
             const result = calculateForCategory(categoryId, context);
             setMainNumber(result);
+
+            // Load category info/description from table_description
+            const info = await dbService.getTableDescription(catDef.table, locale);
+            setCategoryInfo(info);
 
             const results: { number: number; data: Record<string, any> | null }[] = [];
 
@@ -329,6 +335,42 @@ export default function CategoryDetailScreen() {
                         </Animated.View>
                     )}
 
+                    {/* Category Info - always last */}
+                    {categoryInfo ? (
+                        <Animated.View entering={FadeInUp.duration(400).delay(50)} style={styles.readingsSection}>
+                            <TouchableOpacity
+                                style={[styles.infoCard, {
+                                    backgroundColor: isDark ? 'rgba(255,255,255,0.05)' : '#fff',
+                                    borderColor: colors.cardBorder,
+                                }]}
+                                activeOpacity={0.8}
+                                onPress={() => setInfoExpanded(!infoExpanded)}
+                            >
+                                <View style={[styles.meaningIcon, { backgroundColor: isDark ? 'rgba(255,255,255,0.1)' : (colors.categoryColors[catDef?.colorKey || 'lifePath']?.bgFill || colors.primary + '15') }]}>
+                                    <Ionicons name="information-circle" size={20} color={colors.categoryColors[catDef?.colorKey || 'lifePath']?.color || colors.primary} />
+                                </View>
+                                <View style={styles.meaningContent}>
+                                    <View style={styles.meaningHeaderRow}>
+                                        <Text style={[styles.meaningTitle, { color: colors.textTitle }]} numberOfLines={1}>
+                                            {t('category.about') || 'About'}
+                                        </Text>
+                                        <Ionicons
+                                            name={infoExpanded ? 'chevron-up' : 'chevron-down'}
+                                            size={18}
+                                            color={colors.textSecondary}
+                                        />
+                                    </View>
+                                    <Text
+                                        style={[styles.fieldText, { color: colors.textSecondary, marginTop: Spacing.xs }]}
+                                        numberOfLines={infoExpanded ? undefined : 2}
+                                    >
+                                        {categoryInfo}
+                                    </Text>
+                                </View>
+                            </TouchableOpacity>
+                        </Animated.View>
+                    ) : null}
+
                     <View style={{ height: Spacing.huge * 2 }} />
                 </View>
             </LinearGradient>
@@ -424,6 +466,14 @@ const styles = StyleSheet.create({
     // Reading cards — biorhythm meaning-card style
     readingsSection: {
         paddingHorizontal: Spacing.l,
+        gap: Spacing.m,
+    },
+    infoCard: {
+        flexDirection: 'row',
+        alignItems: 'flex-start',
+        padding: Spacing.l,
+        borderRadius: BorderRadius.m,
+        borderWidth: 1,
         gap: Spacing.m,
     },
     meaningCard: {

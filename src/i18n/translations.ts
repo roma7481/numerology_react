@@ -178,6 +178,7 @@ export const translations = {
             needs_partner: "Please enter your partner's date of birth in your profile.",
             needs_name: "Please enter your first and last name in your profile to see this reading.",
             no_missing_numbers: "No missing numbers — all energies are present!",
+            about: "About",
         },
         category_titles: {
             life_path: "Life Path",
@@ -411,6 +412,7 @@ export const translations = {
             needs_partner: "Bitte geben Sie das Geburtsdatum Ihres Partners in Ihrem Profil ein.",
             needs_name: "Bitte geben Sie Ihren Vor- und Nachnamen in Ihrem Profil ein, um diese Lesung zu sehen.",
             no_missing_numbers: "Keine fehlenden Zahlen — alle Energien sind vorhanden!",
+            about: "Über",
         },
         category_titles: {
             life_path: "Lebensweg",
@@ -644,6 +646,7 @@ export const translations = {
             needs_partner: "Ingrese la fecha de nacimiento de su pareja en su perfil.",
             needs_name: "Ingrese su nombre y apellido en su perfil para ver esta lectura.",
             no_missing_numbers: "¡Sin números faltantes — todas las energías están presentes!",
+            about: "Acerca de",
         },
         category_titles: {
             life_path: "Camino de Vida",
@@ -877,6 +880,7 @@ export const translations = {
             needs_partner: "Veuillez entrer la date de naissance de votre partenaire dans votre profil.",
             needs_name: "Veuillez entrer votre nom et prénom dans votre profil pour voir cette lecture.",
             no_missing_numbers: "Aucun nombre manquant — toutes les énergies sont présentes !",
+            about: "À propos",
         },
         category_titles: {
             life_path: "Chemin de Vie",
@@ -1110,6 +1114,7 @@ export const translations = {
             needs_partner: "Inserisci la data di nascita del tuo partner nel tuo profilo.",
             needs_name: "Inserisci il tuo nome e cognome nel tuo profilo per vedere questa lettura.",
             no_missing_numbers: "Nessun numero mancante — tutte le energie sono presenti!",
+            about: "Informazioni",
         },
         category_titles: {
             life_path: "Percorso di Vita",
@@ -1343,6 +1348,7 @@ export const translations = {
             needs_partner: "Insira a data de nascimento do seu parceiro no seu perfil.",
             needs_name: "Insira seu nome e sobrenome em seu perfil para ver esta leitura.",
             no_missing_numbers: "Nenhum número faltante — todas as energias estão presentes!",
+            about: "Sobre",
         },
         category_titles: {
             life_path: "Caminho de Vida",
@@ -1576,6 +1582,7 @@ export const translations = {
             needs_partner: "Укажите дату рождения партнёра в профиле.",
             needs_name: "Укажите имя и фамилию в профиле, чтобы увидеть этот раздел.",
             no_missing_numbers: "Нет отсутствующих чисел — все энергии присутствуют!",
+            about: "О категории",
         },
         category_titles: {
             life_path: "Путь Жизни",

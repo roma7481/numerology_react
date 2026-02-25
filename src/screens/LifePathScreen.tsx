@@ -55,7 +55,9 @@ export default function LifePathScreen() {
     const [loading, setLoading] = useState(true);
     const [mainReading, setMainReading] = useState<Record<string, any> | null>(null);
     const [mainNumber, setMainNumber] = useState(0);
+    const [categoryInfo, setCategoryInfo] = useState('');
     const [expandedSections, setExpandedSections] = useState<Set<number>>(new Set());
+    const [infoExpanded, setInfoExpanded] = useState(false);
 
     const context: NumerologyContext = useMemo(() => ({
         language,
@@ -80,6 +82,10 @@ export default function LifePathScreen() {
             setMainNumber(lifePathNum);
             const lifePathReading = await dbService.getByNumber('life_path_number', locale, lifePathNum);
             setMainReading(lifePathReading);
+
+            // Load category info from table_description
+            const info = await dbService.getTableDescription('life_path_number', locale);
+            setCategoryInfo(info);
         } catch (e) {
             console.error('LifePathScreen loadData error:', e);
         } finally {
@@ -223,6 +229,41 @@ export default function LifePathScreen() {
                         </View>
                     )}
 
+                    {/* Category Info - always last */}
+                    {categoryInfo ? (
+                        <Animated.View entering={FadeInUp.duration(400).delay(50)} style={styles.readingsSection}>
+                            <TouchableOpacity
+                                style={[styles.infoCard, {
+                                    backgroundColor: isDark ? 'rgba(255,255,255,0.05)' : '#fff',
+                                    borderColor: colors.cardBorder,
+                                }]}
+                                activeOpacity={0.8}
+                                onPress={() => setInfoExpanded(!infoExpanded)}
+                            >
+                                <View style={[styles.meaningIcon, { backgroundColor: iconBg }]}>
+                                    <Ionicons name="information-circle" size={20} color={iconColor} />
+                                </View>
+                                <View style={styles.meaningContent}>
+                                    <View style={styles.meaningHeaderRow}>
+                                        <Text style={[styles.meaningTitle, { color: colors.textTitle }]} numberOfLines={1}>
+                                            {t('category.about') || 'About'}
+                                        </Text>
+                                        <Ionicons
+                                            name={infoExpanded ? 'chevron-up' : 'chevron-down'}
+                                            size={18}
+                                            color={colors.textSecondary}
+                                        />
+                                    </View>
+                                    <Text
+                                        style={[styles.fieldText, { color: colors.textSecondary, marginTop: Spacing.xs }]}
+                                        numberOfLines={infoExpanded ? undefined : 2}
+                                    >
+                                        {categoryInfo}
+                                    </Text>
+                                </View>
+                            </TouchableOpacity>
+                        </Animated.View>
+                    ) : null}
 
                     <View style={{ height: Spacing.huge * 2 }} />
                 </View>
@@ -309,6 +350,14 @@ const styles = StyleSheet.create({
     },
     smallBadgeText: { fontSize: 14, fontFamily: 'Manrope-Bold' },
     meaningCard: {
+        flexDirection: 'row',
+        alignItems: 'flex-start',
+        padding: Spacing.l,
+        borderRadius: BorderRadius.m,
+        borderWidth: 1,
+        gap: Spacing.m,
+    },
+    infoCard: {
         flexDirection: 'row',
         alignItems: 'flex-start',
         padding: Spacing.l,
