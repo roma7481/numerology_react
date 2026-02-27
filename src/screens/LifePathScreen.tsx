@@ -16,6 +16,7 @@ import { Typography } from '../theme/Typography';
 import { Spacing, BorderRadius } from '../theme/Spacing';
 import { useTranslation } from '../i18n';
 import { ALL_CATEGORIES, ColorKey } from '../config/CategoryConfig';
+import BannerAdWrapper from '../components/ads/BannerAdWrapper';
 
 // Icon map for each database field
 const FIELD_ICONS: Record<string, { name: string; set: 'ionicons' | 'material' }> = {
@@ -123,152 +124,155 @@ export default function LifePathScreen() {
     }
 
     return (
-        <ScrollView style={styles.container} bounces={false}>
-            <LinearGradient colors={colors.backgroundGradient} style={styles.fullBackground}>
-                <View style={[styles.content, { paddingTop: insets.top }]}>
-                    {/* Header */}
-                    <Animated.View entering={FadeInDown.duration(400)} style={styles.header}>
-                        <View style={styles.headerTopRow}>
-                            <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backBtn}>
-                                <Ionicons name="arrow-back" size={24} color={colors.textTitle} />
-                            </TouchableOpacity>
-                            <TouchableOpacity onPress={handleShare} style={styles.shareBtn}>
-                                <Ionicons name="share-social" size={22} color={colors.textTitle} />
-                            </TouchableOpacity>
-                        </View>
-                        <Text style={[styles.title, { color: colors.textTitle }]}>
-                            {t('category_titles.life_path' as any)}
-                        </Text>
-                    </Animated.View>
-
-                    {/* Number Circle */}
-                    <Animated.View entering={FadeInUp.duration(500).delay(100)} style={styles.numberBadgeWrapper}>
-                        <View style={styles.heroWrapper}>
-                            <View style={[StyleSheet.absoluteFill, { alignItems: 'center', justifyContent: 'center' }]}>
-                                <Svg width={270} height={270} viewBox="0 0 270 270">
-                                    <Defs>
-                                        <RadialGradient id="lpGlow" cx="50%" cy="50%" rx="50%" ry="50%" fx="50%" fy="50%">
-                                            <Stop offset="0%" stopColor={iconColor} stopOpacity="0.35" />
-                                            <Stop offset="100%" stopColor={iconColor} stopOpacity="0" />
-                                        </RadialGradient>
-                                    </Defs>
-                                    <SvgCircle cx={135} cy={135} r={135} fill="url(#lpGlow)" />
-                                    {[180, 202, 225, 248].map((d, i) => (
-                                        <SvgCircle
-                                            key={i} cx={135} cy={135} r={d / 2}
-                                            fill="none"
-                                            stroke={iconColor}
-                                            strokeWidth={0.8}
-                                            strokeDasharray="1, 8"
-                                            strokeLinecap="round"
-                                            opacity={isDark ? 0.4 : 0.3}
-                                        />
-                                    ))}
-                                </Svg>
+        <View style={{ flex: 1 }}>
+            <ScrollView style={styles.container} bounces={false}>
+                <LinearGradient colors={colors.backgroundGradient} style={styles.fullBackground}>
+                    <View style={[styles.content, { paddingTop: insets.top }]}>
+                        {/* Header */}
+                        <Animated.View entering={FadeInDown.duration(400)} style={styles.header}>
+                            <View style={styles.headerTopRow}>
+                                <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backBtn}>
+                                    <Ionicons name="arrow-back" size={24} color={colors.textTitle} />
+                                </TouchableOpacity>
+                                <TouchableOpacity onPress={handleShare} style={styles.shareBtn}>
+                                    <Ionicons name="share-social" size={22} color={colors.textTitle} />
+                                </TouchableOpacity>
                             </View>
-                            <View style={[styles.mainCircle, {
-                                backgroundColor: isDark ? 'rgba(255,255,255,0.06)' : iconBg,
-                                borderColor: isDark ? 'rgba(255,255,255,0.8)' : 'rgba(255,255,255,0.5)',
-                                borderWidth: isDark ? 1.5 : 1,
-                                shadowColor: isDark ? 'transparent' : iconColor,
-                            }]}>
-                                <Text style={[styles.numberText, { color: iconColor }]}>
-                                    {mainNumber}
-                                </Text>
-                            </View>
-                        </View>
-                    </Animated.View>
-
-                    {/* Main Reading - each field as separate card */}
-                    {mainReading && (
-                        <View style={styles.readingsSection}>
-                            <Text style={[styles.sectionLabel, { color: colors.textTitle }]}>
-                                {t('category.life_path_reading')}
+                            <Text style={[styles.title, { color: colors.textTitle }]}>
+                                {t('category_titles.life_path' as any)}
                             </Text>
-                            {Object.entries(mainReading)
-                                .filter(([k, v]) => v && !['id', 'locale', 'number', 'type', 'level'].includes(k))
-                                .map(([key, val], fIndex) => {
-                                    const isExpanded = expandedSections.has(fIndex);
-                                    const fIcon = FIELD_ICONS[key] || { name: 'document-text', set: 'ionicons' };
-                                    const fieldTitle = key.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+                        </Animated.View>
 
-                                    return (
-                                        <Animated.View key={key} entering={FadeInUp.duration(400).delay(200 + fIndex * 60)}>
-                                            <TouchableOpacity
-                                                style={[styles.meaningCard, {
-                                                    backgroundColor: isDark ? 'rgba(255,255,255,0.05)' : '#fff',
-                                                    borderColor: colors.cardBorder,
-                                                }]}
-                                                activeOpacity={0.8}
-                                                onPress={() => toggleSection(fIndex)}
-                                            >
-                                                <View style={[styles.meaningIcon, { backgroundColor: iconBg }]}>
-                                                    <Ionicons name={fIcon.name as any} size={20} color={iconColor} />
-                                                </View>
-                                                <View style={styles.meaningContent}>
-                                                    <View style={styles.meaningHeaderRow}>
-                                                        <Text style={[styles.meaningTitle, { color: colors.textTitle }]} numberOfLines={1}>
-                                                            {fieldTitle}
-                                                        </Text>
-                                                        <Ionicons
-                                                            name={isExpanded ? 'chevron-up' : 'chevron-down'}
-                                                            size={18}
-                                                            color={colors.textSecondary}
-                                                        />
-                                                    </View>
-                                                    {isExpanded && (
-                                                        <Text style={[styles.fieldText, { color: colors.textPrimary, marginTop: Spacing.s }]}>
-                                                            {String(val)}
-                                                        </Text>
-                                                    )}
-                                                </View>
-                                            </TouchableOpacity>
-                                        </Animated.View>
-                                    );
-                                })}
-                        </View>
-                    )}
-
-                    {/* Category Info - always last */}
-                    {categoryInfo ? (
-                        <Animated.View entering={FadeInUp.duration(400).delay(50)} style={styles.readingsSection}>
-                            <TouchableOpacity
-                                style={[styles.infoCard, {
-                                    backgroundColor: isDark ? 'rgba(255,255,255,0.05)' : '#fff',
-                                    borderColor: colors.cardBorder,
-                                }]}
-                                activeOpacity={0.8}
-                                onPress={() => setInfoExpanded(!infoExpanded)}
-                            >
-                                <View style={[styles.meaningIcon, { backgroundColor: iconBg }]}>
-                                    <Ionicons name="information-circle" size={20} color={iconColor} />
+                        {/* Number Circle */}
+                        <Animated.View entering={FadeInUp.duration(500).delay(100)} style={styles.numberBadgeWrapper}>
+                            <View style={styles.heroWrapper}>
+                                <View style={[StyleSheet.absoluteFill, { alignItems: 'center', justifyContent: 'center' }]}>
+                                    <Svg width={270} height={270} viewBox="0 0 270 270">
+                                        <Defs>
+                                            <RadialGradient id="lpGlow" cx="50%" cy="50%" rx="50%" ry="50%" fx="50%" fy="50%">
+                                                <Stop offset="0%" stopColor={iconColor} stopOpacity="0.35" />
+                                                <Stop offset="100%" stopColor={iconColor} stopOpacity="0" />
+                                            </RadialGradient>
+                                        </Defs>
+                                        <SvgCircle cx={135} cy={135} r={135} fill="url(#lpGlow)" />
+                                        {[180, 202, 225, 248].map((d, i) => (
+                                            <SvgCircle
+                                                key={i} cx={135} cy={135} r={d / 2}
+                                                fill="none"
+                                                stroke={iconColor}
+                                                strokeWidth={0.8}
+                                                strokeDasharray="1, 8"
+                                                strokeLinecap="round"
+                                                opacity={isDark ? 0.4 : 0.3}
+                                            />
+                                        ))}
+                                    </Svg>
                                 </View>
-                                <View style={styles.meaningContent}>
-                                    <View style={styles.meaningHeaderRow}>
-                                        <Text style={[styles.meaningTitle, { color: colors.textTitle }]} numberOfLines={1}>
-                                            {t('category.about') || 'About'}
-                                        </Text>
-                                        <Ionicons
-                                            name={infoExpanded ? 'chevron-up' : 'chevron-down'}
-                                            size={18}
-                                            color={colors.textSecondary}
-                                        />
-                                    </View>
-                                    <Text
-                                        style={[styles.fieldText, { color: colors.textSecondary, marginTop: Spacing.xs }]}
-                                        numberOfLines={infoExpanded ? undefined : 2}
-                                    >
-                                        {categoryInfo}
+                                <View style={[styles.mainCircle, {
+                                    backgroundColor: isDark ? 'rgba(255,255,255,0.06)' : iconBg,
+                                    borderColor: isDark ? 'rgba(255,255,255,0.8)' : 'rgba(255,255,255,0.5)',
+                                    borderWidth: isDark ? 1.5 : 1,
+                                    shadowColor: isDark ? 'transparent' : iconColor,
+                                }]}>
+                                    <Text style={[styles.numberText, { color: iconColor }]}>
+                                        {mainNumber}
                                     </Text>
                                 </View>
-                            </TouchableOpacity>
+                            </View>
                         </Animated.View>
-                    ) : null}
 
-                    <View style={{ height: Spacing.huge * 2 }} />
-                </View>
-            </LinearGradient>
-        </ScrollView>
+                        {/* Main Reading - each field as separate card */}
+                        {mainReading && (
+                            <View style={styles.readingsSection}>
+                                <Text style={[styles.sectionLabel, { color: colors.textTitle }]}>
+                                    {t('category.life_path_reading')}
+                                </Text>
+                                {Object.entries(mainReading)
+                                    .filter(([k, v]) => v && !['id', 'locale', 'number', 'type', 'level'].includes(k))
+                                    .map(([key, val], fIndex) => {
+                                        const isExpanded = expandedSections.has(fIndex);
+                                        const fIcon = FIELD_ICONS[key] || { name: 'document-text', set: 'ionicons' };
+                                        const fieldTitle = key.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
+                                        return (
+                                            <Animated.View key={key} entering={FadeInUp.duration(400).delay(200 + fIndex * 60)}>
+                                                <TouchableOpacity
+                                                    style={[styles.meaningCard, {
+                                                        backgroundColor: isDark ? 'rgba(255,255,255,0.05)' : '#fff',
+                                                        borderColor: colors.cardBorder,
+                                                    }]}
+                                                    activeOpacity={0.8}
+                                                    onPress={() => toggleSection(fIndex)}
+                                                >
+                                                    <View style={[styles.meaningIcon, { backgroundColor: iconBg }]}>
+                                                        <Ionicons name={fIcon.name as any} size={20} color={iconColor} />
+                                                    </View>
+                                                    <View style={styles.meaningContent}>
+                                                        <View style={styles.meaningHeaderRow}>
+                                                            <Text style={[styles.meaningTitle, { color: colors.textTitle }]} numberOfLines={1}>
+                                                                {fieldTitle}
+                                                            </Text>
+                                                            <Ionicons
+                                                                name={isExpanded ? 'chevron-up' : 'chevron-down'}
+                                                                size={18}
+                                                                color={colors.textSecondary}
+                                                            />
+                                                        </View>
+                                                        {isExpanded && (
+                                                            <Text style={[styles.fieldText, { color: colors.textPrimary, marginTop: Spacing.s }]}>
+                                                                {String(val)}
+                                                            </Text>
+                                                        )}
+                                                    </View>
+                                                </TouchableOpacity>
+                                            </Animated.View>
+                                        );
+                                    })}
+                            </View>
+                        )}
+
+                        {/* Category Info - always last */}
+                        {categoryInfo ? (
+                            <Animated.View entering={FadeInUp.duration(400).delay(50)} style={styles.readingsSection}>
+                                <TouchableOpacity
+                                    style={[styles.infoCard, {
+                                        backgroundColor: isDark ? 'rgba(255,255,255,0.05)' : '#fff',
+                                        borderColor: colors.cardBorder,
+                                    }]}
+                                    activeOpacity={0.8}
+                                    onPress={() => setInfoExpanded(!infoExpanded)}
+                                >
+                                    <View style={[styles.meaningIcon, { backgroundColor: iconBg }]}>
+                                        <Ionicons name="information-circle" size={20} color={iconColor} />
+                                    </View>
+                                    <View style={styles.meaningContent}>
+                                        <View style={styles.meaningHeaderRow}>
+                                            <Text style={[styles.meaningTitle, { color: colors.textTitle }]} numberOfLines={1}>
+                                                {t('category.about') || 'About'}
+                                            </Text>
+                                            <Ionicons
+                                                name={infoExpanded ? 'chevron-up' : 'chevron-down'}
+                                                size={18}
+                                                color={colors.textSecondary}
+                                            />
+                                        </View>
+                                        <Text
+                                            style={[styles.fieldText, { color: colors.textSecondary, marginTop: Spacing.xs }]}
+                                            numberOfLines={infoExpanded ? undefined : 2}
+                                        >
+                                            {categoryInfo}
+                                        </Text>
+                                    </View>
+                                </TouchableOpacity>
+                            </Animated.View>
+                        ) : null}
+
+                        <View style={{ height: Spacing.huge * 2 }} />
+                    </View>
+                </LinearGradient>
+            </ScrollView>
+            <BannerAdWrapper />
+        </View>
     );
 }
 

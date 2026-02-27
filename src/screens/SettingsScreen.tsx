@@ -12,6 +12,7 @@ import {
     Linking,
     Clipboard,
 } from 'react-native';
+import { LinearGradient } from 'expo-linear-gradient';
 import DateTimePicker from '@react-native-community/datetimepicker';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import Animated, { FadeInDown, FadeInRight, Layout } from 'react-native-reanimated';
@@ -29,14 +30,16 @@ import { ProfileModal } from '../components/ProfileModal';
 import { LanguageModal } from '../components/LanguageModal';
 import { useTranslation } from '../i18n';
 import { LanguageType } from '../i18n/translations';
+import OtherAppsCarousel from '../components/OtherAppsCarousel';
 
 export default function SettingsScreen({ navigation }: any) {
     const {
         theme, setTheme, profileName, firstName, lastName, middleName, dateOfBirth,
-        language, setLanguage, activeProfileId,
+        language, setLanguage, activeProfileId, purchases,
         notificationsEnabled, setNotificationsEnabled, notificationTime, setNotificationTime
     } = useStore();
     const { t } = useTranslation();
+    const isPremium = purchases.premium || purchases.noAds;
     const [isModalVisible, setIsModalVisible] = React.useState(false);
     const [isLanguageModalVisible, setIsLanguageModalVisible] = React.useState(false);
     const [showTimePicker, setShowTimePicker] = React.useState(false);
@@ -166,7 +169,7 @@ Device: ${Device.modelName || 'Unknown'}
 
     const SettingRow = ({ icon, label, subLabel, value, onToggle, onPress, hasArrow, destructive }: any) => (
         <TouchableOpacity
-            style={[styles.settingRow, { backgroundColor: colors.cardBackground, borderBottomColor: isDark ? 'rgba(255,255,255,0.05)' : '#f8f9fa' }]}
+            style={[styles.settingRow, { backgroundColor: isDark ? colors.dailyNumberCircleInner : colors.cardBackground, borderBottomColor: isDark ? 'rgba(255,255,255,0.05)' : '#f8f9fa' }]}
             activeOpacity={0.7}
             onPress={onPress || onToggle}
         >
@@ -201,6 +204,10 @@ Device: ${Device.modelName || 'Unknown'}
 
     return (
         <View style={[styles.container, { backgroundColor: colors.background }]}>
+            <LinearGradient
+                colors={colors.backgroundGradient}
+                style={StyleSheet.absoluteFill}
+            />
             {/* Header */}
             <View style={[styles.header, { paddingTop: insets.top + Spacing.m }]}>
                 <TouchableOpacity onPress={() => navigation.goBack()} style={styles.headerButton}>
@@ -212,7 +219,7 @@ Device: ${Device.modelName || 'Unknown'}
 
             <ScrollView contentContainerStyle={styles.scrollContent} showsVerticalScrollIndicator={false}>
                 {/* Profile Card */}
-                <Animated.View entering={FadeInDown.duration(600)} style={[styles.profileCard, { backgroundColor: colors.cardBackground, shadowColor: colors.categoryCardShadow }]}>
+                <Animated.View entering={FadeInDown.duration(600)} style={[styles.profileCard, { backgroundColor: isDark ? colors.dailyNumberCircleInner : colors.cardBackground, shadowColor: colors.categoryCardShadow }]}>
                     <View style={styles.avatarWrapper}>
                         <View style={[styles.avatarCircle, { backgroundColor: colors.settingsAvatarCircle }]}>
                             <MaterialCommunityIcons name="meditation" size={32} color={colors.settingsAvatarIcon} />
@@ -223,28 +230,61 @@ Device: ${Device.modelName || 'Unknown'}
 
                         <View style={styles.birthRow}>
                             <Ionicons name="calendar-outline" size={14} color={colors.primary} />
-                            <Text style={[styles.profileSub, { color: colors.primary }]}>{formattedDob}</Text>
+                            <Text style={[styles.profileSub, { color: isDark ? '#FFD700' : colors.primary }]}>{formattedDob}</Text>
                         </View>
 
                         <View style={styles.birthRow}>
                             <MaterialCommunityIcons name="leaf" size={14} color={colors.primary} />
-                            <Text style={[styles.profileSub, { color: colors.primary }]}>
+                            <Text style={[styles.profileSub, { color: isDark ? '#FFD700' : colors.primary }]}>
                                 {firstName?.[0]}{lastName?.[0]}  {t('menu.life_path')} {lifePathNum}
                             </Text>
                         </View>
                     </View>
                     <TouchableOpacity
                         onPress={() => setIsModalVisible(true)}
-                        style={[styles.editButton, { backgroundColor: isDark ? 'rgba(0,229,255,0.1)' : '#f1f5f9' }]}
+                        style={[styles.editButton, { backgroundColor: isDark ? 'rgba(255,215,0,0.1)' : '#f1f5f9' }]}
                     >
-                        <Feather name="edit-2" size={18} color={isDark ? colors.primary : colors.textPrimary} />
+                        <Feather name="edit-2" size={18} color={isDark ? '#FFD700' : colors.textPrimary} />
                     </TouchableOpacity>
                 </Animated.View>
+
+                {/* Premium Card — below profile, only for non-premium */}
+                {!isPremium && (
+                    <Animated.View entering={FadeInDown.duration(600).delay(50)}>
+                        <TouchableOpacity
+                            activeOpacity={0.85}
+                            onPress={() => navigation.navigate('Home', { screen: 'Paywall' })}
+                            style={[
+                                styles.premiumCardOuter,
+                                {
+                                    backgroundColor: isDark ? 'rgba(255,200,100,0.08)' : '#fdf8ef',
+                                    borderColor: isDark ? 'rgba(224,170,62,0.3)' : '#f5e6c8',
+                                    borderWidth: 1,
+                                },
+                            ]}
+                        >
+
+                            <View style={styles.premiumContent}>
+                                <View style={styles.premiumLeft}>
+                                    <View style={[styles.premiumBadge, { backgroundColor: isDark ? '#e0aa3e' : '#d4a017' }]}>
+                                        <Ionicons name="diamond" size={12} color="#fff" />
+                                        <Text style={[styles.premiumBadgeText, { color: '#fff' }]}>PRO</Text>
+                                    </View>
+                                    <Text style={[styles.premiumTitle, { color: colors.textTitle }]}>{t('settings.premium')}</Text>
+                                    <Text style={[styles.premiumSub, { color: colors.textSecondary }]}>✨ Unlock all features & remove ads</Text>
+                                </View>
+                                <View style={[styles.premiumArrowCircle, { backgroundColor: isDark ? 'rgba(224,170,62,0.15)' : '#f5e6c8' }]}>
+                                    <Ionicons name="arrow-forward" size={20} color={isDark ? '#e0aa3e' : '#c4900a'} />
+                                </View>
+                            </View>
+                        </TouchableOpacity>
+                    </Animated.View>
+                )}
 
                 {/* Appearance */}
                 <Animated.View entering={FadeInDown.duration(600).delay(100)}>
                     {renderSectionTitle(t('settings.appearance'))}
-                    <View style={[styles.appearanceCard, { backgroundColor: colors.cardBackground }]}>
+                    <View style={[styles.appearanceCard, { backgroundColor: isDark ? colors.dailyNumberCircleInner : colors.cardBackground }]}>
                         <View style={[styles.rowLeft, { flex: 1, marginRight: Spacing.m }]}>
                             <View style={[styles.iconContainer, { backgroundColor: colors.settingsIconBg }]}>
                                 <Ionicons name="color-palette" size={20} color="#8b5cf6" />
@@ -337,15 +377,15 @@ Device: ${Device.modelName || 'Unknown'}
                     </View>
                 </Animated.View>
 
+                {/* More Apps */}
+                <Animated.View entering={FadeInDown.duration(600).delay(225)}>
+                    <OtherAppsCarousel />
+                </Animated.View>
+
                 {/* Account */}
                 <Animated.View entering={FadeInDown.duration(600).delay(250)}>
                     {renderSectionTitle(t('settings.account'))}
                     <View style={[styles.groupWrapper, { overflow: 'hidden', borderRadius: BorderRadius.m }]}>
-                        <SettingRow
-                            icon={<Ionicons name="card" size={20} color="#10b981" />}
-                            label={t('settings.premium')}
-                            hasArrow
-                        />
                         <SettingRow
                             icon={<Ionicons name="chatbubbles" size={20} color="#06b6d4" />}
                             label={t('settings.contact_us')}
@@ -421,9 +461,68 @@ const styles = StyleSheet.create({
         borderRadius: BorderRadius.xl, // Matching the very rounded look
         alignItems: 'center',
         justifyContent: 'space-between',
-        marginBottom: Spacing.xxl,
+        marginBottom: Spacing.m,
         borderWidth: 1,
         borderColor: 'rgba(255,255,255,0.05)',
+    },
+    premiumCardOuter: {
+        marginBottom: Spacing.xxl,
+        borderRadius: BorderRadius.xl,
+        padding: Spacing.xl,
+        overflow: 'hidden',
+    },
+    premiumGlow: {
+        position: 'absolute',
+        top: -40,
+        right: -40,
+        width: 120,
+        height: 120,
+        borderRadius: 60,
+        backgroundColor: 'rgba(255,255,255,0.12)',
+    },
+    premiumContent: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+    },
+    premiumLeft: {
+        flex: 1,
+        gap: 4,
+    },
+    premiumBadge: {
+        flexDirection: 'row',
+        alignItems: 'center',
+        gap: 4,
+        alignSelf: 'flex-start',
+        backgroundColor: 'rgba(0,0,0,0.2)',
+        paddingHorizontal: 10,
+        paddingVertical: 3,
+        borderRadius: 12,
+        marginBottom: 4,
+    },
+    premiumBadgeText: {
+        color: '#fbbf24',
+        fontSize: 11,
+        fontWeight: '800',
+        letterSpacing: 1,
+    },
+    premiumTitle: {
+        color: '#fff',
+        fontSize: 18,
+        fontWeight: '700',
+    },
+    premiumSub: {
+        color: 'rgba(255,255,255,0.75)',
+        fontSize: 13,
+        fontWeight: '500',
+    },
+    premiumArrowCircle: {
+        marginLeft: Spacing.m,
+        width: 44,
+        height: 44,
+        borderRadius: 22,
+        alignItems: 'center',
+        justifyContent: 'center',
     },
     profileInfo: {
         flexDirection: 'row',

@@ -24,6 +24,8 @@ export interface AppState {
     fatherName?: string; // Kept for legacy compatibility
     dateOfBirth: string; // DD/MM/YYYY
     partnerDateOfBirth?: string;
+    partnerFirstName?: string;
+    partnerLastName?: string;
     weddingDay?: string;
     theme: ThemeType;
     hasCompletedOnboarding: boolean;
@@ -33,6 +35,21 @@ export interface AppState {
 
     notificationsEnabled: boolean;
     notificationTime: string; // HH:mm
+
+    // Rate dialog state
+    rateClickCount: number;
+    hasRated: boolean;
+
+    // Ad state
+    interstitialClickCount: number;
+
+    // Purchase state
+    purchases: {
+        premium: boolean;
+        compatibility: boolean;
+        profiles: boolean;
+        noAds: boolean;
+    };
 
     // Actions
     setLanguage: (lang: string) => void;
@@ -45,6 +62,11 @@ export interface AppState {
     setActiveProfile: (id: string) => void;
     setNotificationsEnabled: (enabled: boolean) => void;
     setNotificationTime: (time: string) => void;
+    setPurchase: (productId: string, owned: boolean) => void;
+    incrementRateCount: () => number;
+    resetRateCount: () => void;
+    setHasRated: (value: boolean) => void;
+    incrementInterstitialCount: () => number;
 }
 
 export const useStore = create<AppState>()(
@@ -56,12 +78,18 @@ export const useStore = create<AppState>()(
             lastName: '',
             middleName: '',
             dateOfBirth: '01/01/1990',
+            partnerFirstName: '',
+            partnerLastName: '',
             theme: 'dark',
             hasCompletedOnboarding: false,
             profiles: [],
             activeProfileId: null,
             notificationsEnabled: false,
             notificationTime: '09:00',
+            rateClickCount: 0,
+            hasRated: false,
+            interstitialClickCount: 0,
+            purchases: { premium: false, compatibility: false, profiles: false, noAds: false },
 
             setLanguage: (lang) => set({ language: lang }),
             setProfile: (profile) => set((state) => ({ ...state, ...profile })),
@@ -99,6 +127,29 @@ export const useStore = create<AppState>()(
 
             setNotificationsEnabled: (enabled: boolean) => set({ notificationsEnabled: enabled }),
             setNotificationTime: (time: string) => set({ notificationTime: time }),
+            setPurchase: (productId: string, owned: boolean) => set((state) => {
+                const map: Record<string, keyof AppState['purchases']> = {
+                    'numerology_premium': 'premium',
+                    'compatibility_numerology': 'compatibility',
+                    'numerology_profiles': 'profiles',
+                    'numerology_no_ads': 'noAds',
+                };
+                const key = map[productId];
+                if (!key) return state;
+                return { purchases: { ...state.purchases, [key]: owned } };
+            }),
+            incrementRateCount: () => {
+                const newCount = get().rateClickCount + 1;
+                set({ rateClickCount: newCount });
+                return newCount;
+            },
+            resetRateCount: () => set({ rateClickCount: 0 }),
+            setHasRated: (value: boolean) => set({ hasRated: value }),
+            incrementInterstitialCount: () => {
+                const newCount = get().interstitialClickCount + 1;
+                set({ interstitialClickCount: newCount });
+                return newCount;
+            },
         }),
         {
             name: 'app-storage',

@@ -3,7 +3,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { getFocusedRouteNameFromRoute } from '@react-navigation/native';
 
 import CategoryStackNavigator from './CategoryStackNavigator';
-import CalendarScreen from '../screens/CalendarScreen';
+import ForecastStackNavigator from './ForecastStackNavigator';
 import ProfilesScreen from '../screens/ProfilesScreen';
 import SettingsScreen from '../screens/SettingsScreen';
 
@@ -14,12 +14,12 @@ import { Spacing } from '../theme/Spacing';
 
 export type RootTabParamList = {
     Home: undefined;
-    Readings: undefined;
+    Forecast: undefined;
     Profiles: undefined;
     Settings: undefined;
 };
 
-const HIDE_TAB_SCREENS = ['CategoryDetail', 'Psychomatrix', 'Biorhythms', 'LifePath'];
+const HIDE_TAB_SCREENS = ['CategoryDetail', 'Psychomatrix', 'Biorhythms', 'LifePath', 'Paywall', 'SecondaryBiorhythms', 'Compatibility'];
 
 const Tab = createBottomTabNavigator<RootTabParamList>();
 
@@ -58,7 +58,7 @@ export default function AppNavigator() {
                     tabBarIcon: ({ focused, color, size }) => {
                         let iconName: any = 'home';
                         if (route.name === 'Home') iconName = focused ? 'home' : 'home-outline';
-                        else if (route.name === 'Readings') iconName = focused ? 'calendar' : 'calendar-outline';
+                        else if (route.name === 'Forecast') iconName = focused ? 'calendar' : 'calendar-outline';
                         else if (route.name === 'Profiles') iconName = focused ? 'people' : 'people-outline';
                         else if (route.name === 'Settings') iconName = focused ? 'settings' : 'settings-outline';
                         return <Ionicons name={iconName} size={size} color={color} />;
@@ -67,7 +67,7 @@ export default function AppNavigator() {
             }}
         >
             <Tab.Screen name="Home" component={CategoryStackNavigator} />
-            <Tab.Screen name="Readings" component={CalendarScreen} />
+            <Tab.Screen name="Forecast" component={ForecastStackNavigator} />
             <Tab.Screen name="Profiles" component={ProfilesScreen} />
             <Tab.Screen name="Settings" component={SettingsScreen} />
         </Tab.Navigator>

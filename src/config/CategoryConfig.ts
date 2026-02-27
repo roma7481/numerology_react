@@ -48,9 +48,10 @@ export const ALL_CATEGORIES: CategoryDef[] = [
     { id: 'potential_number', table: 'potential_number', iconSet: 'ionicons', icon: 'rocket', colorKey: 'destiny', type: 'simple', needsName: true },
     { id: 'karmic_lesson', table: 'karmic_lesson', iconSet: 'ionicons', icon: 'infinite', colorKey: 'destiny', type: 'karmic', needsName: true },
     { id: 'planet_number', table: 'planet_number', iconSet: 'ionicons', icon: 'planet', colorKey: 'destiny', type: 'simple' },
-    { id: 'personal_year', table: 'personal_year', iconSet: 'ionicons', icon: 'calendar', colorKey: 'destiny', type: 'simple' },
-    { id: 'personal_month', table: 'personal_month', iconSet: 'ionicons', icon: 'today', colorKey: 'destiny', type: 'simple' },
-    { id: 'personal_day', table: 'personal_day', iconSet: 'ionicons', icon: 'time', colorKey: 'destiny', type: 'simple' },
+    { id: 'personal_year', table: 'personal_year', iconSet: 'ionicons', icon: 'calendar', colorKey: 'soulUrge', type: 'simple' },
+    { id: 'personal_month', table: 'personal_month', iconSet: 'ionicons', icon: 'today', colorKey: 'soulUrge', type: 'simple' },
+    { id: 'personal_day', table: 'personal_day', iconSet: 'ionicons', icon: 'time', colorKey: 'soulUrge', type: 'simple' },
+    { id: 'daily_lucky_number', table: 'daily_lucky_number', iconSet: 'ionicons', icon: 'star', colorKey: 'soulUrge', type: 'simple' },
 
     // ── Psychomatrix ──
     { id: 'psychomatrix', table: 'psychomatrix', iconSet: 'ionicons', icon: 'apps', colorKey: 'psychomatrix', type: 'psychomatrix' },
@@ -96,8 +97,13 @@ export function calculateForCategory(
             return NumbersCalculator.calcSoulNumberLetters(context);
         case 'desire_number':
             return NumbersCalculator.calcDesireNumber(context);
-        case 'love_number':
-            return NumbersCalculator.calcPartnerLoveNumber(day, month);
+        case 'love_number': {
+            if (!context.partnerDateOfBirth) return 0;
+            const pParts = context.partnerDateOfBirth.split('/');
+            const pDay = parseInt(pParts[0], 10);
+            const pMonth = parseInt(pParts[1], 10);
+            return NumbersCalculator.calcPartnerLoveNumber(pDay, pMonth);
+        }
         case 'couple_number':
             return NumbersCalculator.calcCoupleNumber(context);
         case 'marriage_number':
@@ -134,6 +140,8 @@ export function calculateForCategory(
             return NumbersCalculator.calcPersonalMonth(context);
         case 'personal_day':
             return NumbersCalculator.calcPersonalDay(context);
+        case 'daily_lucky_number':
+            return NumbersCalculator.calcLuckyDailyNumber(context, 0);
         default:
             return 0;
     }

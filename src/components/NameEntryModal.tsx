@@ -10,6 +10,7 @@ import {
     Platform,
     ScrollView,
 } from 'react-native';
+import { LinearGradient } from 'expo-linear-gradient';
 import Animated, { FadeInUp, FadeOutDown } from 'react-native-reanimated';
 import { Ionicons } from '@expo/vector-icons';
 import { useStore } from '../store/useStore';
@@ -28,6 +29,8 @@ export const NameEntryModal: React.FC<NameEntryModalProps> = ({ visible, onClose
     const { theme, firstName, lastName, fatherName, saveProfile, activeProfileId, profiles } = useStore();
     const { t } = useTranslation();
     const colors = Colors[theme];
+    const isDark = theme === 'dark';
+    const accent = isDark ? '#FFD700' : colors.primary;
 
     const [first, setFirst] = useState(firstName || '');
     const [last, setLast] = useState(lastName || '');
@@ -78,6 +81,7 @@ export const NameEntryModal: React.FC<NameEntryModalProps> = ({ visible, onClose
             onRequestClose={handleClose}
         >
             <View style={[styles.fullScreenContainer, { backgroundColor: colors.background }]}>
+                {isDark && <LinearGradient colors={[...colors.backgroundGradient]} style={StyleSheet.absoluteFill} />}
                 <KeyboardAvoidingView
                     behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
                     style={styles.keyboardView}
@@ -98,7 +102,7 @@ export const NameEntryModal: React.FC<NameEntryModalProps> = ({ visible, onClose
                         showsVerticalScrollIndicator={false}
                     >
                         <View style={styles.form}>
-                            <Text style={[styles.fieldLabel, { color: colors.primary }]}>
+                            <Text style={[styles.fieldLabel, { color: accent }]}>
                                 {t('modal.field_first_name')} *
                             </Text>
                             <View style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: error && !first.trim() ? '#ff4444' : colors.cardBorder }]}>
@@ -112,7 +116,7 @@ export const NameEntryModal: React.FC<NameEntryModalProps> = ({ visible, onClose
                                 />
                             </View>
 
-                            <Text style={[styles.fieldLabel, { color: colors.primary }]}>
+                            <Text style={[styles.fieldLabel, { color: accent }]}>
                                 {t('modal.field_last_name')} *
                             </Text>
                             <View style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: error && !last.trim() ? '#ff4444' : colors.cardBorder }]}>
@@ -125,7 +129,7 @@ export const NameEntryModal: React.FC<NameEntryModalProps> = ({ visible, onClose
                                 />
                             </View>
 
-                            <Text style={[styles.fieldLabel, { color: colors.primary }]}>
+                            <Text style={[styles.fieldLabel, { color: accent }]}>
                                 {t('modal.field_middle_name')} ({t('common.optional')})
                             </Text>
                             <View style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: colors.cardBorder }]}>
@@ -138,7 +142,7 @@ export const NameEntryModal: React.FC<NameEntryModalProps> = ({ visible, onClose
                                 />
                             </View>
                             <View style={styles.noteContainer}>
-                                <Ionicons name="information-circle-outline" size={16} color={colors.primary} />
+                                <Ionicons name="information-circle-outline" size={16} color={accent} />
                                 <Text style={[styles.noteText, { color: colors.textSecondary }]}>
                                     {t('modal.note_middle_name')}
                                 </Text>
@@ -154,10 +158,10 @@ export const NameEntryModal: React.FC<NameEntryModalProps> = ({ visible, onClose
 
                     <View style={styles.footer}>
                         <TouchableOpacity
-                            style={[styles.saveButton, { backgroundColor: colors.primary }]}
+                            style={[styles.saveButton, { backgroundColor: accent }]}
                             onPress={handleSave}
                         >
-                            <Text style={styles.saveButtonText}>
+                            <Text style={[styles.saveButtonText, { color: isDark ? '#1A000D' : '#fff' }]}>
                                 {t('common.save_changes') || 'Save'}
                             </Text>
                         </TouchableOpacity>

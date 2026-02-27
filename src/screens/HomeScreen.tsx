@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { ScrollView, StyleSheet, View, Text, Dimensions, TouchableOpacity } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -16,6 +16,9 @@ import { useTranslation } from '../i18n';
 import { useNavigation } from '@react-navigation/native';
 import { ALL_CATEGORIES, CategoryDef, calculateForCategory } from '../config/CategoryConfig';
 import { dbService } from '../services/DatabaseService';
+import { adService } from '../services/AdService';
+import RateUsDialog, { useRateDialog } from '../components/RateUsDialog';
+import NativeAdCard from '../components/ads/NativeAdCard';
 
 const { width } = Dimensions.get('window');
 const GRID_ITEM_WIDTH = (width - 60) / 2;
@@ -51,7 +54,7 @@ function GreetingHeader({ formattedDate }: { formattedDate: string }) {
                     </Text>
                 </View>
             </View>
-            <View style={[styles.dateBadge, { backgroundColor: isDark ? 'rgba(255,255,255,0.1)' : '#fff', borderColor: colors.cardBorder }]}>
+            <View style={[styles.dateBadge, { backgroundColor: isDark ? colors.cardBackground : '#fff', borderColor: isDark ? colors.cardBorder : colors.cardBorder }]}>
                 <Ionicons name="calendar" size={14} color={colors.primary} />
                 <Text style={[styles.dateText, { color: colors.textSecondary }]}>{formattedDate}</Text>
             </View>
@@ -75,8 +78,9 @@ function TopInsights() {
         fatherName: middleName || '',
     }), [dateOfBirth, language, firstName, lastName, middleName]);
 
+    const hasName = !!(firstName || lastName);
     const lifePathNum = useMemo(() => calculateForCategory('life_path', context), [context]);
-    const destinyNum = useMemo(() => calculateForCategory('destiny', context), [context]);
+    const destinyNum = useMemo(() => hasName ? calculateForCategory('destiny', context) : null, [context, hasName]);
 
     const insights = [
         {
@@ -86,6 +90,7 @@ function TopInsights() {
             icon: 'footsteps' as const,
             color: isDark ? '#7dd3fc' : '#9d4edd',
             bg: isDark ? 'rgba(255,255,255,0.1)' : '#f3f0ff',
+            needsName: false,
         },
         {
             id: 'destiny',
@@ -94,6 +99,7 @@ function TopInsights() {
             icon: 'sparkles' as const,
             color: isDark ? '#bae6fd' : '#e0aa3e',
             bg: isDark ? 'rgba(255,255,255,0.1)' : '#fffbf0',
+            needsName: !hasName,
         },
     ];
 
@@ -110,9 +116,9 @@ function TopInsights() {
                             activeOpacity={0.7}
                             onPress={() => {
                                 if (item.id === 'life_path') {
-                                    navigation.navigate('LifePath');
+                                    adService.checkInterstitial(() => navigation.navigate('LifePath'));
                                 } else {
-                                    navigation.navigate('CategoryDetail', { categoryId: item.id });
+                                    adService.checkInterstitial(() => navigation.navigate('CategoryDetail', { categoryId: item.id }));
                                 }
                             }}
                         >
@@ -120,7 +126,10 @@ function TopInsights() {
                                 <Ionicons name={item.icon} size={20} color={item.color} />
                             </View>
                             <Text style={[styles.insightLabel, { color: colors.textSecondary }]}>{item.label.toUpperCase()}</Text>
-                            <Text style={[styles.insightNumber, { color: colors.textTitle }]}>{String(item.number)}</Text>
+                            <Text style={[styles.insightNumber, { color: colors.textTitle }]}>{item.needsName ? '—' : String(item.number)}</Text>
+                            {item.needsName && (
+                                <Text style={[styles.insightNote, { color: colors.textSecondary }]}>{t('home.name_required')}</Text>
+                            )}
                         </TouchableOpacity>
                     </Animated.View>
                 ))}
@@ -148,7 +157,7 @@ function CompatibilityCard() {
                     },
                 ]}
                 activeOpacity={0.7}
-                onPress={() => navigation.navigate('CategoryDetail', { categoryId: 'couple_number' })}
+                onPress={() => adService.checkInterstitial(() => navigation.navigate('Compatibility'))}
             >
                 <View style={styles.compatLeft}>
                     <View style={styles.compatTitleRow}>
@@ -213,11 +222,11 @@ function AccordionSection({
                                         activeOpacity={0.7}
                                         onPress={() => {
                                             if (item.type === 'psychomatrix') {
-                                                navigation.navigate('Psychomatrix');
+                                                adService.checkInterstitial(() => navigation.navigate('Psychomatrix'));
                                             } else if (item.id === 'life_path') {
-                                                navigation.navigate('LifePath');
+                                                adService.checkInterstitial(() => navigation.navigate('LifePath'));
                                             } else {
-                                                navigation.navigate('CategoryDetail', { categoryId: item.id });
+                                                adService.checkInterstitial(() => navigation.navigate('CategoryDetail', { categoryId: item.id }));
                                             }
                                         }}
                                     >
@@ -268,7 +277,7 @@ function DetailedReadings() {
     );
 
     const dailyCategories = ALL_CATEGORIES.filter(c =>
-        ['personal_year', 'personal_month', 'personal_day'].includes(c.id)
+        ['personal_year', 'personal_month', 'personal_day', 'daily_lucky_number'].includes(c.id)
     );
 
     const psychomatrixCategories = ALL_CATEGORIES.filter(c =>
@@ -301,6 +310,7 @@ function DetailedReadings() {
                     useGrid={true}
                     iconColor={colors.categoryColors.expression.color}
                 />
+                <NativeAdCard variant="compact" />
                 <AccordionSection
                     title={t('home.life_cycles')}
                     icon="sync"
@@ -320,8 +330,9 @@ function DetailedReadings() {
                     icon="calendar"
                     categories={dailyCategories}
                     useGrid={true}
-                    iconColor={colors.categoryColors.psychomatrix.color}
+                    iconColor={colors.categoryColors.soulUrge.color}
                 />
+                <NativeAdCard variant="compact" />
                 <AccordionSection
                     title={t('home.psychomatrix_title')}
                     icon="grid"
@@ -341,6 +352,8 @@ export default function HomeScreen() {
     const colors = Colors[theme];
     const insets = useSafeAreaInsets();
     const navigation = useNavigation<any>();
+    const { visible: rateVisible, triggerRateCheck, dismiss: dismissRate } = useRateDialog();
+    const hasTriggeredRate = useRef(false);
 
     const { day, month, year, dailyNumber } = useMemo(() => {
         const parts = (dateOfBirth || "01/01/1990").split('/');
@@ -371,6 +384,14 @@ export default function HomeScreen() {
             }
         })();
     }, [dailyNumber, language]);
+
+    // Trigger rate dialog once per app open
+    useEffect(() => {
+        if (!hasTriggeredRate.current) {
+            hasTriggeredRate.current = true;
+            triggerRateCheck();
+        }
+    }, []);
 
     const formattedDate = useMemo(() => {
         const now = new Date();
@@ -409,6 +430,8 @@ export default function HomeScreen() {
                     <DetailedReadings />
                 </View>
             </LinearGradient>
+
+            <RateUsDialog visible={rateVisible} onDismiss={dismissRate} />
         </ScrollView>
     );
 }
@@ -492,14 +515,17 @@ const styles = StyleSheet.create({
     insightsRow: {
         flexDirection: 'row',
         gap: Spacing.m,
+        alignItems: 'stretch',
     },
     insightCardWrapper: {
         flex: 1,
     },
     insightCard: {
+        flex: 1,
         borderRadius: BorderRadius.xl,
         padding: Spacing.l,
         alignItems: 'center',
+        justifyContent: 'center',
         borderWidth: 1,
     },
     insightIcon: {
@@ -515,6 +541,13 @@ const styles = StyleSheet.create({
     insightNumber: {
         fontSize: 26,
         fontFamily: 'Manrope-Bold',
+    },
+    insightNote: {
+        fontSize: 9,
+        fontFamily: 'Manrope-SemiBold',
+        textAlign: 'center' as const,
+        marginTop: 2,
+        opacity: 0.7,
     },
 
     // Compatibility

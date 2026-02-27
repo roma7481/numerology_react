@@ -134,8 +134,8 @@ export default function HeroDailyNumber({ dailyNumber, guidanceText, onPress }: 
             </Animated.Text>
             {onPress && (
                 <Animated.View entering={FadeInDown.duration(400).delay(450)} style={styles.tapHintRow}>
-                    <Text style={[styles.tapHintText, { color: colors.primary }]}>Tap to read more</Text>
-                    <Ionicons name="chevron-forward" size={12} color={colors.primary} />
+                    <Text style={[styles.tapHintText, { color: isDark ? colors.biorhythmChartLine2 : colors.primary }]}>Tap to read more</Text>
+                    <Ionicons name="chevron-forward" size={12} color={isDark ? colors.biorhythmChartLine2 : colors.primary} />
                 </Animated.View>
             )}
         </View>

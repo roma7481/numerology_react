@@ -15,6 +15,7 @@ import { Typography } from '../theme/Typography';
 import { Spacing, BorderRadius } from '../theme/Spacing';
 import { Shadow } from '../theme/SharedStyles';
 import { useTranslation } from '../i18n';
+import BannerAdWrapper from '../components/ads/BannerAdWrapper';
 
 const CHARACTERISTICS = [
     'personality', 'energy', 'interest',
@@ -146,156 +147,159 @@ export default function PsychomatrixScreen() {
     }
 
     return (
-        <ScrollView style={styles.container} bounces={false}>
-            <LinearGradient colors={colors.backgroundGradient} style={styles.fullBackground}>
-                <View style={[styles.content, { paddingTop: insets.top }]}>
-                    {/* Header */}
-                    <Animated.View entering={FadeInDown.duration(400)} style={styles.header}>
-                        <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backButton}>
-                            <Ionicons name="arrow-back" size={28} color={colors.textTitle} />
-                        </TouchableOpacity>
-                        <Text style={[styles.headerTitle, { color: colors.textTitle }]}>
-                            {t('menu.psychomatrix')}
-                        </Text>
-                        <View style={{ width: 28 }} />
-                    </Animated.View>
-
-                    {/* 3×3 Grid */}
-                    <Animated.View entering={FadeInUp.duration(500).delay(100)}>
-                        <View style={[styles.gridCard, {
-                            backgroundColor: colors.cardBackground,
-                            borderColor: colors.cardBorder,
-                            shadowColor: colors.categoryCardShadow,
-                        }, theme === 'light' && Shadow.light]}>
-                            <Text style={[styles.gridTitle, { color: colors.textTitle }]}>
-                                {t('category.pythagorean_square')}
+        <View style={{ flex: 1 }}>
+            <ScrollView style={styles.container} bounces={false}>
+                <LinearGradient colors={colors.backgroundGradient} style={styles.fullBackground}>
+                    <View style={[styles.content, { paddingTop: insets.top }]}>
+                        {/* Header */}
+                        <Animated.View entering={FadeInDown.duration(400)} style={styles.header}>
+                            <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backButton}>
+                                <Ionicons name="arrow-back" size={28} color={colors.textTitle} />
+                            </TouchableOpacity>
+                            <Text style={[styles.headerTitle, { color: colors.textTitle }]}>
+                                {t('menu.psychomatrix')}
                             </Text>
-                            <View style={styles.gridContainer}>
-                                {[0, 1, 2].map(row => (
-                                    <View key={`row_${row}`} style={styles.gridRow}>
-                                        {[0, 1, 2].map(col => {
-                                            const idx = row * 3 + col;
-                                            const cell = gridCells[idx];
-                                            return (
-                                                <TouchableOpacity
-                                                    key={`cell_${idx}`}
-                                                    style={[styles.gridCell, {
-                                                        backgroundColor: colors.primary + '10',
-                                                        borderColor: colors.primary + '30',
-                                                    }]}
-                                                    activeOpacity={0.7}
-                                                    onPress={() => toggleSection(`cell_${idx}`)}
-                                                >
-                                                    <Text style={[styles.cellValue, { color: colors.primary }]}>
-                                                        {cell.displayValue}
-                                                    </Text>
-                                                    <Text style={[styles.cellLabel, { color: colors.textSecondary }]}>
-                                                        {cell.characteristic}
-                                                    </Text>
-                                                </TouchableOpacity>
-                                            );
-                                        })}
-                                    </View>
-                                ))}
-                            </View>
-                        </View>
-                    </Animated.View>
+                            <View style={{ width: 28 }} />
+                        </Animated.View>
 
-                    {/* Cell Descriptions */}
-                    {gridCells.map((cell, idx) => {
-                        const sectionKey = `cell_${idx}`;
-                        if (!expandedSections.has(sectionKey)) return null;
-                        return (
-                            <Animated.View key={sectionKey} entering={FadeInUp.duration(300)}>
-                                <View style={[styles.card, {
-                                    backgroundColor: colors.cardBackground,
-                                    borderColor: colors.cardBorder,
-                                    shadowColor: colors.categoryCardShadow,
-                                }, theme === 'light' && Shadow.light]}>
-                                    <View style={styles.cardHeader}>
-                                        <View style={styles.cardTitleRow}>
-                                            <Text style={[styles.cardTitle, { color: colors.textTitle }]}>
-                                                {cell.characteristic.replace(/\b\w/g, c => c.toUpperCase())}
-                                            </Text>
-                                            <View style={[styles.smallBadge, { backgroundColor: colors.primary + '20' }]}>
-                                                <Text style={[styles.smallBadgeText, { color: colors.primary }]}>
-                                                    {cell.displayValue}
-                                                </Text>
-                                            </View>
-                                        </View>
-                                        <TouchableOpacity onPress={() => toggleSection(sectionKey)}>
-                                            <Ionicons name="close" size={20} color={colors.textSecondary} />
-                                        </TouchableOpacity>
-                                    </View>
-                                    {cell.description ? (
-                                        <Text style={[styles.fieldText, { color: colors.textPrimary, marginTop: Spacing.m }]}>
-                                            {cell.description}
-                                        </Text>
-                                    ) : (
-                                        <Text style={[styles.fieldText, { color: colors.textSecondary, marginTop: Spacing.m, fontStyle: 'italic' }]}>
-                                            {t('category.no_data')}
-                                        </Text>
-                                    )}
-                                </View>
-                            </Animated.View>
-                        );
-                    })}
-
-                    {/* Lines Section */}
-                    <Animated.View entering={FadeInUp.duration(400).delay(300)}>
-                        <TouchableOpacity
-                            style={[styles.card, {
+                        {/* 3×3 Grid */}
+                        <Animated.View entering={FadeInUp.duration(500).delay(100)}>
+                            <View style={[styles.gridCard, {
                                 backgroundColor: colors.cardBackground,
                                 borderColor: colors.cardBorder,
                                 shadowColor: colors.categoryCardShadow,
-                            }, theme === 'light' && Shadow.light]}
-                            activeOpacity={0.8}
-                            onPress={() => toggleSection('lines')}
-                        >
-                            <View style={styles.cardHeader}>
-                                <Text style={[styles.cardTitle, { color: colors.textTitle }]}>
-                                    {t('category.matrix_lines')}
+                            }, theme === 'light' && Shadow.light]}>
+                                <Text style={[styles.gridTitle, { color: colors.textTitle }]}>
+                                    {t('category.pythagorean_square')}
                                 </Text>
-                                <Ionicons
-                                    name={expandedSections.has('lines') ? 'chevron-up' : 'chevron-down'}
-                                    size={20}
-                                    color={colors.textSecondary}
-                                />
-                            </View>
-                            {expandedSections.has('lines') && (
-                                <View style={styles.cardContent}>
-                                    {lineReadings.map(line => (
-                                        <View key={line.category} style={styles.fieldBlock}>
-                                            <View style={styles.cardTitleRow}>
-                                                <Text style={[styles.fieldLabel, { color: colors.primary }]}>
-                                                    {line.category.replace(/\b\w/g, c => c.toUpperCase())}
-                                                </Text>
-                                                <View style={[styles.smallBadge, { backgroundColor: colors.primary + '20' }]}>
-                                                    <Text style={[styles.smallBadgeText, { color: colors.primary }]}>
-                                                        {line.value}
-                                                    </Text>
-                                                </View>
-                                            </View>
-                                            {line.description ? (
-                                                <Text style={[styles.fieldText, { color: colors.textPrimary }]}>
-                                                    {line.description}
-                                                </Text>
-                                            ) : (
-                                                <Text style={[styles.fieldText, { color: colors.textSecondary, fontStyle: 'italic' }]}>
-                                                    {t('category.no_data')}
-                                                </Text>
-                                            )}
+                                <View style={styles.gridContainer}>
+                                    {[0, 1, 2].map(row => (
+                                        <View key={`row_${row}`} style={styles.gridRow}>
+                                            {[0, 1, 2].map(col => {
+                                                const idx = row * 3 + col;
+                                                const cell = gridCells[idx];
+                                                return (
+                                                    <TouchableOpacity
+                                                        key={`cell_${idx}`}
+                                                        style={[styles.gridCell, {
+                                                            backgroundColor: colors.primary + '10',
+                                                            borderColor: colors.primary + '30',
+                                                        }]}
+                                                        activeOpacity={0.7}
+                                                        onPress={() => toggleSection(`cell_${idx}`)}
+                                                    >
+                                                        <Text style={[styles.cellValue, { color: colors.primary }]}>
+                                                            {cell.displayValue}
+                                                        </Text>
+                                                        <Text style={[styles.cellLabel, { color: colors.textSecondary }]}>
+                                                            {cell.characteristic}
+                                                        </Text>
+                                                    </TouchableOpacity>
+                                                );
+                                            })}
                                         </View>
                                     ))}
                                 </View>
-                            )}
-                        </TouchableOpacity>
-                    </Animated.View>
+                            </View>
+                        </Animated.View>
 
-                    <View style={{ height: Spacing.huge * 2 }} />
-                </View>
-            </LinearGradient>
-        </ScrollView>
+                        {/* Cell Descriptions */}
+                        {gridCells.map((cell, idx) => {
+                            const sectionKey = `cell_${idx}`;
+                            if (!expandedSections.has(sectionKey)) return null;
+                            return (
+                                <Animated.View key={sectionKey} entering={FadeInUp.duration(300)}>
+                                    <View style={[styles.card, {
+                                        backgroundColor: colors.cardBackground,
+                                        borderColor: colors.cardBorder,
+                                        shadowColor: colors.categoryCardShadow,
+                                    }, theme === 'light' && Shadow.light]}>
+                                        <View style={styles.cardHeader}>
+                                            <View style={styles.cardTitleRow}>
+                                                <Text style={[styles.cardTitle, { color: colors.textTitle }]}>
+                                                    {cell.characteristic.replace(/\b\w/g, c => c.toUpperCase())}
+                                                </Text>
+                                                <View style={[styles.smallBadge, { backgroundColor: colors.primary + '20' }]}>
+                                                    <Text style={[styles.smallBadgeText, { color: colors.primary }]}>
+                                                        {cell.displayValue}
+                                                    </Text>
+                                                </View>
+                                            </View>
+                                            <TouchableOpacity onPress={() => toggleSection(sectionKey)}>
+                                                <Ionicons name="close" size={20} color={colors.textSecondary} />
+                                            </TouchableOpacity>
+                                        </View>
+                                        {cell.description ? (
+                                            <Text style={[styles.fieldText, { color: colors.textPrimary, marginTop: Spacing.m }]}>
+                                                {cell.description}
+                                            </Text>
+                                        ) : (
+                                            <Text style={[styles.fieldText, { color: colors.textSecondary, marginTop: Spacing.m, fontStyle: 'italic' }]}>
+                                                {t('category.no_data')}
+                                            </Text>
+                                        )}
+                                    </View>
+                                </Animated.View>
+                            );
+                        })}
+
+                        {/* Lines Section */}
+                        <Animated.View entering={FadeInUp.duration(400).delay(300)}>
+                            <TouchableOpacity
+                                style={[styles.card, {
+                                    backgroundColor: colors.cardBackground,
+                                    borderColor: colors.cardBorder,
+                                    shadowColor: colors.categoryCardShadow,
+                                }, theme === 'light' && Shadow.light]}
+                                activeOpacity={0.8}
+                                onPress={() => toggleSection('lines')}
+                            >
+                                <View style={styles.cardHeader}>
+                                    <Text style={[styles.cardTitle, { color: colors.textTitle }]}>
+                                        {t('category.matrix_lines')}
+                                    </Text>
+                                    <Ionicons
+                                        name={expandedSections.has('lines') ? 'chevron-up' : 'chevron-down'}
+                                        size={20}
+                                        color={colors.textSecondary}
+                                    />
+                                </View>
+                                {expandedSections.has('lines') && (
+                                    <View style={styles.cardContent}>
+                                        {lineReadings.map(line => (
+                                            <View key={line.category} style={styles.fieldBlock}>
+                                                <View style={styles.cardTitleRow}>
+                                                    <Text style={[styles.fieldLabel, { color: colors.primary }]}>
+                                                        {line.category.replace(/\b\w/g, c => c.toUpperCase())}
+                                                    </Text>
+                                                    <View style={[styles.smallBadge, { backgroundColor: colors.primary + '20' }]}>
+                                                        <Text style={[styles.smallBadgeText, { color: colors.primary }]}>
+                                                            {line.value}
+                                                        </Text>
+                                                    </View>
+                                                </View>
+                                                {line.description ? (
+                                                    <Text style={[styles.fieldText, { color: colors.textPrimary }]}>
+                                                        {line.description}
+                                                    </Text>
+                                                ) : (
+                                                    <Text style={[styles.fieldText, { color: colors.textSecondary, fontStyle: 'italic' }]}>
+                                                        {t('category.no_data')}
+                                                    </Text>
+                                                )}
+                                            </View>
+                                        ))}
+                                    </View>
+                                )}
+                            </TouchableOpacity>
+                        </Animated.View>
+
+                        <View style={{ height: Spacing.huge * 2 }} />
+                    </View>
+                </LinearGradient>
+            </ScrollView>
+            <BannerAdWrapper />
+        </View>
     );
 }
 

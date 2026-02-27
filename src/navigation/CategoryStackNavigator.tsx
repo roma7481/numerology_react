@@ -5,6 +5,9 @@ import CategoryDetailScreen from '../screens/CategoryDetailScreen';
 import PsychomatrixScreen from '../screens/PsychomatrixScreen';
 import BiorhythmsScreen from '../screens/BiorhythmsScreen';
 import LifePathScreen from '../screens/LifePathScreen';
+import PaywallScreen from '../screens/PaywallScreen';
+import SecondaryBiorhythmsScreen from '../screens/SecondaryBiorhythmsScreen';
+import CompatibilityScreen from '../screens/CompatibilityScreen';
 
 export type CategoryStackParamList = {
     Home: undefined;
@@ -12,6 +15,9 @@ export type CategoryStackParamList = {
     Psychomatrix: undefined;
     Biorhythms: undefined;
     LifePath: undefined;
+    Paywall: undefined;
+    SecondaryBiorhythms: undefined;
+    Compatibility: undefined;
 };
 
 const Stack = createNativeStackNavigator<CategoryStackParamList>();
@@ -24,6 +30,9 @@ export default function CategoryStackNavigator() {
             <Stack.Screen name="Psychomatrix" component={PsychomatrixScreen} />
             <Stack.Screen name="Biorhythms" component={BiorhythmsScreen} />
             <Stack.Screen name="LifePath" component={LifePathScreen} />
+            <Stack.Screen name="SecondaryBiorhythms" component={SecondaryBiorhythmsScreen} />
+            <Stack.Screen name="Compatibility" component={CompatibilityScreen} />
+            <Stack.Screen name="Paywall" component={PaywallScreen} options={{ presentation: 'modal', animation: 'slide_from_bottom' }} />
         </Stack.Navigator>
     );
 }

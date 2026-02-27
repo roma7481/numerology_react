@@ -96,9 +96,11 @@ class DatabaseService {
     /** Get life path compatibility between two numbers */
     async getLifePathCompat(locale: string, number1: number, number2: number): Promise<string> {
         const db = await this.ensureDb();
+        const n1 = Math.min(number1, number2);
+        const n2 = Math.max(number1, number2);
         const row = await db.getFirstAsync<{ description: string }>(
             `SELECT description FROM life_path_number_compat WHERE locale = ? AND number1 = ? AND number2 = ?`,
-            [locale, number1, number2]
+            [locale, n1, n2]
         );
         return row?.description || '';
     }

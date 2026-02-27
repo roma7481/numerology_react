@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.cbeeapps.numerology-react",
+      "bundleIdentifier": "ru.dailymistika.numerology",
       "googleServicesFile": "./GoogleService-Info.plist"
     },
     "android": {
@@ -54,6 +54,21 @@
         {
           "icon": "./assets/notification-icon.png",
           "color": "#9d4edd"
+        }
+      ],
+      [
+        "./plugins/withAppLovin",
+        {
+          "androidSdkKey": "qnL2sJHf5VT2RFA26vgN2heXM-Lpfdo4FPKD_09zl9TnHlPVSmGcSRPIQKwcsZwKIWCJZ62BtOONX_7JNmPDX_",
+          "iosSdkKey": "qnL2sJHf5VT2RFA26vgN2heXM-Lpfdo4FPKD_09zl9TnHlPVSmGcSRPIQKwcsZwKIWCJZ62BtOONX_7JNmPDX_"
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
         }
       ]
     ]

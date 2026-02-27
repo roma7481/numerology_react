@@ -11,6 +11,7 @@ import { Shadow } from '../theme/SharedStyles';
 import { useTranslation } from '../i18n';
 import { useNavigation } from '@react-navigation/native';
 import { NumbersCalculator } from '../utils/NumbersCalculator';
+import { adService } from '../services/AdService';
 
 interface Props {
     day: number;
@@ -92,7 +93,7 @@ export default function BiorhythmChart({ day, month, year }: Props) {
     return (
         <TouchableOpacity
             activeOpacity={0.8}
-            onPress={() => navigation.navigate('Biorhythms')}
+            onPress={() => adService.checkInterstitial(() => navigation.navigate('Biorhythms'))}
         >
             <Animated.View
                 entering={FadeInDown.duration(600).delay(300)}

@@ -1,14 +1,9 @@
-import mobileAds from 'react-native-google-mobile-ads';
+// Legacy wrapper — delegates to AdService
+import { adService } from './AdService';
 
 class MonetizationService {
     async init() {
-        try {
-            // 1. Initialize AdMob
-            await mobileAds().initialize();
-            console.log('Google Mobile Ads initialized successfully');
-        } catch (error) {
-            console.error('Failed to initialize monetization services:', error);
-        }
+        await adService.init();
     }
 }
 

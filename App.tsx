@@ -67,10 +67,18 @@ export default function App() {
         if (e instanceof Error) {
           analyticsService.recordError(e, 'MigrationService.runMigration');
         }
-      } finally {
-        if (fontsLoaded) {
-          setIsInitializing(false);
-        }
+      }
+
+      // Initialize ad services (non-blocking)
+      try {
+        const { adService } = require('./src/services/AdService');
+        adService.init();
+      } catch (e) {
+        console.warn('Ad init failed', e);
+      }
+
+      if (fontsLoaded) {
+        setIsInitializing(false);
       }
     }
     init();

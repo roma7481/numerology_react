@@ -73,7 +73,7 @@ export default function ProfilesScreen({ navigation, route }: any) {
                         styles.profileCard,
                         {
                             backgroundColor: colors.dailyNumberCircleInner,
-                            borderColor: isActive ? colors.primary : (isDark ? 'rgba(255, 255, 255, 0.1)' : 'rgba(255, 255, 255, 0.3)'),
+                            borderColor: isActive ? (isDark ? '#FFD700' : colors.primary) : (isDark ? 'rgba(255, 255, 255, 0.1)' : 'rgba(255, 255, 255, 0.3)'),
                             borderWidth: isActive ? 2 : 1,
                             shadowColor: isDark ? 'transparent' : colors.primary,
                             shadowOffset: { width: 0, height: 4 },
@@ -161,7 +161,7 @@ export default function ProfilesScreen({ navigation, route }: any) {
                         style={[styles.headerAddButton, { backgroundColor: theme === 'dark' ? 'rgba(255,255,255,0.05)' : '#f3f0ff' }]}
                         onPress={() => setIsModalVisible(true)}
                     >
-                        <Ionicons name="add" size={24} color={colors.primary} />
+                        <Ionicons name="add" size={24} color={theme === 'dark' ? '#FFD700' : colors.primary} />
                     </TouchableOpacity>
                 </View>
 
@@ -183,7 +183,7 @@ export default function ProfilesScreen({ navigation, route }: any) {
                             onPress={() => setIsModalVisible(true)}
                         >
                             <View style={[styles.dashedIconCircle, { backgroundColor: theme === 'dark' ? 'rgba(255,255,255,0.05)' : '#f3f0ff' }]}>
-                                <Ionicons name="add" size={24} color={colors.primary} />
+                                <Ionicons name="add" size={24} color={theme === 'dark' ? '#FFD700' : colors.primary} />
                             </View>
                             <Text style={[styles.dashedButtonText, styles.notoRegular, { color: colors.textSecondary }]}>{t('profiles.add_new')}</Text>
                         </TouchableOpacity>

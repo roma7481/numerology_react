@@ -9,6 +9,7 @@ import {
     TextInput,
     Modal,
 } from 'react-native';
+import { LinearGradient } from 'expo-linear-gradient';
 import Animated, { FadeInUp } from 'react-native-reanimated';
 import { Ionicons, MaterialCommunityIcons } from '@expo/vector-icons';
 import DateTimePicker from '@react-native-community/datetimepicker';
@@ -28,6 +29,8 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
     const { theme, profiles, saveProfile, language, activeProfileId, setActiveProfile } = useStore();
     const { t } = useTranslation();
     const colors = Colors[theme];
+    const isDark = theme === 'dark';
+    const accent = isDark ? '#FFD700' : colors.primary;
 
     const [newName, setNewName] = useState('');
     const [newFirst, setNewFirst] = useState('');
@@ -140,6 +143,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                     entering={FadeInUp}
                     style={[styles.modalContent, { backgroundColor: colors.background, borderTopColor: colors.cardBorder }]}
                 >
+                    {isDark && <LinearGradient colors={[...colors.backgroundGradient]} style={[StyleSheet.absoluteFill, { borderTopLeftRadius: 32, borderTopRightRadius: 32 }]} />}
                     <View style={styles.modalHeader}>
                         <Text style={[styles.modalTitle, styles.notoBold, { color: colors.textPrimary }]}>
                             {editingProfileId ? t('modal.title_edit') : t('modal.title_new')}
@@ -150,7 +154,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                     </View>
 
                     <ScrollView style={styles.form} showsVerticalScrollIndicator={false}>
-                        <Text style={[styles.fieldLabel, { color: colors.primary }]}>{t('modal.field_label')}</Text>
+                        <Text style={[styles.fieldLabel, { color: accent }]}>{t('modal.field_label')}</Text>
                         <View style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: colors.cardBorder }]}>
                             <TextInput
                                 style={[styles.input, { color: colors.textPrimary }]}
@@ -161,7 +165,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                             />
                         </View>
 
-                        <Text style={[styles.fieldLabel, { color: colors.primary }]}>{t('modal.field_first_name')}</Text>
+                        <Text style={[styles.fieldLabel, { color: accent }]}>{t('modal.field_first_name')}</Text>
                         <View style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: colors.cardBorder }]}>
                             <TextInput
                                 style={[styles.input, { color: colors.textPrimary }]}
@@ -172,7 +176,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                             />
                         </View>
 
-                        <Text style={[styles.fieldLabel, { color: colors.primary }]}>{t('modal.field_last_name')}</Text>
+                        <Text style={[styles.fieldLabel, { color: accent }]}>{t('modal.field_last_name')}</Text>
                         <View style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: colors.cardBorder }]}>
                             <TextInput
                                 style={[styles.input, { color: colors.textPrimary }]}
@@ -183,7 +187,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                             />
                         </View>
 
-                        <Text style={[styles.fieldLabel, { color: colors.primary }]}>{t('modal.field_middle_name')}</Text>
+                        <Text style={[styles.fieldLabel, { color: accent }]}>{t('modal.field_middle_name')}</Text>
                         <View style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: colors.cardBorder }]}>
                             <TextInput
                                 style={[styles.input, { color: colors.textPrimary }]}
@@ -194,7 +198,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                             />
                         </View>
 
-                        <Text style={[styles.fieldLabel, { color: colors.primary }]}>{t('modal.field_dob')}</Text>
+                        <Text style={[styles.fieldLabel, { color: accent }]}>{t('modal.field_dob')}</Text>
                         <TouchableOpacity
                             style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: colors.cardBorder, justifyContent: 'center' }]}
                             onPress={() => setShowPicker(true)}
@@ -202,7 +206,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                             <Text style={{ color: colors.textPrimary }}>
                                 {formatDateLocalized(newDob)}
                             </Text>
-                            <Ionicons name="calendar-outline" size={20} color={colors.primary} style={{ position: 'absolute', right: 16 }} />
+                            <Ionicons name="calendar-outline" size={20} color={accent} style={{ position: 'absolute', right: 16 }} />
                         </TouchableOpacity>
 
                         {(showPicker || showPartnerPicker || showWeddingPicker) && (
@@ -218,7 +222,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                             />
                         )}
 
-                        <Text style={[styles.fieldLabel, { color: colors.primary, marginTop: 10 }]}>{t('modal.field_partner_dob')}</Text>
+                        <Text style={[styles.fieldLabel, { color: accent, marginTop: 10 }]}>{t('modal.field_partner_dob')}</Text>
                         <TouchableOpacity
                             style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: colors.cardBorder, justifyContent: 'center' }]}
                             onPress={() => setShowPartnerPicker(true)}
@@ -226,10 +230,10 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                             <Text style={{ color: newPartnerDob ? colors.textPrimary : colors.textSecondary }}>
                                 {newPartnerDob ? formatDateLocalized(newPartnerDob) : t('modal.field_partner_dob_placeholder')}
                             </Text>
-                            <Ionicons name="heart-outline" size={20} color={colors.primary} style={{ position: 'absolute', right: 16 }} />
+                            <Ionicons name="heart-outline" size={20} color={accent} style={{ position: 'absolute', right: 16 }} />
                         </TouchableOpacity>
 
-                        <Text style={[styles.fieldLabel, { color: colors.primary, marginTop: 10 }]}>{t('modal.field_wedding_date')}</Text>
+                        <Text style={[styles.fieldLabel, { color: accent, marginTop: 10 }]}>{t('modal.field_wedding_date')}</Text>
                         <TouchableOpacity
                             style={[styles.inputContainer, { backgroundColor: colors.settingsIconBg, borderColor: colors.cardBorder, justifyContent: 'center' }]}
                             onPress={() => setShowWeddingPicker(true)}
@@ -237,15 +241,15 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({ visible, onClose, ed
                             <Text style={{ color: newWeddingDate ? colors.textPrimary : colors.textSecondary }}>
                                 {newWeddingDate ? formatDateLocalized(newWeddingDate) : t('modal.field_wedding_date_placeholder')}
                             </Text>
-                            <Ionicons name="rose-outline" size={20} color={colors.primary} style={{ position: 'absolute', right: 16 }} />
+                            <Ionicons name="rose-outline" size={20} color={accent} style={{ position: 'absolute', right: 16 }} />
                         </TouchableOpacity>
                     </ScrollView>
 
                     <TouchableOpacity
-                        style={[styles.createButton, { backgroundColor: colors.primary }]}
+                        style={[styles.createButton, { backgroundColor: accent }]}
                         onPress={handleSaveProfile}
                     >
-                        <Text style={[styles.createButtonText, { color: theme === 'dark' ? colors.background : '#fff' }]}>
+                        <Text style={[styles.createButtonText, { color: isDark ? '#1A000D' : '#fff' }]}>
                             {editingProfileId ? t('common.save_changes') : t('modal.create_profile')}
                         </Text>
                     </TouchableOpacity>
